@@ -1,0 +1,406 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Indiana Pacers,F,Gerald Green,Toronto Raptors,W,10/31/2012,36:41,2,7,0.286,2,4,0.5,0,0,0.0,0,2,2,2,0,1,6,1,6,1
+Indiana Pacers,F,David West,Toronto Raptors,W,10/31/2012,27:54,12,19,0.632,0,1,0.0,1,1,1.0,0,2,2,1,1,0,0,3,25,0
+Indiana Pacers,C,Roy Hibbert,Toronto Raptors,W,10/31/2012,29:14,6,13,0.462,0,0,0.0,2,4,0.5,3,7,10,3,1,5,0,3,14,7
+Indiana Pacers,G,Paul George,Toronto Raptors,W,10/31/2012,35:10,7,15,0.467,0,0,0.0,0,0,0.0,2,13,15,5,0,1,5,2,14,3
+Indiana Pacers,G,George Hill,Toronto Raptors,W,10/31/2012,32:48,3,9,0.333,1,4,0.25,1,2,0.5,0,1,1,7,0,1,1,3,8,2
+Indiana Pacers,F,Gerald Green,Charlotte Bobcats,L,11/02/2012,31:54,3,12,0.25,1,6,0.167,0,4,0.0,1,3,4,0,0,1,2,2,7,-16
+Indiana Pacers,F,David West,Charlotte Bobcats,L,11/02/2012,34:02,7,17,0.412,0,0,0.0,0,2,0.0,0,6,6,2,1,0,1,1,14,-11
+Indiana Pacers,C,Roy Hibbert,Charlotte Bobcats,L,11/02/2012,23:43,3,4,0.75,0,0,0.0,1,2,0.5,6,1,7,1,0,1,2,4,7,-5
+Indiana Pacers,G,Paul George,Charlotte Bobcats,L,11/02/2012,36:00,4,11,0.364,2,5,0.4,2,2,1.0,1,6,7,6,1,0,5,3,12,-4
+Indiana Pacers,G,George Hill,Charlotte Bobcats,L,11/02/2012,33:54,3,9,0.333,1,6,0.167,1,1,1.0,0,4,4,1,0,0,2,2,8,-8
+Indiana Pacers,F,Gerald Green,Sacramento Kings,W,11/03/2012,24:18,6,9,0.667,1,3,0.333,4,4,1.0,2,1,3,0,2,0,2,4,17,-2
+Indiana Pacers,F,David West,Sacramento Kings,W,11/03/2012,46:54,7,21,0.333,0,1,0.0,4,4,1.0,5,13,18,1,1,2,1,1,18,21
+Indiana Pacers,C,Roy Hibbert,Sacramento Kings,W,11/03/2012,43:12,6,11,0.545,0,0,0.0,0,2,0.0,5,5,10,3,0,6,2,2,12,16
+Indiana Pacers,G,Paul George,Sacramento Kings,W,11/03/2012,47:54,6,15,0.4,2,7,0.286,2,2,1.0,1,16,17,3,2,4,4,3,16,7
+Indiana Pacers,G,George Hill,Sacramento Kings,W,11/03/2012,44:39,7,17,0.412,0,2,0.0,4,5,0.8,2,6,8,5,2,1,3,1,18,15
+Indiana Pacers,F,Sam Young,San Antonio Spurs,L,11/05/2012,16:27,1,2,0.5,0,0,0.0,1,2,0.5,2,1,3,0,0,0,1,2,3,-12
+Indiana Pacers,F,David West,San Antonio Spurs,L,11/05/2012,24:44,4,9,0.444,0,0,0.0,2,2,1.0,1,10,11,1,0,1,1,1,10,-1
+Indiana Pacers,C,Roy Hibbert,San Antonio Spurs,L,11/05/2012,26:45,1,7,0.143,0,0,0.0,0,0,0.0,4,1,5,0,1,1,3,2,2,-8
+Indiana Pacers,G,Paul George,San Antonio Spurs,L,11/05/2012,40:31,5,13,0.385,1,3,0.333,3,3,1.0,1,2,3,1,1,2,4,2,14,-20
+Indiana Pacers,G,George Hill,San Antonio Spurs,L,11/05/2012,30:50,5,15,0.333,2,7,0.286,3,3,1.0,0,4,4,6,1,0,3,1,15,-13
+Indiana Pacers,F,David West,Atlanta Hawks,L,11/07/2012,36:06,9,18,0.5,0,1,0.0,2,2,1.0,3,3,6,2,0,1,1,4,20,1
+Indiana Pacers,F,Sam Young,Atlanta Hawks,L,11/07/2012,11:18,1,3,0.333,0,1,0.0,0,0,0.0,0,2,2,1,0,0,2,1,2,-1
+Indiana Pacers,C,Roy Hibbert,Atlanta Hawks,L,11/07/2012,36:52,4,12,0.333,0,0,0.0,1,1,1.0,3,4,7,3,0,2,1,2,9,12
+Indiana Pacers,G,Paul George,Atlanta Hawks,L,11/07/2012,39:05,5,13,0.385,2,7,0.286,1,1,1.0,1,6,7,2,4,1,3,1,13,5
+Indiana Pacers,G,George Hill,Atlanta Hawks,L,11/07/2012,38:14,7,12,0.583,4,7,0.571,2,2,1.0,0,3,3,5,4,1,2,1,20,8
+Indiana Pacers,F,David West,Minnesota Timberwolves,L,11/09/2012,37:18,8,16,0.5,0,0,0.0,3,4,0.75,6,7,13,1,2,2,2,3,19,8
+Indiana Pacers,F,Sam Young,Minnesota Timberwolves,L,11/09/2012,10:59,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,0,1,0,1,2,0,-7
+Indiana Pacers,C,Roy Hibbert,Minnesota Timberwolves,L,11/09/2012,27:47,5,11,0.455,0,0,0.0,0,0,0.0,2,2,4,0,0,1,2,4,10,0
+Indiana Pacers,G,Paul George,Minnesota Timberwolves,L,11/09/2012,34:57,4,12,0.333,2,6,0.333,1,2,0.5,0,3,3,4,0,0,2,1,11,-2
+Indiana Pacers,G,George Hill,Minnesota Timberwolves,L,11/09/2012,34:56,11,17,0.647,2,4,0.5,5,5,1.0,2,3,5,7,1,1,2,0,29,4
+Indiana Pacers,F,Paul George,Washington Wizards,W,11/10/2012,36:41,8,12,0.667,2,5,0.4,2,2,1.0,0,7,7,3,0,0,2,1,20,1
+Indiana Pacers,F,David West,Washington Wizards,W,11/10/2012,35:08,4,16,0.25,0,0,0.0,3,3,1.0,2,2,4,2,0,1,0,1,11,1
+Indiana Pacers,C,Roy Hibbert,Washington Wizards,W,11/10/2012,26:01,3,15,0.2,0,0,0.0,1,2,0.5,8,4,12,1,1,2,4,3,7,-10
+Indiana Pacers,G,Lance Stephenson,Washington Wizards,W,11/10/2012,30:38,5,7,0.714,2,2,1.0,0,0,0.0,0,4,4,2,0,0,1,2,12,-5
+Indiana Pacers,G,George Hill,Washington Wizards,W,11/10/2012,34:43,3,9,0.333,1,3,0.333,1,2,0.5,0,2,2,5,0,0,1,2,8,3
+Indiana Pacers,F,Paul George,Toronto Raptors,L,11/13/2012,41:16,3,14,0.214,2,6,0.333,4,4,1.0,3,6,9,4,3,0,2,4,12,5
+Indiana Pacers,F,David West,Toronto Raptors,L,11/13/2012,36:49,3,12,0.25,0,0,0.0,5,8,0.625,2,4,6,2,0,2,2,0,11,2
+Indiana Pacers,C,Roy Hibbert,Toronto Raptors,L,11/13/2012,24:19,3,9,0.333,0,0,0.0,0,0,0.0,3,6,9,1,3,2,2,3,6,-10
+Indiana Pacers,G,Lance Stephenson,Toronto Raptors,L,11/13/2012,27:04,3,6,0.5,1,2,0.5,0,0,0.0,0,3,3,3,0,0,1,3,7,-7
+Indiana Pacers,G,George Hill,Toronto Raptors,L,11/13/2012,36:55,8,20,0.4,0,4,0.0,2,2,1.0,2,3,5,2,2,1,3,2,18,-3
+Indiana Pacers,F,Paul George,Milwaukee Bucks,L,11/14/2012,30:11,5,17,0.294,1,6,0.167,1,1,1.0,0,3,3,2,1,1,2,2,12,-27
+Indiana Pacers,F,David West,Milwaukee Bucks,L,11/14/2012,22:58,3,9,0.333,0,0,0.0,1,2,0.5,1,8,9,1,0,0,2,3,7,-24
+Indiana Pacers,C,Roy Hibbert,Milwaukee Bucks,L,11/14/2012,25:00,3,6,0.5,0,0,0.0,1,4,0.25,3,5,8,0,0,2,2,2,7,-22
+Indiana Pacers,G,Lance Stephenson,Milwaukee Bucks,L,11/14/2012,30:06,1,3,0.333,0,2,0.0,2,2,1.0,0,3,3,4,0,0,3,2,4,-9
+Indiana Pacers,G,George Hill,Milwaukee Bucks,L,11/14/2012,30:17,1,10,0.1,0,3,0.0,1,2,0.5,2,2,4,4,0,0,2,3,3,-26
+Indiana Pacers,F,Paul George,Dallas Mavericks,W,11/16/2012,26:00,4,11,0.364,1,3,0.333,2,2,1.0,0,5,5,2,2,0,2,4,11,7
+Indiana Pacers,F,David West,Dallas Mavericks,W,11/16/2012,26:46,5,9,0.556,0,0,0.0,5,8,0.625,1,6,7,2,1,1,1,1,15,10
+Indiana Pacers,C,Roy Hibbert,Dallas Mavericks,W,11/16/2012,28:39,5,15,0.333,0,0,0.0,4,7,0.571,5,3,8,2,2,2,0,3,14,17
+Indiana Pacers,G,Lance Stephenson,Dallas Mavericks,W,11/16/2012,25:07,5,9,0.556,2,3,0.667,0,0,0.0,0,1,1,3,1,0,1,1,12,8
+Indiana Pacers,G,George Hill,Dallas Mavericks,W,11/16/2012,33:44,5,7,0.714,1,1,1.0,4,6,0.667,0,5,5,7,2,0,2,0,15,13
+Indiana Pacers,F,Paul George,New York Knicks,L,11/18/2012,35:51,6,15,0.4,4,7,0.571,4,4,1.0,1,2,3,3,1,0,2,3,20,-14
+Indiana Pacers,F,David West,New York Knicks,L,11/18/2012,34:24,6,10,0.6,0,0,0.0,2,2,1.0,0,7,7,3,0,1,2,0,14,-17
+Indiana Pacers,C,Roy Hibbert,New York Knicks,L,11/18/2012,25:11,3,10,0.3,0,0,0.0,0,0,0.0,4,4,8,1,0,2,6,4,6,-16
+Indiana Pacers,G,George Hill,New York Knicks,L,11/18/2012,32:54,2,9,0.222,2,6,0.333,1,1,1.0,0,3,3,6,0,0,3,3,7,-11
+Indiana Pacers,G,Lance Stephenson,New York Knicks,L,11/18/2012,28:02,2,7,0.286,0,2,0.0,0,0,0.0,0,3,3,5,1,0,3,2,4,-11
+Indiana Pacers,F,Paul George,Washington Wizards,W,11/19/2012,24:13,2,7,0.286,1,3,0.333,1,2,0.5,1,4,5,2,0,0,3,4,6,-2
+Indiana Pacers,F,David West,Washington Wizards,W,11/19/2012,36:46,10,14,0.714,0,0,0.0,10,10,1.0,3,5,8,3,1,4,4,2,30,14
+Indiana Pacers,C,Roy Hibbert,Washington Wizards,W,11/19/2012,33:11,8,10,0.8,0,0,0.0,4,5,0.8,3,9,12,3,0,4,2,5,20,21
+Indiana Pacers,G,Lance Stephenson,Washington Wizards,W,11/19/2012,16:20,1,1,1.0,0,0,0.0,0,1,0.0,0,3,3,4,1,0,1,3,2,16
+Indiana Pacers,G,George Hill,Washington Wizards,W,11/19/2012,35:39,2,11,0.182,0,6,0.0,8,8,1.0,0,3,3,5,1,0,2,4,12,24
+Indiana Pacers,F,Paul George,New Orleans Hornets,W,11/21/2012,34:06,13,21,0.619,9,13,0.692,2,3,0.667,1,3,4,4,1,0,0,4,37,8
+Indiana Pacers,F,David West,New Orleans Hornets,W,11/21/2012,41:32,8,16,0.5,0,0,0.0,0,0,0.0,2,5,7,5,1,2,3,2,16,16
+Indiana Pacers,C,Roy Hibbert,New Orleans Hornets,W,11/21/2012,36:27,3,12,0.25,0,0,0.0,4,6,0.667,5,6,11,1,2,11,0,6,10,4
+Indiana Pacers,G,Lance Stephenson,New Orleans Hornets,W,11/21/2012,36:32,5,9,0.556,2,3,0.667,0,0,0.0,1,4,5,5,0,0,2,3,12,16
+Indiana Pacers,G,George Hill,New Orleans Hornets,W,11/21/2012,37:09,5,12,0.417,3,4,0.75,3,4,0.75,1,5,6,7,1,1,0,1,16,3
+Indiana Pacers,F,Paul George,San Antonio Spurs,L,11/23/2012,34:07,6,14,0.429,2,2,1.0,1,2,0.5,1,3,4,2,0,1,3,2,15,-18
+Indiana Pacers,F,David West,San Antonio Spurs,L,11/23/2012,29:59,7,13,0.538,0,0,0.0,8,11,0.727,3,5,8,3,0,0,1,3,22,-13
+Indiana Pacers,C,Roy Hibbert,San Antonio Spurs,L,11/23/2012,29:41,5,18,0.278,0,0,0.0,0,0,0.0,7,4,11,2,0,2,0,4,10,-13
+Indiana Pacers,G,Lance Stephenson,San Antonio Spurs,L,11/23/2012,24:40,4,5,0.8,1,1,1.0,0,0,0.0,0,2,2,2,0,0,1,1,9,-9
+Indiana Pacers,G,George Hill,San Antonio Spurs,L,11/23/2012,34:26,5,15,0.333,0,5,0.0,1,1,1.0,1,3,4,7,0,0,0,2,11,-19
+Indiana Pacers,F,Paul George,Los Angeles Lakers,W,11/27/2012,32:40,5,13,0.385,2,6,0.333,0,2,0.0,1,8,9,2,2,0,2,4,12,16
+Indiana Pacers,F,David West,Los Angeles Lakers,W,11/27/2012,36:23,7,15,0.467,0,0,0.0,2,4,0.5,0,10,10,8,0,2,5,4,16,7
+Indiana Pacers,C,Roy Hibbert,Los Angeles Lakers,W,11/27/2012,17:57,4,7,0.571,0,0,0.0,0,1,0.0,3,2,5,0,2,3,2,6,8,1
+Indiana Pacers,G,Lance Stephenson,Los Angeles Lakers,W,11/27/2012,28:36,2,7,0.286,0,3,0.0,0,0,0.0,1,3,4,0,0,0,0,3,4,9
+Indiana Pacers,G,George Hill,Los Angeles Lakers,W,11/27/2012,36:19,7,13,0.538,1,4,0.25,4,5,0.8,1,4,5,5,1,0,4,3,19,11
+Indiana Pacers,F,Paul George,Sacramento Kings,W,11/30/2012,32:29,2,11,0.182,0,6,0.0,0,1,0.0,0,4,4,9,2,0,1,2,4,11
+Indiana Pacers,F,David West,Sacramento Kings,W,11/30/2012,37:52,13,20,0.65,0,0,0.0,5,7,0.714,3,8,11,2,0,2,3,2,31,7
+Indiana Pacers,C,Roy Hibbert,Sacramento Kings,W,11/30/2012,28:40,3,9,0.333,0,0,0.0,2,2,1.0,3,3,6,1,0,2,1,5,8,3
+Indiana Pacers,G,George Hill,Sacramento Kings,W,11/30/2012,34:35,9,14,0.643,4,6,0.667,3,4,0.75,0,6,6,8,1,0,0,3,25,5
+Indiana Pacers,G,Lance Stephenson,Sacramento Kings,W,11/30/2012,25:22,0,3,0.0,0,3,0.0,0,0,0.0,0,2,2,0,0,0,2,0,0,-7
+Indiana Pacers,F,David West,Golden State Warriors,L,12/01/2012,36:58,10,16,0.625,0,0,0.0,3,4,0.75,2,6,8,4,3,0,2,0,23,-3
+Indiana Pacers,F,Paul George,Golden State Warriors,L,12/01/2012,29:09,0,7,0.0,0,5,0.0,0,0,0.0,1,4,5,4,0,0,1,3,0,-6
+Indiana Pacers,C,Roy Hibbert,Golden State Warriors,L,12/01/2012,32:17,6,13,0.462,0,1,0.0,3,4,0.75,1,6,7,2,0,5,4,5,15,-5
+Indiana Pacers,G,George Hill,Golden State Warriors,L,12/01/2012,37:00,6,12,0.5,3,5,0.6,4,4,1.0,0,1,1,3,0,0,1,1,19,-4
+Indiana Pacers,G,Lance Stephenson,Golden State Warriors,L,12/01/2012,23:16,3,4,0.75,2,3,0.667,0,0,0.0,0,2,2,4,2,0,1,1,8,-4
+Indiana Pacers,F,Paul George,Chicago Bulls,W,12/04/2012,40:57,14,25,0.56,1,3,0.333,5,5,1.0,4,5,9,2,3,2,2,3,34,5
+Indiana Pacers,F,David West,Chicago Bulls,W,12/04/2012,35:21,3,12,0.25,0,0,0.0,4,6,0.667,2,7,9,5,1,0,1,3,10,15
+Indiana Pacers,C,Roy Hibbert,Chicago Bulls,W,12/04/2012,34:11,5,11,0.455,0,0,0.0,0,0,0.0,6,5,11,2,2,2,3,2,10,11
+Indiana Pacers,G,Lance Stephenson,Chicago Bulls,W,12/04/2012,37:53,2,5,0.4,0,0,0.0,2,3,0.667,2,5,7,1,0,0,1,4,6,11
+Indiana Pacers,G,George Hill,Chicago Bulls,W,12/04/2012,36:54,3,16,0.188,1,5,0.2,1,2,0.5,0,3,3,5,1,0,1,1,8,12
+Indiana Pacers,F,Paul George,Portland Trail Blazers,W,12/05/2012,37:32,7,15,0.467,4,9,0.444,4,4,1.0,0,8,8,5,1,0,4,1,22,4
+Indiana Pacers,F,David West,Portland Trail Blazers,W,12/05/2012,32:27,8,11,0.727,0,0,0.0,0,0,0.0,5,5,10,2,1,0,2,1,16,11
+Indiana Pacers,C,Roy Hibbert,Portland Trail Blazers,W,12/05/2012,29:04,3,13,0.231,0,0,0.0,4,4,1.0,3,4,7,0,0,3,1,4,10,1
+Indiana Pacers,G,Lance Stephenson,Portland Trail Blazers,W,12/05/2012,23:08,1,4,0.25,0,2,0.0,0,0,0.0,0,5,5,3,1,0,0,1,2,4
+Indiana Pacers,G,George Hill,Portland Trail Blazers,W,12/05/2012,33:40,5,13,0.385,3,7,0.429,5,5,1.0,0,2,2,3,1,1,3,1,18,5
+Indiana Pacers,F,Paul George,Denver Nuggets,L,12/07/2012,34:55,9,15,0.6,4,5,0.8,0,1,0.0,1,5,6,6,1,2,2,4,22,12
+Indiana Pacers,F,David West,Denver Nuggets,L,12/07/2012,34:21,8,12,0.667,0,0,0.0,2,2,1.0,1,10,11,3,1,1,2,1,18,9
+Indiana Pacers,C,Roy Hibbert,Denver Nuggets,L,12/07/2012,29:48,3,10,0.3,0,0,0.0,4,6,0.667,4,5,9,3,1,3,3,2,10,7
+Indiana Pacers,G,Lance Stephenson,Denver Nuggets,L,12/07/2012,32:18,5,8,0.625,1,3,0.333,1,2,0.5,1,3,4,2,1,0,2,3,12,13
+Indiana Pacers,G,George Hill,Denver Nuggets,L,12/07/2012,37:49,5,15,0.333,3,9,0.333,2,3,0.667,0,4,4,10,0,3,1,2,15,9
+Indiana Pacers,F,Paul George,Oklahoma City Thunder,L,12/09/2012,39:21,5,15,0.333,3,6,0.5,4,4,1.0,1,7,8,3,2,0,1,3,17,0
+Indiana Pacers,F,David West,Oklahoma City Thunder,L,12/09/2012,38:25,10,16,0.625,0,0,0.0,1,3,0.333,2,7,9,1,1,0,2,2,21,-3
+Indiana Pacers,C,Roy Hibbert,Oklahoma City Thunder,L,12/09/2012,26:31,4,9,0.444,0,0,0.0,2,2,1.0,2,4,6,1,0,2,0,2,10,-1
+Indiana Pacers,G,George Hill,Oklahoma City Thunder,L,12/09/2012,38:45,5,14,0.357,2,7,0.286,3,3,1.0,1,3,4,3,0,0,0,1,15,0
+Indiana Pacers,G,Lance Stephenson,Oklahoma City Thunder,L,12/09/2012,25:00,4,8,0.5,1,1,1.0,1,1,1.0,0,1,1,2,1,0,0,4,10,4
+Indiana Pacers,F,Paul George,Cleveland Cavaliers,W,12/12/2012,34:34,10,18,0.556,3,5,0.6,4,5,0.8,1,6,7,3,0,0,2,2,27,19
+Indiana Pacers,F,David West,Cleveland Cavaliers,W,12/12/2012,32:50,7,15,0.467,0,0,0.0,4,4,1.0,3,6,9,7,1,2,1,1,18,22
+Indiana Pacers,C,Roy Hibbert,Cleveland Cavaliers,W,12/12/2012,28:32,1,7,0.143,0,0,0.0,2,2,1.0,5,7,12,1,1,3,5,3,4,15
+Indiana Pacers,G,Lance Stephenson,Cleveland Cavaliers,W,12/12/2012,17:53,4,6,0.667,0,1,0.0,1,1,1.0,0,3,3,2,0,0,0,1,9,5
+Indiana Pacers,G,George Hill,Cleveland Cavaliers,W,12/12/2012,30:35,5,16,0.313,1,7,0.143,6,7,0.857,1,6,7,3,2,0,1,2,17,21
+Indiana Pacers,F,Paul George,Philadelphia 76ers,W,12/14/2012,39:04,9,17,0.529,5,7,0.714,5,6,0.833,0,6,6,2,1,3,1,4,28,19
+Indiana Pacers,F,David West,Philadelphia 76ers,W,12/14/2012,32:59,5,17,0.294,0,0,0.0,4,8,0.5,3,3,6,3,0,2,3,2,14,1
+Indiana Pacers,C,Roy Hibbert,Philadelphia 76ers,W,12/14/2012,34:01,9,16,0.563,0,0,0.0,1,2,0.5,6,7,13,3,0,1,4,5,19,16
+Indiana Pacers,G,Gerald Green,Philadelphia 76ers,W,12/14/2012,32:00,1,4,0.25,1,3,0.333,4,4,1.0,0,2,2,0,0,0,2,4,7,-2
+Indiana Pacers,G,George Hill,Philadelphia 76ers,W,12/14/2012,39:14,6,13,0.462,2,4,0.5,1,1,1.0,0,10,10,9,2,2,3,1,15,16
+Indiana Pacers,F,Paul George,Detroit Pistons,W,12/15/2012,43:36,6,16,0.375,1,7,0.143,2,4,0.5,1,7,8,8,4,1,2,5,15,12
+Indiana Pacers,F,David West,Detroit Pistons,W,12/15/2012,30:24,11,16,0.688,0,0,0.0,1,2,0.5,0,5,5,4,1,0,3,4,23,19
+Indiana Pacers,C,Roy Hibbert,Detroit Pistons,W,12/15/2012,15:01,2,4,0.5,0,0,0.0,0,0,0.0,0,3,3,1,1,4,0,1,4,3
+Indiana Pacers,G,Gerald Green,Detroit Pistons,W,12/15/2012,26:39,3,9,0.333,3,8,0.375,0,0,0.0,0,3,3,0,0,0,2,1,9,7
+Indiana Pacers,G,George Hill,Detroit Pistons,W,12/15/2012,38:55,5,7,0.714,2,3,0.667,6,6,1.0,1,3,4,7,1,1,1,1,18,8
+Indiana Pacers,F,Paul George,Milwaukee Bucks,L,12/18/2012,37:49,6,15,0.4,0,4,0.0,4,4,1.0,0,10,10,5,1,1,5,3,16,-10
+Indiana Pacers,F,David West,Milwaukee Bucks,L,12/18/2012,33:31,5,14,0.357,0,0,0.0,2,4,0.5,3,3,6,1,0,1,2,2,12,-14
+Indiana Pacers,C,Roy Hibbert,Milwaukee Bucks,L,12/18/2012,27:55,4,10,0.4,0,0,0.0,0,0,0.0,7,3,10,2,0,0,2,4,8,-8
+Indiana Pacers,G,Lance Stephenson,Milwaukee Bucks,L,12/18/2012,27:44,1,5,0.2,1,1,1.0,0,0,0.0,0,1,1,1,2,0,0,0,3,-10
+Indiana Pacers,G,George Hill,Milwaukee Bucks,L,12/18/2012,35:58,6,16,0.375,1,2,0.5,5,6,0.833,0,5,5,2,1,0,4,3,18,-4
+Indiana Pacers,F,Paul George,Utah Jazz,W,12/19/2012,33:19,9,13,0.692,2,4,0.5,0,0,0.0,1,10,11,1,1,4,4,4,20,17
+Indiana Pacers,F,David West,Utah Jazz,W,12/19/2012,27:41,5,12,0.417,0,0,0.0,3,3,1.0,2,2,4,3,0,0,1,4,13,18
+Indiana Pacers,C,Roy Hibbert,Utah Jazz,W,12/19/2012,29:49,5,10,0.5,0,0,0.0,2,2,1.0,0,4,4,4,1,2,2,4,12,22
+Indiana Pacers,G,Lance Stephenson,Utah Jazz,W,12/19/2012,24:57,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,4,2,0,1,1,0,16
+Indiana Pacers,G,George Hill,Utah Jazz,W,12/19/2012,29:08,8,13,0.615,2,2,1.0,2,2,1.0,0,5,5,5,1,0,1,1,20,24
+Indiana Pacers,F,Paul George,Cleveland Cavaliers,W,12/21/2012,35:11,4,13,0.308,0,3,0.0,2,3,0.667,1,4,5,3,5,1,5,3,10,20
+Indiana Pacers,F,David West,Cleveland Cavaliers,W,12/21/2012,33:40,6,13,0.462,0,1,0.0,1,5,0.2,2,8,10,2,0,0,1,1,13,17
+Indiana Pacers,C,Roy Hibbert,Cleveland Cavaliers,W,12/21/2012,24:06,8,12,0.667,0,0,0.0,2,2,1.0,3,3,6,0,0,2,2,5,18,12
+Indiana Pacers,G,Lance Stephenson,Cleveland Cavaliers,W,12/21/2012,32:17,7,8,0.875,0,1,0.0,2,4,0.5,0,2,2,7,2,0,0,3,16,12
+Indiana Pacers,G,George Hill,Cleveland Cavaliers,W,12/21/2012,36:37,5,13,0.385,2,5,0.4,1,1,1.0,1,7,8,6,2,0,1,2,13,17
+Indiana Pacers,F,Paul George,New Orleans Hornets,W,12/22/2012,38:02,6,15,0.4,1,5,0.2,4,5,0.8,1,11,12,4,2,0,3,5,17,7
+Indiana Pacers,F,David West,New Orleans Hornets,W,12/22/2012,34:17,11,20,0.55,0,2,0.0,3,4,0.75,4,3,7,2,0,0,1,1,25,14
+Indiana Pacers,C,Roy Hibbert,New Orleans Hornets,W,12/22/2012,28:07,3,8,0.375,0,0,0.0,0,2,0.0,3,6,9,1,1,5,1,4,6,5
+Indiana Pacers,G,Lance Stephenson,New Orleans Hornets,W,12/22/2012,34:17,5,10,0.5,0,2,0.0,0,0,0.0,2,0,2,3,1,0,0,1,10,14
+Indiana Pacers,G,George Hill,New Orleans Hornets,W,12/22/2012,39:02,3,8,0.375,3,5,0.6,3,4,0.75,1,4,5,6,0,1,3,4,12,8
+Indiana Pacers,F,Paul George,Chicago Bulls,W,02/04/2013,44:26,6,14,0.429,2,4,0.5,7,8,0.875,0,11,11,5,2,2,4,2,21,9
+Indiana Pacers,F,David West,Chicago Bulls,W,02/04/2013,36:33,11,18,0.611,0,0,0.0,7,10,0.7,1,8,9,4,1,3,3,1,29,23
+Indiana Pacers,C,Roy Hibbert,Chicago Bulls,W,02/04/2013,30:18,3,11,0.273,0,0,0.0,0,0,0.0,5,4,9,1,0,1,1,1,6,15
+Indiana Pacers,G,Lance Stephenson,Chicago Bulls,W,02/04/2013,33:54,6,9,0.667,1,4,0.25,2,3,0.667,1,3,4,5,1,1,2,3,15,22
+Indiana Pacers,G,George Hill,Chicago Bulls,W,02/04/2013,38:08,7,10,0.7,3,5,0.6,5,5,1.0,0,2,2,6,0,1,4,0,22,15
+Indiana Pacers,F,Paul George,Phoenix Suns,W,12/28/2012,38:59,4,12,0.333,2,5,0.4,5,6,0.833,1,3,4,2,0,0,3,3,15,3
+Indiana Pacers,F,David West,Phoenix Suns,W,12/28/2012,33:34,5,15,0.333,0,0,0.0,4,4,1.0,3,4,7,2,1,1,3,4,14,1
+Indiana Pacers,C,Roy Hibbert,Phoenix Suns,W,12/28/2012,31:56,3,9,0.333,0,0,0.0,2,4,0.5,5,9,14,4,0,1,2,4,8,18
+Indiana Pacers,G,Lance Stephenson,Phoenix Suns,W,12/28/2012,36:45,4,9,0.444,1,2,0.5,1,4,0.25,2,7,9,5,3,0,1,1,10,14
+Indiana Pacers,G,George Hill,Phoenix Suns,W,12/28/2012,32:30,9,13,0.692,3,4,0.75,1,1,1.0,0,2,2,2,2,0,3,3,22,5
+Indiana Pacers,F,Paul George,Atlanta Hawks,L,12/29/2012,38:53,7,13,0.538,1,2,0.5,3,3,1.0,4,5,9,8,2,0,5,1,18,-16
+Indiana Pacers,F,David West,Atlanta Hawks,L,12/29/2012,31:51,11,18,0.611,2,3,0.667,5,7,0.714,0,4,4,3,1,0,1,2,29,-13
+Indiana Pacers,C,Roy Hibbert,Atlanta Hawks,L,12/29/2012,20:32,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,3,0,-6
+Indiana Pacers,G,Lance Stephenson,Atlanta Hawks,L,12/29/2012,31:58,6,13,0.462,1,3,0.333,0,0,0.0,3,2,5,1,0,0,0,3,13,3
+Indiana Pacers,G,George Hill,Atlanta Hawks,L,12/29/2012,32:58,7,11,0.636,1,3,0.333,0,0,0.0,0,4,4,2,1,0,2,1,15,-19
+Indiana Pacers,F,Paul George,Memphis Grizzlies,W,12/31/2012,41:09,7,16,0.438,4,10,0.4,3,4,0.75,0,6,6,5,2,1,4,1,21,14
+Indiana Pacers,F,David West,Memphis Grizzlies,W,12/31/2012,34:15,3,6,0.5,0,0,0.0,7,8,0.875,4,5,9,2,1,2,4,5,13,4
+Indiana Pacers,C,Roy Hibbert,Memphis Grizzlies,W,12/31/2012,32:48,3,11,0.273,0,0,0.0,3,4,0.75,2,4,6,3,1,4,2,4,9,-2
+Indiana Pacers,G,Lance Stephenson,Memphis Grizzlies,W,12/31/2012,32:50,3,7,0.429,2,3,0.667,2,2,1.0,0,7,7,2,1,0,2,1,10,3
+Indiana Pacers,G,D.J. Augustin,Memphis Grizzlies,W,12/31/2012,33:56,4,9,0.444,4,7,0.571,5,6,0.833,1,1,2,6,1,0,2,2,17,-1
+Indiana Pacers,F,Paul George,Washington Wizards,W,01/02/2013,40:18,9,19,0.474,3,8,0.375,8,8,1.0,1,13,14,3,2,0,3,3,29,16
+Indiana Pacers,F,David West,Washington Wizards,W,01/02/2013,34:21,3,13,0.231,0,0,0.0,2,2,1.0,1,5,6,1,1,1,3,0,8,15
+Indiana Pacers,C,Roy Hibbert,Washington Wizards,W,01/02/2013,24:13,6,11,0.545,0,0,0.0,1,1,1.0,1,3,4,4,0,1,2,5,13,11
+Indiana Pacers,G,Lance Stephenson,Washington Wizards,W,01/02/2013,29:28,3,9,0.333,0,0,0.0,0,0,0.0,1,2,3,2,2,1,0,1,6,10
+Indiana Pacers,G,D.J. Augustin,Washington Wizards,W,01/02/2013,37:18,4,9,0.444,1,4,0.25,9,10,0.9,2,2,4,6,1,0,2,1,18,13
+Indiana Pacers,F,Paul George,Boston Celtics,L,01/04/2013,31:52,4,18,0.222,0,5,0.0,1,3,0.333,2,5,7,4,3,0,3,2,9,-12
+Indiana Pacers,F,David West,Boston Celtics,L,01/04/2013,28:30,4,18,0.222,0,1,0.0,2,2,1.0,3,7,10,1,2,1,3,0,10,-17
+Indiana Pacers,C,Roy Hibbert,Boston Celtics,L,01/04/2013,24:24,3,6,0.5,0,0,0.0,1,2,0.5,2,8,10,0,0,1,3,2,7,-17
+Indiana Pacers,G,Lance Stephenson,Boston Celtics,L,01/04/2013,30:19,1,6,0.167,1,3,0.333,2,4,0.5,2,1,3,3,2,1,1,0,5,-14
+Indiana Pacers,G,D.J. Augustin,Boston Celtics,L,01/04/2013,29:31,2,4,0.5,1,1,1.0,1,1,1.0,0,1,1,4,0,0,2,2,6,-9
+Indiana Pacers,F,Paul George,Milwaukee Bucks,W,01/05/2013,35:09,4,11,0.364,0,1,0.0,0,0,0.0,1,8,9,4,1,0,6,2,8,13
+Indiana Pacers,F,David West,Milwaukee Bucks,W,01/05/2013,25:06,3,9,0.333,0,0,0.0,4,6,0.667,0,6,6,3,1,0,0,2,10,17
+Indiana Pacers,C,Roy Hibbert,Milwaukee Bucks,W,01/05/2013,30:16,8,16,0.5,0,0,0.0,4,4,1.0,11,4,15,0,0,5,2,3,20,7
+Indiana Pacers,G,Lance Stephenson,Milwaukee Bucks,W,01/05/2013,23:05,5,8,0.625,0,2,0.0,0,0,0.0,0,3,3,3,1,0,1,2,10,14
+Indiana Pacers,G,George Hill,Milwaukee Bucks,W,01/05/2013,32:58,7,16,0.438,0,4,0.0,0,0,0.0,2,6,8,4,0,0,0,0,14,6
+Indiana Pacers,F,Paul George,Miami Heat,W,01/08/2013,43:34,12,27,0.444,4,9,0.444,1,3,0.333,4,7,11,2,0,0,1,2,29,5
+Indiana Pacers,F,David West,Miami Heat,W,01/08/2013,33:41,6,13,0.462,1,1,1.0,1,2,0.5,5,6,11,1,2,0,1,2,14,-3
+Indiana Pacers,C,Roy Hibbert,Miami Heat,W,01/08/2013,29:25,3,12,0.25,0,0,0.0,0,0,0.0,9,5,14,1,0,0,1,4,6,-10
+Indiana Pacers,G,Lance Stephenson,Miami Heat,W,01/08/2013,26:12,5,11,0.455,3,4,0.75,0,2,0.0,1,3,4,2,2,0,0,4,13,3
+Indiana Pacers,G,George Hill,Miami Heat,W,01/08/2013,23:28,0,4,0.0,0,3,0.0,0,0,0.0,0,1,1,4,0,0,5,2,0,-7
+Indiana Pacers,F,Paul George,New York Knicks,W,01/10/2013,43:42,10,24,0.417,2,8,0.25,2,2,1.0,3,8,11,5,6,1,1,3,24,4
+Indiana Pacers,F,David West,New York Knicks,W,01/10/2013,34:26,3,11,0.273,0,1,0.0,0,0,0.0,1,4,5,2,1,2,3,2,6,-8
+Indiana Pacers,C,Roy Hibbert,New York Knicks,W,01/10/2013,18:52,1,4,0.25,0,0,0.0,2,4,0.5,0,3,3,0,0,2,0,2,4,-3
+Indiana Pacers,G,Lance Stephenson,New York Knicks,W,01/10/2013,35:45,3,6,0.5,1,2,0.5,2,2,1.0,1,6,7,4,0,0,1,2,9,-7
+Indiana Pacers,G,George Hill,New York Knicks,W,01/10/2013,34:04,2,6,0.333,1,5,0.2,1,1,1.0,0,4,4,4,0,0,2,1,6,10
+Indiana Pacers,F,Dominic McGuire,Charlotte Bobcats,W,01/12/2013,6:31,0,3,0.0,0,0,0.0,0,2,0.0,1,1,2,0,0,0,0,0,0,-3
+Indiana Pacers,F,David West,Charlotte Bobcats,W,01/12/2013,38:22,7,15,0.467,0,0,0.0,0,0,0.0,6,6,12,10,1,0,4,2,14,9
+Indiana Pacers,C,Roy Hibbert,Charlotte Bobcats,W,01/12/2013,21:56,4,9,0.444,0,0,0.0,1,2,0.5,8,1,9,1,1,1,3,3,9,-4
+Indiana Pacers,G,Lance Stephenson,Charlotte Bobcats,W,01/12/2013,38:35,8,13,0.615,1,3,0.333,0,0,0.0,1,6,7,2,4,1,2,3,17,-4
+Indiana Pacers,G,George Hill,Charlotte Bobcats,W,01/12/2013,41:49,7,17,0.412,3,7,0.429,2,2,1.0,0,4,4,4,1,0,0,2,19,4
+Indiana Pacers,F,Paul George,Brooklyn Nets,L,01/13/2013,35:29,6,18,0.333,3,7,0.429,0,0,0.0,4,8,12,3,6,0,2,5,15,-6
+Indiana Pacers,F,David West,Brooklyn Nets,L,01/13/2013,34:51,11,19,0.579,0,0,0.0,5,6,0.833,0,6,6,3,0,1,2,4,27,10
+Indiana Pacers,C,Roy Hibbert,Brooklyn Nets,L,01/13/2013,30:32,3,5,0.6,0,0,0.0,0,0,0.0,2,5,7,0,0,6,2,5,6,10
+Indiana Pacers,G,Lance Stephenson,Brooklyn Nets,L,01/13/2013,6:27,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,6
+Indiana Pacers,G,George Hill,Brooklyn Nets,L,01/13/2013,34:25,6,13,0.462,1,5,0.2,0,0,0.0,0,3,3,3,0,0,1,2,13,-12
+Indiana Pacers,F,Paul George,Charlotte Bobcats,W,01/15/2013,31:21,7,16,0.438,2,7,0.286,0,2,0.0,2,8,10,3,2,0,3,3,16,26
+Indiana Pacers,F,David West,Charlotte Bobcats,W,01/15/2013,26:38,6,13,0.462,0,0,0.0,3,4,0.75,2,6,8,4,0,0,1,0,15,30
+Indiana Pacers,C,Roy Hibbert,Charlotte Bobcats,W,01/15/2013,26:36,5,11,0.455,0,0,0.0,8,8,1.0,4,3,7,1,0,4,2,3,18,31
+Indiana Pacers,G,Lance Stephenson,Charlotte Bobcats,W,01/15/2013,27:38,3,6,0.5,1,3,0.333,0,1,0.0,2,6,8,6,2,0,2,3,7,28
+Indiana Pacers,G,George Hill,Charlotte Bobcats,W,01/15/2013,27:28,6,11,0.545,2,4,0.5,2,2,1.0,2,5,7,4,1,0,0,1,16,28
+Indiana Pacers,F,Paul George,Orlando Magic,L,01/16/2013,36:12,6,14,0.429,1,4,0.25,7,7,1.0,1,9,10,4,0,1,1,0,20,-13
+Indiana Pacers,F,David West,Orlando Magic,L,01/16/2013,31:36,7,15,0.467,0,0,0.0,0,0,0.0,4,3,7,1,1,2,3,0,14,-3
+Indiana Pacers,C,Roy Hibbert,Orlando Magic,L,01/16/2013,22:38,5,7,0.714,0,0,0.0,1,2,0.5,2,5,7,1,0,2,4,5,11,-3
+Indiana Pacers,G,Lance Stephenson,Orlando Magic,L,01/16/2013,29:06,3,6,0.5,0,2,0.0,0,0,0.0,0,3,3,3,1,0,2,1,6,-11
+Indiana Pacers,G,George Hill,Orlando Magic,L,01/16/2013,34:44,7,16,0.438,1,4,0.25,0,0,0.0,1,3,4,6,2,0,1,2,15,-7
+Indiana Pacers,F,Paul George,Houston Rockets,W,01/18/2013,42:43,11,19,0.579,7,10,0.7,2,2,1.0,1,5,6,3,5,1,5,4,31,16
+Indiana Pacers,F,David West,Houston Rockets,W,01/18/2013,33:60,8,18,0.444,0,0,0.0,4,6,0.667,2,9,11,7,1,3,1,2,20,14
+Indiana Pacers,C,Roy Hibbert,Houston Rockets,W,01/18/2013,24:31,6,12,0.5,0,0,0.0,0,0,0.0,6,3,9,3,1,3,2,5,12,6
+Indiana Pacers,G,Lance Stephenson,Houston Rockets,W,01/18/2013,37:03,4,10,0.4,1,3,0.333,0,0,0.0,2,1,3,4,1,0,2,2,9,11
+Indiana Pacers,G,George Hill,Houston Rockets,W,01/18/2013,37:33,4,9,0.444,2,2,1.0,5,6,0.833,0,4,4,3,3,0,2,1,15,6
+Indiana Pacers,F,Paul George,Memphis Grizzlies,W,01/21/2013,42:30,5,13,0.385,2,4,0.5,0,0,0.0,1,9,10,8,2,0,0,0,12,-4
+Indiana Pacers,F,David West,Memphis Grizzlies,W,01/21/2013,35:53,7,16,0.438,0,1,0.0,0,0,0.0,1,1,2,3,3,5,3,1,14,1
+Indiana Pacers,C,Roy Hibbert,Memphis Grizzlies,W,01/21/2013,32:35,4,7,0.571,0,0,0.0,2,2,1.0,1,4,5,2,1,4,2,3,10,-2
+Indiana Pacers,G,Lance Stephenson,Memphis Grizzlies,W,01/21/2013,35:14,3,7,0.429,1,4,0.25,1,2,0.5,0,3,3,1,1,1,2,1,8,2
+Indiana Pacers,G,George Hill,Memphis Grizzlies,W,01/21/2013,32:35,5,9,0.556,1,2,0.5,2,3,0.667,0,4,4,4,1,0,8,2,13,-2
+Indiana Pacers,F,Paul George,Portland Trail Blazers,L,01/23/2013,36:03,8,19,0.421,3,8,0.375,3,3,1.0,1,6,7,2,2,0,3,4,22,-22
+Indiana Pacers,F,David West,Portland Trail Blazers,L,01/23/2013,34:52,8,15,0.533,0,0,0.0,5,6,0.833,2,3,5,3,1,0,1,2,21,-20
+Indiana Pacers,C,Roy Hibbert,Portland Trail Blazers,L,01/23/2013,31:48,4,10,0.4,0,0,0.0,1,2,0.5,1,6,7,0,1,1,2,3,9,-10
+Indiana Pacers,G,Lance Stephenson,Portland Trail Blazers,L,01/23/2013,40:18,1,5,0.2,0,2,0.0,0,0,0.0,0,3,3,3,1,0,2,3,2,-4
+Indiana Pacers,G,George Hill,Portland Trail Blazers,L,01/23/2013,36:45,5,14,0.357,1,7,0.143,0,0,0.0,0,1,1,3,1,0,3,1,11,-10
+Indiana Pacers,F,Paul George,Utah Jazz,L,01/26/2013,47:55,8,17,0.471,3,7,0.429,4,4,1.0,3,2,5,4,1,1,6,5,23,1
+Indiana Pacers,F,David West,Utah Jazz,L,01/26/2013,41:30,9,15,0.6,0,1,0.0,6,8,0.75,0,7,7,3,2,3,4,3,24,-8
+Indiana Pacers,C,Roy Hibbert,Utah Jazz,L,01/26/2013,34:43,6,12,0.5,0,0,0.0,2,2,1.0,6,7,13,3,2,1,4,4,14,-2
+Indiana Pacers,G,Lance Stephenson,Utah Jazz,L,01/26/2013,23:60,0,4,0.0,0,1,0.0,0,0,0.0,1,0,1,0,1,0,4,3,0,-7
+Indiana Pacers,G,George Hill,Utah Jazz,L,01/26/2013,45:35,10,16,0.625,2,7,0.286,0,1,0.0,3,6,9,8,2,0,1,2,22,-3
+Indiana Pacers,F,Paul George,Denver Nuggets,L,01/28/2013,44:02,9,17,0.529,4,9,0.444,1,1,1.0,3,7,10,5,4,1,3,5,23,4
+Indiana Pacers,F,David West,Denver Nuggets,L,01/28/2013,35:12,8,15,0.533,0,0,0.0,1,2,0.5,1,4,5,4,0,0,2,4,17,-5
+Indiana Pacers,C,Roy Hibbert,Denver Nuggets,L,01/28/2013,32:35,3,12,0.25,0,0,0.0,2,2,1.0,4,7,11,2,0,2,3,4,8,2
+Indiana Pacers,G,Lance Stephenson,Denver Nuggets,L,01/28/2013,37:34,8,13,0.615,2,3,0.667,2,2,1.0,3,5,8,4,1,1,2,4,20,-3
+Indiana Pacers,G,George Hill,Denver Nuggets,L,01/28/2013,39:24,4,12,0.333,3,6,0.5,1,2,0.5,0,1,1,6,0,1,3,2,12,2
+Indiana Pacers,F,Paul George,Detroit Pistons,W,01/30/2013,39:33,3,11,0.273,1,4,0.25,3,4,0.75,1,5,6,4,2,0,6,4,10,22
+Indiana Pacers,F,David West,Detroit Pistons,W,01/30/2013,27:32,7,14,0.5,0,0,0.0,0,0,0.0,2,3,5,3,1,1,0,1,14,12
+Indiana Pacers,C,Roy Hibbert,Detroit Pistons,W,01/30/2013,26:13,7,14,0.5,0,0,0.0,4,4,1.0,6,5,11,2,1,1,3,3,18,16
+Indiana Pacers,G,Lance Stephenson,Detroit Pistons,W,01/30/2013,32:27,5,10,0.5,1,3,0.333,1,2,0.5,0,11,11,5,1,0,0,1,12,18
+Indiana Pacers,G,George Hill,Detroit Pistons,W,01/30/2013,36:43,6,8,0.75,3,4,0.75,0,0,0.0,0,2,2,3,0,1,0,0,15,17
+Indiana Pacers,F,Paul George,Miami Heat,W,02/01/2013,41:07,6,11,0.545,1,6,0.167,2,4,0.5,0,6,6,6,2,0,3,4,15,10
+Indiana Pacers,F,David West,Miami Heat,W,02/01/2013,35:55,12,15,0.8,0,0,0.0,6,6,1.0,2,5,7,5,0,0,0,0,30,9
+Indiana Pacers,C,Roy Hibbert,Miami Heat,W,02/01/2013,29:59,3,8,0.375,0,0,0.0,1,2,0.5,3,3,6,0,0,2,2,5,7,10
+Indiana Pacers,G,Lance Stephenson,Miami Heat,W,02/01/2013,39:19,6,11,0.545,2,3,0.667,1,2,0.5,0,3,3,4,1,0,3,1,15,11
+Indiana Pacers,G,George Hill,Miami Heat,W,02/01/2013,35:18,4,9,0.444,2,4,0.5,2,3,0.667,0,2,2,4,0,0,1,2,12,6
+Indiana Pacers,F,Paul George,Atlanta Hawks,W,02/05/2013,39:02,8,19,0.421,5,9,0.556,8,9,0.889,0,5,5,4,1,0,2,4,29,17
+Indiana Pacers,F,David West,Atlanta Hawks,W,02/05/2013,35:05,5,11,0.455,0,0,0.0,5,5,1.0,2,5,7,4,5,3,5,3,15,12
+Indiana Pacers,C,Roy Hibbert,Atlanta Hawks,W,02/05/2013,30:25,6,8,0.75,0,0,0.0,0,0,0.0,2,6,8,4,0,3,2,2,12,9
+Indiana Pacers,G,Lance Stephenson,Atlanta Hawks,W,02/05/2013,30:23,5,10,0.5,2,6,0.333,2,2,1.0,0,6,6,3,0,1,1,5,14,9
+Indiana Pacers,G,George Hill,Atlanta Hawks,W,02/05/2013,34:07,4,12,0.333,1,4,0.25,6,8,0.75,1,2,3,8,0,0,1,2,15,7
+Indiana Pacers,F,Paul George,Philadelphia 76ers,W,02/06/2013,40:05,4,13,0.308,1,4,0.25,6,8,0.75,1,4,5,6,2,0,2,0,15,22
+Indiana Pacers,F,David West,Philadelphia 76ers,W,02/06/2013,30:39,7,16,0.438,0,1,0.0,1,2,0.5,0,5,5,1,3,0,0,0,15,12
+Indiana Pacers,C,Roy Hibbert,Philadelphia 76ers,W,02/06/2013,33:55,8,19,0.421,0,1,0.0,2,3,0.667,7,8,15,1,2,4,1,0,18,22
+Indiana Pacers,G,Lance Stephenson,Philadelphia 76ers,W,02/06/2013,30:11,2,7,0.286,0,3,0.0,2,2,1.0,1,5,6,5,0,0,2,1,6,10
+Indiana Pacers,G,George Hill,Philadelphia 76ers,W,02/06/2013,34:06,7,11,0.636,1,3,0.333,0,0,0.0,2,1,3,5,1,0,1,2,15,14
+Indiana Pacers,F,Paul George,Toronto Raptors,L,02/08/2013,47:14,8,19,0.421,5,10,0.5,5,6,0.833,2,12,14,5,1,1,3,3,26,-3
+Indiana Pacers,F,David West,Toronto Raptors,L,02/08/2013,40:59,11,20,0.55,0,0,0.0,8,10,0.8,2,6,8,3,0,1,5,4,30,9
+Indiana Pacers,C,Roy Hibbert,Toronto Raptors,L,02/08/2013,37:35,3,9,0.333,0,0,0.0,0,0,0.0,0,3,3,4,0,4,0,5,6,6
+Indiana Pacers,G,Lance Stephenson,Toronto Raptors,L,02/08/2013,38:33,4,11,0.364,2,6,0.333,1,2,0.5,0,1,1,3,3,0,2,4,11,-4
+Indiana Pacers,G,George Hill,Toronto Raptors,L,02/08/2013,38:28,3,8,0.375,1,4,0.25,2,4,0.5,3,0,3,5,2,0,2,2,9,4
+Indiana Pacers,F,Paul George,Brooklyn Nets,L,02/11/2013,39:15,1,10,0.1,1,5,0.2,2,2,1.0,1,5,6,0,2,2,2,6,5,-11
+Indiana Pacers,F,David West,Brooklyn Nets,L,02/11/2013,24:55,2,11,0.182,0,0,0.0,3,4,0.75,1,5,6,3,1,1,2,2,7,-8
+Indiana Pacers,C,Roy Hibbert,Brooklyn Nets,L,02/11/2013,35:05,5,18,0.278,0,0,0.0,2,5,0.4,6,4,10,0,0,3,1,4,12,0
+Indiana Pacers,G,Lance Stephenson,Brooklyn Nets,L,02/11/2013,40:06,6,12,0.5,1,2,0.5,1,1,1.0,1,3,4,1,1,0,1,4,14,-4
+Indiana Pacers,G,George Hill,Brooklyn Nets,L,02/11/2013,39:32,9,18,0.5,1,7,0.143,3,4,0.75,0,4,4,6,1,0,0,4,22,-4
+Indiana Pacers,F,Paul George,Charlotte Bobcats,W,02/13/2013,38:57,8,17,0.471,1,4,0.25,6,7,0.857,1,11,12,12,2,0,1,2,23,28
+Indiana Pacers,F,Tyler Hansbrough,Charlotte Bobcats,W,02/13/2013,23:25,8,13,0.615,0,0,0.0,3,6,0.5,5,5,10,2,2,0,0,1,19,12
+Indiana Pacers,C,Roy Hibbert,Charlotte Bobcats,W,02/13/2013,18:17,5,9,0.556,0,0,0.0,0,0,0.0,6,2,8,0,0,3,2,5,10,2
+Indiana Pacers,G,Lance Stephenson,Charlotte Bobcats,W,02/13/2013,25:55,2,12,0.167,1,6,0.167,0,0,0.0,0,3,3,2,0,0,0,1,5,9
+Indiana Pacers,G,George Hill,Charlotte Bobcats,W,02/13/2013,32:16,4,10,0.4,3,3,1.0,0,0,0.0,0,2,2,4,0,1,0,0,11,24
+Indiana Pacers,F,Paul George,New York Knicks,W,02/20/2013,33:21,11,19,0.579,4,9,0.444,1,1,1.0,1,7,8,3,1,2,2,2,27,16
+Indiana Pacers,F,David West,New York Knicks,W,02/20/2013,27:24,6,11,0.545,0,0,0.0,6,8,0.75,3,6,9,4,1,2,3,2,18,25
+Indiana Pacers,C,Roy Hibbert,New York Knicks,W,02/20/2013,17:39,4,5,0.8,0,0,0.0,0,0,0.0,0,4,4,1,0,2,3,6,8,5
+Indiana Pacers,G,Lance Stephenson,New York Knicks,W,02/20/2013,28:14,5,8,0.625,1,3,0.333,3,4,0.75,0,5,5,3,2,0,3,1,14,21
+Indiana Pacers,G,George Hill,New York Knicks,W,02/20/2013,28:21,3,5,0.6,1,3,0.333,3,4,0.75,0,2,2,5,2,1,1,1,10,24
+Indiana Pacers,F,Paul George,Detroit Pistons,W,02/22/2013,25:55,4,6,0.667,3,4,0.75,1,2,0.5,0,7,7,2,1,1,7,4,12,29
+Indiana Pacers,F,David West,Detroit Pistons,W,02/22/2013,25:46,8,11,0.727,0,0,0.0,2,2,1.0,0,8,8,4,1,1,2,1,18,29
+Indiana Pacers,C,Roy Hibbert,Detroit Pistons,W,02/22/2013,26:14,4,8,0.5,0,0,0.0,2,3,0.667,1,5,6,4,1,1,1,2,10,31
+Indiana Pacers,G,Lance Stephenson,Detroit Pistons,W,02/22/2013,20:01,4,8,0.5,0,0,0.0,2,2,1.0,0,5,5,2,3,1,2,3,10,28
+Indiana Pacers,G,George Hill,Detroit Pistons,W,02/22/2013,27:56,4,7,0.571,2,3,0.667,5,5,1.0,0,2,2,6,1,1,0,3,15,31
+Indiana Pacers,F,Paul George,Detroit Pistons,W,02/23/2013,42:19,5,14,0.357,1,7,0.143,1,2,0.5,0,12,12,8,3,0,5,2,12,24
+Indiana Pacers,F,David West,Detroit Pistons,W,02/23/2013,30:10,6,14,0.429,0,0,0.0,4,4,1.0,0,8,8,4,1,1,1,2,16,21
+Indiana Pacers,C,Roy Hibbert,Detroit Pistons,W,02/23/2013,19:59,3,6,0.5,0,0,0.0,4,4,1.0,0,1,1,2,0,2,5,6,10,9
+Indiana Pacers,G,Lance Stephenson,Detroit Pistons,W,02/23/2013,24:34,2,3,0.667,1,2,0.5,0,0,0.0,0,5,5,2,2,0,2,1,5,24
+Indiana Pacers,G,George Hill,Detroit Pistons,W,02/23/2013,29:39,7,10,0.7,3,5,0.6,0,1,0.0,0,3,3,2,1,0,2,1,17,23
+Indiana Pacers,F,Paul George,Golden State Warriors,W,02/26/2013,41:33,9,17,0.529,2,9,0.222,1,3,0.333,2,9,11,4,3,1,2,3,21,21
+Indiana Pacers,F,David West,Golden State Warriors,W,02/26/2013,35:59,12,16,0.75,0,0,0.0,4,4,1.0,3,4,7,2,3,0,3,0,28,18
+Indiana Pacers,C,Roy Hibbert,Golden State Warriors,W,02/26/2013,27:51,4,8,0.5,0,0,0.0,5,6,0.833,5,4,9,1,1,5,3,2,13,19
+Indiana Pacers,G,Lance Stephenson,Golden State Warriors,W,02/26/2013,29:30,4,15,0.267,1,4,0.25,0,0,0.0,0,2,2,5,1,0,0,1,9,11
+Indiana Pacers,G,George Hill,Golden State Warriors,W,02/26/2013,37:41,9,14,0.643,3,7,0.429,2,2,1.0,1,2,3,7,3,0,1,2,23,15
+Indiana Pacers,F,Paul George,Los Angeles Clippers,L,02/28/2013,42:27,7,18,0.389,4,11,0.364,2,2,1.0,0,4,4,5,2,1,4,2,20,0
+Indiana Pacers,F,David West,Los Angeles Clippers,L,02/28/2013,38:37,5,14,0.357,1,1,1.0,11,14,0.786,4,2,6,4,1,1,4,3,22,5
+Indiana Pacers,C,Ian Mahinmi,Los Angeles Clippers,L,02/28/2013,24:54,2,3,0.667,0,0,0.0,1,1,1.0,0,5,5,1,1,2,1,3,5,-5
+Indiana Pacers,G,Lance Stephenson,Los Angeles Clippers,L,02/28/2013,29:13,7,8,0.875,1,1,1.0,1,2,0.5,0,7,7,4,1,0,4,2,16,16
+Indiana Pacers,G,George Hill,Los Angeles Clippers,L,02/28/2013,37:52,4,12,0.333,2,7,0.286,2,4,0.5,3,1,4,1,0,0,0,4,12,3
+Indiana Pacers,F,Paul George,Toronto Raptors,W,03/01/2013,41:57,8,16,0.5,4,7,0.571,2,2,1.0,1,9,10,3,1,0,4,4,22,11
+Indiana Pacers,F,David West,Toronto Raptors,W,03/01/2013,29:34,6,11,0.545,0,0,0.0,3,4,0.75,2,9,11,4,1,1,3,1,15,17
+Indiana Pacers,C,Roy Hibbert,Toronto Raptors,W,03/01/2013,23:57,7,10,0.7,0,0,0.0,4,4,1.0,2,1,3,0,0,2,4,4,18,7
+Indiana Pacers,G,Lance Stephenson,Toronto Raptors,W,03/01/2013,23:44,1,2,0.5,1,1,1.0,0,0,0.0,0,1,1,1,0,0,0,4,3,-1
+Indiana Pacers,G,George Hill,Toronto Raptors,W,03/01/2013,29:06,2,8,0.25,1,6,0.167,0,0,0.0,0,1,1,4,2,0,0,2,5,4
+Indiana Pacers,F,Paul George,Chicago Bulls,W,03/03/2013,44:40,4,14,0.286,2,5,0.4,0,0,0.0,2,8,10,6,2,0,4,3,10,9
+Indiana Pacers,F,David West,Chicago Bulls,W,03/03/2013,36:10,11,18,0.611,0,1,0.0,9,9,1.0,1,6,7,2,2,0,2,2,31,0
+Indiana Pacers,C,Roy Hibbert,Chicago Bulls,W,03/03/2013,35:28,7,14,0.5,0,0,0.0,4,6,0.667,5,5,10,1,2,3,1,4,18,11
+Indiana Pacers,G,Lance Stephenson,Chicago Bulls,W,03/03/2013,34:08,3,10,0.3,1,2,0.5,2,4,0.5,1,6,7,2,0,0,2,4,9,11
+Indiana Pacers,G,George Hill,Chicago Bulls,W,03/03/2013,35:48,6,6,1.0,3,3,1.0,6,10,0.6,0,6,6,5,1,2,3,3,21,13
+Indiana Pacers,F,Paul George,Boston Celtics,L,03/06/2013,43:48,7,22,0.318,2,9,0.222,0,0,0.0,1,6,7,3,3,1,3,2,16,0
+Indiana Pacers,F,David West,Boston Celtics,L,03/06/2013,38:49,4,10,0.4,0,0,0.0,3,4,0.75,4,12,16,4,1,1,4,1,11,5
+Indiana Pacers,C,Roy Hibbert,Boston Celtics,L,03/06/2013,32:22,6,13,0.462,0,0,0.0,0,0,0.0,6,6,12,0,0,6,2,4,12,-3
+Indiana Pacers,G,Lance Stephenson,Boston Celtics,L,03/06/2013,35:17,6,15,0.4,0,3,0.0,0,0,0.0,0,0,0,2,5,0,0,1,12,-4
+Indiana Pacers,G,George Hill,Boston Celtics,L,03/06/2013,36:43,4,11,0.364,3,7,0.429,3,3,1.0,1,3,4,2,0,1,2,0,14,4
+Indiana Pacers,F,Paul George,Orlando Magic,W,03/08/2013,27:25,8,12,0.667,4,5,0.8,5,5,1.0,1,4,5,3,1,0,2,0,25,17
+Indiana Pacers,F,David West,Orlando Magic,W,03/08/2013,26:05,4,13,0.308,0,0,0.0,1,2,0.5,2,5,7,2,0,0,2,2,9,16
+Indiana Pacers,C,Roy Hibbert,Orlando Magic,W,03/08/2013,27:13,3,5,0.6,0,0,0.0,4,4,1.0,0,2,2,1,1,5,1,2,10,18
+Indiana Pacers,G,Lance Stephenson,Orlando Magic,W,03/08/2013,28:10,5,7,0.714,0,0,0.0,0,2,0.0,1,5,6,3,0,0,1,3,10,20
+Indiana Pacers,G,George Hill,Orlando Magic,W,03/08/2013,22:28,5,9,0.556,1,3,0.333,0,0,0.0,1,2,3,5,1,0,1,1,11,15
+Indiana Pacers,F,Paul George,Miami Heat,L,03/10/2013,41:17,2,11,0.182,2,7,0.286,4,4,1.0,0,6,6,5,1,0,5,3,10,-20
+Indiana Pacers,F,David West,Miami Heat,L,03/10/2013,34:16,7,10,0.7,0,0,0.0,10,11,0.909,1,4,5,3,4,0,1,2,24,-17
+Indiana Pacers,C,Roy Hibbert,Miami Heat,L,03/10/2013,32:27,7,14,0.5,0,1,0.0,2,2,1.0,1,3,4,2,0,0,3,4,16,-31
+Indiana Pacers,G,Lance Stephenson,Miami Heat,L,03/10/2013,33:01,1,5,0.2,0,3,0.0,4,5,0.8,1,2,3,1,1,0,2,4,6,-20
+Indiana Pacers,G,George Hill,Miami Heat,L,03/10/2013,21:45,2,5,0.4,2,4,0.5,1,2,0.5,0,1,1,1,1,0,0,4,7,-22
+Indiana Pacers,F,Paul George,Minnesota Timberwolves,W,03/13/2013,27:02,6,11,0.545,4,6,0.667,1,2,0.5,0,5,5,4,1,0,2,5,17,8
+Indiana Pacers,F,David West,Minnesota Timberwolves,W,03/13/2013,31:11,6,8,0.75,0,0,0.0,1,2,0.5,3,7,10,6,0,0,1,3,13,22
+Indiana Pacers,C,Roy Hibbert,Minnesota Timberwolves,W,03/13/2013,34:24,10,15,0.667,0,0,0.0,7,8,0.875,9,3,12,0,0,4,3,2,27,23
+Indiana Pacers,G,Lance Stephenson,Minnesota Timberwolves,W,03/13/2013,28:37,2,11,0.182,0,5,0.0,1,2,0.5,1,3,4,4,0,0,2,4,5,24
+Indiana Pacers,G,George Hill,Minnesota Timberwolves,W,03/13/2013,34:57,7,14,0.5,2,5,0.4,0,0,0.0,0,5,5,6,3,0,1,2,16,21
+Indiana Pacers,F,Paul George,Los Angeles Lakers,L,03/15/2013,35:43,6,20,0.3,3,10,0.3,5,5,1.0,2,7,9,3,2,1,3,4,20,0
+Indiana Pacers,F,David West,Los Angeles Lakers,L,03/15/2013,38:25,4,13,0.308,0,0,0.0,0,0,0.0,2,6,8,3,1,1,2,3,8,1
+Indiana Pacers,C,Roy Hibbert,Los Angeles Lakers,L,03/15/2013,23:56,3,12,0.25,1,1,1.0,0,0,0.0,6,4,10,1,0,0,2,5,7,6
+Indiana Pacers,G,Lance Stephenson,Los Angeles Lakers,L,03/15/2013,37:22,5,12,0.417,2,3,0.667,0,0,0.0,1,10,11,5,1,0,5,2,12,8
+Indiana Pacers,G,George Hill,Los Angeles Lakers,L,03/15/2013,39:27,11,19,0.579,4,8,0.5,1,2,0.5,0,1,1,3,1,0,1,4,27,3
+Indiana Pacers,F,Paul George,Philadelphia 76ers,L,03/16/2013,41:21,6,17,0.353,2,7,0.286,4,6,0.667,2,12,14,8,1,0,2,4,18,3
+Indiana Pacers,F,David West,Philadelphia 76ers,L,03/16/2013,26:51,8,13,0.615,0,1,0.0,2,3,0.667,0,4,4,0,0,0,3,5,18,-5
+Indiana Pacers,C,Roy Hibbert,Philadelphia 76ers,L,03/16/2013,35:50,9,26,0.346,0,0,0.0,7,8,0.875,7,3,10,0,0,2,0,3,25,7
+Indiana Pacers,G,Lance Stephenson,Philadelphia 76ers,L,03/16/2013,28:39,1,6,0.167,0,1,0.0,0,0,0.0,2,2,4,6,0,0,1,1,2,4
+Indiana Pacers,G,George Hill,Philadelphia 76ers,L,03/16/2013,38:59,5,15,0.333,3,6,0.5,0,0,0.0,1,2,3,8,3,0,2,1,13,-6
+Indiana Pacers,F,Paul George,Cleveland Cavaliers,W,03/18/2013,24:55,5,9,0.556,0,2,0.0,4,5,0.8,0,4,4,4,2,1,5,2,14,14
+Indiana Pacers,F,Tyler Hansbrough,Cleveland Cavaliers,W,03/18/2013,23:25,6,12,0.5,0,0,0.0,6,7,0.857,5,6,11,0,0,0,0,0,18,21
+Indiana Pacers,C,Roy Hibbert,Cleveland Cavaliers,W,03/18/2013,28:27,4,10,0.4,0,0,0.0,4,5,0.8,3,6,9,2,1,5,2,1,12,24
+Indiana Pacers,G,Lance Stephenson,Cleveland Cavaliers,W,03/18/2013,22:21,3,8,0.375,0,4,0.0,0,0,0.0,0,3,3,3,0,0,0,0,6,19
+Indiana Pacers,G,George Hill,Cleveland Cavaliers,W,03/18/2013,22:14,2,7,0.286,1,3,0.333,4,4,1.0,0,2,2,7,3,0,1,3,9,19
+Indiana Pacers,F,Paul George,Orlando Magic,W,03/19/2013,28:26,7,14,0.5,1,3,0.333,4,4,1.0,0,5,5,2,0,1,2,2,19,5
+Indiana Pacers,F,Tyler Hansbrough,Orlando Magic,W,03/19/2013,27:24,4,14,0.286,0,0,0.0,6,7,0.857,9,5,14,1,1,1,1,3,14,5
+Indiana Pacers,C,Roy Hibbert,Orlando Magic,W,03/19/2013,24:02,3,8,0.375,0,0,0.0,3,3,1.0,1,4,5,1,0,1,1,4,9,10
+Indiana Pacers,G,Lance Stephenson,Orlando Magic,W,03/19/2013,25:34,1,5,0.2,0,3,0.0,2,2,1.0,0,3,3,3,1,1,3,2,4,10
+Indiana Pacers,G,George Hill,Orlando Magic,W,03/19/2013,31:12,6,11,0.545,2,4,0.5,0,0,0.0,2,5,7,2,0,0,2,1,14,22
+Indiana Pacers,F,Paul George,Milwaukee Bucks,W,03/22/2013,35:12,7,15,0.467,1,4,0.25,5,6,0.833,1,7,8,6,1,0,5,0,20,25
+Indiana Pacers,F,Tyler Hansbrough,Milwaukee Bucks,W,03/22/2013,26:32,8,14,0.571,0,0,0.0,6,7,0.857,3,9,12,0,0,0,0,2,22,20
+Indiana Pacers,C,Roy Hibbert,Milwaukee Bucks,W,03/22/2013,26:06,4,7,0.571,0,0,0.0,3,6,0.5,2,6,8,3,0,7,1,4,11,19
+Indiana Pacers,G,Lance Stephenson,Milwaukee Bucks,W,03/22/2013,27:01,2,4,0.5,0,1,0.0,1,2,0.5,2,5,7,3,0,2,2,2,5,17
+Indiana Pacers,G,George Hill,Milwaukee Bucks,W,03/22/2013,26:49,2,8,0.25,0,3,0.0,2,2,1.0,0,2,2,2,3,0,0,0,6,17
+Indiana Pacers,F,Paul George,Chicago Bulls,L,03/23/2013,37:25,9,20,0.45,1,6,0.167,4,5,0.8,0,11,11,2,3,0,1,5,23,4
+Indiana Pacers,F,Tyler Hansbrough,Chicago Bulls,L,03/23/2013,27:51,3,6,0.5,0,0,0.0,1,2,0.5,2,4,6,3,0,0,2,3,7,1
+Indiana Pacers,C,Roy Hibbert,Chicago Bulls,L,03/23/2013,35:02,8,18,0.444,0,0,0.0,2,2,1.0,4,8,12,2,0,2,3,4,18,6
+Indiana Pacers,G,Lance Stephenson,Chicago Bulls,L,03/23/2013,34:45,2,5,0.4,1,1,1.0,5,8,0.625,0,3,3,3,2,1,0,1,10,-2
+Indiana Pacers,G,George Hill,Chicago Bulls,L,03/23/2013,33:09,3,8,0.375,2,4,0.5,3,3,1.0,0,1,1,2,0,1,1,2,11,7
+Indiana Pacers,F,Paul George,Atlanta Hawks,W,03/25/2013,41:56,6,13,0.462,1,5,0.2,0,0,0.0,0,6,6,4,1,1,6,4,13,-5
+Indiana Pacers,F,Tyler Hansbrough,Atlanta Hawks,W,03/25/2013,26:06,6,11,0.545,0,1,0.0,0,1,0.0,6,5,11,0,0,0,2,1,12,5
+Indiana Pacers,C,Roy Hibbert,Atlanta Hawks,W,03/25/2013,37:27,8,17,0.471,0,0,0.0,1,1,1.0,4,9,13,1,1,3,1,2,17,16
+Indiana Pacers,G,Gerald Green,Atlanta Hawks,W,03/25/2013,23:03,6,10,0.6,2,4,0.5,5,6,0.833,1,5,6,1,2,0,0,2,19,6
+Indiana Pacers,G,D.J. Augustin,Atlanta Hawks,W,03/25/2013,36:27,1,6,0.167,1,4,0.25,3,3,1.0,1,1,2,5,2,0,6,2,6,13
+Indiana Pacers,F,Paul George,Houston Rockets,W,03/27/2013,39:04,4,17,0.235,2,8,0.25,6,6,1.0,0,6,6,3,3,0,2,4,16,6
+Indiana Pacers,F,Tyler Hansbrough,Houston Rockets,W,03/27/2013,32:07,4,7,0.571,0,0,0.0,8,9,0.889,2,6,8,1,2,0,1,2,16,14
+Indiana Pacers,C,Roy Hibbert,Houston Rockets,W,03/27/2013,36:35,11,17,0.647,0,0,0.0,6,8,0.75,3,10,13,3,0,3,4,3,28,21
+Indiana Pacers,G,Lance Stephenson,Houston Rockets,W,03/27/2013,34:53,9,14,0.643,1,2,0.5,2,3,0.667,2,3,5,3,1,0,1,2,21,13
+Indiana Pacers,G,George Hill,Houston Rockets,W,03/27/2013,38:19,1,11,0.091,0,5,0.0,0,0,0.0,0,4,4,5,2,0,0,2,2,19
+Indiana Pacers,F,Paul George,Dallas Mavericks,W,03/28/2013,37:59,10,17,0.588,2,5,0.4,2,3,0.667,0,8,8,6,3,0,3,2,24,31
+Indiana Pacers,F,David West,Dallas Mavericks,W,03/28/2013,28:00,3,8,0.375,0,0,0.0,1,4,0.25,1,6,7,2,0,0,2,3,7,17
+Indiana Pacers,C,Roy Hibbert,Dallas Mavericks,W,03/28/2013,24:09,5,10,0.5,0,0,0.0,6,8,0.75,5,6,11,1,1,1,2,5,16,27
+Indiana Pacers,G,Lance Stephenson,Dallas Mavericks,W,03/28/2013,27:29,3,9,0.333,0,1,0.0,0,0,0.0,0,2,2,3,1,0,0,1,6,12
+Indiana Pacers,G,George Hill,Dallas Mavericks,W,03/28/2013,29:45,3,5,0.6,1,1,1.0,3,3,1.0,1,4,5,3,1,0,2,2,10,34
+Indiana Pacers,F,Paul George,Phoenix Suns,W,03/30/2013,42:37,7,14,0.5,2,7,0.286,9,12,0.75,1,3,4,4,4,2,4,3,25,9
+Indiana Pacers,F,David West,Phoenix Suns,W,03/30/2013,34:52,6,11,0.545,0,0,0.0,2,2,1.0,4,3,7,4,2,0,5,4,14,7
+Indiana Pacers,C,Roy Hibbert,Phoenix Suns,W,03/30/2013,29:08,7,17,0.412,0,0,0.0,6,10,0.6,4,3,7,1,0,1,3,5,20,7
+Indiana Pacers,G,Lance Stephenson,Phoenix Suns,W,03/30/2013,36:40,6,12,0.5,1,3,0.333,3,4,0.75,0,6,6,3,3,1,1,2,16,17
+Indiana Pacers,G,George Hill,Phoenix Suns,W,03/30/2013,34:18,4,8,0.5,1,3,0.333,6,7,0.857,1,4,5,3,0,0,0,0,15,4
+Indiana Pacers,F,Paul George,Los Angeles Clippers,W,04/01/2013,42:56,7,15,0.467,2,7,0.286,7,9,0.778,1,5,6,10,4,1,1,2,23,2
+Indiana Pacers,F,David West,Los Angeles Clippers,W,04/01/2013,35:38,7,14,0.5,0,0,0.0,2,2,1.0,1,6,7,6,2,1,4,3,16,18
+Indiana Pacers,C,Roy Hibbert,Los Angeles Clippers,W,04/01/2013,32:16,11,14,0.786,0,0,0.0,4,7,0.571,5,5,10,2,1,1,0,6,26,21
+Indiana Pacers,G,Lance Stephenson,Los Angeles Clippers,W,04/01/2013,36:29,5,9,0.556,1,3,0.333,2,2,1.0,1,2,3,2,0,0,1,3,13,5
+Indiana Pacers,G,George Hill,Los Angeles Clippers,W,04/01/2013,38:03,4,8,0.5,3,7,0.429,2,2,1.0,0,2,2,4,0,1,2,2,13,9
+Indiana Pacers,F,Paul George,Oklahoma City Thunder,L,04/05/2013,37:48,3,11,0.273,0,6,0.0,2,5,0.4,2,5,7,2,1,0,1,3,8,-18
+Indiana Pacers,F,David West,Oklahoma City Thunder,L,04/05/2013,35:07,7,14,0.5,0,0,0.0,3,4,0.75,2,3,5,2,3,1,1,0,17,-14
+Indiana Pacers,C,Roy Hibbert,Oklahoma City Thunder,L,04/05/2013,30:43,8,14,0.571,0,0,0.0,6,6,1.0,2,6,8,1,0,1,2,3,22,-14
+Indiana Pacers,G,Lance Stephenson,Oklahoma City Thunder,L,04/05/2013,29:49,2,7,0.286,0,2,0.0,0,0,0.0,0,0,0,3,1,0,0,1,4,-10
+Indiana Pacers,G,George Hill,Oklahoma City Thunder,L,04/05/2013,36:30,4,12,0.333,1,7,0.143,1,1,1.0,2,2,4,3,0,0,1,2,10,-21
+Indiana Pacers,F,Paul George,Washington Wizards,L,04/06/2013,34:24,0,8,0.0,0,4,0.0,2,2,1.0,1,5,6,3,0,0,2,3,2,-18
+Indiana Pacers,F,David West,Washington Wizards,L,04/06/2013,28:52,6,14,0.429,0,0,0.0,0,0,0.0,1,9,10,1,0,0,1,3,12,-18
+Indiana Pacers,C,Roy Hibbert,Washington Wizards,L,04/06/2013,30:34,11,17,0.647,0,0,0.0,3,4,0.75,3,7,10,2,0,1,3,2,25,-20
+Indiana Pacers,G,Lance Stephenson,Washington Wizards,L,04/06/2013,21:06,0,1,0.0,0,0,0.0,2,2,1.0,0,2,2,1,0,0,1,4,2,-20
+Indiana Pacers,G,George Hill,Washington Wizards,L,04/06/2013,28:59,4,12,0.333,0,3,0.0,3,4,0.75,3,2,5,3,2,0,2,2,11,-21
+Indiana Pacers,F,Paul George,Cleveland Cavaliers,W,04/09/2013,33:20,4,12,0.333,2,3,0.667,4,6,0.667,3,4,7,2,3,0,2,2,14,3
+Indiana Pacers,F,David West,Cleveland Cavaliers,W,04/09/2013,32:54,4,7,0.571,0,0,0.0,7,9,0.778,3,6,9,1,0,1,1,4,15,7
+Indiana Pacers,C,Roy Hibbert,Cleveland Cavaliers,W,04/09/2013,22:38,4,10,0.4,0,0,0.0,0,0,0.0,2,3,5,1,1,3,3,2,8,0
+Indiana Pacers,G,Lance Stephenson,Cleveland Cavaliers,W,04/09/2013,32:54,3,7,0.429,0,1,0.0,7,8,0.875,2,6,8,2,2,1,1,2,13,7
+Indiana Pacers,G,George Hill,Cleveland Cavaliers,W,04/09/2013,37:58,9,15,0.6,1,3,0.333,8,9,0.889,0,2,2,4,4,1,0,1,27,14
+Indiana Pacers,F,Paul George,Brooklyn Nets,L,04/12/2013,43:00,7,17,0.412,3,7,0.429,4,4,1.0,1,3,4,4,1,3,4,4,21,-4
+Indiana Pacers,F,David West,Brooklyn Nets,L,04/12/2013,38:16,11,13,0.846,0,0,0.0,4,4,1.0,0,9,9,2,3,1,4,4,26,-12
+Indiana Pacers,C,Roy Hibbert,Brooklyn Nets,L,04/12/2013,31:47,7,15,0.467,0,0,0.0,4,4,1.0,5,5,10,1,0,2,0,3,18,-3
+Indiana Pacers,G,Lance Stephenson,Brooklyn Nets,L,04/12/2013,36:02,5,9,0.556,2,4,0.5,1,6,0.167,2,2,4,6,2,1,3,6,13,-11
+Indiana Pacers,G,George Hill,Brooklyn Nets,L,04/12/2013,36:16,5,15,0.333,3,7,0.429,4,4,1.0,1,0,1,10,1,0,0,3,17,-10
+Indiana Pacers,F,Paul George,New York Knicks,L,04/14/2013,39:54,3,12,0.25,1,8,0.125,2,3,0.667,2,5,7,11,2,0,4,3,9,-5
+Indiana Pacers,F,David West,New York Knicks,L,04/14/2013,33:40,5,9,0.556,0,1,0.0,7,8,0.875,2,6,8,1,1,0,4,2,17,6
+Indiana Pacers,C,Roy Hibbert,New York Knicks,L,04/14/2013,28:26,2,5,0.4,0,0,0.0,0,0,0.0,5,5,10,0,0,3,5,5,4,-11
+Indiana Pacers,G,George Hill,New York Knicks,L,04/14/2013,34:49,2,8,0.25,2,6,0.333,0,2,0.0,0,3,3,5,1,0,1,1,6,-7
+Indiana Pacers,G,Lance Stephenson,New York Knicks,L,04/14/2013,34:30,8,16,0.5,4,9,0.444,2,3,0.667,0,4,4,1,2,0,4,2,22,-8
+Indiana Pacers,F,Gerald Green,Philadelphia 76ers,L,04/17/2013,39:57,14,23,0.609,6,12,0.5,0,1,0.0,1,5,6,1,2,1,3,2,34,-6
+Indiana Pacers,F,Tyler Hansbrough,Philadelphia 76ers,L,04/17/2013,27:38,3,9,0.333,0,0,0.0,4,6,0.667,3,6,9,0,0,0,3,2,10,-3
+Indiana Pacers,C,Ian Mahinmi,Philadelphia 76ers,L,04/17/2013,34:03,2,5,0.4,0,0,0.0,1,5,0.2,4,2,6,1,1,0,3,3,5,-7
+Indiana Pacers,G,Lance Stephenson,Philadelphia 76ers,L,04/17/2013,25:45,5,8,0.625,0,1,0.0,2,2,1.0,1,2,3,6,0,0,4,2,12,-16
+Indiana Pacers,G,D.J. Augustin,Philadelphia 76ers,L,04/17/2013,24:26,1,4,0.25,0,3,0.0,1,2,0.5,1,1,2,5,0,0,2,1,3,-10

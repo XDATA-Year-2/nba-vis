@@ -1,0 +1,424 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Boston Celtics,,Jared Sullinger,Miami Heat,L,10/30/2012,8:06,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,2,-3
+Boston Celtics,,Jason Terry,Miami Heat,L,10/30/2012,24:51,2,7,0.286,0,3,0.0,4,4,1.0,0,0,0,1,1,0,3,3,8,-10
+Boston Celtics,,Jeff Green,Miami Heat,L,10/30/2012,23:04,0,4,0.0,0,0,0.0,3,4,0.75,0,3,3,0,1,0,1,0,3,-7
+Boston Celtics,,Leandro Barbosa,Miami Heat,L,10/30/2012,15:50,6,8,0.75,3,3,1.0,1,2,0.5,0,1,1,1,0,0,0,1,16,4
+Boston Celtics,,Jeff Green,Milwaukee Bucks,L,11/02/2012,26:42,5,9,0.556,1,4,0.25,0,0,0.0,0,1,1,0,2,1,1,0,11,-16
+Boston Celtics,,Jared Sullinger,Milwaukee Bucks,L,11/02/2012,17:59,2,5,0.4,0,0,0.0,2,2,1.0,3,4,7,0,1,1,0,4,6,-4
+Boston Celtics,,Darko Milicic,Milwaukee Bucks,L,11/02/2012,4:30,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,1,0,-3
+Boston Celtics,,Jason Terry,Milwaukee Bucks,L,11/02/2012,24:41,4,6,0.667,2,2,1.0,0,0,0.0,0,2,2,2,0,0,3,4,10,1
+Boston Celtics,,Leandro Barbosa,Milwaukee Bucks,L,11/02/2012,7:13,1,3,0.333,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,2,3
+Boston Celtics,,Kris Joseph,Milwaukee Bucks,L,11/02/2012,2:37,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,1,0,0,9
+Boston Celtics,,Chris Wilcox,Milwaukee Bucks,L,11/02/2012,2:37,0,0,0.0,0,0,0.0,2,2,1.0,0,1,1,1,0,0,0,0,2,9
+Boston Celtics,,Brandon Bass,Washington Wizards,W,11/03/2012,27:43,2,6,0.333,0,0,0.0,1,1,1.0,2,3,5,2,1,2,0,2,5,-8
+Boston Celtics,,Chris Wilcox,Washington Wizards,W,11/03/2012,7:42,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-5
+Boston Celtics,,Jason Terry,Washington Wizards,W,11/03/2012,17:27,2,8,0.25,0,2,0.0,4,4,1.0,0,0,0,3,2,0,1,0,8,-12
+Boston Celtics,,Jeff Green,Washington Wizards,W,11/03/2012,16:00,5,10,0.5,1,2,0.5,0,2,0.0,0,2,2,0,1,0,1,1,11,-5
+Boston Celtics,,Leandro Barbosa,Washington Wizards,W,11/03/2012,7:49,1,3,0.333,1,3,0.333,0,0,0.0,0,0,0,1,0,0,1,0,3,-12
+Boston Celtics,,Brandon Bass,Washington Wizards,W,11/07/2012,32:57,4,9,0.444,0,0,0.0,3,4,0.75,2,5,7,0,1,0,2,4,11,6
+Boston Celtics,,Jason Terry,Washington Wizards,W,11/07/2012,32:16,7,15,0.467,2,5,0.4,0,0,0.0,0,1,1,3,0,0,1,0,16,7
+Boston Celtics,,Jeff Green,Washington Wizards,W,11/07/2012,21:34,3,6,0.5,0,0,0.0,0,0,0.0,0,2,2,2,0,0,2,0,6,2
+Boston Celtics,,Leandro Barbosa,Washington Wizards,W,11/07/2012,11:48,1,3,0.333,0,1,0.0,0,0,0.0,1,0,1,1,0,1,1,0,2,-4
+Boston Celtics,,Chris Wilcox,Washington Wizards,W,11/07/2012,3:41,1,1,1.0,0,0,0.0,4,5,0.8,0,2,2,0,0,1,0,0,6,8
+Boston Celtics,,Brandon Bass,Philadelphia 76ers,L,11/09/2012,23:14,2,7,0.286,0,0,0.0,4,4,1.0,1,1,2,0,0,1,2,3,8,-5
+Boston Celtics,,Jeff Green,Philadelphia 76ers,L,11/09/2012,17:54,1,5,0.2,0,1,0.0,2,3,0.667,1,3,4,0,0,1,0,0,4,-6
+Boston Celtics,,Jason Terry,Philadelphia 76ers,L,11/09/2012,29:08,5,7,0.714,2,4,0.5,1,1,1.0,0,1,1,1,1,0,1,2,13,5
+Boston Celtics,,Chris Wilcox,Philadelphia 76ers,L,11/09/2012,12:11,1,1,1.0,0,0,0.0,4,6,0.667,0,0,0,0,0,0,0,3,6,1
+Boston Celtics,,Leandro Barbosa,Philadelphia 76ers,L,11/09/2012,11:23,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,2,0,0,1,2,2,-7
+Boston Celtics,,Chris Wilcox,Milwaukee Bucks,W,11/10/2012,15:06,3,5,0.6,0,0,0.0,0,0,0.0,1,2,3,0,1,0,2,3,6,-5
+Boston Celtics,,Jared Sullinger,Milwaukee Bucks,W,11/10/2012,6:49,0,0,0.0,0,0,0.0,2,2,1.0,1,3,4,0,0,0,0,2,2,-1
+Boston Celtics,,Jeff Green,Milwaukee Bucks,W,11/10/2012,25:20,3,8,0.375,0,1,0.0,6,8,0.75,0,3,3,0,1,2,3,3,12,-1
+Boston Celtics,,Courtney Lee,Milwaukee Bucks,W,11/10/2012,28:00,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,1,0,0,0,0,0,3
+Boston Celtics,,Leandro Barbosa,Milwaukee Bucks,W,11/10/2012,8:27,0,6,0.0,0,2,0.0,0,0,0.0,0,1,1,1,0,0,1,0,0,-4
+Boston Celtics,,Jared Sullinger,Chicago Bulls,W,11/12/2012,12:54,1,2,0.5,1,1,1.0,0,0,0.0,0,1,1,4,0,1,0,2,3,-10
+Boston Celtics,,Chris Wilcox,Chicago Bulls,W,11/12/2012,19:25,2,2,1.0,0,0,0.0,3,3,1.0,1,1,2,0,0,0,0,4,7,-4
+Boston Celtics,,Courtney Lee,Chicago Bulls,W,11/12/2012,17:47,2,3,0.667,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,1,4,-17
+Boston Celtics,,Jeff Green,Chicago Bulls,W,11/12/2012,15:14,3,7,0.429,1,2,0.5,0,0,0.0,1,4,5,0,0,0,1,0,7,-7
+Boston Celtics,,Leandro Barbosa,Chicago Bulls,W,11/12/2012,15:12,3,7,0.429,0,2,0.0,0,0,0.0,0,0,0,3,0,0,1,2,6,-7
+Boston Celtics,,Chris Wilcox,Utah Jazz,W,11/14/2012,18:20,3,3,1.0,0,0,0.0,1,2,0.5,1,4,5,0,1,0,1,1,7,-4
+Boston Celtics,,Jeff Green,Utah Jazz,W,11/14/2012,27:17,5,9,0.556,0,0,0.0,6,7,0.857,1,3,4,2,0,0,2,2,16,12
+Boston Celtics,,Jared Sullinger,Utah Jazz,W,11/14/2012,15:49,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,3,2,7
+Boston Celtics,,Courtney Lee,Utah Jazz,W,11/14/2012,17:37,3,6,0.5,0,1,0.0,0,0,0.0,0,2,2,1,1,0,1,1,6,11
+Boston Celtics,,Leandro Barbosa,Utah Jazz,W,11/14/2012,22:42,6,8,0.75,1,1,1.0,3,6,0.5,0,2,2,3,0,0,0,1,16,13
+Boston Celtics,,Chris Wilcox,Brooklyn Nets,L,11/15/2012,12:32,2,2,1.0,0,0,0.0,2,2,1.0,2,1,3,1,0,2,2,3,6,16
+Boston Celtics,,Courtney Lee,Brooklyn Nets,L,11/15/2012,33:28,4,8,0.5,1,2,0.5,4,4,1.0,3,6,9,3,3,0,1,3,13,-3
+Boston Celtics,,Jeff Green,Brooklyn Nets,L,11/15/2012,25:03,2,6,0.333,1,1,1.0,0,0,0.0,1,5,6,1,0,0,4,3,5,1
+Boston Celtics,,Jason Collins,Brooklyn Nets,L,11/15/2012,8:18,1,2,0.5,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,2,2,-1
+Boston Celtics,,Jared Sullinger,Brooklyn Nets,L,11/15/2012,7:39,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,0
+Boston Celtics,,Chris Wilcox,Toronto Raptors,W,11/17/2012,24:45,4,8,0.5,0,0,0.0,0,1,0.0,2,0,2,1,1,0,2,4,8,17
+Boston Celtics,,Jared Sullinger,Toronto Raptors,W,11/17/2012,26:23,5,8,0.625,0,0,0.0,2,2,1.0,4,7,11,0,1,0,0,3,12,9
+Boston Celtics,,Courtney Lee,Toronto Raptors,W,11/17/2012,18:41,2,5,0.4,0,0,0.0,0,0,0.0,0,3,3,4,3,0,3,2,4,8
+Boston Celtics,,Leandro Barbosa,Toronto Raptors,W,11/17/2012,15:48,3,6,0.5,1,2,0.5,1,2,0.5,0,1,1,3,0,0,0,1,8,-1
+Boston Celtics,,Jeff Green,Toronto Raptors,W,11/17/2012,26:05,4,6,0.667,0,0,0.0,1,2,0.5,0,2,2,2,0,0,1,2,9,15
+Boston Celtics,,Chris Wilcox,Detroit Pistons,L,11/18/2012,20:25,1,2,0.5,0,0,0.0,0,0,0.0,2,3,5,0,1,0,0,3,2,-12
+Boston Celtics,,Jared Sullinger,Detroit Pistons,L,11/18/2012,27:08,7,12,0.583,0,0,0.0,2,2,1.0,2,3,5,0,0,0,2,3,16,-20
+Boston Celtics,,Courtney Lee,Detroit Pistons,L,11/18/2012,19:53,1,2,0.5,1,2,0.5,0,0,0.0,0,1,1,0,1,0,2,2,3,-7
+Boston Celtics,,Jeff Green,Detroit Pistons,L,11/18/2012,22:10,2,5,0.4,0,2,0.0,2,2,1.0,1,1,2,1,0,0,1,2,6,-11
+Boston Celtics,,Leandro Barbosa,Detroit Pistons,L,11/18/2012,15:13,1,6,0.167,0,1,0.0,3,4,0.75,0,1,1,1,2,0,0,0,5,-8
+Boston Celtics,,Chris Wilcox,San Antonio Spurs,L,11/21/2012,8:54,1,1,1.0,0,0,0.0,0,0,0.0,0,3,3,0,0,0,0,4,2,6
+Boston Celtics,,Jared Sullinger,San Antonio Spurs,L,11/21/2012,19:54,1,3,0.333,0,0,0.0,0,0,0.0,0,7,7,0,0,1,0,2,2,-14
+Boston Celtics,,Courtney Lee,San Antonio Spurs,L,11/21/2012,16:20,2,3,0.667,0,0,0.0,0,0,0.0,0,1,1,0,0,0,4,1,4,-14
+Boston Celtics,,Leandro Barbosa,San Antonio Spurs,L,11/21/2012,12:09,2,3,0.667,0,0,0.0,0,0,0.0,0,2,2,2,1,0,1,1,4,-15
+Boston Celtics,,Jeff Green,San Antonio Spurs,L,11/21/2012,15:53,2,7,0.286,1,2,0.5,0,1,0.0,0,0,0,1,0,0,0,0,5,-9
+Boston Celtics,,Chris Wilcox,Oklahoma City Thunder,W,11/23/2012,14:50,3,3,1.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,6,-4
+Boston Celtics,,Jeff Green,Oklahoma City Thunder,W,11/23/2012,24:36,6,11,0.545,0,1,0.0,5,5,1.0,0,2,2,0,1,1,2,4,17,3
+Boston Celtics,,Courtney Lee,Oklahoma City Thunder,W,11/23/2012,18:43,2,5,0.4,0,2,0.0,0,0,0.0,0,1,1,3,1,0,1,1,4,8
+Boston Celtics,,Leandro Barbosa,Oklahoma City Thunder,W,11/23/2012,11:08,0,3,0.0,0,0,0.0,0,0,0.0,0,1,1,2,0,0,0,0,0,17
+Boston Celtics,,Jared Sullinger,Oklahoma City Thunder,W,11/23/2012,14:07,4,6,0.667,0,0,0.0,0,0,0.0,2,1,3,1,1,0,1,4,8,15
+Boston Celtics,,Chris Wilcox,Orlando Magic,W,11/25/2012,12:55,2,3,0.667,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,0,4,-2
+Boston Celtics,,Courtney Lee,Orlando Magic,W,11/25/2012,24:21,2,4,0.5,1,1,1.0,0,0,0.0,1,1,2,1,1,1,0,3,5,-6
+Boston Celtics,,Jared Sullinger,Orlando Magic,W,11/25/2012,19:25,5,12,0.417,0,0,0.0,1,1,1.0,6,0,6,1,0,0,0,4,11,-6
+Boston Celtics,,Jeff Green,Orlando Magic,W,11/25/2012,20:05,0,9,0.0,0,3,0.0,1,2,0.5,0,2,2,1,0,1,1,0,1,-3
+Boston Celtics,,Leandro Barbosa,Orlando Magic,W,11/25/2012,10:33,6,8,0.75,2,3,0.667,1,1,1.0,0,1,1,0,0,0,2,4,15,-3
+Boston Celtics,,Chris Wilcox,Brooklyn Nets,L,11/28/2012,6:41,2,2,1.0,0,0,0.0,0,0,0.0,1,2,3,0,0,1,1,1,4,-13
+Boston Celtics,,Jared Sullinger,Brooklyn Nets,L,11/28/2012,14:26,2,5,0.4,0,0,0.0,2,2,1.0,2,1,3,0,1,0,0,3,6,-8
+Boston Celtics,,Courtney Lee,Brooklyn Nets,L,11/28/2012,27:22,2,5,0.4,0,0,0.0,0,0,0.0,1,3,4,0,1,1,2,1,4,-12
+Boston Celtics,,Jeff Green,Brooklyn Nets,L,11/28/2012,15:47,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,0,0,1,0,1,2,-9
+Boston Celtics,,Leandro Barbosa,Brooklyn Nets,L,11/28/2012,13:06,1,5,0.2,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,3,2,-6
+Boston Celtics,,Jason Collins,Brooklyn Nets,L,11/28/2012,11:27,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,2,3,0,-9
+Boston Celtics,,Jared Sullinger,Portland Trail Blazers,W,11/30/2012,31:02,4,6,0.667,0,0,0.0,1,2,0.5,2,6,8,2,2,0,3,4,9,11
+Boston Celtics,,Jason Collins,Portland Trail Blazers,W,11/30/2012,11:30,0,0,0.0,0,0,0.0,0,1,0.0,0,1,1,0,2,0,1,3,0,-7
+Boston Celtics,,Jeff Green,Portland Trail Blazers,W,11/30/2012,22:42,6,13,0.462,2,4,0.5,5,5,1.0,1,2,3,2,4,1,4,5,19,13
+Boston Celtics,,Leandro Barbosa,Portland Trail Blazers,W,11/30/2012,20:54,3,5,0.6,1,1,1.0,2,2,1.0,0,0,0,1,3,2,1,1,9,-1
+Boston Celtics,,Chris Wilcox,Portland Trail Blazers,W,11/30/2012,13:47,1,4,0.25,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,3,2,4
+Boston Celtics,,Kris Joseph,Portland Trail Blazers,W,11/30/2012,4:55,0,3,0.0,0,0,0.0,2,2,1.0,0,0,0,0,0,0,0,2,2,-3
+Boston Celtics,,Jason Collins,Milwaukee Bucks,L,12/01/2012,13:47,0,2,0.0,0,0,0.0,0,0,0.0,2,3,5,0,0,1,1,3,0,-1
+Boston Celtics,,Jared Sullinger,Milwaukee Bucks,L,12/01/2012,13:40,1,4,0.25,0,0,0.0,0,0,0.0,1,4,5,0,0,3,1,3,2,-3
+Boston Celtics,,Jeff Green,Milwaukee Bucks,L,12/01/2012,22:36,8,11,0.727,2,3,0.667,0,0,0.0,3,3,6,0,0,1,2,3,18,-19
+Boston Celtics,,Leandro Barbosa,Milwaukee Bucks,L,12/01/2012,12:40,0,4,0.0,0,1,0.0,0,0,0.0,0,0,0,2,0,1,1,0,0,-11
+Boston Celtics,,Chris Wilcox,Milwaukee Bucks,L,12/01/2012,2:35,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,1,0,-6
+Boston Celtics,,Jared Sullinger,Minnesota Timberwolves,W,12/05/2012,17:57,1,3,0.333,0,1,0.0,5,6,0.833,1,6,7,1,0,2,0,5,7,6
+Boston Celtics,,Chris Wilcox,Minnesota Timberwolves,W,12/05/2012,20:14,2,3,0.667,0,0,0.0,1,2,0.5,1,4,5,0,0,1,2,4,5,0
+Boston Celtics,,Courtney Lee,Minnesota Timberwolves,W,12/05/2012,20:27,1,4,0.25,0,0,0.0,0,2,0.0,0,1,1,1,1,0,0,2,2,0
+Boston Celtics,,Jeff Green,Minnesota Timberwolves,W,12/05/2012,22:40,4,9,0.444,0,1,0.0,0,0,0.0,1,3,4,2,0,0,1,1,8,2
+Boston Celtics,,Leandro Barbosa,Minnesota Timberwolves,W,12/05/2012,0:04,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Boston Celtics,,Kris Joseph,Minnesota Timberwolves,W,12/05/2012,1:04,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+Boston Celtics,,Chris Wilcox,Philadelphia 76ers,L,12/07/2012,14:43,2,3,0.667,0,0,0.0,0,0,0.0,0,2,2,1,0,0,0,1,4,4
+Boston Celtics,,Courtney Lee,Philadelphia 76ers,L,12/07/2012,19:57,2,4,0.5,1,2,0.5,0,0,0.0,0,1,1,1,1,1,0,3,5,5
+Boston Celtics,,Jared Sullinger,Philadelphia 76ers,L,12/07/2012,13:34,0,0,0.0,0,0,0.0,0,0,0.0,0,5,5,0,0,0,2,2,0,5
+Boston Celtics,,Jeff Green,Philadelphia 76ers,L,12/07/2012,28:34,6,12,0.5,3,5,0.6,4,4,1.0,1,7,8,0,1,1,2,2,19,3
+Boston Celtics,,Chris Wilcox,Philadelphia 76ers,W,12/08/2012,18:10,4,5,0.8,0,0,0.0,0,0,0.0,1,2,3,0,1,2,0,4,8,-5
+Boston Celtics,,Courtney Lee,Philadelphia 76ers,W,12/08/2012,20:36,1,3,0.333,1,2,0.5,0,0,0.0,0,2,2,2,0,0,1,0,3,1
+Boston Celtics,,Jeff Green,Philadelphia 76ers,W,12/08/2012,22:45,7,12,0.583,1,1,1.0,1,1,1.0,0,0,0,1,0,0,2,2,16,3
+Boston Celtics,,Jared Sullinger,Philadelphia 76ers,W,12/08/2012,22:23,3,8,0.375,0,1,0.0,1,1,1.0,3,6,9,0,0,0,0,3,7,4
+Boston Celtics,,Leandro Barbosa,Philadelphia 76ers,W,12/08/2012,4:26,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-4
+Boston Celtics,,Chris Wilcox,Dallas Mavericks,W,12/12/2012,15:46,4,5,0.8,0,0,0.0,2,2,1.0,4,2,6,0,0,1,2,1,10,-6
+Boston Celtics,,Jeff Green,Dallas Mavericks,W,12/12/2012,26:34,5,16,0.313,1,4,0.25,4,4,1.0,0,5,5,0,0,0,1,2,15,6
+Boston Celtics,,Courtney Lee,Dallas Mavericks,W,12/12/2012,19:02,2,5,0.4,1,3,0.333,2,2,1.0,0,0,0,0,1,1,0,2,7,-1
+Boston Celtics,,Jared Sullinger,Dallas Mavericks,W,12/12/2012,10:50,0,3,0.0,0,0,0.0,0,0,0.0,1,2,3,1,1,0,1,1,0,3
+Boston Celtics,,Chris Wilcox,Houston Rockets,L,12/14/2012,14:52,2,3,0.667,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,2,4,6
+Boston Celtics,,Jared Sullinger,Houston Rockets,L,12/14/2012,14:25,3,7,0.429,0,0,0.0,1,2,0.5,4,2,6,1,0,1,0,1,7,4
+Boston Celtics,,Leandro Barbosa,Houston Rockets,L,12/14/2012,6:28,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,2,0,0,0,0,0,3
+Boston Celtics,,Jeff Green,Houston Rockets,L,12/14/2012,24:37,4,11,0.364,1,2,0.5,0,0,0.0,3,4,7,0,2,0,1,1,9,2
+Boston Celtics,,Jason Terry,Houston Rockets,L,12/14/2012,25:44,4,10,0.4,4,8,0.5,0,0,0.0,0,1,1,0,3,0,2,3,12,4
+Boston Celtics,,Chris Wilcox,San Antonio Spurs,L,12/15/2012,13:29,3,4,0.75,0,0,0.0,0,0,0.0,1,0,1,0,0,0,2,3,6,-9
+Boston Celtics,,Jason Terry,San Antonio Spurs,L,12/15/2012,31:21,6,13,0.462,4,9,0.444,2,3,0.667,0,2,2,4,0,0,2,0,18,1
+Boston Celtics,,Jared Sullinger,San Antonio Spurs,L,12/15/2012,11:13,1,2,0.5,0,0,0.0,0,0,0.0,4,3,7,0,1,0,0,1,2,1
+Boston Celtics,,Jeff Green,San Antonio Spurs,L,12/15/2012,31:47,5,10,0.5,0,0,0.0,0,0,0.0,1,2,3,1,0,1,1,4,10,-1
+Boston Celtics,,Leandro Barbosa,San Antonio Spurs,L,12/15/2012,9:22,1,4,0.25,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,1,2,-5
+Boston Celtics,,Chris Wilcox,Chicago Bulls,L,12/18/2012,13:20,2,3,0.667,0,0,0.0,0,0,0.0,1,0,1,0,1,0,0,3,4,-1
+Boston Celtics,,Jared Sullinger,Chicago Bulls,L,12/18/2012,15:34,0,6,0.0,0,0,0.0,1,2,0.5,1,2,3,1,0,1,1,4,1,-3
+Boston Celtics,,Jason Terry,Chicago Bulls,L,12/18/2012,25:53,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,2,1,1,2,1,2,-18
+Boston Celtics,,Jeff Green,Chicago Bulls,L,12/18/2012,20:19,1,6,0.167,1,2,0.5,0,0,0.0,0,1,1,0,2,0,0,1,3,-5
+Boston Celtics,,Leandro Barbosa,Chicago Bulls,L,12/18/2012,11:45,1,6,0.167,0,1,0.0,4,4,1.0,0,1,1,3,1,0,1,1,6,3
+Boston Celtics,,Jason Collins,Chicago Bulls,L,12/18/2012,12:03,0,0,0.0,0,0,0.0,0,0,0.0,3,2,5,0,1,0,0,2,0,0
+Boston Celtics,,Brandon Bass,Cleveland Cavaliers,W,12/19/2012,26:48,2,7,0.286,0,1,0.0,0,0,0.0,0,3,3,1,0,0,0,2,4,3
+Boston Celtics,,Jared Sullinger,Cleveland Cavaliers,W,12/19/2012,15:06,1,2,0.5,0,0,0.0,0,0,0.0,2,3,5,1,1,0,1,4,2,-3
+Boston Celtics,,Courtney Lee,Cleveland Cavaliers,W,12/19/2012,20:20,2,3,0.667,0,0,0.0,2,2,1.0,0,3,3,1,0,0,3,0,6,-9
+Boston Celtics,,Jeff Green,Cleveland Cavaliers,W,12/19/2012,14:24,1,4,0.25,0,2,0.0,1,2,0.5,0,1,1,0,0,1,1,1,3,-17
+Boston Celtics,,Leandro Barbosa,Cleveland Cavaliers,W,12/19/2012,3:18,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-7
+Boston Celtics,,Brandon Bass,Milwaukee Bucks,L,12/21/2012,22:35,2,6,0.333,0,0,0.0,2,2,1.0,2,4,6,1,1,1,0,2,6,-9
+Boston Celtics,,Jared Sullinger,Milwaukee Bucks,L,12/21/2012,14:21,2,2,1.0,0,0,0.0,0,0,0.0,2,5,7,2,0,0,1,6,4,-1
+Boston Celtics,,Jeff Green,Milwaukee Bucks,L,12/21/2012,28:20,4,9,0.444,0,3,0.0,6,6,1.0,1,2,3,2,4,2,1,3,14,7
+Boston Celtics,,Courtney Lee,Milwaukee Bucks,L,12/21/2012,26:58,5,9,0.556,1,3,0.333,0,0,0.0,0,2,2,0,2,0,1,3,11,-1
+Boston Celtics,,Brandon Bass,Brooklyn Nets,W,12/25/2012,19:11,4,11,0.364,0,0,0.0,0,0,0.0,1,2,3,0,0,1,0,3,8,2
+Boston Celtics,,Jeff Green,Brooklyn Nets,W,12/25/2012,28:15,5,8,0.625,1,2,0.5,4,4,1.0,0,3,3,2,1,0,1,3,15,13
+Boston Celtics,,Jared Sullinger,Brooklyn Nets,W,12/25/2012,32:50,6,7,0.857,0,0,0.0,4,6,0.667,0,7,7,2,1,1,1,5,16,21
+Boston Celtics,,Courtney Lee,Brooklyn Nets,W,12/25/2012,17:35,1,3,0.333,0,1,0.0,0,0,0.0,0,1,1,1,0,0,1,0,2,11
+Boston Celtics,,Kris Joseph,Brooklyn Nets,W,12/25/2012,1:16,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,2
+Boston Celtics,,Jarvis Varnado,Brooklyn Nets,W,12/25/2012,1:02,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,2
+Boston Celtics,,Brandon Bass,Los Angeles Clippers,L,12/27/2012,17:01,1,3,0.333,0,0,0.0,1,1,1.0,2,7,9,2,1,0,1,2,3,-8
+Boston Celtics,,Jared Sullinger,Los Angeles Clippers,L,12/27/2012,18:04,1,2,0.5,0,0,0.0,2,2,1.0,2,3,5,2,1,0,1,6,4,-7
+Boston Celtics,,Jeff Green,Los Angeles Clippers,L,12/27/2012,28:54,3,9,0.333,0,3,0.0,2,2,1.0,0,2,2,1,1,0,3,3,8,-13
+Boston Celtics,,Courtney Lee,Los Angeles Clippers,L,12/27/2012,25:36,5,9,0.556,2,4,0.5,0,0,0.0,0,3,3,1,1,1,0,0,12,-7
+Boston Celtics,,Kris Joseph,Los Angeles Clippers,L,12/27/2012,8:22,0,2,0.0,0,1,0.0,1,2,0.5,1,2,3,0,0,0,1,0,1,-6
+Boston Celtics,,Jarvis Varnado,Los Angeles Clippers,L,12/27/2012,6:33,0,1,0.0,0,0,0.0,1,2,0.5,0,1,1,0,0,0,1,1,1,-4
+Boston Celtics,,Brandon Bass,Golden State Warriors,L,12/29/2012,25:39,3,6,0.5,0,0,0.0,4,5,0.8,3,2,5,3,1,1,2,2,10,-5
+Boston Celtics,,Jared Sullinger,Golden State Warriors,L,12/29/2012,24:54,6,8,0.75,0,0,0.0,0,1,0.0,5,3,8,1,1,0,1,2,12,0
+Boston Celtics,,Jeff Green,Golden State Warriors,L,12/29/2012,33:38,2,11,0.182,0,2,0.0,2,4,0.5,4,5,9,3,2,2,2,1,6,5
+Boston Celtics,,Kris Joseph,Golden State Warriors,L,12/29/2012,5:27,1,3,0.333,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,0
+Boston Celtics,,Jarvis Varnado,Golden State Warriors,L,12/29/2012,5:19,0,0,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,-2
+Boston Celtics,,Jeff Green,Sacramento Kings,L,12/30/2012,31:02,5,17,0.294,1,4,0.25,5,7,0.714,2,1,3,1,0,1,2,1,16,-16
+Boston Celtics,,Brandon Bass,Sacramento Kings,L,12/30/2012,20:01,3,5,0.6,0,0,0.0,0,0,0.0,3,0,3,0,0,0,1,5,6,-22
+Boston Celtics,,Jared Sullinger,Sacramento Kings,L,12/30/2012,23:21,2,5,0.4,0,0,0.0,6,6,1.0,2,4,6,1,1,0,0,3,10,-2
+Boston Celtics,,Courtney Lee,Sacramento Kings,L,12/30/2012,20:45,0,6,0.0,0,2,0.0,0,0,0.0,0,0,0,3,3,1,1,1,0,7
+Boston Celtics,,Leandro Barbosa,Sacramento Kings,L,12/30/2012,4:09,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,2,-1
+Boston Celtics,,Jarvis Varnado,Sacramento Kings,L,12/30/2012,0:53,2,2,1.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,0,4,4
+Boston Celtics,,Brandon Bass,Memphis Grizzlies,L,01/02/2013,23:15,3,5,0.6,0,0,0.0,3,3,1.0,0,1,1,1,2,0,1,1,9,-12
+Boston Celtics,,Jason Terry,Memphis Grizzlies,L,01/02/2013,27:03,3,5,0.6,2,4,0.5,0,0,0.0,0,2,2,2,1,0,1,0,8,-4
+Boston Celtics,,Jared Sullinger,Memphis Grizzlies,L,01/02/2013,19:18,1,6,0.167,0,0,0.0,0,0,0.0,1,4,5,0,0,0,0,6,2,10
+Boston Celtics,,Jeff Green,Memphis Grizzlies,L,01/02/2013,14:30,4,5,0.8,2,3,0.667,0,0,0.0,1,1,2,1,1,1,1,2,10,-6
+Boston Celtics,,Courtney Lee,Memphis Grizzlies,L,01/02/2013,12:19,3,4,0.75,0,0,0.0,2,2,1.0,0,0,0,1,0,0,0,2,8,3
+Boston Celtics,,Jason Collins,Indiana Pacers,W,01/04/2013,15:24,0,0,0.0,0,0,0.0,1,2,0.5,2,0,2,0,0,1,0,3,1,15
+Boston Celtics,,Jared Sullinger,Indiana Pacers,W,01/04/2013,29:43,2,7,0.286,0,0,0.0,3,6,0.5,4,6,10,1,0,1,2,6,7,17
+Boston Celtics,,Jeff Green,Indiana Pacers,W,01/04/2013,19:01,1,4,0.25,0,0,0.0,0,0,0.0,0,2,2,1,0,1,1,3,2,-1
+Boston Celtics,,Jason Terry,Indiana Pacers,W,01/04/2013,14:38,2,8,0.25,1,3,0.333,1,1,1.0,0,2,2,1,1,0,0,0,6,3
+Boston Celtics,,Courtney Lee,Indiana Pacers,W,01/04/2013,23:05,6,9,0.667,1,1,1.0,0,0,0.0,2,3,5,2,1,0,1,2,13,13
+Boston Celtics,,Leandro Barbosa,Indiana Pacers,W,01/04/2013,5:56,3,4,0.75,0,0,0.0,0,0,0.0,0,0,0,0,1,0,1,2,6,-2
+Boston Celtics,,Jarvis Varnado,Indiana Pacers,W,01/04/2013,4:17,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,0,-1
+Boston Celtics,,Jared Sullinger,Atlanta Hawks,W,01/05/2013,23:31,4,8,0.5,0,0,0.0,0,1,0.0,4,5,9,2,0,1,0,3,8,7
+Boston Celtics,,Jason Terry,Atlanta Hawks,W,01/05/2013,25:41,2,8,0.25,0,4,0.0,0,0,0.0,0,0,0,3,0,0,0,1,4,0
+Boston Celtics,,Jason Collins,Atlanta Hawks,W,01/05/2013,3:52,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-3
+Boston Celtics,,Jeff Green,Atlanta Hawks,W,01/05/2013,15:01,1,4,0.25,0,0,0.0,1,2,0.5,0,1,1,0,0,0,1,0,3,-1
+Boston Celtics,,Courtney Lee,Atlanta Hawks,W,01/05/2013,8:38,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,2,4
+Boston Celtics,,Jeff Green,New York Knicks,W,01/07/2013,26:57,5,10,0.5,1,1,1.0,5,6,0.833,1,5,6,3,0,0,1,2,16,6
+Boston Celtics,,Jared Sullinger,New York Knicks,W,01/07/2013,19:13,3,5,0.6,0,0,0.0,4,4,1.0,2,3,5,0,0,1,1,2,10,9
+Boston Celtics,,Courtney Lee,New York Knicks,W,01/07/2013,19:58,2,6,0.333,1,2,0.5,0,0,0.0,0,2,2,2,3,0,2,1,5,3
+Boston Celtics,,Leandro Barbosa,New York Knicks,W,01/07/2013,13:10,3,3,1.0,0,0,0.0,2,3,0.667,0,0,0,3,0,0,0,0,8,5
+Boston Celtics,,Jared Sullinger,Phoenix Suns,W,01/09/2013,34:23,6,10,0.6,0,0,0.0,0,0,0.0,5,11,16,3,1,1,0,4,12,24
+Boston Celtics,,Jason Terry,Phoenix Suns,W,01/09/2013,27:17,6,8,0.75,1,3,0.333,0,0,0.0,1,4,5,5,1,0,2,1,13,19
+Boston Celtics,,Jeff Green,Phoenix Suns,W,01/09/2013,25:30,5,9,0.556,0,3,0.0,4,4,1.0,0,3,3,0,1,1,0,2,14,16
+Boston Celtics,,Courtney Lee,Phoenix Suns,W,01/09/2013,18:58,2,5,0.4,0,1,0.0,2,4,0.5,0,0,0,2,3,0,1,1,6,12
+Boston Celtics,,Leandro Barbosa,Phoenix Suns,W,01/09/2013,0:13,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Boston Celtics,,Jason Collins,Phoenix Suns,W,01/09/2013,4:50,0,0,0.0,0,0,0.0,2,2,1.0,0,0,0,0,0,0,1,1,2,2
+Boston Celtics,,Jared Sullinger,Houston Rockets,W,01/11/2013,26:32,7,8,0.875,0,0,0.0,0,0,0.0,5,6,11,1,0,0,1,6,14,7
+Boston Celtics,,Jason Collins,Houston Rockets,W,01/11/2013,10:18,0,0,0.0,0,0,0.0,0,2,0.0,1,1,2,0,1,0,0,2,0,8
+Boston Celtics,,Courtney Lee,Houston Rockets,W,01/11/2013,20:57,5,7,0.714,2,3,0.667,2,2,1.0,0,0,0,3,1,1,3,1,14,17
+Boston Celtics,,Jeff Green,Houston Rockets,W,01/11/2013,18:46,4,9,0.444,1,3,0.333,0,0,0.0,0,3,3,2,0,0,0,1,9,8
+Boston Celtics,,Jason Terry,Houston Rockets,W,01/11/2013,16:28,1,4,0.25,1,3,0.333,0,0,0.0,0,3,3,4,2,0,1,2,3,2
+Boston Celtics,,Jared Sullinger,Charlotte Bobcats,W,01/14/2013,22:15,4,4,1.0,0,0,0.0,0,2,0.0,1,4,5,0,0,1,1,5,8,4
+Boston Celtics,,Jason Terry,Charlotte Bobcats,W,01/14/2013,15:02,0,3,0.0,0,1,0.0,0,0,0.0,0,0,0,2,1,0,1,1,0,-8
+Boston Celtics,,Jason Collins,Charlotte Bobcats,W,01/14/2013,8:23,1,2,0.5,0,0,0.0,1,1,1.0,2,2,4,2,0,0,0,3,3,8
+Boston Celtics,,Jeff Green,Charlotte Bobcats,W,01/14/2013,26:55,4,8,0.5,1,1,1.0,2,2,1.0,1,3,4,2,1,0,1,3,11,8
+Boston Celtics,,Courtney Lee,Charlotte Bobcats,W,01/14/2013,17:02,4,7,0.571,1,4,0.25,0,0,0.0,0,0,0,0,1,1,1,1,9,3
+Boston Celtics,,Leandro Barbosa,Charlotte Bobcats,W,01/14/2013,4:42,1,2,0.5,0,0,0.0,2,2,1.0,1,0,1,0,0,0,0,0,4,2
+Boston Celtics,,Jared Sullinger,New Orleans Hornets,L,01/16/2013,20:34,2,5,0.4,0,0,0.0,0,0,0.0,0,2,2,1,1,1,1,4,4,-2
+Boston Celtics,,Jason Terry,New Orleans Hornets,L,01/16/2013,24:18,5,10,0.5,2,4,0.5,0,0,0.0,0,0,0,1,1,0,1,0,12,-8
+Boston Celtics,,Jeff Green,New Orleans Hornets,L,01/16/2013,24:39,2,4,0.5,0,1,0.0,0,2,0.0,1,4,5,0,0,2,1,3,4,-3
+Boston Celtics,,Courtney Lee,New Orleans Hornets,L,01/16/2013,15:58,1,5,0.2,0,3,0.0,2,2,1.0,0,2,2,3,0,0,1,0,4,-5
+Boston Celtics,,Leandro Barbosa,New Orleans Hornets,L,01/16/2013,2:41,3,4,0.75,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,1,7,1
+Boston Celtics,,Jason Collins,New Orleans Hornets,L,01/16/2013,4:28,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,1,0,5
+Boston Celtics,,Courtney Lee,Chicago Bulls,L,01/18/2013,22:11,3,8,0.375,1,2,0.5,0,0,0.0,1,5,6,1,3,0,1,1,7,2
+Boston Celtics,,Jared Sullinger,Chicago Bulls,L,01/18/2013,38:03,3,8,0.375,0,1,0.0,1,1,1.0,5,10,15,0,1,0,1,6,7,-1
+Boston Celtics,,Jeff Green,Chicago Bulls,L,01/18/2013,19:10,1,4,0.25,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,2,2,5
+Boston Celtics,,Jason Terry,Chicago Bulls,L,01/18/2013,27:21,3,5,0.6,1,2,0.5,2,2,1.0,1,0,1,2,0,0,0,2,9,-3
+Boston Celtics,,Jason Collins,Chicago Bulls,L,01/18/2013,1:30,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Boston Celtics,,Jared Sullinger,Detroit Pistons,L,01/20/2013,22:17,3,7,0.429,0,0,0.0,1,2,0.5,4,3,7,0,0,0,0,5,7,-17
+Boston Celtics,,Jason Collins,Detroit Pistons,L,01/20/2013,7:51,0,1,0.0,0,0,0.0,2,2,1.0,0,1,1,0,1,0,1,2,2,0
+Boston Celtics,,Courtney Lee,Detroit Pistons,L,01/20/2013,27:17,6,12,0.5,2,5,0.4,2,2,1.0,1,2,3,2,3,0,1,3,16,1
+Boston Celtics,,Jeff Green,Detroit Pistons,L,01/20/2013,29:37,4,9,0.444,1,4,0.25,6,9,0.667,1,1,2,2,1,1,1,1,15,3
+Boston Celtics,,Jason Terry,Detroit Pistons,L,01/20/2013,14:08,1,3,0.333,1,3,0.333,1,2,0.5,0,1,1,1,0,0,1,4,4,-7
+Boston Celtics,,Leandro Barbosa,Detroit Pistons,L,01/20/2013,7:17,2,3,0.667,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,2,4,2
+Boston Celtics,,Jared Sullinger,Cleveland Cavaliers,L,01/22/2013,26:17,5,11,0.455,0,0,0.0,2,2,1.0,5,5,10,0,0,1,0,6,12,-4
+Boston Celtics,,Jason Terry,Cleveland Cavaliers,L,01/22/2013,19:46,2,5,0.4,0,2,0.0,0,0,0.0,0,0,0,1,1,0,1,0,4,4
+Boston Celtics,,Jeff Green,Cleveland Cavaliers,L,01/22/2013,21:21,1,3,0.333,1,2,0.5,2,2,1.0,0,3,3,1,0,1,1,0,5,7
+Boston Celtics,,Courtney Lee,Cleveland Cavaliers,L,01/22/2013,14:16,3,9,0.333,3,5,0.6,0,0,0.0,1,2,3,2,1,0,0,2,9,1
+Boston Celtics,,Jared Sullinger,New York Knicks,L,01/24/2013,15:22,2,4,0.5,0,0,0.0,3,4,0.75,1,2,3,0,0,1,0,4,7,-9
+Boston Celtics,,Jeff Green,New York Knicks,L,01/24/2013,24:51,4,7,0.571,1,3,0.333,0,0,0.0,2,4,6,0,0,0,2,4,9,0
+Boston Celtics,,Jason Collins,New York Knicks,L,01/24/2013,1:17,0,0,0.0,0,0,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,-3
+Boston Celtics,,Courtney Lee,New York Knicks,L,01/24/2013,14:35,2,3,0.667,0,1,0.0,0,0,0.0,0,1,1,0,1,0,0,2,4,-17
+Boston Celtics,,Jason Terry,New York Knicks,L,01/24/2013,14:12,1,6,0.167,0,3,0.0,0,0,0.0,1,1,2,3,0,0,1,0,2,-8
+Boston Celtics,,Leandro Barbosa,New York Knicks,L,01/24/2013,8:41,0,3,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-9
+Boston Celtics,,Jared Sullinger,Atlanta Hawks,L,01/25/2013,24:10,0,3,0.0,0,0,0.0,0,0,0.0,0,5,5,2,2,0,2,6,0,-4
+Boston Celtics,,Jason Collins,Atlanta Hawks,L,01/25/2013,13:15,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,4,0,20
+Boston Celtics,,Jeff Green,Atlanta Hawks,L,01/25/2013,30:28,4,8,0.5,1,2,0.5,8,8,1.0,1,5,6,0,0,0,1,1,17,9
+Boston Celtics,,Jason Terry,Atlanta Hawks,L,01/25/2013,21:57,4,6,0.667,3,4,0.75,1,1,1.0,0,1,1,1,0,1,1,0,12,7
+Boston Celtics,,Courtney Lee,Atlanta Hawks,L,01/25/2013,25:37,5,10,0.5,1,4,0.25,5,5,1.0,2,5,7,4,2,0,0,4,16,10
+Boston Celtics,,Leandro Barbosa,Atlanta Hawks,L,01/25/2013,3:29,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+Boston Celtics,,Brandon Bass,Miami Heat,W,01/27/2013,13:54,1,5,0.2,0,0,0.0,4,4,1.0,2,2,4,1,0,1,0,1,6,-6
+Boston Celtics,,Jason Terry,Miami Heat,W,01/27/2013,32:07,4,12,0.333,1,7,0.143,4,4,1.0,0,2,2,1,1,1,1,3,13,1
+Boston Celtics,,Jeff Green,Miami Heat,W,01/27/2013,41:50,4,8,0.5,1,3,0.333,2,2,1.0,0,4,4,0,0,1,3,4,11,6
+Boston Celtics,,Chris Wilcox,Miami Heat,W,01/27/2013,2:31,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1
+Boston Celtics,,Leandro Barbosa,Miami Heat,W,01/27/2013,30:02,4,8,0.5,1,1,1.0,0,0,0.0,1,2,3,4,1,0,1,3,9,5
+Boston Celtics,,Brandon Bass,Sacramento Kings,W,01/30/2013,37:36,4,7,0.571,0,0,0.0,4,5,0.8,1,3,4,2,3,0,1,3,12,18
+Boston Celtics,,Jason Collins,Sacramento Kings,W,01/30/2013,8:53,0,0,0.0,0,0,0.0,1,2,0.5,1,0,1,0,0,0,0,4,1,-8
+Boston Celtics,,Jeff Green,Sacramento Kings,W,01/30/2013,20:30,6,11,0.545,0,2,0.0,0,0,0.0,0,1,1,0,0,0,3,5,12,-10
+Boston Celtics,,Chris Wilcox,Sacramento Kings,W,01/30/2013,17:08,3,4,0.75,0,0,0.0,0,0,0.0,1,4,5,0,2,1,0,3,6,-3
+Boston Celtics,,Jason Terry,Sacramento Kings,W,01/30/2013,22:15,5,7,0.714,2,3,0.667,0,0,0.0,0,2,2,4,0,0,1,1,12,5
+Boston Celtics,,Leandro Barbosa,Sacramento Kings,W,01/30/2013,15:07,3,6,0.5,1,2,0.5,0,1,0.0,0,0,0,2,0,0,3,1,7,5
+Boston Celtics,,Jason Collins,Orlando Magic,W,02/01/2013,11:09,0,0,0.0,0,0,0.0,0,0,0.0,2,1,3,0,0,0,2,1,0,11
+Boston Celtics,,Jason Terry,Orlando Magic,W,02/01/2013,27:51,4,8,0.5,1,4,0.25,3,3,1.0,0,1,1,5,0,0,1,3,12,23
+Boston Celtics,,Jeff Green,Orlando Magic,W,02/01/2013,29:07,8,14,0.571,0,1,0.0,1,3,0.333,1,3,4,4,1,3,3,2,17,20
+Boston Celtics,,Leandro Barbosa,Orlando Magic,W,02/01/2013,26:46,6,11,0.545,0,3,0.0,0,0,0.0,0,2,2,4,0,0,0,0,12,21
+Boston Celtics,,Chris Wilcox,Orlando Magic,W,02/01/2013,5:17,1,1,1.0,0,0,0.0,0,0,0.0,0,3,3,1,1,1,0,1,2,2
+Boston Celtics,,Fab Melo,Orlando Magic,W,02/01/2013,2:38,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,-1
+Boston Celtics,,Jason Collins,Los Angeles Clippers,W,02/03/2013,12:10,1,1,1.0,0,0,0.0,5,5,1.0,1,0,1,0,0,0,0,3,7,3
+Boston Celtics,,Jason Terry,Los Angeles Clippers,W,02/03/2013,31:21,5,7,0.714,2,4,0.5,1,1,1.0,1,1,2,6,1,0,2,1,13,17
+Boston Celtics,,Jeff Green,Los Angeles Clippers,W,02/03/2013,22:32,4,6,0.667,3,3,1.0,3,4,0.75,0,2,2,2,0,2,1,1,14,4
+Boston Celtics,,Leandro Barbosa,Los Angeles Clippers,W,02/03/2013,20:36,5,10,0.5,1,2,0.5,3,4,0.75,0,2,2,1,1,0,1,2,14,8
+Boston Celtics,,Chris Wilcox,Los Angeles Clippers,W,02/03/2013,3:40,2,2,1.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,4,4
+Boston Celtics,,Jason Collins,Toronto Raptors,W,02/06/2013,8:01,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-9
+Boston Celtics,,Jason Terry,Toronto Raptors,W,02/06/2013,25:39,1,3,0.333,0,1,0.0,0,0,0.0,0,1,1,2,0,1,2,1,2,6
+Boston Celtics,,Jeff Green,Toronto Raptors,W,02/06/2013,27:27,2,6,0.333,0,2,0.0,4,6,0.667,4,2,6,3,1,0,1,1,8,5
+Boston Celtics,,Leandro Barbosa,Toronto Raptors,W,02/06/2013,27:02,5,8,0.625,1,4,0.25,3,4,0.75,1,2,3,4,2,0,3,5,14,13
+Boston Celtics,,Chris Wilcox,Toronto Raptors,W,02/06/2013,3:36,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,1,0,0,0,3
+Boston Celtics,,Jason Collins,Los Angeles Lakers,W,02/07/2013,5:26,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,1,1,0,0,3,2,-2
+Boston Celtics,,Jeff Green,Los Angeles Lakers,W,02/07/2013,29:13,6,13,0.462,1,1,1.0,6,6,1.0,0,3,3,1,0,1,1,2,19,21
+Boston Celtics,,Jason Terry,Los Angeles Lakers,W,02/07/2013,27:57,5,6,0.833,2,2,1.0,3,5,0.6,1,3,4,3,1,0,1,1,15,25
+Boston Celtics,,Chris Wilcox,Los Angeles Lakers,W,02/07/2013,18:11,3,4,0.75,0,0,0.0,2,4,0.5,4,5,9,0,1,0,1,5,8,6
+Boston Celtics,,Leandro Barbosa,Los Angeles Lakers,W,02/07/2013,21:08,0,6,0.0,0,1,0.0,0,0,0.0,1,4,5,3,1,0,0,2,0,3
+Boston Celtics,,Fab Melo,Los Angeles Lakers,W,02/07/2013,4:58,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,2,2,-6
+Boston Celtics,,Chris Wilcox,Denver Nuggets,W,02/10/2013,10:56,0,3,0.0,0,0,0.0,3,6,0.5,1,0,1,1,1,1,0,0,3,4
+Boston Celtics,,Jason Terry,Denver Nuggets,W,02/10/2013,42:38,10,22,0.455,5,14,0.357,1,1,1.0,0,2,2,1,3,0,1,1,26,0
+Boston Celtics,,Jeff Green,Denver Nuggets,W,02/10/2013,41:38,6,10,0.6,1,1,1.0,4,4,1.0,0,4,4,1,2,3,4,3,17,-5
+Boston Celtics,,Leandro Barbosa,Denver Nuggets,W,02/10/2013,16:57,2,5,0.4,1,2,0.5,0,0,0.0,0,2,2,1,1,0,0,2,5,-10
+Boston Celtics,,Jason Collins,Denver Nuggets,W,02/10/2013,0:02,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Boston Celtics,,Jason Collins,Charlotte Bobcats,L,02/11/2013,12:46,0,2,0.0,0,0,0.0,1,2,0.5,1,2,3,0,0,0,0,1,1,7
+Boston Celtics,,Jason Terry,Charlotte Bobcats,L,02/11/2013,28:58,4,8,0.5,3,6,0.5,1,1,1.0,0,0,0,6,0,0,1,3,12,4
+Boston Celtics,,Jeff Green,Charlotte Bobcats,L,02/11/2013,24:20,5,8,0.625,1,1,1.0,7,7,1.0,0,4,4,0,1,1,2,4,18,10
+Boston Celtics,,Leandro Barbosa,Charlotte Bobcats,L,02/11/2013,12:26,1,6,0.167,1,1,1.0,0,0,0.0,1,1,2,3,0,0,0,1,3,2
+Boston Celtics,,Chris Wilcox,Charlotte Bobcats,L,02/11/2013,17:14,3,4,0.75,0,0,0.0,2,2,1.0,1,2,3,0,0,0,1,2,8,-1
+Boston Celtics,,Jeff Green,Chicago Bulls,W,02/13/2013,36:29,2,8,0.25,0,4,0.0,4,4,1.0,0,5,5,2,0,2,2,1,8,6
+Boston Celtics,,Jason Collins,Chicago Bulls,W,02/13/2013,13:07,0,1,0.0,0,0,0.0,0,0,0.0,0,3,3,1,1,0,0,2,0,-1
+Boston Celtics,,Jason Terry,Chicago Bulls,W,02/13/2013,25:50,5,11,0.455,2,4,0.5,0,0,0.0,0,1,1,3,1,1,1,1,12,6
+Boston Celtics,,Chris Wilcox,Chicago Bulls,W,02/13/2013,11:04,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,1,0,-10
+Boston Celtics,,Jason Collins,Denver Nuggets,L,02/19/2013,11:33,0,1,0.0,0,0,0.0,1,2,0.5,2,2,4,0,0,0,1,1,1,-12
+Boston Celtics,,Jeff Green,Denver Nuggets,L,02/19/2013,33:16,8,12,0.667,2,4,0.5,2,2,1.0,1,1,2,2,1,2,2,5,20,-13
+Boston Celtics,,Jason Terry,Denver Nuggets,L,02/19/2013,26:34,2,5,0.4,1,3,0.333,2,2,1.0,0,1,1,3,0,0,0,1,7,-9
+Boston Celtics,,Chris Wilcox,Denver Nuggets,L,02/19/2013,10:22,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,0,2,-2
+Boston Celtics,,Fab Melo,Denver Nuggets,L,02/19/2013,0:10,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Boston Celtics,,Jeff Green,Los Angeles Lakers,L,02/20/2013,33:06,5,12,0.417,1,2,0.5,4,4,1.0,0,7,7,4,0,1,1,4,15,-11
+Boston Celtics,,Jason Collins,Los Angeles Lakers,L,02/20/2013,5:29,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,1,0,-9
+Boston Celtics,,Jason Terry,Los Angeles Lakers,L,02/20/2013,22:18,3,8,0.375,1,5,0.2,3,4,0.75,2,2,4,1,1,0,1,4,10,-8
+Boston Celtics,,Chris Wilcox,Los Angeles Lakers,L,02/20/2013,7:12,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,1,0,0,0,1,0,0
+Boston Celtics,,Terrence Williams,Los Angeles Lakers,L,02/20/2013,12:44,1,1,1.0,0,0,0.0,0,0,0.0,0,2,2,2,0,0,2,0,2,6
+Boston Celtics,,Fab Melo,Los Angeles Lakers,L,02/20/2013,7:06,1,1,1.0,0,0,0.0,0,2,0.0,0,0,0,0,0,1,0,1,2,6
+Boston Celtics,,Jason Terry,Phoenix Suns,W,02/22/2013,19:58,3,5,0.6,2,3,0.667,5,5,1.0,1,1,2,2,0,0,2,2,13,16
+Boston Celtics,,Chris Wilcox,Phoenix Suns,W,02/22/2013,21:37,7,9,0.778,0,0,0.0,0,0,0.0,4,4,8,0,0,1,1,2,14,9
+Boston Celtics,,Terrence Williams,Phoenix Suns,W,02/22/2013,24:45,4,8,0.5,1,2,0.5,0,1,0.0,0,4,4,4,0,0,2,2,9,10
+Boston Celtics,,Jordan Crawford,Phoenix Suns,W,02/22/2013,17:18,4,9,0.444,2,5,0.4,0,0,0.0,0,3,3,2,0,0,1,2,10,12
+Boston Celtics,,Fab Melo,Phoenix Suns,W,02/22/2013,3:42,0,1,0.0,0,0,0.0,1,2,0.5,0,1,1,0,0,0,0,0,1,-1
+Boston Celtics,,Jeff Green,Portland Trail Blazers,L,02/24/2013,30:53,4,12,0.333,0,2,0.0,3,4,0.75,1,3,4,0,1,0,3,2,11,-18
+Boston Celtics,,Chris Wilcox,Portland Trail Blazers,L,02/24/2013,15:30,1,2,0.5,0,0,0.0,0,0,0.0,1,0,1,0,2,0,0,3,2,-6
+Boston Celtics,,Jason Terry,Portland Trail Blazers,L,02/24/2013,19:09,1,4,0.25,0,2,0.0,2,2,1.0,0,2,2,0,1,0,1,0,4,-13
+Boston Celtics,,Terrence Williams,Portland Trail Blazers,L,02/24/2013,6:58,1,4,0.25,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,2,2,1
+Boston Celtics,,Jordan Crawford,Portland Trail Blazers,L,02/24/2013,12:17,0,4,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,-1
+Boston Celtics,,Chris Wilcox,Utah Jazz,W,02/25/2013,21:10,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,0,3,2,0,3,2,5
+Boston Celtics,,Jason Terry,Utah Jazz,W,02/25/2013,22:39,5,13,0.385,4,9,0.444,0,0,0.0,1,1,2,2,0,0,1,2,14,-11
+Boston Celtics,,Jeff Green,Utah Jazz,W,02/25/2013,27:53,3,10,0.3,0,3,0.0,0,0,0.0,0,1,1,1,1,0,1,1,6,-5
+Boston Celtics,,Jordan Crawford,Utah Jazz,W,02/25/2013,4:41,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,0,2,2
+Boston Celtics,,Chris Wilcox,Golden State Warriors,W,03/01/2013,21:53,4,4,1.0,0,0,0.0,0,2,0.0,2,5,7,0,0,0,1,2,8,20
+Boston Celtics,,Jeff Green,Golden State Warriors,W,03/01/2013,27:29,8,13,0.615,0,3,0.0,2,2,1.0,0,5,5,2,0,3,2,3,18,7
+Boston Celtics,,Jason Terry,Golden State Warriors,W,03/01/2013,29:48,2,11,0.182,1,5,0.2,2,2,1.0,0,1,1,4,0,0,0,1,7,-1
+Boston Celtics,,Jordan Crawford,Golden State Warriors,W,03/01/2013,17:04,2,6,0.333,0,1,0.0,0,0,0.0,0,5,5,2,0,0,1,2,4,-3
+Boston Celtics,,Terrence Williams,Golden State Warriors,W,03/01/2013,1:24,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0
+Boston Celtics,,Chris Wilcox,Philadelphia 76ers,W,03/05/2013,16:54,2,6,0.333,0,1,0.0,0,0,0.0,1,5,6,0,0,2,1,2,4,-1
+Boston Celtics,,Jeff Green,Philadelphia 76ers,W,03/05/2013,28:22,4,8,0.5,1,1,1.0,7,9,0.778,2,2,4,5,1,0,1,2,16,9
+Boston Celtics,,Jason Terry,Philadelphia 76ers,W,03/05/2013,25:38,3,7,0.429,1,2,0.5,2,2,1.0,0,3,3,6,1,0,2,1,9,9
+Boston Celtics,,Jordan Crawford,Philadelphia 76ers,W,03/05/2013,16:17,4,7,0.571,2,3,0.667,2,2,1.0,0,4,4,3,1,0,1,1,12,-1
+Boston Celtics,,Terrence Williams,Philadelphia 76ers,W,03/05/2013,6:33,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,2,0,0,1,0,0,5
+Boston Celtics,,Chris Wilcox,Indiana Pacers,W,03/06/2013,16:59,3,3,1.0,0,0,0.0,0,0,0.0,2,1,3,0,3,0,1,1,6,-6
+Boston Celtics,,Jeff Green,Indiana Pacers,W,03/06/2013,34:11,5,14,0.357,1,4,0.25,0,0,0.0,0,7,7,4,0,2,1,2,11,10
+Boston Celtics,,Jason Terry,Indiana Pacers,W,03/06/2013,21:56,4,8,0.5,2,3,0.667,0,0,0.0,2,2,4,4,2,0,0,1,10,7
+Boston Celtics,,Jordan Crawford,Indiana Pacers,W,03/06/2013,12:28,1,4,0.25,0,2,0.0,0,0,0.0,0,2,2,0,0,0,2,1,2,8
+Boston Celtics,,DJ White,Indiana Pacers,W,03/06/2013,3:43,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,2,0,0,0,2
+Boston Celtics,,Chris Wilcox,Atlanta Hawks,W,03/08/2013,13:12,1,1,1.0,0,0,0.0,4,4,1.0,0,2,2,0,0,1,1,1,6,-7
+Boston Celtics,,Jeff Green,Atlanta Hawks,W,03/08/2013,36:05,5,11,0.455,2,4,0.5,0,0,0.0,0,2,2,3,1,1,1,2,12,10
+Boston Celtics,,Jason Terry,Atlanta Hawks,W,03/08/2013,35:58,5,11,0.455,3,4,0.75,6,6,1.0,0,4,4,5,2,0,3,1,19,6
+Boston Celtics,,Jordan Crawford,Atlanta Hawks,W,03/08/2013,15:14,4,7,0.571,1,3,0.333,0,0,0.0,0,2,2,0,0,0,1,1,9,5
+Boston Celtics,,Terrence Williams,Atlanta Hawks,W,03/08/2013,1:57,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-4
+Boston Celtics,,Chris Wilcox,Oklahoma City Thunder,L,03/10/2013,10:13,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,0,1,0,3,1,2,1
+Boston Celtics,,Jeff Green,Oklahoma City Thunder,L,03/10/2013,28:00,2,11,0.182,0,2,0.0,4,5,0.8,0,2,2,0,0,0,3,3,8,-11
+Boston Celtics,,Jason Terry,Oklahoma City Thunder,L,03/10/2013,23:09,3,8,0.375,2,6,0.333,1,2,0.5,0,3,3,1,1,0,4,1,9,-5
+Boston Celtics,,Jordan Crawford,Oklahoma City Thunder,L,03/10/2013,15:09,1,5,0.2,0,1,0.0,2,4,0.5,0,2,2,0,0,0,0,2,4,-12
+Boston Celtics,,Terrence Williams,Oklahoma City Thunder,L,03/10/2013,3:32,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-3
+Boston Celtics,,Chris Wilcox,Charlotte Bobcats,L,03/12/2013,9:40,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-1
+Boston Celtics,,Jason Terry,Charlotte Bobcats,L,03/12/2013,23:48,2,5,0.4,0,3,0.0,1,2,0.5,0,1,1,4,1,1,2,0,5,-10
+Boston Celtics,,DJ White,Charlotte Bobcats,L,03/12/2013,15:56,1,4,0.25,0,0,0.0,1,2,0.5,1,3,4,0,0,0,1,0,3,-8
+Boston Celtics,,Shavlik Randolph,Charlotte Bobcats,L,03/12/2013,17:42,2,4,0.5,0,0,0.0,0,2,0.0,1,3,4,0,0,0,1,5,4,-7
+Boston Celtics,,Jordan Crawford,Charlotte Bobcats,L,03/12/2013,27:22,4,6,0.667,1,3,0.333,5,5,1.0,0,1,1,2,0,0,2,2,14,-21
+Boston Celtics,,Terrence Williams,Charlotte Bobcats,L,03/12/2013,13:39,1,3,0.333,1,1,1.0,0,2,0.0,0,1,1,1,0,0,3,0,3,-11
+Boston Celtics,,Chris Wilcox,Toronto Raptors,W,03/13/2013,12:26,3,3,1.0,0,0,0.0,1,3,0.333,3,2,5,0,0,1,2,2,7,6
+Boston Celtics,,Jeff Green,Toronto Raptors,W,03/13/2013,31:13,7,14,0.5,1,2,0.5,5,5,1.0,1,5,6,3,2,1,1,4,20,23
+Boston Celtics,,Jason Terry,Toronto Raptors,W,03/13/2013,23:23,4,6,0.667,3,4,0.75,1,2,0.5,0,2,2,7,0,1,2,2,12,17
+Boston Celtics,,Jordan Crawford,Toronto Raptors,W,03/13/2013,24:13,4,9,0.444,1,3,0.333,3,4,0.75,0,2,2,3,1,1,3,4,12,18
+Boston Celtics,,Terrence Williams,Toronto Raptors,W,03/13/2013,5:07,2,2,1.0,0,0,0.0,1,1,1.0,1,0,1,2,0,0,2,0,5,0
+Boston Celtics,,Shavlik Randolph,Toronto Raptors,W,03/13/2013,2:38,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,2
+Boston Celtics,,DJ White,Toronto Raptors,W,03/13/2013,2:38,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,2,2
+Boston Celtics,,Chris Wilcox,Charlotte Bobcats,W,03/16/2013,22:36,2,3,0.667,0,0,0.0,2,2,1.0,2,3,5,4,0,1,0,4,6,-4
+Boston Celtics,,Jason Terry,Charlotte Bobcats,W,03/16/2013,23:36,5,6,0.833,3,3,1.0,2,3,0.667,0,3,3,2,1,1,1,1,15,4
+Boston Celtics,,Jordan Crawford,Charlotte Bobcats,W,03/16/2013,20:10,3,8,0.375,2,4,0.5,0,0,0.0,0,2,2,3,0,0,3,2,8,1
+Boston Celtics,,DJ White,Charlotte Bobcats,W,03/16/2013,4:60,3,4,0.75,0,0,0.0,0,3,0.0,0,0,0,1,0,0,0,2,6,5
+Boston Celtics,,Terrence Williams,Charlotte Bobcats,W,03/16/2013,11:15,2,5,0.4,0,0,0.0,1,2,0.5,0,0,0,0,1,0,0,0,5,-3
+Boston Celtics,,Shavlik Randolph,Charlotte Bobcats,W,03/16/2013,15:23,3,9,0.333,0,0,0.0,0,1,0.0,4,4,8,0,2,0,1,3,6,-6
+Boston Celtics,,Jason Terry,Miami Heat,L,03/18/2013,24:21,4,6,0.667,0,1,0.0,1,1,1.0,0,2,2,4,2,0,4,5,9,4
+Boston Celtics,,Chris Wilcox,Miami Heat,L,03/18/2013,17:55,0,1,0.0,0,0,0.0,0,0,0.0,0,4,4,0,0,0,0,4,0,6
+Boston Celtics,,Jordan Crawford,Miami Heat,L,03/18/2013,16:48,3,7,0.429,1,4,0.25,1,4,0.25,0,1,1,3,0,1,2,2,8,4
+Boston Celtics,,Jeff Green,New Orleans Hornets,L,03/20/2013,26:30,4,8,0.5,1,1,1.0,4,4,1.0,0,2,2,0,1,2,1,3,13,-12
+Boston Celtics,,Jason Terry,New Orleans Hornets,L,03/20/2013,19:59,0,5,0.0,0,2,0.0,0,0,0.0,0,3,3,4,0,0,2,3,0,-6
+Boston Celtics,,Jordan Crawford,New Orleans Hornets,L,03/20/2013,21:56,2,5,0.4,0,2,0.0,0,0,0.0,0,3,3,1,0,0,3,0,4,-5
+Boston Celtics,,Chris Wilcox,New Orleans Hornets,L,03/20/2013,6:08,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,-7
+Boston Celtics,,Jeff Green,Dallas Mavericks,L,03/22/2013,30:01,5,11,0.455,0,2,0.0,0,0,0.0,0,3,3,4,0,1,5,5,10,-8
+Boston Celtics,,Jason Terry,Dallas Mavericks,L,03/22/2013,21:57,3,9,0.333,0,2,0.0,2,2,1.0,0,1,1,0,1,1,3,3,8,-6
+Boston Celtics,,Chris Wilcox,Dallas Mavericks,L,03/22/2013,15:33,1,1,1.0,0,0,0.0,3,4,0.75,1,0,1,0,2,0,0,3,5,-14
+Boston Celtics,,Jordan Crawford,Dallas Mavericks,L,03/22/2013,15:46,3,11,0.273,1,5,0.2,2,2,1.0,0,1,1,1,1,0,0,3,9,-2
+Boston Celtics,,Terrence Williams,Dallas Mavericks,L,03/22/2013,0:29,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,2
+Boston Celtics,,Chris Wilcox,Memphis Grizzlies,L,03/23/2013,14:13,4,4,1.0,0,0,0.0,0,0,0.0,0,3,3,1,1,0,0,4,8,-10
+Boston Celtics,,Jordan Crawford,Memphis Grizzlies,L,03/23/2013,27:07,5,13,0.385,2,4,0.5,9,10,0.9,3,2,5,3,0,0,1,3,21,1
+Boston Celtics,,Terrence Williams,Memphis Grizzlies,L,03/23/2013,22:26,4,4,1.0,1,1,1.0,0,0,0.0,0,2,2,2,1,0,1,1,9,-2
+Boston Celtics,,Shavlik Randolph,Memphis Grizzlies,L,03/23/2013,8:42,1,2,0.5,0,0,0.0,0,2,0.0,1,3,4,0,0,1,0,2,2,11
+Boston Celtics,,DJ White,Memphis Grizzlies,L,03/23/2013,7:27,2,2,1.0,0,0,0.0,0,0,0.0,1,1,2,1,0,4,0,0,4,14
+Boston Celtics,,Jason Terry,New York Knicks,L,03/26/2013,22:03,4,8,0.5,2,4,0.5,0,0,0.0,0,1,1,0,1,0,1,1,10,-18
+Boston Celtics,,Chris Wilcox,New York Knicks,L,03/26/2013,8:59,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,1,0,1
+Boston Celtics,,Terrence Williams,New York Knicks,L,03/26/2013,22:37,2,7,0.286,0,0,0.0,3,4,0.75,1,4,5,1,1,0,0,1,7,-8
+Boston Celtics,,Shavlik Randolph,New York Knicks,L,03/26/2013,5:19,1,1,1.0,0,0,0.0,0,2,0.0,1,3,4,0,1,0,0,1,2,0
+Boston Celtics,,DJ White,New York Knicks,L,03/26/2013,2:40,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Boston Celtics,,Jason Terry,Cleveland Cavaliers,W,03/27/2013,21:05,2,7,0.286,1,4,0.25,0,0,0.0,0,3,3,2,0,0,1,0,5,5
+Boston Celtics,,Jordan Crawford,Cleveland Cavaliers,W,03/27/2013,25:31,5,8,0.625,0,0,0.0,2,3,0.667,0,1,1,4,2,0,1,1,12,11
+Boston Celtics,,Terrence Williams,Cleveland Cavaliers,W,03/27/2013,13:28,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,2,0,0,2,0,2,-8
+Boston Celtics,,Shavlik Randolph,Cleveland Cavaliers,W,03/27/2013,8:57,1,1,1.0,0,0,0.0,1,2,0.5,0,2,2,0,2,0,1,1,3,-4
+Boston Celtics,,Courtney Lee,Atlanta Hawks,W,03/29/2013,5:58,0,0,0.0,0,0,0.0,2,2,1.0,0,1,1,0,0,1,1,0,2,-12
+Boston Celtics,,Jason Terry,Atlanta Hawks,W,03/29/2013,31:09,7,10,0.7,5,7,0.714,5,6,0.833,0,1,1,1,0,0,1,1,24,5
+Boston Celtics,,Jordan Crawford,Atlanta Hawks,W,03/29/2013,20:42,2,8,0.25,1,2,0.5,0,0,0.0,0,2,2,4,0,0,2,0,5,2
+Boston Celtics,,Shavlik Randolph,Atlanta Hawks,W,03/29/2013,21:55,4,6,0.667,0,0,0.0,1,2,0.5,7,6,13,1,0,2,0,5,9,12
+Boston Celtics,,Terrence Williams,Atlanta Hawks,W,03/29/2013,15:09,3,5,0.6,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,6,10
+Boston Celtics,,Courtney Lee,New York Knicks,L,03/31/2013,27:58,5,11,0.455,0,2,0.0,0,0,0.0,2,2,4,0,0,1,1,2,10,-17
+Boston Celtics,,Jason Terry,New York Knicks,L,03/31/2013,21:29,3,7,0.429,1,5,0.2,1,1,1.0,0,1,1,0,0,0,1,0,8,-11
+Boston Celtics,,Jordan Crawford,New York Knicks,L,03/31/2013,24:38,3,10,0.3,0,3,0.0,4,4,1.0,1,1,2,2,0,0,2,1,10,-23
+Boston Celtics,,Shavlik Randolph,New York Knicks,L,03/31/2013,13:33,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,1,0,2,0,-14
+Boston Celtics,,Terrence Williams,New York Knicks,L,03/31/2013,18:53,1,4,0.25,0,2,0.0,0,0,0.0,0,0,0,1,1,0,0,0,2,-7
+Boston Celtics,,DJ White,New York Knicks,L,03/31/2013,7:29,1,1,1.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,2,3
+Boston Celtics,,Shavlik Randolph,Minnesota Timberwolves,L,04/01/2013,21:04,4,5,0.8,0,0,0.0,0,2,0.0,1,1,2,1,0,2,2,5,8,-1
+Boston Celtics,,Jason Terry,Minnesota Timberwolves,L,04/01/2013,26:05,4,8,0.5,2,3,0.667,4,4,1.0,0,2,2,3,2,0,2,0,14,0
+Boston Celtics,,Terrence Williams,Minnesota Timberwolves,L,04/01/2013,22:17,6,10,0.6,2,3,0.667,0,2,0.0,1,5,6,5,1,0,0,0,14,7
+Boston Celtics,,Jordan Crawford,Minnesota Timberwolves,L,04/01/2013,28:27,5,11,0.455,1,3,0.333,0,0,0.0,1,5,6,5,0,0,2,2,11,1
+Boston Celtics,,DJ White,Minnesota Timberwolves,L,04/01/2013,3:50,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,3
+Boston Celtics,,Shavlik Randolph,Detroit Pistons,W,04/03/2013,13:18,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,0,0,1,0,1,2,3
+Boston Celtics,,Courtney Lee,Detroit Pistons,W,04/03/2013,12:44,0,4,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,2,1,0,-2
+Boston Celtics,,Jason Terry,Detroit Pistons,W,04/03/2013,22:16,3,8,0.375,2,6,0.333,2,2,1.0,0,5,5,2,1,0,1,1,10,1
+Boston Celtics,,Terrence Williams,Detroit Pistons,W,04/03/2013,13:04,1,2,0.5,0,0,0.0,0,0,0.0,0,4,4,3,2,0,1,1,2,3
+Boston Celtics,,Jordan Crawford,Detroit Pistons,W,04/03/2013,12:19,1,5,0.2,0,1,0.0,1,1,1.0,0,1,1,3,0,0,1,2,3,6
+Boston Celtics,,Terrence Williams,Cleveland Cavaliers,L,04/05/2013,30:52,4,9,0.444,0,2,0.0,1,2,0.5,1,5,6,1,1,1,3,1,9,-13
+Boston Celtics,,Jason Terry,Cleveland Cavaliers,L,04/05/2013,26:43,3,10,0.3,2,7,0.286,0,0,0.0,0,3,3,4,1,0,0,2,8,7
+Boston Celtics,,Shavlik Randolph,Cleveland Cavaliers,L,04/05/2013,13:02,6,9,0.667,0,0,0.0,4,5,0.8,4,3,7,0,1,0,1,6,16,10
+Boston Celtics,,Jordan Crawford,Cleveland Cavaliers,L,04/05/2013,28:51,3,14,0.214,1,4,0.25,0,2,0.0,2,2,4,5,1,0,0,2,7,6
+Boston Celtics,,Shavlik Randolph,Washington Wizards,W,04/07/2013,15:27,2,2,1.0,0,0,0.0,4,7,0.571,2,5,7,0,1,0,0,1,8,10
+Boston Celtics,,Jason Terry,Washington Wizards,W,04/07/2013,22:31,4,6,0.667,1,2,0.5,0,0,0.0,0,2,2,5,0,0,2,2,9,7
+Boston Celtics,,Courtney Lee,Washington Wizards,W,04/07/2013,17:48,1,4,0.25,0,0,0.0,4,4,1.0,0,2,2,5,0,0,2,2,6,5
+Boston Celtics,,Chris Wilcox,Washington Wizards,W,04/07/2013,20:02,6,7,0.857,0,0,0.0,1,2,0.5,1,4,5,2,2,0,2,2,13,-3
+Boston Celtics,,Jordan Crawford,Washington Wizards,W,04/07/2013,16:19,2,3,0.667,0,1,0.0,2,2,1.0,0,1,1,2,2,0,3,3,6,0
+Boston Celtics,,Terrence Williams,Washington Wizards,W,04/07/2013,0:49,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Boston Celtics,,Courtney Lee,Brooklyn Nets,L,04/10/2013,26:30,3,5,0.6,1,2,0.5,0,0,0.0,0,1,1,3,1,0,0,1,7,-2
+Boston Celtics,,Shavlik Randolph,Brooklyn Nets,L,04/10/2013,15:44,1,2,0.5,0,0,0.0,0,0,0.0,3,6,9,1,0,0,2,1,2,6
+Boston Celtics,,Jason Terry,Brooklyn Nets,L,04/10/2013,24:45,1,7,0.143,0,3,0.0,2,2,1.0,0,3,3,1,1,1,0,3,4,-5
+Boston Celtics,,Chris Wilcox,Brooklyn Nets,L,04/10/2013,6:18,3,4,0.75,0,0,0.0,0,0,0.0,2,0,2,0,0,0,0,1,6,-2
+Boston Celtics,,Jordan Crawford,Brooklyn Nets,L,04/10/2013,19:48,3,5,0.6,0,1,0.0,1,2,0.5,1,2,3,4,0,0,1,2,7,7
+Boston Celtics,,Terrence Williams,Brooklyn Nets,L,04/10/2013,9:59,3,4,0.75,0,1,0.0,2,4,0.5,0,1,1,0,0,0,1,1,8,2
+Boston Celtics,,DJ White,Brooklyn Nets,L,04/10/2013,2:48,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,11
+Boston Celtics,,Jason Terry,Miami Heat,L,04/12/2013,27:45,3,9,0.333,0,3,0.0,0,0,0.0,1,0,1,3,2,0,4,2,6,-6
+Boston Celtics,,Shavlik Randolph,Miami Heat,L,04/12/2013,9:47,0,1,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,1,3,0,-4
+Boston Celtics,,Terrence Williams,Miami Heat,L,04/12/2013,17:07,3,8,0.375,0,0,0.0,0,0,0.0,0,2,2,2,0,0,1,1,6,-2
+Boston Celtics,,Chris Wilcox,Miami Heat,L,04/12/2013,11:23,1,1,1.0,0,0,0.0,0,0,0.0,1,4,5,0,0,1,0,1,2,10
+Boston Celtics,,DJ White,Miami Heat,L,04/12/2013,0:46,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,4
+Boston Celtics,,Shavlik Randolph,Orlando Magic,W,04/13/2013,2:56,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,1,0,-7
+Boston Celtics,,Chris Wilcox,Orlando Magic,W,04/13/2013,19:27,2,2,1.0,0,0,0.0,0,0,0.0,0,6,6,0,0,1,1,2,4,11
+Boston Celtics,,Courtney Lee,Orlando Magic,W,04/13/2013,28:35,7,10,0.7,3,3,1.0,3,4,0.75,0,2,2,4,2,0,1,1,20,19
+Boston Celtics,,Jordan Crawford,Orlando Magic,W,04/13/2013,27:53,7,10,0.7,2,2,1.0,0,0,0.0,1,2,3,3,0,0,0,1,16,22
+Boston Celtics,,Terrence Williams,Orlando Magic,W,04/13/2013,14:55,3,4,0.75,0,0,0.0,1,1,1.0,0,0,0,4,2,0,0,1,7,13
+Boston Celtics,,DJ White,Orlando Magic,W,04/13/2013,5:29,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,2,2
+Boston Celtics,,Shavlik Randolph,Toronto Raptors,L,04/17/2013,12:37,2,4,0.5,0,0,0.0,1,2,0.5,2,2,4,0,0,0,1,1,5,-5
+Boston Celtics,,Jordan Crawford,Toronto Raptors,L,04/17/2013,36:14,6,14,0.429,2,6,0.333,2,2,1.0,2,4,6,5,1,0,2,2,16,-11
+Boston Celtics,,Courtney Lee,Toronto Raptors,L,04/17/2013,30:29,3,10,0.3,2,5,0.4,0,0,0.0,1,4,5,1,1,1,1,4,8,-16
+Boston Celtics,,DJ White,Toronto Raptors,L,04/17/2013,28:12,2,7,0.286,0,0,0.0,4,4,1.0,2,1,3,1,1,0,0,2,8,-11
+Boston Celtics,,Terrence Williams,Toronto Raptors,L,04/17/2013,28:02,6,14,0.429,0,2,0.0,0,2,0.0,0,4,4,5,1,1,1,1,12,-10
+Boston Celtics,,Fab Melo,Toronto Raptors,L,04/17/2013,17:26,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,0,1,0,1,4,2,-5

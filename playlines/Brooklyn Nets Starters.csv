@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Brooklyn Nets,F,Gerald Wallace,New York Knicks,W,11/26/2012,41:52,6,13,0.462,2,5,0.4,2,4,0.5,1,4,5,2,2,2,0,4,16,-3
+Brooklyn Nets,F,Kris Humphries,New York Knicks,W,11/26/2012,18:57,2,3,0.667,0,0,0.0,0,0,0.0,1,4,5,0,0,0,0,1,4,-2
+Brooklyn Nets,C,Brook Lopez,New York Knicks,W,11/26/2012,37:44,9,20,0.45,0,0,0.0,4,5,0.8,7,4,11,0,0,5,3,5,22,-2
+Brooklyn Nets,G,Joe Johnson,New York Knicks,W,11/26/2012,43:39,3,12,0.25,1,4,0.25,1,1,1.0,0,4,4,3,0,0,2,2,8,0
+Brooklyn Nets,G,Deron Williams,New York Knicks,W,11/26/2012,43:03,6,17,0.353,1,6,0.167,3,4,0.75,1,5,6,14,3,0,4,4,16,8
+Brooklyn Nets,F,Gerald Wallace,Toronto Raptors,W,11/03/2012,29:60,4,8,0.5,1,3,0.333,1,2,0.5,0,6,6,4,2,0,2,3,10,-2
+Brooklyn Nets,F,Kris Humphries,Toronto Raptors,W,11/03/2012,22:47,1,5,0.2,0,0,0.0,3,4,0.75,0,5,5,1,0,0,0,1,5,6
+Brooklyn Nets,C,Brook Lopez,Toronto Raptors,W,11/03/2012,31:35,8,17,0.471,0,0,0.0,11,15,0.733,2,3,5,0,1,1,1,2,27,3
+Brooklyn Nets,G,Joe Johnson,Toronto Raptors,W,11/03/2012,39:40,5,13,0.385,1,2,0.5,3,4,0.75,2,3,5,4,1,0,3,2,14,13
+Brooklyn Nets,G,Deron Williams,Toronto Raptors,W,11/03/2012,38:55,6,14,0.429,1,5,0.2,6,8,0.75,0,1,1,9,0,0,4,1,19,2
+Brooklyn Nets,F,Keith Bogans,Minnesota Timberwolves,L,11/05/2012,14:07,3,5,0.6,3,4,0.75,0,0,0.0,0,1,1,1,1,0,1,2,9,3
+Brooklyn Nets,F,Kris Humphries,Minnesota Timberwolves,L,11/05/2012,22:53,1,2,0.5,0,0,0.0,0,1,0.0,0,4,4,1,0,1,3,2,2,7
+Brooklyn Nets,C,Brook Lopez,Minnesota Timberwolves,L,11/05/2012,32:04,5,14,0.357,0,0,0.0,3,5,0.6,0,8,8,0,1,2,1,0,13,-2
+Brooklyn Nets,G,Joe Johnson,Minnesota Timberwolves,L,11/05/2012,40:49,8,18,0.444,3,5,0.6,0,0,0.0,1,0,1,2,0,0,1,1,19,-7
+Brooklyn Nets,G,Deron Williams,Minnesota Timberwolves,L,11/05/2012,37:38,5,12,0.417,3,7,0.429,5,6,0.833,1,1,2,13,1,0,4,2,18,-10
+Brooklyn Nets,F,Joe Johnson,Miami Heat,L,11/07/2012,32:13,4,14,0.286,1,3,0.333,0,0,0.0,0,2,2,1,2,0,0,1,9,-19
+Brooklyn Nets,F,Kris Humphries,Miami Heat,L,11/07/2012,24:14,4,8,0.5,0,0,0.0,3,6,0.5,5,6,11,1,0,0,1,2,11,-12
+Brooklyn Nets,C,Brook Lopez,Miami Heat,L,11/07/2012,20:34,4,8,0.5,0,0,0.0,0,1,0.0,2,5,7,1,0,1,0,1,8,-5
+Brooklyn Nets,G,Keith Bogans,Miami Heat,L,11/07/2012,21:00,1,3,0.333,1,3,0.333,0,0,0.0,0,2,2,1,1,0,0,2,3,-12
+Brooklyn Nets,G,Deron Williams,Miami Heat,L,11/07/2012,30:52,7,15,0.467,0,4,0.0,0,0,0.0,0,1,1,3,1,0,7,3,14,-18
+Brooklyn Nets,F,Keith Bogans,Orlando Magic,W,11/09/2012,17:20,2,6,0.333,1,5,0.2,0,0,0.0,0,2,2,0,0,0,0,1,5,13
+Brooklyn Nets,F,Kris Humphries,Orlando Magic,W,11/09/2012,19:43,3,7,0.429,0,0,0.0,2,2,1.0,2,6,8,1,0,1,1,2,8,12
+Brooklyn Nets,C,Brook Lopez,Orlando Magic,W,11/09/2012,23:50,5,7,0.714,0,0,0.0,4,7,0.571,3,7,10,1,0,3,1,1,14,18
+Brooklyn Nets,G,Joe Johnson,Orlando Magic,W,11/09/2012,29:16,5,11,0.455,2,5,0.4,1,1,1.0,1,2,3,4,1,0,1,0,13,24
+Brooklyn Nets,G,Deron Williams,Orlando Magic,W,11/09/2012,29:13,5,8,0.625,0,2,0.0,2,2,1.0,0,0,0,4,1,0,3,1,12,10
+Brooklyn Nets,F,Keith Bogans,Orlando Magic,W,11/11/2012,18:25,0,5,0.0,0,4,0.0,0,0,0.0,1,2,3,3,0,0,0,0,0,10
+Brooklyn Nets,F,Kris Humphries,Orlando Magic,W,11/11/2012,34:01,6,11,0.545,0,0,0.0,2,2,1.0,6,15,21,0,0,1,1,5,14,-1
+Brooklyn Nets,C,Brook Lopez,Orlando Magic,W,11/11/2012,34:55,9,18,0.5,0,0,0.0,2,2,1.0,1,2,3,3,0,3,7,3,20,4
+Brooklyn Nets,G,Joe Johnson,Orlando Magic,W,11/11/2012,41:23,3,13,0.231,2,5,0.4,5,6,0.833,1,2,3,4,1,0,1,0,13,12
+Brooklyn Nets,G,Deron Williams,Orlando Magic,W,11/11/2012,36:14,5,12,0.417,3,7,0.429,4,6,0.667,0,7,7,7,0,2,3,2,17,0
+Brooklyn Nets,F,Keith Bogans,Cleveland Cavaliers,W,11/13/2012,10:49,0,3,0.0,0,3,0.0,0,0,0.0,0,1,1,3,0,0,1,1,0,0
+Brooklyn Nets,F,Kris Humphries,Cleveland Cavaliers,W,11/13/2012,27:13,4,5,0.8,0,0,0.0,4,6,0.667,3,3,6,1,0,1,1,5,12,4
+Brooklyn Nets,C,Brook Lopez,Cleveland Cavaliers,W,11/13/2012,28:47,10,14,0.714,0,0,0.0,3,5,0.6,2,5,7,1,1,4,2,4,23,-2
+Brooklyn Nets,G,Joe Johnson,Cleveland Cavaliers,W,11/13/2012,38:37,9,16,0.563,3,9,0.333,4,5,0.8,0,5,5,6,1,1,3,2,25,18
+Brooklyn Nets,G,Deron Williams,Cleveland Cavaliers,W,11/13/2012,35:55,10,20,0.5,1,6,0.167,5,5,1.0,1,1,2,10,1,0,3,2,26,-7
+Brooklyn Nets,F,Keith Bogans,Boston Celtics,W,11/15/2012,17:42,2,3,0.667,1,2,0.5,0,0,0.0,0,1,1,1,0,0,2,3,5,9
+Brooklyn Nets,F,Kris Humphries,Boston Celtics,W,11/15/2012,26:34,3,8,0.375,0,0,0.0,4,4,1.0,3,10,13,1,0,1,0,3,10,18
+Brooklyn Nets,C,Brook Lopez,Boston Celtics,W,11/15/2012,35:12,11,14,0.786,0,0,0.0,2,5,0.4,4,2,6,0,0,4,0,0,24,21
+Brooklyn Nets,G,Joe Johnson,Boston Celtics,W,11/15/2012,34:34,6,19,0.316,2,7,0.286,5,6,0.833,3,5,8,4,2,0,1,1,19,11
+Brooklyn Nets,G,Deron Williams,Boston Celtics,W,11/15/2012,38:02,6,17,0.353,3,6,0.5,9,9,1.0,1,2,3,8,1,1,4,1,24,15
+Brooklyn Nets,F,Gerald Wallace,Sacramento Kings,W,11/18/2012,24:30,2,3,0.667,0,1,0.0,0,0,0.0,0,1,1,3,1,0,4,2,4,-11
+Brooklyn Nets,F,Kris Humphries,Sacramento Kings,W,11/18/2012,25:59,3,6,0.5,0,0,0.0,0,0,0.0,3,7,10,0,3,2,0,3,6,10
+Brooklyn Nets,C,Brook Lopez,Sacramento Kings,W,11/18/2012,27:60,5,14,0.357,0,0,0.0,3,4,0.75,1,4,5,0,1,4,1,2,13,8
+Brooklyn Nets,G,Joe Johnson,Sacramento Kings,W,11/18/2012,36:26,1,10,0.1,0,3,0.0,8,9,0.889,0,2,2,3,0,0,1,1,10,-4
+Brooklyn Nets,G,Deron Williams,Sacramento Kings,W,11/18/2012,32:51,4,12,0.333,1,5,0.2,5,5,1.0,0,5,5,10,2,0,2,2,14,8
+Brooklyn Nets,F,Gerald Wallace,Los Angeles Lakers,L,11/20/2012,29:10,2,7,0.286,0,3,0.0,3,4,0.75,2,3,5,2,5,3,2,4,7,1
+Brooklyn Nets,F,Kris Humphries,Los Angeles Lakers,L,11/20/2012,27:29,2,10,0.2,0,0,0.0,3,4,0.75,3,7,10,0,0,0,1,5,7,-3
+Brooklyn Nets,C,Brook Lopez,Los Angeles Lakers,L,11/20/2012,36:37,11,18,0.611,0,0,0.0,1,3,0.333,3,4,7,3,1,0,4,4,23,-5
+Brooklyn Nets,G,Joe Johnson,Los Angeles Lakers,L,11/20/2012,41:03,6,16,0.375,2,7,0.286,0,0,0.0,0,3,3,6,0,0,1,2,14,-8
+Brooklyn Nets,G,Deron Williams,Los Angeles Lakers,L,11/20/2012,36:45,6,18,0.333,3,9,0.333,7,8,0.875,1,3,4,10,1,0,0,5,22,-18
+Brooklyn Nets,F,Keith Bogans,Golden State Warriors,L,11/21/2012,21:46,2,3,0.667,2,3,0.667,0,0,0.0,1,2,3,0,0,0,0,1,6,-7
+Brooklyn Nets,F,Kris Humphries,Golden State Warriors,L,11/21/2012,27:12,5,6,0.833,0,0,0.0,0,0,0.0,1,5,6,1,0,1,0,1,10,-6
+Brooklyn Nets,C,Brook Lopez,Golden State Warriors,L,11/21/2012,27:53,10,16,0.625,0,0,0.0,2,3,0.667,1,2,3,0,1,3,0,2,22,-7
+Brooklyn Nets,G,Joe Johnson,Golden State Warriors,L,11/21/2012,38:08,5,13,0.385,3,5,0.6,0,0,0.0,0,1,1,6,0,1,2,3,13,-7
+Brooklyn Nets,G,Deron Williams,Golden State Warriors,L,11/21/2012,34:40,4,12,0.333,0,5,0.0,1,1,1.0,1,2,3,8,0,0,2,2,9,2
+Brooklyn Nets,F,Gerald Wallace,Los Angeles Clippers,W,11/23/2012,37:44,3,6,0.5,1,2,0.5,1,4,0.25,1,3,4,3,2,0,2,2,8,6
+Brooklyn Nets,F,Kris Humphries,Los Angeles Clippers,W,11/23/2012,23:43,0,2,0.0,0,0,0.0,2,2,1.0,2,1,3,1,0,0,1,3,2,-1
+Brooklyn Nets,C,Brook Lopez,Los Angeles Clippers,W,11/23/2012,33:26,13,24,0.542,0,0,0.0,0,1,0.0,1,4,5,1,0,3,0,4,26,8
+Brooklyn Nets,G,Joe Johnson,Los Angeles Clippers,W,11/23/2012,38:46,8,12,0.667,1,2,0.5,2,2,1.0,0,1,1,0,0,0,3,2,19,9
+Brooklyn Nets,G,Deron Williams,Los Angeles Clippers,W,11/23/2012,37:16,3,10,0.3,1,5,0.2,4,4,1.0,2,1,3,8,1,0,3,4,11,8
+Brooklyn Nets,F,Gerald Wallace,Portland Trail Blazers,W,11/25/2012,27:10,1,8,0.125,0,3,0.0,0,0,0.0,0,1,1,0,1,0,0,1,2,7
+Brooklyn Nets,F,Kris Humphries,Portland Trail Blazers,W,11/25/2012,23:38,7,9,0.778,0,0,0.0,0,1,0.0,4,6,10,1,2,1,1,1,14,10
+Brooklyn Nets,C,Brook Lopez,Portland Trail Blazers,W,11/25/2012,27:54,7,14,0.5,0,0,0.0,1,1,1.0,2,6,8,0,0,2,2,3,15,21
+Brooklyn Nets,G,Joe Johnson,Portland Trail Blazers,W,11/25/2012,38:08,10,19,0.526,1,4,0.25,0,1,0.0,1,0,1,4,1,0,3,0,21,17
+Brooklyn Nets,G,Deron Williams,Portland Trail Blazers,W,11/25/2012,33:27,4,13,0.308,2,5,0.4,5,6,0.833,0,2,2,12,3,4,1,0,15,11
+Brooklyn Nets,F,Gerald Wallace,Boston Celtics,W,11/28/2012,17:33,2,10,0.2,1,4,0.25,0,0,0.0,1,1,2,3,3,0,2,2,5,6
+Brooklyn Nets,F,Kris Humphries,Boston Celtics,W,11/28/2012,12:53,1,3,0.333,0,0,0.0,1,2,0.5,1,3,4,0,0,2,0,2,3,0
+Brooklyn Nets,C,Brook Lopez,Boston Celtics,W,11/28/2012,17:20,4,10,0.4,0,0,0.0,1,1,1.0,1,9,10,1,1,0,2,5,9,5
+Brooklyn Nets,G,Joe Johnson,Boston Celtics,W,11/28/2012,40:40,6,14,0.429,3,6,0.5,3,4,0.75,0,4,4,6,1,0,1,0,18,13
+Brooklyn Nets,G,Deron Williams,Boston Celtics,W,11/28/2012,39:40,3,12,0.25,1,3,0.333,1,3,0.333,0,4,4,7,0,1,1,2,8,4
+Brooklyn Nets,F,Gerald Wallace,Orlando Magic,W,11/30/2012,32:27,7,9,0.778,5,6,0.833,1,2,0.5,0,4,4,3,0,1,0,1,20,17
+Brooklyn Nets,F,Kris Humphries,Orlando Magic,W,11/30/2012,32:42,4,12,0.333,0,0,0.0,3,3,1.0,3,4,7,0,0,2,0,4,11,5
+Brooklyn Nets,C,Andray Blatche,Orlando Magic,W,11/30/2012,28:11,6,14,0.429,0,0,0.0,2,2,1.0,2,7,9,3,0,1,1,3,14,19
+Brooklyn Nets,G,Joe Johnson,Orlando Magic,W,11/30/2012,33:43,10,16,0.625,2,4,0.5,0,0,0.0,0,0,0,5,0,1,1,1,22,14
+Brooklyn Nets,G,Deron Williams,Orlando Magic,W,11/30/2012,29:59,4,9,0.444,1,3,0.333,2,2,1.0,0,4,4,7,0,1,2,3,11,18
+Brooklyn Nets,F,Gerald Wallace,Miami Heat,L,12/01/2012,37:40,5,11,0.455,1,6,0.167,2,4,0.5,1,8,9,2,1,0,4,4,13,-10
+Brooklyn Nets,F,Kris Humphries,Miami Heat,L,12/01/2012,23:17,4,8,0.5,0,0,0.0,3,4,0.75,2,5,7,1,1,2,0,2,11,-4
+Brooklyn Nets,C,Andray Blatche,Miami Heat,L,12/01/2012,33:39,8,12,0.667,0,0,0.0,4,7,0.571,4,4,8,0,1,0,1,1,20,1
+Brooklyn Nets,G,Joe Johnson,Miami Heat,L,12/01/2012,34:28,5,14,0.357,2,9,0.222,0,2,0.0,0,1,1,3,0,0,4,3,12,-7
+Brooklyn Nets,G,Deron Williams,Miami Heat,L,12/01/2012,39:11,3,11,0.273,1,4,0.25,3,5,0.6,0,1,1,12,2,0,4,2,10,-11
+Brooklyn Nets,F,Gerald Wallace,Oklahoma City Thunder,L,12/04/2012,37:10,4,11,0.364,4,7,0.571,2,2,1.0,2,5,7,3,2,0,1,4,14,-2
+Brooklyn Nets,F,Kris Humphries,Oklahoma City Thunder,L,12/04/2012,35:34,5,9,0.556,0,0,0.0,2,4,0.5,4,8,12,0,1,0,2,3,12,-9
+Brooklyn Nets,C,Andray Blatche,Oklahoma City Thunder,L,12/04/2012,25:56,7,15,0.467,0,0,0.0,5,5,1.0,8,3,11,1,3,0,1,5,19,-8
+Brooklyn Nets,G,Joe Johnson,Oklahoma City Thunder,L,12/04/2012,42:49,8,21,0.381,1,7,0.143,0,0,0.0,2,1,3,3,0,0,2,1,17,2
+Brooklyn Nets,G,Deron Williams,Oklahoma City Thunder,L,12/04/2012,41:58,10,20,0.5,5,9,0.556,8,10,0.8,0,4,4,7,1,1,2,5,33,-4
+Brooklyn Nets,F,Gerald Wallace,Golden State Warriors,L,12/07/2012,37:17,3,8,0.375,1,3,0.333,1,2,0.5,1,5,6,4,1,2,4,0,8,0
+Brooklyn Nets,F,Kris Humphries,Golden State Warriors,L,12/07/2012,22:46,1,3,0.333,0,0,0.0,2,2,1.0,2,2,4,2,0,0,0,2,4,-5
+Brooklyn Nets,C,Andray Blatche,Golden State Warriors,L,12/07/2012,34:49,8,13,0.615,1,1,1.0,5,9,0.556,7,8,15,2,4,0,2,2,22,1
+Brooklyn Nets,G,Joe Johnson,Golden State Warriors,L,12/07/2012,38:54,12,23,0.522,4,9,0.444,4,4,1.0,1,4,5,1,0,1,1,0,32,3
+Brooklyn Nets,G,Deron Williams,Golden State Warriors,L,12/07/2012,41:25,8,22,0.364,2,10,0.2,5,6,0.833,1,4,5,8,0,1,3,3,23,-5
+Brooklyn Nets,F,Gerald Wallace,Milwaukee Bucks,L,12/09/2012,40:36,6,12,0.5,0,3,0.0,4,6,0.667,3,13,16,3,1,1,2,2,16,-4
+Brooklyn Nets,F,Reggie Evans,Milwaukee Bucks,L,12/09/2012,27:15,2,3,0.667,0,0,0.0,1,2,0.5,4,5,9,1,4,0,5,1,5,-11
+Brooklyn Nets,C,Andray Blatche,Milwaukee Bucks,L,12/09/2012,21:28,3,7,0.429,0,0,0.0,5,6,0.833,2,4,6,1,2,1,2,1,11,-16
+Brooklyn Nets,G,Joe Johnson,Milwaukee Bucks,L,12/09/2012,29:43,2,8,0.25,1,3,0.333,1,2,0.5,0,1,1,4,0,0,3,1,6,-3
+Brooklyn Nets,G,Deron Williams,Milwaukee Bucks,L,12/09/2012,37:46,8,19,0.421,1,7,0.143,1,2,0.5,1,1,2,8,0,0,3,4,18,-12
+Brooklyn Nets,F,Gerald Wallace,New York Knicks,L,12/11/2012,42:58,5,8,0.625,0,2,0.0,7,8,0.875,1,3,4,4,1,0,3,4,17,-4
+Brooklyn Nets,F,Reggie Evans,New York Knicks,L,12/11/2012,32:30,2,4,0.5,0,0,0.0,1,3,0.333,2,16,18,0,1,1,3,2,5,6
+Brooklyn Nets,C,Andray Blatche,New York Knicks,L,12/11/2012,29:29,9,13,0.692,0,1,0.0,5,6,0.833,0,4,4,0,2,0,2,4,23,9
+Brooklyn Nets,G,Joe Johnson,New York Knicks,L,12/11/2012,40:12,7,14,0.5,2,6,0.333,0,0,0.0,1,4,5,4,0,2,0,2,16,0
+Brooklyn Nets,G,Deron Williams,New York Knicks,L,12/11/2012,39:04,6,16,0.375,1,6,0.167,5,6,0.833,0,2,2,10,1,0,1,5,18,-2
+Brooklyn Nets,F,Gerald Wallace,Toronto Raptors,W,12/12/2012,25:18,2,5,0.4,0,0,0.0,5,11,0.455,0,1,1,3,1,0,2,0,9,-4
+Brooklyn Nets,F,Reggie Evans,Toronto Raptors,W,12/12/2012,33:35,3,3,1.0,0,0,0.0,3,4,0.75,5,6,11,0,1,0,3,2,9,10
+Brooklyn Nets,C,Andray Blatche,Toronto Raptors,W,12/12/2012,33:06,7,14,0.5,0,0,0.0,0,0,0.0,3,6,9,3,1,0,2,5,14,-2
+Brooklyn Nets,G,Joe Johnson,Toronto Raptors,W,12/12/2012,42:44,7,14,0.5,4,6,0.667,5,6,0.833,0,2,2,4,0,0,3,0,23,12
+Brooklyn Nets,G,Deron Williams,Toronto Raptors,W,12/12/2012,38:11,5,16,0.313,2,6,0.333,0,0,0.0,0,2,2,4,0,0,3,2,12,1
+Brooklyn Nets,F,Gerald Wallace,Detroit Pistons,W,12/14/2012,50:04,9,15,0.6,3,6,0.5,4,4,1.0,2,8,10,1,2,2,3,2,25,11
+Brooklyn Nets,F,Reggie Evans,Detroit Pistons,W,12/14/2012,34:16,0,1,0.0,0,0,0.0,0,0,0.0,5,5,10,2,2,1,1,6,0,-3
+Brooklyn Nets,C,Brook Lopez,Detroit Pistons,W,12/14/2012,23:50,4,10,0.4,0,0,0.0,1,1,1.0,1,3,4,0,0,3,0,1,9,4
+Brooklyn Nets,G,Joe Johnson,Detroit Pistons,W,12/14/2012,51:58,12,22,0.545,2,7,0.286,2,3,0.667,0,4,4,5,0,0,1,1,28,8
+Brooklyn Nets,G,Deron Williams,Detroit Pistons,W,12/14/2012,43:25,7,17,0.412,3,7,0.429,0,0,0.0,0,4,4,6,2,0,5,1,17,-1
+Brooklyn Nets,F,Gerald Wallace,Chicago Bulls,L,12/15/2012,38:18,2,6,0.333,2,4,0.5,0,0,0.0,1,8,9,2,0,4,1,2,6,9
+Brooklyn Nets,F,Reggie Evans,Chicago Bulls,L,12/15/2012,21:37,0,1,0.0,0,0,0.0,0,0,0.0,1,4,5,0,1,0,1,4,0,-10
+Brooklyn Nets,C,Brook Lopez,Chicago Bulls,L,12/15/2012,25:21,8,17,0.471,0,0,0.0,2,2,1.0,5,5,10,0,1,2,2,1,18,4
+Brooklyn Nets,G,Joe Johnson,Chicago Bulls,L,12/15/2012,38:32,7,16,0.438,0,4,0.0,2,3,0.667,1,1,2,5,1,0,6,3,16,-6
+Brooklyn Nets,G,Deron Williams,Chicago Bulls,L,12/15/2012,35:47,5,13,0.385,4,7,0.571,10,13,0.769,1,1,2,5,2,1,4,1,24,-10
+Brooklyn Nets,F,Gerald Wallace,Utah Jazz,L,12/18/2012,33:07,5,10,0.5,1,2,0.5,0,1,0.0,0,3,3,3,1,0,2,1,11,-12
+Brooklyn Nets,F,Kris Humphries,Utah Jazz,L,12/18/2012,28:11,3,5,0.6,0,0,0.0,2,2,1.0,6,5,11,1,0,0,2,2,8,-11
+Brooklyn Nets,C,Brook Lopez,Utah Jazz,L,12/18/2012,30:28,5,12,0.417,0,0,0.0,6,7,0.857,0,5,5,0,2,3,0,1,16,-3
+Brooklyn Nets,G,Joe Johnson,Utah Jazz,L,12/18/2012,40:18,7,15,0.467,3,6,0.5,4,4,1.0,1,3,4,2,2,0,1,1,21,6
+Brooklyn Nets,G,Deron Williams,Utah Jazz,L,12/18/2012,34:51,5,12,0.417,0,3,0.0,4,6,0.667,0,2,2,5,1,0,3,3,14,-10
+Brooklyn Nets,F,Kris Humphries,New York Knicks,L,12/19/2012,17:38,0,3,0.0,0,0,0.0,0,0,0.0,2,7,9,0,0,0,0,2,0,-8
+Brooklyn Nets,F,Gerald Wallace,New York Knicks,L,12/19/2012,37:14,2,7,0.286,1,3,0.333,1,2,0.5,1,4,5,1,0,0,0,3,6,-23
+Brooklyn Nets,C,Brook Lopez,New York Knicks,L,12/19/2012,28:35,8,18,0.444,0,0,0.0,0,0,0.0,4,6,10,1,1,1,0,1,16,-10
+Brooklyn Nets,G,Joe Johnson,New York Knicks,L,12/19/2012,39:53,5,14,0.357,3,5,0.6,4,4,1.0,1,1,2,3,1,0,2,2,17,-9
+Brooklyn Nets,G,Deron Williams,New York Knicks,L,12/19/2012,35:52,7,12,0.583,2,6,0.333,0,0,0.0,1,4,5,10,0,0,5,1,16,-19
+Brooklyn Nets,F,Keith Bogans,Philadelphia 76ers,W,12/23/2012,35:14,5,6,0.833,3,4,0.75,0,0,0.0,0,2,2,3,1,0,0,0,13,4
+Brooklyn Nets,F,Gerald Wallace,Philadelphia 76ers,W,12/23/2012,36:59,3,7,0.429,1,2,0.5,7,8,0.875,1,8,9,6,2,0,2,0,14,-2
+Brooklyn Nets,C,Brook Lopez,Philadelphia 76ers,W,12/23/2012,27:14,5,14,0.357,0,0,0.0,4,6,0.667,3,4,7,0,0,1,0,1,14,4
+Brooklyn Nets,G,Joe Johnson,Philadelphia 76ers,W,12/23/2012,40:23,8,17,0.471,3,5,0.6,3,6,0.5,2,5,7,2,1,0,3,0,22,2
+Brooklyn Nets,G,Deron Williams,Philadelphia 76ers,W,12/23/2012,38:19,5,11,0.455,1,3,0.333,5,7,0.714,1,5,6,5,0,1,1,5,16,8
+Brooklyn Nets,F,Keith Bogans,Boston Celtics,L,12/25/2012,15:03,1,1,1.0,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,2,3,-12
+Brooklyn Nets,F,Gerald Wallace,Boston Celtics,L,12/25/2012,27:47,4,7,0.571,0,1,0.0,7,11,0.636,1,5,6,1,3,0,3,3,15,-16
+Brooklyn Nets,C,Brook Lopez,Boston Celtics,L,12/25/2012,36:30,5,12,0.417,0,0,0.0,5,9,0.556,1,7,8,1,0,2,4,1,15,1
+Brooklyn Nets,G,Joe Johnson,Boston Celtics,L,12/25/2012,41:57,4,14,0.286,3,8,0.375,1,3,0.333,0,4,4,2,0,1,2,1,12,-5
+Brooklyn Nets,G,Deron Williams,Boston Celtics,L,12/25/2012,36:10,3,7,0.429,1,3,0.333,3,3,1.0,0,2,2,6,0,0,4,4,10,-5
+Brooklyn Nets,F,Joe Johnson,Milwaukee Bucks,L,12/26/2012,35:57,5,15,0.333,1,4,0.25,2,2,1.0,1,2,3,3,0,0,2,1,13,-7
+Brooklyn Nets,F,Gerald Wallace,Milwaukee Bucks,L,12/26/2012,33:35,2,8,0.25,0,2,0.0,4,4,1.0,3,9,12,8,2,1,2,3,8,-9
+Brooklyn Nets,C,Brook Lopez,Milwaukee Bucks,L,12/26/2012,28:19,9,18,0.5,0,0,0.0,3,5,0.6,7,3,10,1,0,3,1,0,21,-12
+Brooklyn Nets,G,Keith Bogans,Milwaukee Bucks,L,12/26/2012,30:02,4,8,0.5,2,5,0.4,1,1,1.0,1,4,5,2,2,0,1,3,11,-14
+Brooklyn Nets,G,CJ Watson,Milwaukee Bucks,L,12/26/2012,30:28,2,12,0.167,0,3,0.0,4,4,1.0,0,0,0,2,1,0,1,2,8,-13
+Brooklyn Nets,F,Keith Bogans,Charlotte Bobcats,W,12/28/2012,22:56,3,3,1.0,3,3,1.0,0,0,0.0,0,2,2,2,0,0,1,3,9,27
+Brooklyn Nets,F,Gerald Wallace,Charlotte Bobcats,W,12/28/2012,24:00,0,3,0.0,0,1,0.0,0,2,0.0,0,5,5,6,1,1,2,2,0,28
+Brooklyn Nets,C,Brook Lopez,Charlotte Bobcats,W,12/28/2012,27:03,9,12,0.75,0,0,0.0,8,8,1.0,4,7,11,2,0,3,1,2,26,30
+Brooklyn Nets,G,Joe Johnson,Charlotte Bobcats,W,12/28/2012,33:58,6,14,0.429,2,8,0.25,2,2,1.0,0,2,2,4,1,0,0,3,16,17
+Brooklyn Nets,G,Deron Williams,Charlotte Bobcats,W,12/28/2012,28:41,7,14,0.5,3,5,0.6,2,2,1.0,0,1,1,2,0,0,0,0,19,32
+Brooklyn Nets,F,Keith Bogans,Cleveland Cavaliers,W,12/29/2012,19:14,1,3,0.333,1,2,0.5,0,0,0.0,0,1,1,1,1,0,2,1,3,5
+Brooklyn Nets,F,Gerald Wallace,Cleveland Cavaliers,W,12/29/2012,37:04,1,6,0.167,0,2,0.0,5,8,0.625,2,8,10,3,2,1,2,1,7,-2
+Brooklyn Nets,C,Brook Lopez,Cleveland Cavaliers,W,12/29/2012,35:35,13,20,0.65,0,0,0.0,9,11,0.818,5,6,11,1,0,1,2,5,35,15
+Brooklyn Nets,G,Joe Johnson,Cleveland Cavaliers,W,12/29/2012,41:22,6,13,0.462,1,4,0.25,2,2,1.0,1,1,2,2,3,0,1,1,15,14
+Brooklyn Nets,G,Deron Williams,Cleveland Cavaliers,W,12/29/2012,39:58,5,12,0.417,0,3,0.0,5,6,0.833,0,4,4,7,2,0,1,2,15,5
+Brooklyn Nets,F,Keith Bogans,San Antonio Spurs,L,12/31/2012,19:57,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,2,0,0,0,2,0,-24
+Brooklyn Nets,F,Reggie Evans,San Antonio Spurs,L,12/31/2012,21:16,2,4,0.5,0,0,0.0,0,0,0.0,3,6,9,0,0,0,0,2,4,-23
+Brooklyn Nets,C,Brook Lopez,San Antonio Spurs,L,12/31/2012,21:55,4,11,0.364,0,0,0.0,3,4,0.75,4,1,5,2,1,1,3,2,11,-20
+Brooklyn Nets,G,Joe Johnson,San Antonio Spurs,L,12/31/2012,28:03,5,12,0.417,1,4,0.25,1,1,1.0,0,0,0,2,1,0,2,1,12,-18
+Brooklyn Nets,G,Deron Williams,San Antonio Spurs,L,12/31/2012,28:20,3,11,0.273,1,3,0.333,1,1,1.0,1,1,2,1,4,0,2,1,8,-35
+Brooklyn Nets,F,Reggie Evans,Oklahoma City Thunder,W,01/02/2013,19:44,0,2,0.0,0,0,0.0,1,4,0.25,2,4,6,1,0,0,3,2,1,3
+Brooklyn Nets,F,Gerald Wallace,Oklahoma City Thunder,W,01/02/2013,36:50,2,5,0.4,0,1,0.0,2,2,1.0,1,3,4,2,2,0,0,1,6,11
+Brooklyn Nets,C,Brook Lopez,Oklahoma City Thunder,W,01/02/2013,29:27,11,17,0.647,0,0,0.0,3,3,1.0,2,3,5,0,2,1,1,1,25,6
+Brooklyn Nets,G,Joe Johnson,Oklahoma City Thunder,W,01/02/2013,40:12,11,19,0.579,5,10,0.5,6,6,1.0,1,4,5,3,1,0,1,1,33,15
+Brooklyn Nets,G,Deron Williams,Oklahoma City Thunder,W,01/02/2013,38:35,5,12,0.417,3,4,0.75,6,6,1.0,0,3,3,13,5,0,2,3,19,18
+Brooklyn Nets,F,Gerald Wallace,Washington Wizards,W,01/04/2013,38:55,2,5,0.4,0,1,0.0,3,4,0.75,0,3,3,5,1,3,2,4,7,-1
+Brooklyn Nets,F,Reggie Evans,Washington Wizards,W,01/04/2013,24:14,1,2,0.5,0,0,0.0,1,2,0.5,0,8,8,0,1,0,0,6,3,-15
+Brooklyn Nets,C,Brook Lopez,Washington Wizards,W,01/04/2013,43:54,8,15,0.533,0,0,0.0,11,14,0.786,5,8,13,1,1,3,7,5,27,-1
+Brooklyn Nets,G,Joe Johnson,Washington Wizards,W,01/04/2013,47:08,7,14,0.5,2,5,0.4,2,4,0.5,0,2,2,3,0,0,2,4,18,6
+Brooklyn Nets,G,Deron Williams,Washington Wizards,W,01/04/2013,46:36,9,23,0.391,3,7,0.429,3,3,1.0,0,7,7,10,0,0,4,3,24,0
+Brooklyn Nets,F,Gerald Wallace,Sacramento Kings,W,01/05/2013,23:23,2,5,0.4,1,3,0.333,3,4,0.75,0,4,4,1,0,1,1,0,8,14
+Brooklyn Nets,F,Reggie Evans,Sacramento Kings,W,01/05/2013,31:19,3,4,0.75,0,0,0.0,1,2,0.5,4,8,12,2,0,0,3,3,7,10
+Brooklyn Nets,C,Brook Lopez,Sacramento Kings,W,01/05/2013,16:26,7,12,0.583,0,0,0.0,4,4,1.0,3,2,5,2,0,2,1,3,18,6
+Brooklyn Nets,G,Joe Johnson,Sacramento Kings,W,01/05/2013,28:55,6,14,0.429,3,7,0.429,0,0,0.0,1,1,2,4,0,1,1,1,15,17
+Brooklyn Nets,G,Deron Williams,Sacramento Kings,W,01/05/2013,27:04,5,8,0.625,1,3,0.333,4,4,1.0,1,5,6,7,0,1,1,0,15,9
+Brooklyn Nets,F,Gerald Wallace,Philadelphia 76ers,W,01/08/2013,20:32,3,6,0.5,1,2,0.5,4,6,0.667,2,1,3,5,1,0,1,2,11,27
+Brooklyn Nets,F,Reggie Evans,Philadelphia 76ers,W,01/08/2013,26:37,1,5,0.2,0,0,0.0,0,0,0.0,6,17,23,2,1,0,1,1,2,26
+Brooklyn Nets,C,Brook Lopez,Philadelphia 76ers,W,01/08/2013,22:30,6,10,0.6,0,0,0.0,1,1,1.0,0,2,2,1,2,0,4,2,13,28
+Brooklyn Nets,G,Joe Johnson,Philadelphia 76ers,W,01/08/2013,32:38,6,13,0.462,2,5,0.4,1,1,1.0,0,4,4,5,1,1,2,0,15,20
+Brooklyn Nets,G,Deron Williams,Philadelphia 76ers,W,01/08/2013,29:05,7,11,0.636,3,6,0.5,5,5,1.0,0,0,0,5,0,1,2,3,22,26
+Brooklyn Nets,F,Gerald Wallace,Phoenix Suns,W,01/11/2013,5:51,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+Brooklyn Nets,F,Reggie Evans,Phoenix Suns,W,01/11/2013,35:04,3,4,0.75,0,0,0.0,1,6,0.167,5,10,15,0,1,0,2,2,7,2
+Brooklyn Nets,C,Brook Lopez,Phoenix Suns,W,01/11/2013,35:16,5,16,0.313,0,0,0.0,3,4,0.75,3,5,8,0,1,1,1,3,13,23
+Brooklyn Nets,G,Joe Johnson,Phoenix Suns,W,01/11/2013,34:55,8,19,0.421,3,4,0.75,0,0,0.0,0,4,4,3,1,0,0,1,19,17
+Brooklyn Nets,G,Deron Williams,Phoenix Suns,W,01/11/2013,34:52,3,5,0.6,2,4,0.5,7,7,1.0,0,3,3,6,2,0,3,2,15,6
+Brooklyn Nets,F,Keith Bogans,Indiana Pacers,W,01/13/2013,21:59,2,4,0.5,1,2,0.5,3,4,0.75,0,3,3,0,1,0,0,1,8,3
+Brooklyn Nets,F,Reggie Evans,Indiana Pacers,W,01/13/2013,29:52,1,2,0.5,0,0,0.0,0,0,0.0,3,3,6,1,1,0,0,3,2,-2
+Brooklyn Nets,C,Brook Lopez,Indiana Pacers,W,01/13/2013,28:31,5,14,0.357,0,0,0.0,5,8,0.625,2,7,9,2,0,2,0,1,15,12
+Brooklyn Nets,G,Joe Johnson,Indiana Pacers,W,01/13/2013,42:16,7,16,0.438,3,6,0.5,3,3,1.0,3,2,5,3,0,0,2,1,20,7
+Brooklyn Nets,G,Deron Williams,Indiana Pacers,W,01/13/2013,41:18,7,18,0.389,2,5,0.4,6,6,1.0,1,4,5,9,0,0,3,3,22,13
+Brooklyn Nets,F,Keith Bogans,Toronto Raptors,W,01/15/2013,26:42,3,5,0.6,1,3,0.333,0,0,0.0,0,1,1,3,3,0,0,0,7,11
+Brooklyn Nets,F,Reggie Evans,Toronto Raptors,W,01/15/2013,21:39,1,3,0.333,0,0,0.0,0,0,0.0,0,7,7,0,0,0,2,3,2,1
+Brooklyn Nets,C,Brook Lopez,Toronto Raptors,W,01/15/2013,28:48,6,12,0.5,0,0,0.0,10,10,1.0,3,6,9,0,1,2,0,1,22,13
+Brooklyn Nets,G,Joe Johnson,Toronto Raptors,W,01/15/2013,37:30,9,18,0.5,2,5,0.4,1,1,1.0,3,2,5,5,2,0,0,0,21,5
+Brooklyn Nets,G,Deron Williams,Toronto Raptors,W,01/15/2013,42:37,6,13,0.462,1,5,0.2,8,8,1.0,0,1,1,7,0,0,2,3,21,17
+Brooklyn Nets,F,Keith Bogans,Atlanta Hawks,L,01/16/2013,17:05,0,6,0.0,0,6,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-23
+Brooklyn Nets,F,Reggie Evans,Atlanta Hawks,L,01/16/2013,21:39,2,3,0.667,0,0,0.0,4,4,1.0,2,3,5,0,1,0,3,3,8,-11
+Brooklyn Nets,C,Brook Lopez,Atlanta Hawks,L,01/16/2013,29:15,10,14,0.714,0,0,0.0,2,2,1.0,6,3,9,0,0,1,1,1,22,-16
+Brooklyn Nets,G,Joe Johnson,Atlanta Hawks,L,01/16/2013,41:19,4,15,0.267,0,4,0.0,7,7,1.0,0,2,2,2,1,0,0,2,15,-2
+Brooklyn Nets,G,Deron Williams,Atlanta Hawks,L,01/16/2013,35:03,5,18,0.278,2,9,0.222,0,0,0.0,2,3,5,9,0,0,1,5,12,-18
+Brooklyn Nets,F,Gerald Wallace,Atlanta Hawks,W,01/18/2013,29:02,1,6,0.167,1,4,0.25,5,6,0.833,1,2,3,4,1,1,1,3,8,3
+Brooklyn Nets,F,Reggie Evans,Atlanta Hawks,W,01/18/2013,28:31,1,2,0.5,0,0,0.0,0,4,0.0,5,15,20,1,2,0,2,2,2,4
+Brooklyn Nets,C,Brook Lopez,Atlanta Hawks,W,01/18/2013,32:13,7,12,0.583,0,0,0.0,6,8,0.75,2,4,6,2,1,1,3,3,20,0
+Brooklyn Nets,G,Joe Johnson,Atlanta Hawks,W,01/18/2013,41:27,7,17,0.412,3,7,0.429,1,2,0.5,0,3,3,2,1,0,3,2,18,7
+Brooklyn Nets,G,Deron Williams,Atlanta Hawks,W,01/18/2013,37:42,7,19,0.368,3,9,0.333,7,7,1.0,0,2,2,7,0,0,4,3,24,4
+Brooklyn Nets,F,Reggie Evans,New York Knicks,W,01/21/2013,20:29,1,3,0.333,0,0,0.0,1,2,0.5,2,7,9,0,0,0,0,1,3,-2
+Brooklyn Nets,F,Gerald Wallace,New York Knicks,W,01/21/2013,26:02,3,5,0.6,2,3,0.667,0,2,0.0,0,3,3,1,0,0,1,3,8,-2
+Brooklyn Nets,C,Brook Lopez,New York Knicks,W,01/21/2013,34:25,6,13,0.462,0,0,0.0,2,4,0.5,5,6,11,1,0,4,4,3,14,-6
+Brooklyn Nets,G,Joe Johnson,New York Knicks,W,01/21/2013,39:03,8,20,0.4,5,8,0.625,4,4,1.0,0,3,3,5,1,0,2,5,25,3
+Brooklyn Nets,G,Deron Williams,New York Knicks,W,01/21/2013,38:29,3,10,0.3,2,4,0.5,6,7,0.857,0,5,5,12,0,0,4,3,14,-8
+Brooklyn Nets,F,Gerald Wallace,Minnesota Timberwolves,W,01/23/2013,29:42,2,6,0.333,0,1,0.0,2,2,1.0,2,1,3,1,3,1,1,1,6,9
+Brooklyn Nets,F,Reggie Evans,Minnesota Timberwolves,W,01/23/2013,21:07,1,1,1.0,0,0,0.0,0,0,0.0,1,4,5,1,0,0,3,3,2,11
+Brooklyn Nets,C,Brook Lopez,Minnesota Timberwolves,W,01/23/2013,26:02,10,16,0.625,0,0,0.0,2,5,0.4,3,4,7,1,0,2,2,1,22,9
+Brooklyn Nets,G,Joe Johnson,Minnesota Timberwolves,W,01/23/2013,36:39,8,16,0.5,2,8,0.25,0,0,0.0,1,2,3,3,0,0,3,1,18,12
+Brooklyn Nets,G,Deron Williams,Minnesota Timberwolves,W,01/23/2013,33:44,6,12,0.5,2,4,0.5,4,5,0.8,0,6,6,8,3,0,2,4,18,9
+Brooklyn Nets,F,Gerald Wallace,Memphis Grizzlies,L,01/25/2013,24:00,0,3,0.0,0,1,0.0,1,2,0.5,1,2,3,4,1,1,2,2,1,-5
+Brooklyn Nets,F,Reggie Evans,Memphis Grizzlies,L,01/25/2013,31:43,5,7,0.714,0,0,0.0,1,4,0.25,4,6,10,0,1,0,0,2,11,-18
+Brooklyn Nets,C,Brook Lopez,Memphis Grizzlies,L,01/25/2013,26:34,8,15,0.533,0,0,0.0,2,5,0.4,2,2,4,0,0,3,4,1,18,-14
+Brooklyn Nets,G,Joe Johnson,Memphis Grizzlies,L,01/25/2013,31:57,4,10,0.4,1,4,0.25,2,2,1.0,1,1,2,3,0,0,1,0,11,-18
+Brooklyn Nets,G,Deron Williams,Memphis Grizzlies,L,01/25/2013,29:19,4,10,0.4,1,2,0.5,3,5,0.6,0,5,5,6,0,2,1,2,12,-12
+Brooklyn Nets,F,Gerald Wallace,Houston Rockets,L,01/26/2013,21:48,4,10,0.4,1,4,0.25,2,2,1.0,0,4,4,0,2,0,1,1,11,-3
+Brooklyn Nets,F,Reggie Evans,Houston Rockets,L,01/26/2013,25:27,0,4,0.0,0,0,0.0,1,2,0.5,2,6,8,0,1,0,1,3,1,-17
+Brooklyn Nets,C,Brook Lopez,Houston Rockets,L,01/26/2013,32:55,6,13,0.462,0,0,0.0,9,10,0.9,4,3,7,0,0,5,0,3,21,-5
+Brooklyn Nets,G,Joe Johnson,Houston Rockets,L,01/26/2013,37:16,5,14,0.357,3,7,0.429,0,0,0.0,0,3,3,6,0,2,1,1,13,-14
+Brooklyn Nets,G,Deron Williams,Houston Rockets,L,01/26/2013,41:29,10,15,0.667,5,9,0.556,2,2,1.0,0,4,4,11,2,2,4,3,27,-6
+Brooklyn Nets,F,Gerald Wallace,Orlando Magic,W,01/28/2013,26:12,3,3,1.0,1,1,1.0,0,0,0.0,1,3,4,3,0,0,3,0,7,0
+Brooklyn Nets,F,Reggie Evans,Orlando Magic,W,01/28/2013,19:42,0,2,0.0,0,0,0.0,0,0,0.0,3,7,10,1,1,0,3,1,0,-2
+Brooklyn Nets,C,Brook Lopez,Orlando Magic,W,01/28/2013,27:56,6,8,0.75,0,0,0.0,4,4,1.0,1,4,5,0,0,1,4,3,16,18
+Brooklyn Nets,G,Joe Johnson,Orlando Magic,W,01/28/2013,30:09,5,10,0.5,2,4,0.5,1,1,1.0,0,2,2,5,1,0,1,1,13,14
+Brooklyn Nets,G,Deron Williams,Orlando Magic,W,01/28/2013,33:54,8,12,0.667,4,7,0.571,0,0,0.0,0,3,3,9,0,1,1,0,20,11
+Brooklyn Nets,F,Gerald Wallace,Miami Heat,L,01/30/2013,29:08,3,5,0.6,0,0,0.0,0,0,0.0,1,1,2,3,0,1,1,0,6,-25
+Brooklyn Nets,F,Reggie Evans,Miami Heat,L,01/30/2013,19:51,0,1,0.0,0,0,0.0,0,2,0.0,0,6,6,0,2,0,1,2,0,-10
+Brooklyn Nets,C,Brook Lopez,Miami Heat,L,01/30/2013,31:57,8,13,0.615,0,0,0.0,5,6,0.833,2,5,7,2,1,3,2,2,21,-22
+Brooklyn Nets,G,Joe Johnson,Miami Heat,L,01/30/2013,37:18,4,15,0.267,1,5,0.2,7,8,0.875,2,1,3,6,0,0,4,0,16,-11
+Brooklyn Nets,G,Deron Williams,Miami Heat,L,01/30/2013,34:17,4,9,0.444,0,3,0.0,1,1,1.0,0,1,1,5,1,0,6,2,9,-22
+Brooklyn Nets,F,Gerald Wallace,Chicago Bulls,W,02/01/2013,41:26,3,4,0.75,0,0,0.0,0,4,0.0,5,8,13,2,1,0,3,3,6,8
+Brooklyn Nets,F,Reggie Evans,Chicago Bulls,W,02/01/2013,20:33,4,5,0.8,0,0,0.0,0,2,0.0,2,5,7,1,0,0,1,1,8,0
+Brooklyn Nets,C,Brook Lopez,Chicago Bulls,W,02/01/2013,29:26,9,16,0.563,0,0,0.0,2,4,0.5,1,3,4,2,1,1,1,1,20,0
+Brooklyn Nets,G,Joe Johnson,Chicago Bulls,W,02/01/2013,37:37,6,14,0.429,1,2,0.5,0,0,0.0,0,3,3,2,1,0,3,1,13,7
+Brooklyn Nets,G,Deron Williams,Chicago Bulls,W,02/01/2013,35:36,4,12,0.333,1,3,0.333,2,2,1.0,1,1,2,6,0,1,3,2,11,-2
+Brooklyn Nets,F,Gerald Wallace,Los Angeles Lakers,L,02/05/2013,35:39,3,10,0.3,1,5,0.2,2,2,1.0,1,2,3,4,3,0,4,0,9,-2
+Brooklyn Nets,F,Reggie Evans,Los Angeles Lakers,L,02/05/2013,22:48,2,3,0.667,0,0,0.0,0,0,0.0,2,9,11,0,2,1,2,3,4,3
+Brooklyn Nets,C,Brook Lopez,Los Angeles Lakers,L,02/05/2013,40:07,11,25,0.44,0,0,0.0,8,10,0.8,7,4,11,0,0,3,2,3,30,2
+Brooklyn Nets,G,Joe Johnson,Los Angeles Lakers,L,02/05/2013,41:27,4,15,0.267,1,4,0.25,2,2,1.0,3,3,6,5,1,0,1,2,11,-7
+Brooklyn Nets,G,Deron Williams,Los Angeles Lakers,L,02/05/2013,37:36,5,13,0.385,2,4,0.5,3,5,0.6,1,4,5,6,0,0,5,6,15,-1
+Brooklyn Nets,F,Gerald Wallace,Detroit Pistons,W,02/06/2013,26:41,4,7,0.571,2,3,0.667,4,4,1.0,1,2,3,1,0,0,0,3,14,3
+Brooklyn Nets,F,Reggie Evans,Detroit Pistons,W,02/06/2013,30:01,3,5,0.6,0,0,0.0,4,7,0.571,4,10,14,0,0,1,1,3,10,-1
+Brooklyn Nets,C,Brook Lopez,Detroit Pistons,W,02/06/2013,30:27,8,14,0.571,0,0,0.0,1,2,0.5,2,7,9,1,0,2,2,3,17,-4
+Brooklyn Nets,G,Joe Johnson,Detroit Pistons,W,02/06/2013,34:19,5,15,0.333,2,3,0.667,4,4,1.0,1,3,4,1,0,0,0,1,16,1
+Brooklyn Nets,G,Deron Williams,Detroit Pistons,W,02/06/2013,34:54,4,10,0.4,0,2,0.0,4,4,1.0,1,1,2,9,0,2,6,3,12,3
+Brooklyn Nets,F,Gerald Wallace,Washington Wizards,L,02/08/2013,27:34,2,5,0.4,0,2,0.0,1,2,0.5,0,4,4,4,1,0,2,2,5,1
+Brooklyn Nets,F,Reggie Evans,Washington Wizards,L,02/08/2013,32:39,3,7,0.429,0,0,0.0,3,6,0.5,5,8,13,1,1,0,1,2,9,2
+Brooklyn Nets,C,Brook Lopez,Washington Wizards,L,02/08/2013,32:14,3,11,0.273,0,0,0.0,7,9,0.778,1,7,8,3,0,4,4,1,13,-11
+Brooklyn Nets,G,Joe Johnson,Washington Wizards,L,02/08/2013,33:56,6,12,0.5,1,4,0.25,1,1,1.0,1,2,3,2,0,0,2,1,14,-9
+Brooklyn Nets,G,Deron Williams,Washington Wizards,L,02/08/2013,40:16,7,20,0.35,3,6,0.5,3,4,0.75,1,5,6,5,2,0,1,1,20,-4
+Brooklyn Nets,F,Gerald Wallace,San Antonio Spurs,L,02/10/2013,32:18,2,4,0.5,1,1,1.0,0,0,0.0,2,1,3,1,0,1,2,1,5,-25
+Brooklyn Nets,F,Reggie Evans,San Antonio Spurs,L,02/10/2013,18:38,0,2,0.0,0,0,0.0,1,6,0.167,1,8,9,0,1,0,0,2,1,-8
+Brooklyn Nets,C,Brook Lopez,San Antonio Spurs,L,02/10/2013,34:10,8,13,0.615,0,0,0.0,2,2,1.0,4,5,9,4,0,2,3,1,18,-15
+Brooklyn Nets,G,Joe Johnson,San Antonio Spurs,L,02/10/2013,35:41,8,16,0.5,1,4,0.25,2,2,1.0,0,2,2,2,0,1,2,2,19,-11
+Brooklyn Nets,G,Deron Williams,San Antonio Spurs,L,02/10/2013,37:26,5,11,0.455,2,3,0.667,3,3,1.0,0,1,1,3,0,0,3,2,15,-25
+Brooklyn Nets,F,Gerald Wallace,Indiana Pacers,W,02/11/2013,46:03,4,8,0.5,2,4,0.5,1,2,0.5,0,11,11,2,2,2,2,5,11,12
+Brooklyn Nets,F,Reggie Evans,Indiana Pacers,W,02/11/2013,42:44,2,5,0.4,0,0,0.0,4,6,0.667,7,15,22,0,1,2,1,3,8,11
+Brooklyn Nets,C,Brook Lopez,Indiana Pacers,W,02/11/2013,41:53,8,19,0.421,0,0,0.0,9,9,1.0,4,4,8,0,0,2,1,3,25,4
+Brooklyn Nets,G,Joe Johnson,Indiana Pacers,W,02/11/2013,37:39,6,17,0.353,1,3,0.333,4,5,0.8,0,1,1,2,0,0,2,2,17,5
+Brooklyn Nets,G,CJ Watson,Indiana Pacers,W,02/11/2013,18:58,0,7,0.0,0,1,0.0,1,2,0.5,0,4,4,3,1,0,1,2,1,1
+Brooklyn Nets,F,Gerald Wallace,Denver Nuggets,W,02/13/2013,31:42,3,7,0.429,2,4,0.5,0,2,0.0,3,6,9,5,1,3,1,2,8,22
+Brooklyn Nets,F,Reggie Evans,Denver Nuggets,W,02/13/2013,28:09,0,1,0.0,0,0,0.0,6,10,0.6,2,5,7,0,1,0,0,1,6,20
+Brooklyn Nets,C,Brook Lopez,Denver Nuggets,W,02/13/2013,38:59,9,15,0.6,0,0,0.0,5,5,1.0,3,5,8,0,0,0,3,2,23,18
+Brooklyn Nets,G,Joe Johnson,Denver Nuggets,W,02/13/2013,42:18,10,19,0.526,5,9,0.556,1,2,0.5,0,2,2,9,0,0,2,2,26,7
+Brooklyn Nets,G,CJ Watson,Denver Nuggets,W,02/13/2013,35:33,8,12,0.667,5,7,0.714,4,6,0.667,0,1,1,6,2,0,1,5,25,13
+Brooklyn Nets,F,Gerald Wallace,Milwaukee Bucks,W,02/19/2013,38:18,3,10,0.3,0,2,0.0,0,0,0.0,0,6,6,5,2,1,1,1,6,2
+Brooklyn Nets,F,Reggie Evans,Milwaukee Bucks,W,02/19/2013,19:21,0,2,0.0,0,0,0.0,1,2,0.5,1,8,9,1,0,0,2,1,1,-2
+Brooklyn Nets,C,Brook Lopez,Milwaukee Bucks,W,02/19/2013,34:11,6,17,0.353,0,0,0.0,7,8,0.875,5,4,9,1,1,3,0,0,19,3
+Brooklyn Nets,G,Joe Johnson,Milwaukee Bucks,W,02/19/2013,44:01,10,18,0.556,3,5,0.6,1,1,1.0,2,3,5,5,0,0,0,0,24,7
+Brooklyn Nets,G,Deron Williams,Milwaukee Bucks,W,02/19/2013,44:36,6,13,0.462,3,4,0.75,4,4,1.0,2,1,3,9,0,0,6,4,19,2
+Brooklyn Nets,F,Gerald Wallace,Milwaukee Bucks,W,02/20/2013,27:12,3,6,0.5,0,2,0.0,1,2,0.5,0,6,6,1,0,0,1,2,7,-11
+Brooklyn Nets,F,Reggie Evans,Milwaukee Bucks,W,02/20/2013,20:47,0,2,0.0,0,0,0.0,3,4,0.75,1,4,5,1,2,0,2,1,3,-11
+Brooklyn Nets,C,Brook Lopez,Milwaukee Bucks,W,02/20/2013,23:28,3,13,0.231,0,0,0.0,3,4,0.75,1,0,1,1,0,1,2,1,9,-11
+Brooklyn Nets,G,Joe Johnson,Milwaukee Bucks,W,02/20/2013,37:48,3,14,0.214,0,5,0.0,2,2,1.0,2,4,6,4,2,0,1,3,8,3
+Brooklyn Nets,G,Deron Williams,Milwaukee Bucks,W,02/20/2013,33:16,7,16,0.438,3,7,0.429,6,7,0.857,1,1,2,8,1,0,1,3,23,-10
+Brooklyn Nets,F,Gerald Wallace,Houston Rockets,L,02/22/2013,31:06,3,10,0.3,0,2,0.0,1,3,0.333,2,3,5,2,5,0,4,2,7,3
+Brooklyn Nets,F,Reggie Evans,Houston Rockets,L,02/22/2013,24:11,1,3,0.333,0,0,0.0,0,0,0.0,5,8,13,1,2,1,1,3,2,-7
+Brooklyn Nets,C,Brook Lopez,Houston Rockets,L,02/22/2013,35:14,13,21,0.619,0,0,0.0,1,2,0.5,3,3,6,1,0,1,1,2,27,-4
+Brooklyn Nets,G,CJ Watson,Houston Rockets,L,02/22/2013,39:50,7,15,0.467,3,7,0.429,0,2,0.0,2,2,4,5,0,1,0,1,17,-3
+Brooklyn Nets,G,Deron Williams,Houston Rockets,L,02/22/2013,40:04,5,17,0.294,3,8,0.375,2,2,1.0,0,2,2,13,0,1,3,3,15,-6
+Brooklyn Nets,F,Gerald Wallace,Memphis Grizzlies,L,02/24/2013,16:29,0,6,0.0,0,1,0.0,0,0,0.0,0,1,1,2,0,0,1,1,0,0
+Brooklyn Nets,F,Reggie Evans,Memphis Grizzlies,L,02/24/2013,26:42,1,3,0.333,0,0,0.0,0,2,0.0,6,8,14,1,2,0,2,2,2,-2
+Brooklyn Nets,C,Brook Lopez,Memphis Grizzlies,L,02/24/2013,26:09,3,10,0.3,0,0,0.0,3,4,0.75,2,2,4,1,0,1,2,1,9,-8
+Brooklyn Nets,G,CJ Watson,Memphis Grizzlies,L,02/24/2013,28:50,4,8,0.5,3,3,1.0,0,0,0.0,0,1,1,4,0,0,3,0,11,-10
+Brooklyn Nets,G,Deron Williams,Memphis Grizzlies,L,02/24/2013,41:56,9,15,0.6,4,6,0.667,2,3,0.667,0,4,4,4,3,0,4,3,24,0
+Brooklyn Nets,F,Gerald Wallace,New Orleans Hornets,W,02/26/2013,33:45,3,6,0.5,2,4,0.5,0,0,0.0,1,5,6,4,0,2,1,3,8,-3
+Brooklyn Nets,F,Reggie Evans,New Orleans Hornets,W,02/26/2013,24:03,0,4,0.0,0,0,0.0,0,0,0.0,2,4,6,0,0,0,0,3,0,-5
+Brooklyn Nets,C,Brook Lopez,New Orleans Hornets,W,02/26/2013,31:26,9,14,0.643,0,0,0.0,2,2,1.0,3,4,7,5,1,4,1,1,20,3
+Brooklyn Nets,G,CJ Watson,New Orleans Hornets,W,02/26/2013,31:53,3,7,0.429,2,4,0.5,2,2,1.0,0,2,2,2,0,0,3,0,10,-3
+Brooklyn Nets,G,Deron Williams,New Orleans Hornets,W,02/26/2013,37:23,10,21,0.476,4,8,0.5,9,10,0.9,0,1,1,8,0,0,4,4,33,7
+Brooklyn Nets,F,Gerald Wallace,Dallas Mavericks,L,03/01/2013,21:21,3,6,0.5,1,3,0.333,0,0,0.0,0,3,3,0,0,0,0,1,7,-8
+Brooklyn Nets,F,Reggie Evans,Dallas Mavericks,L,03/01/2013,19:14,0,2,0.0,0,0,0.0,0,0,0.0,3,8,11,2,0,0,2,1,0,-9
+Brooklyn Nets,C,Brook Lopez,Dallas Mavericks,L,03/01/2013,33:43,8,14,0.571,0,0,0.0,3,3,1.0,3,6,9,1,1,1,1,2,19,7
+Brooklyn Nets,G,Joe Johnson,Dallas Mavericks,L,03/01/2013,29:36,5,12,0.417,1,4,0.25,0,0,0.0,0,2,2,6,0,0,4,1,11,-13
+Brooklyn Nets,G,Deron Williams,Dallas Mavericks,L,03/01/2013,37:42,8,18,0.444,2,6,0.333,6,7,0.857,0,4,4,2,4,0,7,0,24,-3
+Brooklyn Nets,F,Gerald Wallace,Chicago Bulls,L,03/02/2013,33:02,3,7,0.429,1,1,1.0,1,3,0.333,0,4,4,2,3,1,4,3,8,2
+Brooklyn Nets,F,Reggie Evans,Chicago Bulls,L,03/02/2013,17:55,0,2,0.0,0,0,0.0,0,0,0.0,4,6,10,0,2,0,4,1,0,-11
+Brooklyn Nets,C,Brook Lopez,Chicago Bulls,L,03/02/2013,34:18,9,16,0.563,0,0,0.0,4,5,0.8,1,2,3,1,1,3,0,1,22,-10
+Brooklyn Nets,G,Joe Johnson,Chicago Bulls,L,03/02/2013,37:16,5,10,0.5,1,4,0.25,0,0,0.0,0,5,5,5,1,0,5,4,11,-3
+Brooklyn Nets,G,Deron Williams,Chicago Bulls,L,03/02/2013,36:14,4,12,0.333,1,5,0.2,5,5,1.0,0,2,2,6,0,0,3,3,14,-12
+Brooklyn Nets,F,Gerald Wallace,Charlotte Bobcats,W,03/06/2013,33:14,1,7,0.143,0,1,0.0,6,7,0.857,0,8,8,2,2,5,1,3,8,9
+Brooklyn Nets,F,Reggie Evans,Charlotte Bobcats,W,03/06/2013,27:33,3,4,0.75,0,0,0.0,0,0,0.0,4,12,16,1,2,0,2,1,6,7
+Brooklyn Nets,C,Brook Lopez,Charlotte Bobcats,W,03/06/2013,32:46,6,7,0.857,0,0,0.0,4,4,1.0,1,4,5,1,0,3,2,2,16,18
+Brooklyn Nets,G,Joe Johnson,Charlotte Bobcats,W,03/06/2013,31:45,8,14,0.571,5,8,0.625,1,2,0.5,1,4,5,3,0,0,6,1,22,17
+Brooklyn Nets,G,Deron Williams,Charlotte Bobcats,W,03/06/2013,38:30,7,12,0.583,4,6,0.667,2,2,1.0,0,4,4,8,1,1,4,2,20,22
+Brooklyn Nets,F,Gerald Wallace,Washington Wizards,W,03/08/2013,20:44,0,5,0.0,0,2,0.0,2,4,0.5,2,3,5,5,0,0,1,1,2,18
+Brooklyn Nets,F,Reggie Evans,Washington Wizards,W,03/08/2013,31:38,3,6,0.5,0,0,0.0,5,16,0.313,5,19,24,0,1,0,3,3,11,13
+Brooklyn Nets,C,Brook Lopez,Washington Wizards,W,03/08/2013,31:46,4,11,0.364,0,0,0.0,3,4,0.75,3,4,7,0,0,2,1,5,11,17
+Brooklyn Nets,G,Joe Johnson,Washington Wizards,W,03/08/2013,31:57,3,10,0.3,0,2,0.0,0,0,0.0,1,2,3,1,0,0,3,0,6,25
+Brooklyn Nets,G,Deron Williams,Washington Wizards,W,03/08/2013,37:52,15,24,0.625,11,16,0.688,1,1,1.0,0,3,3,5,1,0,3,2,42,17
+Brooklyn Nets,F,Gerald Wallace,Atlanta Hawks,W,03/09/2013,28:03,4,11,0.364,0,3,0.0,1,2,0.5,1,3,4,1,2,1,2,0,9,10
+Brooklyn Nets,F,Reggie Evans,Atlanta Hawks,W,03/09/2013,23:08,1,2,0.5,0,0,0.0,4,6,0.667,2,7,9,0,0,1,2,1,6,5
+Brooklyn Nets,C,Brook Lopez,Atlanta Hawks,W,03/09/2013,27:51,8,16,0.5,0,0,0.0,2,3,0.667,2,7,9,2,0,2,0,1,18,6
+Brooklyn Nets,G,Joe Johnson,Atlanta Hawks,W,03/09/2013,34:40,4,13,0.308,0,5,0.0,0,0,0.0,0,4,4,5,4,0,0,1,8,8
+Brooklyn Nets,G,Deron Williams,Atlanta Hawks,W,03/09/2013,33:48,5,13,0.385,2,7,0.286,5,6,0.833,0,3,3,6,0,1,1,3,17,12
+Brooklyn Nets,F,Gerald Wallace,Philadelphia 76ers,L,03/11/2013,25:37,2,8,0.25,0,3,0.0,0,0,0.0,1,0,1,1,1,0,1,3,4,-1
+Brooklyn Nets,F,Reggie Evans,Philadelphia 76ers,L,03/11/2013,30:59,4,9,0.444,0,0,0.0,1,2,0.5,4,7,11,0,0,1,3,4,9,-3
+Brooklyn Nets,C,Brook Lopez,Philadelphia 76ers,L,03/11/2013,32:39,8,13,0.615,0,0,0.0,3,3,1.0,3,3,6,0,0,1,1,3,19,-9
+Brooklyn Nets,G,Joe Johnson,Philadelphia 76ers,L,03/11/2013,36:39,8,11,0.727,3,5,0.6,1,2,0.5,0,2,2,6,1,0,0,2,20,-5
+Brooklyn Nets,G,Deron Williams,Philadelphia 76ers,L,03/11/2013,40:25,10,19,0.526,2,6,0.333,5,7,0.714,0,6,6,13,0,0,1,1,27,-4
+Brooklyn Nets,F,Gerald Wallace,New Orleans Hornets,W,03/12/2013,28:35,3,9,0.333,0,1,0.0,7,9,0.778,5,3,8,0,2,0,0,1,13,13
+Brooklyn Nets,F,Reggie Evans,New Orleans Hornets,W,03/12/2013,23:10,3,5,0.6,0,0,0.0,0,0,0.0,7,6,13,0,0,0,2,4,6,1
+Brooklyn Nets,C,Brook Lopez,New Orleans Hornets,W,03/12/2013,32:20,10,15,0.667,0,0,0.0,6,8,0.75,1,4,5,0,1,3,0,1,26,5
+Brooklyn Nets,G,CJ Watson,New Orleans Hornets,W,03/12/2013,33:21,1,5,0.2,1,2,0.5,1,2,0.5,1,3,4,1,1,0,2,1,4,12
+Brooklyn Nets,G,Deron Williams,New Orleans Hornets,W,03/12/2013,39:05,7,19,0.368,2,8,0.25,5,7,0.714,0,2,2,13,3,0,2,2,21,20
+Brooklyn Nets,F,Gerald Wallace,Atlanta Hawks,L,03/17/2013,24:12,1,8,0.125,0,1,0.0,2,2,1.0,2,1,3,1,1,0,1,1,4,0
+Brooklyn Nets,F,Reggie Evans,Atlanta Hawks,L,03/17/2013,31:58,6,7,0.857,0,0,0.0,2,2,1.0,5,17,22,0,1,0,1,2,14,-2
+Brooklyn Nets,C,Brook Lopez,Atlanta Hawks,L,03/17/2013,34:49,7,19,0.368,0,0,0.0,3,4,0.75,2,4,6,1,0,0,1,1,17,-5
+Brooklyn Nets,G,Joe Johnson,Atlanta Hawks,L,03/17/2013,37:55,7,16,0.438,4,8,0.5,0,0,0.0,3,0,3,3,0,0,3,1,18,-15
+Brooklyn Nets,G,Deron Williams,Atlanta Hawks,L,03/17/2013,38:14,7,14,0.5,1,5,0.2,3,4,0.75,0,3,3,8,3,0,4,1,18,-13
+Brooklyn Nets,F,Gerald Wallace,Detroit Pistons,W,03/18/2013,28:27,1,4,0.25,0,2,0.0,0,0,0.0,0,2,2,1,2,0,1,1,2,27
+Brooklyn Nets,F,Reggie Evans,Detroit Pistons,W,03/18/2013,27:29,1,5,0.2,0,0,0.0,4,4,1.0,3,8,11,0,2,0,0,3,6,29
+Brooklyn Nets,C,Brook Lopez,Detroit Pistons,W,03/18/2013,22:50,7,10,0.7,0,0,0.0,4,5,0.8,5,2,7,0,0,1,0,2,18,17
+Brooklyn Nets,G,Joe Johnson,Detroit Pistons,W,03/18/2013,23:59,4,11,0.364,2,7,0.286,3,4,0.75,1,1,2,1,0,1,1,2,13,15
+Brooklyn Nets,G,Deron Williams,Detroit Pistons,W,03/18/2013,28:14,10,18,0.556,4,8,0.5,7,8,0.875,0,1,1,5,2,0,1,3,31,29
+Brooklyn Nets,F,Gerald Wallace,Dallas Mavericks,W,03/20/2013,28:30,2,6,0.333,0,3,0.0,3,5,0.6,0,1,1,2,5,0,1,0,7,10
+Brooklyn Nets,F,Reggie Evans,Dallas Mavericks,W,03/20/2013,31:42,2,5,0.4,0,0,0.0,0,0,0.0,5,17,22,0,0,0,1,4,4,10
+Brooklyn Nets,C,Brook Lopez,Dallas Mavericks,W,03/20/2013,37:15,15,22,0.682,0,0,0.0,8,10,0.8,7,4,11,1,1,2,3,1,38,11
+Brooklyn Nets,G,Joe Johnson,Dallas Mavericks,W,03/20/2013,31:56,4,12,0.333,1,3,0.333,0,0,0.0,0,2,2,5,0,0,0,1,9,23
+Brooklyn Nets,G,Deron Williams,Dallas Mavericks,W,03/20/2013,40:55,13,25,0.52,3,8,0.375,2,3,0.667,0,3,3,6,0,0,3,3,31,6
+Brooklyn Nets,F,Gerald Wallace,Los Angeles Clippers,L,03/23/2013,35:43,5,8,0.625,2,4,0.5,3,4,0.75,0,3,3,5,3,0,1,1,15,-1
+Brooklyn Nets,F,Reggie Evans,Los Angeles Clippers,L,03/23/2013,37:10,1,4,0.25,0,0,0.0,5,6,0.833,3,13,16,1,1,0,1,2,7,-5
+Brooklyn Nets,C,Brook Lopez,Los Angeles Clippers,L,03/23/2013,32:54,9,14,0.643,0,0,0.0,0,2,0.0,1,1,2,3,1,1,2,3,18,-1
+Brooklyn Nets,G,Joe Johnson,Los Angeles Clippers,L,03/23/2013,34:02,6,18,0.333,0,7,0.0,3,4,0.75,3,0,3,3,0,0,1,2,15,-2
+Brooklyn Nets,G,Deron Williams,Los Angeles Clippers,L,03/23/2013,38:19,6,16,0.375,2,8,0.25,4,4,1.0,0,2,2,9,2,0,3,5,18,-4
+Brooklyn Nets,F,Gerald Wallace,Phoenix Suns,W,03/24/2013,35:16,4,8,0.5,0,3,0.0,1,2,0.5,4,4,8,2,1,0,4,2,9,-10
+Brooklyn Nets,F,Reggie Evans,Phoenix Suns,W,03/24/2013,23:34,1,4,0.25,0,0,0.0,2,3,0.667,4,6,10,0,1,2,0,3,4,-11
+Brooklyn Nets,C,Brook Lopez,Phoenix Suns,W,03/24/2013,33:25,6,16,0.375,0,0,0.0,9,10,0.9,2,3,5,0,0,2,3,2,21,0
+Brooklyn Nets,G,Keith Bogans,Phoenix Suns,W,03/24/2013,30:22,1,5,0.2,1,5,0.2,0,0,0.0,1,2,3,1,1,1,1,1,3,-3
+Brooklyn Nets,G,Deron Williams,Phoenix Suns,W,03/24/2013,37:12,8,15,0.533,2,4,0.5,2,2,1.0,0,1,1,11,2,0,1,4,20,1
+Brooklyn Nets,F,Gerald Wallace,Portland Trail Blazers,W,03/27/2013,28:37,5,12,0.417,0,3,0.0,2,3,0.667,1,5,6,5,2,0,0,0,12,28
+Brooklyn Nets,F,Reggie Evans,Portland Trail Blazers,W,03/27/2013,35:07,9,13,0.692,0,0,0.0,4,9,0.444,12,14,26,3,1,0,2,2,22,29
+Brooklyn Nets,C,Brook Lopez,Portland Trail Blazers,W,03/27/2013,30:39,12,22,0.545,0,1,0.0,4,6,0.667,1,4,5,1,0,0,2,4,28,23
+Brooklyn Nets,G,Keith Bogans,Portland Trail Blazers,W,03/27/2013,30:24,4,7,0.571,3,6,0.5,0,0,0.0,1,2,3,3,0,0,1,3,11,26
+Brooklyn Nets,G,Deron Williams,Portland Trail Blazers,W,03/27/2013,34:08,3,11,0.273,0,4,0.0,0,0,0.0,0,3,3,10,1,0,1,0,6,27
+Brooklyn Nets,F,Gerald Wallace,Denver Nuggets,L,03/29/2013,35:10,2,6,0.333,1,3,0.333,0,0,0.0,2,2,4,4,2,0,2,1,5,-7
+Brooklyn Nets,F,Reggie Evans,Denver Nuggets,L,03/29/2013,33:15,5,7,0.714,0,0,0.0,5,9,0.556,7,9,16,1,0,0,0,2,15,-5
+Brooklyn Nets,C,Brook Lopez,Denver Nuggets,L,03/29/2013,22:43,4,15,0.267,0,0,0.0,3,9,0.333,5,2,7,0,0,0,3,1,11,-14
+Brooklyn Nets,G,Keith Bogans,Denver Nuggets,L,03/29/2013,19:35,0,6,0.0,0,5,0.0,0,0,0.0,1,0,1,2,0,0,0,1,0,-18
+Brooklyn Nets,G,Deron Williams,Denver Nuggets,L,03/29/2013,34:48,5,13,0.385,3,8,0.375,6,7,0.857,1,1,2,3,1,1,4,3,19,-3
+Brooklyn Nets,F,Gerald Wallace,Utah Jazz,L,03/30/2013,24:20,1,3,0.333,0,2,0.0,0,0,0.0,1,1,2,3,0,0,2,1,2,-20
+Brooklyn Nets,F,Reggie Evans,Utah Jazz,L,03/30/2013,27:21,2,5,0.4,0,0,0.0,0,0,0.0,6,10,16,1,0,0,1,3,4,-10
+Brooklyn Nets,C,Brook Lopez,Utah Jazz,L,03/30/2013,32:07,11,16,0.688,0,0,0.0,5,6,0.833,2,5,7,1,0,4,5,1,27,-11
+Brooklyn Nets,G,Keith Bogans,Utah Jazz,L,03/30/2013,24:34,1,4,0.25,1,4,0.25,0,0,0.0,0,1,1,2,0,0,1,2,3,-11
+Brooklyn Nets,G,Deron Williams,Utah Jazz,L,03/30/2013,35:30,6,14,0.429,3,7,0.429,6,7,0.857,0,2,2,11,1,0,2,2,21,-13
+Brooklyn Nets,F,Keith Bogans,Cleveland Cavaliers,W,04/03/2013,21:03,0,5,0.0,0,5,0.0,0,0,0.0,0,2,2,5,0,0,1,0,0,17
+Brooklyn Nets,F,Reggie Evans,Cleveland Cavaliers,W,04/03/2013,27:07,3,5,0.6,0,0,0.0,2,6,0.333,2,16,18,0,2,0,4,4,8,23
+Brooklyn Nets,C,Brook Lopez,Cleveland Cavaliers,W,04/03/2013,26:03,4,9,0.444,0,0,0.0,6,6,1.0,4,2,6,1,0,2,1,2,14,27
+Brooklyn Nets,G,MarShon Brooks,Cleveland Cavaliers,W,04/03/2013,36:53,12,16,0.75,1,3,0.333,2,2,1.0,0,4,4,7,0,1,5,3,27,4
+Brooklyn Nets,G,Deron Williams,Cleveland Cavaliers,W,04/03/2013,27:00,8,14,0.571,4,6,0.667,4,4,1.0,0,3,3,8,0,0,1,3,24,23
+Brooklyn Nets,F,Gerald Wallace,Chicago Bulls,L,04/04/2013,29:18,2,5,0.4,0,1,0.0,0,0,0.0,0,2,2,2,1,0,0,1,4,2
+Brooklyn Nets,F,Reggie Evans,Chicago Bulls,L,04/04/2013,34:48,0,4,0.0,0,0,0.0,0,0,0.0,3,10,13,1,1,0,2,4,0,3
+Brooklyn Nets,C,Brook Lopez,Chicago Bulls,L,04/04/2013,36:34,10,19,0.526,0,0,0.0,8,10,0.8,1,4,5,1,1,2,2,1,28,4
+Brooklyn Nets,G,Joe Johnson,Chicago Bulls,L,04/04/2013,34:33,4,11,0.364,3,6,0.5,1,2,0.5,1,0,1,1,2,0,2,0,12,2
+Brooklyn Nets,G,Deron Williams,Chicago Bulls,L,04/04/2013,40:04,9,16,0.563,2,4,0.5,10,13,0.769,0,2,2,10,1,0,3,1,30,3
+Brooklyn Nets,F,Gerald Wallace,Charlotte Bobcats,W,04/06/2013,31:31,0,0,0.0,0,0,0.0,1,2,0.5,0,1,1,5,0,1,1,2,1,14
+Brooklyn Nets,F,Reggie Evans,Charlotte Bobcats,W,04/06/2013,39:46,5,7,0.714,0,0,0.0,4,7,0.571,4,16,20,0,2,0,2,3,14,13
+Brooklyn Nets,C,Brook Lopez,Charlotte Bobcats,W,04/06/2013,33:09,7,14,0.5,0,0,0.0,5,7,0.714,3,2,5,0,2,4,1,2,19,14
+Brooklyn Nets,G,Joe Johnson,Charlotte Bobcats,W,04/06/2013,32:01,5,16,0.313,3,10,0.3,2,2,1.0,0,2,2,2,2,0,0,3,15,8
+Brooklyn Nets,G,Deron Williams,Charlotte Bobcats,W,04/06/2013,36:14,11,18,0.611,2,7,0.286,8,8,1.0,0,2,2,6,0,0,3,2,32,16
+Brooklyn Nets,F,Gerald Wallace,Philadelphia 76ers,W,04/09/2013,26:03,0,2,0.0,0,1,0.0,0,0,0.0,1,2,3,1,2,2,1,2,0,30
+Brooklyn Nets,F,Reggie Evans,Philadelphia 76ers,W,04/09/2013,29:48,6,10,0.6,0,0,0.0,5,10,0.5,9,15,24,2,3,0,1,2,17,29
+Brooklyn Nets,C,Brook Lopez,Philadelphia 76ers,W,04/09/2013,26:03,13,22,0.591,0,0,0.0,3,4,0.75,6,5,11,3,0,3,2,1,29,30
+Brooklyn Nets,G,Joe Johnson,Philadelphia 76ers,W,04/09/2013,23:04,5,10,0.5,1,4,0.25,0,0,0.0,0,2,2,2,0,1,1,1,11,8
+Brooklyn Nets,G,Deron Williams,Philadelphia 76ers,W,04/09/2013,26:44,5,10,0.5,1,3,0.333,0,0,0.0,0,2,2,4,0,0,0,2,11,24
+Brooklyn Nets,F,Gerald Wallace,Boston Celtics,W,04/10/2013,14:51,1,3,0.333,0,2,0.0,0,0,0.0,1,1,2,2,0,0,2,0,2,4
+Brooklyn Nets,F,Reggie Evans,Boston Celtics,W,04/10/2013,30:48,0,0,0.0,0,0,0.0,1,4,0.25,0,14,14,0,1,0,0,3,1,14
+Brooklyn Nets,C,Brook Lopez,Boston Celtics,W,04/10/2013,30:30,8,14,0.571,0,0,0.0,5,5,1.0,2,2,4,0,0,2,2,3,21,27
+Brooklyn Nets,G,Joe Johnson,Boston Celtics,W,04/10/2013,35:45,8,15,0.533,4,6,0.667,0,0,0.0,0,3,3,2,2,0,1,3,20,23
+Brooklyn Nets,G,Deron Williams,Boston Celtics,W,04/10/2013,39:10,9,18,0.5,1,6,0.167,10,10,1.0,2,2,4,12,0,1,1,3,29,13
+Brooklyn Nets,F,Keith Bogans,Indiana Pacers,W,04/12/2013,24:26,0,3,0.0,0,3,0.0,0,0,0.0,0,2,2,3,0,0,1,3,0,16
+Brooklyn Nets,F,Reggie Evans,Indiana Pacers,W,04/12/2013,24:27,1,3,0.333,0,0,0.0,1,2,0.5,2,10,12,0,1,0,1,4,3,19
+Brooklyn Nets,C,Brook Lopez,Indiana Pacers,W,04/12/2013,35:47,10,16,0.625,0,0,0.0,4,6,0.667,2,4,6,0,0,5,4,5,24,15
+Brooklyn Nets,G,Joe Johnson,Indiana Pacers,W,04/12/2013,39:05,9,17,0.529,4,8,0.5,2,2,1.0,2,4,6,4,3,0,3,1,24,10
+Brooklyn Nets,G,Deron Williams,Indiana Pacers,W,04/12/2013,41:42,10,23,0.435,5,10,0.5,8,10,0.8,1,1,2,14,1,1,5,3,33,10
+Brooklyn Nets,F,Keith Bogans,Toronto Raptors,L,04/14/2013,24:32,2,7,0.286,2,7,0.286,0,0,0.0,1,0,1,2,0,0,1,2,6,-9
+Brooklyn Nets,F,Reggie Evans,Toronto Raptors,L,04/14/2013,30:19,0,0,0.0,0,0,0.0,0,0,0.0,3,13,16,1,3,0,1,1,0,-5
+Brooklyn Nets,C,Brook Lopez,Toronto Raptors,L,04/14/2013,27:25,7,19,0.368,0,0,0.0,2,6,0.333,3,2,5,2,0,1,1,4,16,-11
+Brooklyn Nets,G,Joe Johnson,Toronto Raptors,L,04/14/2013,35:14,4,16,0.25,2,9,0.222,2,2,1.0,0,1,1,5,1,0,0,3,12,-7
+Brooklyn Nets,G,Deron Williams,Toronto Raptors,L,04/14/2013,38:41,11,20,0.55,4,10,0.4,4,5,0.8,0,0,0,7,2,1,3,3,30,2
+Brooklyn Nets,F,Gerald Wallace,Washington Wizards,W,04/15/2013,21:54,1,3,0.333,0,1,0.0,0,3,0.0,0,0,0,2,1,0,1,1,2,-13
+Brooklyn Nets,F,Kris Humphries,Washington Wizards,W,04/15/2013,34:23,8,17,0.471,0,0,0.0,4,4,1.0,6,3,9,2,1,0,1,3,20,-9
+Brooklyn Nets,C,Andray Blatche,Washington Wizards,W,04/15/2013,37:34,9,21,0.429,0,2,0.0,2,7,0.286,4,8,12,2,1,0,2,2,20,4
+Brooklyn Nets,G,MarShon Brooks,Washington Wizards,W,04/15/2013,28:57,6,13,0.462,0,1,0.0,0,0,0.0,3,1,4,1,1,0,2,1,12,-8
+Brooklyn Nets,G,CJ Watson,Washington Wizards,W,04/15/2013,24:15,4,6,0.667,2,2,1.0,1,3,0.333,1,1,2,2,1,0,2,3,11,-4
+Brooklyn Nets,F,Gerald Wallace,Detroit Pistons,W,04/17/2013,26:33,2,5,0.4,0,1,0.0,1,2,0.5,0,1,1,3,4,1,1,1,5,16
+Brooklyn Nets,F,Reggie Evans,Detroit Pistons,W,04/17/2013,24:00,3,6,0.5,0,0,0.0,1,3,0.333,3,8,11,0,1,0,3,2,7,16
+Brooklyn Nets,C,Brook Lopez,Detroit Pistons,W,04/17/2013,20:56,7,15,0.467,0,0,0.0,6,6,1.0,5,4,9,1,1,0,1,1,20,18
+Brooklyn Nets,G,Joe Johnson,Detroit Pistons,W,04/17/2013,20:56,4,8,0.5,2,5,0.4,0,0,0.0,0,2,2,2,0,0,0,0,10,18
+Brooklyn Nets,G,Deron Williams,Detroit Pistons,W,04/17/2013,20:56,2,5,0.4,1,3,0.333,3,3,1.0,0,1,1,6,1,0,2,0,8,18

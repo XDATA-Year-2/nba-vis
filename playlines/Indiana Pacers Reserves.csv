@@ -1,0 +1,471 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Indiana Pacers,,Tyler Hansbrough,Toronto Raptors,W,10/31/2012,20:07,2,5,0.4,0,0,0.0,4,4,1.0,0,3,3,1,0,0,0,0,8,2
+Indiana Pacers,,Sam Young,Toronto Raptors,W,10/31/2012,11:21,2,2,1.0,0,0,0.0,0,0,0.0,1,2,3,1,0,0,0,0,4,1
+Indiana Pacers,,D.J. Augustin,Toronto Raptors,W,10/31/2012,15:12,1,4,0.25,1,1,1.0,2,3,0.667,0,1,1,2,1,0,2,1,5,0
+Indiana Pacers,,Ian Mahinmi,Toronto Raptors,W,10/31/2012,18:44,0,1,0.0,0,0,0.0,1,2,0.5,2,3,5,0,0,2,4,3,1,-5
+Indiana Pacers,,Lance Stephenson,Toronto Raptors,W,10/31/2012,12:50,2,3,0.667,1,1,1.0,0,0,0.0,1,3,4,0,0,0,0,0,5,-1
+Indiana Pacers,,Sam Young,Charlotte Bobcats,L,11/02/2012,0:20,0,0,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,1
+Indiana Pacers,,Lance Stephenson,Charlotte Bobcats,L,11/02/2012,25:06,6,9,0.667,2,3,0.667,1,2,0.5,0,6,6,4,2,0,3,0,15,13
+Indiana Pacers,,Tyler Hansbrough,Charlotte Bobcats,L,11/02/2012,16:44,4,9,0.444,0,1,0.0,7,8,0.875,4,2,6,0,1,2,1,2,15,9
+Indiana Pacers,,Ian Mahinmi,Charlotte Bobcats,L,11/02/2012,21:31,2,5,0.4,0,0,0.0,3,4,0.75,2,6,8,0,0,1,1,1,7,5
+Indiana Pacers,,D.J. Augustin,Charlotte Bobcats,L,11/02/2012,16:46,1,7,0.143,1,5,0.2,0,0,0.0,0,4,4,5,0,0,0,1,3,11
+Indiana Pacers,,Sam Young,Sacramento Kings,W,11/03/2012,11:42,1,5,0.2,0,2,0.0,0,0,0.0,1,0,1,0,1,0,4,1,2,-13
+Indiana Pacers,,Tyler Hansbrough,Sacramento Kings,W,11/03/2012,15:43,1,3,0.333,0,0,0.0,4,4,1.0,3,2,5,0,0,0,0,2,6,-9
+Indiana Pacers,,D.J. Augustin,Sacramento Kings,W,11/03/2012,13:21,1,4,0.25,0,3,0.0,1,1,1.0,0,1,1,3,0,0,1,0,3,-7
+Indiana Pacers,,Ian Mahinmi,Sacramento Kings,W,11/03/2012,9:53,0,2,0.0,0,0,0.0,4,4,1.0,2,0,2,0,0,0,2,3,4,-10
+Indiana Pacers,,Lance Stephenson,Sacramento Kings,W,11/03/2012,32:24,4,12,0.333,1,4,0.25,1,1,1.0,0,2,2,1,2,1,2,2,10,22
+Indiana Pacers,,Gerald Green,San Antonio Spurs,L,11/05/2012,25:47,4,10,0.4,1,4,0.25,0,0,0.0,4,4,8,1,0,0,0,1,9,-2
+Indiana Pacers,,Ian Mahinmi,San Antonio Spurs,L,11/05/2012,17:25,2,3,0.667,0,0,0.0,2,2,1.0,2,2,4,0,0,2,1,3,6,-13
+Indiana Pacers,,Tyler Hansbrough,San Antonio Spurs,L,11/05/2012,23:16,1,7,0.143,0,0,0.0,7,9,0.778,2,4,6,0,0,0,1,1,9,-21
+Indiana Pacers,,Lance Stephenson,San Antonio Spurs,L,11/05/2012,9:25,0,3,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,2,2,0,-9
+Indiana Pacers,,D.J. Augustin,San Antonio Spurs,L,11/05/2012,13:20,2,6,0.333,2,5,0.4,1,1,1.0,0,2,2,2,0,0,1,0,7,-8
+Indiana Pacers,,Orlando Johnson,San Antonio Spurs,L,11/05/2012,3:50,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-1
+Indiana Pacers,,Ben Hansbrough,San Antonio Spurs,L,11/05/2012,3:50,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,2,2,-1
+Indiana Pacers,,Miles Plumlee,San Antonio Spurs,L,11/05/2012,3:50,1,2,0.5,0,0,0.0,0,0,0.0,1,0,1,0,0,1,0,0,2,-1
+Indiana Pacers,,Gerald Green,Atlanta Hawks,L,11/07/2012,17:40,2,8,0.25,1,4,0.25,0,0,0.0,2,3,5,0,0,2,2,1,5,-7
+Indiana Pacers,,Ian Mahinmi,Atlanta Hawks,L,11/07/2012,8:01,2,3,0.667,0,0,0.0,0,1,0.0,2,0,2,0,0,0,1,1,4,-13
+Indiana Pacers,,Tyler Hansbrough,Atlanta Hawks,L,11/07/2012,15:01,2,4,0.5,0,0,0.0,0,0,0.0,0,3,3,1,1,0,2,1,4,-6
+Indiana Pacers,,D.J. Augustin,Atlanta Hawks,L,11/07/2012,9:46,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,1,0,0,0,0,0,-11
+Indiana Pacers,,Lance Stephenson,Atlanta Hawks,L,11/07/2012,27:57,3,10,0.3,1,4,0.25,2,2,1.0,0,5,5,3,1,0,1,2,9,-3
+Indiana Pacers,,Gerald Green,Minnesota Timberwolves,L,11/09/2012,29:37,2,9,0.222,0,0,0.0,4,4,1.0,1,5,6,1,0,0,0,3,8,1
+Indiana Pacers,,Tyler Hansbrough,Minnesota Timberwolves,L,11/09/2012,20:41,2,5,0.4,0,0,0.0,0,0,0.0,0,3,3,0,2,0,0,2,4,-7
+Indiana Pacers,,D.J. Augustin,Minnesota Timberwolves,L,11/09/2012,13:09,0,6,0.0,0,5,0.0,0,0,0.0,0,0,0,2,1,0,1,0,0,-3
+Indiana Pacers,,Ian Mahinmi,Minnesota Timberwolves,L,11/09/2012,10:09,1,3,0.333,0,1,0.0,2,2,1.0,0,1,1,0,0,0,2,4,4,-8
+Indiana Pacers,,Lance Stephenson,Minnesota Timberwolves,L,11/09/2012,20:27,4,5,0.8,1,2,0.5,0,0,0.0,0,0,0,3,0,0,1,2,9,4
+Indiana Pacers,,Gerald Green,Washington Wizards,W,11/10/2012,28:24,6,12,0.5,1,4,0.25,2,2,1.0,0,8,8,0,0,0,2,1,15,10
+Indiana Pacers,,Tyler Hansbrough,Washington Wizards,W,11/10/2012,20:36,1,2,0.5,0,0,0.0,4,12,0.333,2,4,6,0,2,0,1,1,6,14
+Indiana Pacers,,Ian Mahinmi,Washington Wizards,W,11/10/2012,14:15,3,4,0.75,0,0,0.0,1,1,1.0,2,2,4,1,1,1,1,1,7,3
+Indiana Pacers,,D.J. Augustin,Washington Wizards,W,11/10/2012,13:34,1,3,0.333,1,2,0.5,0,0,0.0,0,1,1,2,0,0,0,0,3,3
+Indiana Pacers,,Gerald Green,Toronto Raptors,L,11/13/2012,27:40,2,7,0.286,1,2,0.5,1,2,0.5,2,3,5,0,0,0,0,1,6,-2
+Indiana Pacers,,Tyler Hansbrough,Toronto Raptors,L,11/13/2012,22:23,0,2,0.0,0,0,0.0,5,6,0.833,2,3,5,0,0,0,1,3,5,6
+Indiana Pacers,,Ian Mahinmi,Toronto Raptors,L,11/13/2012,12:29,1,3,0.333,0,0,0.0,1,2,0.5,0,6,6,0,0,2,0,0,3,-2
+Indiana Pacers,,D.J. Augustin,Toronto Raptors,L,11/13/2012,11:05,1,2,0.5,1,1,1.0,1,1,1.0,0,1,1,2,0,0,1,0,4,1
+Indiana Pacers,,Tyler Hansbrough,Milwaukee Bucks,L,11/14/2012,19:13,6,8,0.75,0,0,0.0,5,6,0.833,3,2,5,1,0,0,2,3,17,5
+Indiana Pacers,,Gerald Green,Milwaukee Bucks,L,11/14/2012,26:07,4,10,0.4,2,4,0.5,3,4,0.75,1,5,6,0,0,0,0,1,13,6
+Indiana Pacers,,Ian Mahinmi,Milwaukee Bucks,L,11/14/2012,7:25,1,2,0.5,0,0,0.0,3,4,0.75,1,1,2,0,0,0,1,1,5,-5
+Indiana Pacers,,D.J. Augustin,Milwaukee Bucks,L,11/14/2012,15:24,1,4,0.25,1,3,0.333,0,0,0.0,0,0,0,1,0,0,1,0,3,5
+Indiana Pacers,,Sam Young,Milwaukee Bucks,L,11/14/2012,15:42,3,6,0.5,1,2,0.5,1,4,0.25,0,5,5,1,1,1,1,0,8,12
+Indiana Pacers,,Miles Plumlee,Milwaukee Bucks,L,11/14/2012,5:54,0,1,0.0,0,0,0.0,2,2,1.0,2,2,4,1,0,0,0,0,2,5
+Indiana Pacers,,Ben Hansbrough,Milwaukee Bucks,L,11/14/2012,5:54,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,3,1,0,2,0,0,5
+Indiana Pacers,,Jeff Ayres,Milwaukee Bucks,L,11/14/2012,5:49,2,4,0.5,0,0,0.0,0,0,0.0,3,1,4,1,0,0,1,1,4,5
+Indiana Pacers,,Gerald Green,Dallas Mavericks,W,11/16/2012,21:27,2,6,0.333,0,2,0.0,1,1,1.0,0,5,5,0,0,0,0,0,5,9
+Indiana Pacers,,Tyler Hansbrough,Dallas Mavericks,W,11/16/2012,23:23,3,7,0.429,0,0,0.0,2,5,0.4,3,3,6,0,0,0,0,2,8,7
+Indiana Pacers,,Ian Mahinmi,Dallas Mavericks,W,11/16/2012,12:30,3,6,0.5,0,0,0.0,1,2,0.5,1,0,1,1,0,0,0,4,7,6
+Indiana Pacers,,Sam Young,Dallas Mavericks,W,11/16/2012,21:05,6,11,0.545,2,7,0.286,0,0,0.0,0,4,4,2,2,0,0,0,14,16
+Indiana Pacers,,D.J. Augustin,Dallas Mavericks,W,11/16/2012,14:16,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,4,1,1,0,0,0,7
+Indiana Pacers,,Orlando Johnson,Dallas Mavericks,W,11/16/2012,2:21,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,0
+Indiana Pacers,,Jeff Ayres,Dallas Mavericks,W,11/16/2012,2:21,1,1,1.0,0,0,0.0,0,0,0.0,0,2,2,0,0,1,1,0,2,0
+Indiana Pacers,,Miles Plumlee,Dallas Mavericks,W,11/16/2012,2:21,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Indiana Pacers,,Gerald Green,New York Knicks,L,11/18/2012,17:52,2,2,1.0,1,1,1.0,0,0,0.0,0,4,4,1,0,1,0,0,5,2
+Indiana Pacers,,Ian Mahinmi,New York Knicks,L,11/18/2012,10:02,0,6,0.0,0,0,0.0,0,2,0.0,0,3,3,0,1,1,0,1,0,-7
+Indiana Pacers,,Tyler Hansbrough,New York Knicks,L,11/18/2012,19:05,1,2,0.5,0,0,0.0,3,4,0.75,4,4,8,0,0,1,2,2,5,2
+Indiana Pacers,,Sam Young,New York Knicks,L,11/18/2012,19:22,2,2,1.0,1,1,1.0,1,4,0.25,0,6,6,1,0,0,0,2,6,-8
+Indiana Pacers,,D.J. Augustin,New York Knicks,L,11/18/2012,6:20,1,3,0.333,0,2,0.0,0,0,0.0,0,1,1,0,1,0,1,0,2,-1
+Indiana Pacers,,Ben Hansbrough,New York Knicks,L,11/18/2012,3:39,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,2,7
+Indiana Pacers,,Miles Plumlee,New York Knicks,L,11/18/2012,3:39,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,1,0,7
+Indiana Pacers,,Jeff Ayres,New York Knicks,L,11/18/2012,3:39,2,2,1.0,0,0,0.0,1,1,1.0,0,1,1,0,0,0,0,0,5,7
+Indiana Pacers,,Sam Young,Washington Wizards,W,11/19/2012,35:25,4,10,0.4,1,6,0.167,0,0,0.0,1,7,8,1,0,0,2,5,9,0
+Indiana Pacers,,Tyler Hansbrough,Washington Wizards,W,11/19/2012,11:14,1,1,1.0,0,0,0.0,0,0,0.0,0,3,3,0,0,0,2,1,2,-7
+Indiana Pacers,,Gerald Green,Washington Wizards,W,11/19/2012,16:41,4,8,0.5,1,2,0.5,0,0,0.0,0,1,1,1,0,0,0,0,9,-1
+Indiana Pacers,,Ian Mahinmi,Washington Wizards,W,11/19/2012,14:49,1,3,0.333,0,0,0.0,0,0,0.0,0,2,2,0,1,2,3,1,2,-14
+Indiana Pacers,,D.J. Augustin,Washington Wizards,W,11/19/2012,15:42,1,5,0.2,0,2,0.0,2,3,0.667,0,1,1,1,1,0,1,2,4,-16
+Indiana Pacers,,Sam Young,New Orleans Hornets,W,11/21/2012,15:32,1,7,0.143,0,3,0.0,1,1,1.0,3,2,5,1,0,0,2,3,3,-10
+Indiana Pacers,,Gerald Green,New Orleans Hornets,W,11/21/2012,17:27,2,5,0.4,1,3,0.333,0,0,0.0,0,3,3,0,0,0,0,1,5,2
+Indiana Pacers,,Tyler Hansbrough,New Orleans Hornets,W,11/21/2012,16:43,1,5,0.2,0,0,0.0,9,10,0.9,1,2,3,0,0,0,0,1,11,1
+Indiana Pacers,,Ian Mahinmi,New Orleans Hornets,W,11/21/2012,11:17,1,3,0.333,0,0,0.0,0,2,0.0,2,2,4,0,0,2,0,2,2,-5
+Indiana Pacers,,D.J. Augustin,New Orleans Hornets,W,11/21/2012,18:14,1,2,0.5,0,1,0.0,1,2,0.5,1,0,1,3,1,0,1,1,3,5
+Indiana Pacers,,Gerald Green,San Antonio Spurs,L,11/23/2012,16:24,2,5,0.4,2,3,0.667,0,0,0.0,0,0,0,2,0,0,1,1,6,10
+Indiana Pacers,,Tyler Hansbrough,San Antonio Spurs,L,11/23/2012,18:01,1,3,0.333,0,0,0.0,1,2,0.5,4,8,12,0,0,1,1,2,3,6
+Indiana Pacers,,Ian Mahinmi,San Antonio Spurs,L,11/23/2012,17:24,3,7,0.429,0,0,0.0,1,2,0.5,2,1,3,1,1,1,2,4,7,7
+Indiana Pacers,,Sam Young,San Antonio Spurs,L,11/23/2012,20:27,2,5,0.4,1,2,0.5,1,2,0.5,1,3,4,0,0,0,2,0,6,5
+Indiana Pacers,,D.J. Augustin,San Antonio Spurs,L,11/23/2012,14:51,3,7,0.429,1,3,0.333,1,1,1.0,0,1,1,8,0,0,2,4,8,9
+Indiana Pacers,,Ian Mahinmi,Los Angeles Lakers,W,11/27/2012,30:03,2,5,0.4,0,0,0.0,7,10,0.7,2,4,6,0,1,1,1,4,11,1
+Indiana Pacers,,Gerald Green,Los Angeles Lakers,W,11/27/2012,16:26,1,8,0.125,1,3,0.333,0,0,0.0,1,1,2,0,1,0,0,2,3,-13
+Indiana Pacers,,D.J. Augustin,Los Angeles Lakers,W,11/27/2012,11:41,1,5,0.2,0,2,0.0,1,1,1.0,0,1,1,0,0,0,2,2,3,-9
+Indiana Pacers,,Sam Young,Los Angeles Lakers,W,11/27/2012,18:18,0,4,0.0,0,1,0.0,0,0,0.0,0,4,4,1,1,0,1,3,0,-8
+Indiana Pacers,,Tyler Hansbrough,Los Angeles Lakers,W,11/27/2012,11:37,0,2,0.0,0,0,0.0,3,4,0.75,1,3,4,1,1,0,0,1,3,-5
+Indiana Pacers,,Gerald Green,Sacramento Kings,W,11/30/2012,12:47,1,5,0.2,1,3,0.333,2,2,1.0,1,1,2,0,0,0,2,1,5,10
+Indiana Pacers,,Tyler Hansbrough,Sacramento Kings,W,11/30/2012,10:10,2,3,0.667,0,0,0.0,0,1,0.0,0,0,0,0,0,0,0,3,4,-1
+Indiana Pacers,,Ian Mahinmi,Sacramento Kings,W,11/30/2012,19:19,0,2,0.0,0,0,0.0,0,0,0.0,2,3,5,0,0,2,0,1,0,1
+Indiana Pacers,,Sam Young,Sacramento Kings,W,11/30/2012,25:21,5,11,0.455,2,3,0.667,0,0,0.0,1,4,5,4,1,0,0,1,12,-5
+Indiana Pacers,,D.J. Augustin,Sacramento Kings,W,11/30/2012,13:27,2,7,0.286,2,5,0.4,2,2,1.0,0,0,0,3,3,0,0,1,8,1
+Indiana Pacers,,Tyler Hansbrough,Golden State Warriors,L,12/01/2012,11:02,0,5,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,2,0,-8
+Indiana Pacers,,Gerald Green,Golden State Warriors,L,12/01/2012,20:13,3,5,0.6,2,4,0.5,0,0,0.0,2,4,6,1,0,1,2,1,8,-5
+Indiana Pacers,,Sam Young,Golden State Warriors,L,12/01/2012,23:22,2,6,0.333,1,4,0.25,0,0,0.0,0,0,0,1,0,0,1,0,5,-7
+Indiana Pacers,,Ian Mahinmi,Golden State Warriors,L,12/01/2012,15:43,2,3,0.667,0,0,0.0,6,8,0.75,2,2,4,0,0,1,2,5,10,-6
+Indiana Pacers,,D.J. Augustin,Golden State Warriors,L,12/01/2012,11:00,2,3,0.667,0,0,0.0,0,0,0.0,0,1,1,1,1,0,1,1,4,-7
+Indiana Pacers,,Tyler Hansbrough,Chicago Bulls,W,12/04/2012,12:39,0,4,0.0,0,0,0.0,2,2,1.0,1,1,2,0,0,0,1,2,2,-11
+Indiana Pacers,,Gerald Green,Chicago Bulls,W,12/04/2012,6:05,1,2,0.5,0,1,0.0,0,0,0.0,0,1,1,0,0,0,1,2,2,-1
+Indiana Pacers,,Sam Young,Chicago Bulls,W,12/04/2012,11:05,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,0,1,0,0,1,0,-7
+Indiana Pacers,,Ian Mahinmi,Chicago Bulls,W,12/04/2012,13:49,1,3,0.333,0,0,0.0,4,6,0.667,0,0,0,0,1,0,2,2,6,-7
+Indiana Pacers,,D.J. Augustin,Chicago Bulls,W,12/04/2012,11:06,0,2,0.0,0,1,0.0,2,3,0.667,1,1,2,2,1,0,0,1,2,-8
+Indiana Pacers,,Gerald Green,Portland Trail Blazers,W,12/05/2012,23:06,3,8,0.375,2,5,0.4,0,0,0.0,1,1,2,2,0,2,0,0,8,2
+Indiana Pacers,,Tyler Hansbrough,Portland Trail Blazers,W,12/05/2012,15:44,3,6,0.5,0,0,0.0,4,4,1.0,3,2,5,0,1,0,1,0,10,-2
+Indiana Pacers,,Ian Mahinmi,Portland Trail Blazers,W,12/05/2012,18:34,6,6,1.0,0,0,0.0,0,0,0.0,1,3,4,0,0,1,2,4,12,4
+Indiana Pacers,,Sam Young,Portland Trail Blazers,W,12/05/2012,12:03,0,1,0.0,0,1,0.0,0,0,0.0,0,3,3,1,0,0,0,0,0,2
+Indiana Pacers,,D.J. Augustin,Portland Trail Blazers,W,12/05/2012,14:42,0,3,0.0,0,2,0.0,1,2,0.5,0,0,0,4,1,0,0,0,1,4
+Indiana Pacers,,Gerald Green,Denver Nuggets,L,12/07/2012,12:33,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-14
+Indiana Pacers,,Tyler Hansbrough,Denver Nuggets,L,12/07/2012,13:39,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,3,0,-12
+Indiana Pacers,,Ian Mahinmi,Denver Nuggets,L,12/07/2012,18:12,1,5,0.2,0,0,0.0,0,0,0.0,2,5,7,0,1,0,2,3,2,-10
+Indiana Pacers,,Sam Young,Denver Nuggets,L,12/07/2012,16:14,3,7,0.429,2,4,0.5,1,2,0.5,0,0,0,1,0,0,2,2,9,-17
+Indiana Pacers,,D.J. Augustin,Denver Nuggets,L,12/07/2012,10:11,0,1,0.0,0,1,0.0,1,2,0.5,0,0,0,2,0,0,3,1,1,-12
+Indiana Pacers,,Ian Mahinmi,Oklahoma City Thunder,L,12/09/2012,21:29,2,7,0.286,0,0,0.0,0,0,0.0,2,0,2,0,0,1,1,1,4,-10
+Indiana Pacers,,Gerald Green,Oklahoma City Thunder,L,12/09/2012,23:00,4,7,0.571,0,1,0.0,0,0,0.0,0,1,1,1,0,0,1,1,8,-15
+Indiana Pacers,,D.J. Augustin,Oklahoma City Thunder,L,12/09/2012,9:15,2,3,0.667,0,1,0.0,0,0,0.0,0,1,1,1,0,0,2,1,4,-11
+Indiana Pacers,,Sam Young,Oklahoma City Thunder,L,12/09/2012,8:39,1,2,0.5,0,1,0.0,0,0,0.0,0,1,1,1,0,0,0,3,2,-11
+Indiana Pacers,,Tyler Hansbrough,Oklahoma City Thunder,L,12/09/2012,9:35,1,1,1.0,0,0,0.0,0,0,0.0,1,0,1,0,0,1,0,2,2,-8
+Indiana Pacers,,Gerald Green,Cleveland Cavaliers,W,12/12/2012,24:28,1,8,0.125,0,4,0.0,0,0,0.0,0,0,0,3,1,2,3,0,2,9
+Indiana Pacers,,Tyler Hansbrough,Cleveland Cavaliers,W,12/12/2012,12:37,3,5,0.6,0,0,0.0,1,2,0.5,1,2,3,1,0,0,0,3,7,-7
+Indiana Pacers,,Ian Mahinmi,Cleveland Cavaliers,W,12/12/2012,19:28,1,4,0.25,0,0,0.0,1,1,1.0,2,4,6,1,0,0,0,5,3,0
+Indiana Pacers,,Ben Hansbrough,Cleveland Cavaliers,W,12/12/2012,17:18,1,2,0.5,1,1,1.0,3,4,0.75,0,1,1,1,2,0,0,3,6,-6
+Indiana Pacers,,Sam Young,Cleveland Cavaliers,W,12/12/2012,16:39,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,1,0,1,0,1,2,-3
+Indiana Pacers,,Orlando Johnson,Cleveland Cavaliers,W,12/12/2012,2:33,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Indiana Pacers,,Jeff Ayres,Cleveland Cavaliers,W,12/12/2012,2:33,0,0,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,1,0,1,0
+Indiana Pacers,,Tyler Hansbrough,Philadelphia 76ers,W,12/14/2012,15:01,2,4,0.5,0,0,0.0,1,2,0.5,3,3,6,0,0,0,0,0,5,9
+Indiana Pacers,,Sam Young,Philadelphia 76ers,W,12/14/2012,25:32,2,3,0.667,0,0,0.0,1,2,0.5,1,2,3,1,1,1,1,3,5,4
+Indiana Pacers,,Ben Hansbrough,Philadelphia 76ers,W,12/14/2012,8:46,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,1,0,-6
+Indiana Pacers,,Ian Mahinmi,Philadelphia 76ers,W,12/14/2012,13:23,1,2,0.5,0,0,0.0,0,2,0.0,1,1,2,1,0,0,2,1,2,-7
+Indiana Pacers,,Tyler Hansbrough,Detroit Pistons,W,12/15/2012,24:44,5,8,0.625,0,0,0.0,1,2,0.5,0,6,6,0,1,0,3,2,11,3
+Indiana Pacers,,Sam Young,Detroit Pistons,W,12/15/2012,25:05,1,4,0.25,1,3,0.333,0,0,0.0,0,4,4,2,0,1,0,4,3,3
+Indiana Pacers,,Ian Mahinmi,Detroit Pistons,W,12/15/2012,17:55,1,2,0.5,0,0,0.0,1,2,0.5,3,2,5,1,0,1,0,0,3,-3
+Indiana Pacers,,Ben Hansbrough,Detroit Pistons,W,12/15/2012,9:45,0,3,0.0,0,3,0.0,0,0,0.0,0,1,1,1,0,0,1,2,0,3
+Indiana Pacers,,Jeff Ayres,Detroit Pistons,W,12/15/2012,7:57,1,3,0.333,0,0,0.0,0,0,0.0,0,3,3,1,0,1,1,1,2,0
+Indiana Pacers,,Tyler Hansbrough,Milwaukee Bucks,L,12/18/2012,14:42,2,2,1.0,0,0,0.0,5,6,0.833,3,2,5,0,0,0,1,3,9,9
+Indiana Pacers,,Gerald Green,Milwaukee Bucks,L,12/18/2012,18:59,2,5,0.4,0,0,0.0,2,2,1.0,1,2,3,0,0,0,3,2,6,7
+Indiana Pacers,,Ian Mahinmi,Milwaukee Bucks,L,12/18/2012,19:51,5,9,0.556,0,0,0.0,4,6,0.667,2,3,5,0,1,0,1,5,14,3
+Indiana Pacers,,Ben Hansbrough,Milwaukee Bucks,L,12/18/2012,12:02,1,1,1.0,0,0,0.0,5,6,0.833,0,2,2,3,2,0,2,0,7,-1
+Indiana Pacers,,Sam Young,Milwaukee Bucks,L,12/18/2012,11:29,0,3,0.0,0,1,0.0,0,0,0.0,2,2,4,1,0,1,0,0,0,3
+Indiana Pacers,,Gerald Green,Utah Jazz,W,12/19/2012,23:03,7,12,0.583,4,6,0.667,3,5,0.6,0,0,0,1,0,0,3,1,21,4
+Indiana Pacers,,Tyler Hansbrough,Utah Jazz,W,12/19/2012,15:24,2,5,0.4,0,0,0.0,1,3,0.333,0,1,1,0,0,0,0,3,5,6
+Indiana Pacers,,Sam Young,Utah Jazz,W,12/19/2012,14:41,1,2,0.5,0,0,0.0,0,1,0.0,1,2,3,1,0,1,0,1,2,3
+Indiana Pacers,,Ben Hansbrough,Utah Jazz,W,12/19/2012,6:52,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,1,1,0,1
+Indiana Pacers,,Ian Mahinmi,Utah Jazz,W,12/19/2012,13:16,0,1,0.0,0,0,0.0,0,0,0.0,0,3,3,0,2,1,0,2,0,2
+Indiana Pacers,,D.J. Augustin,Utah Jazz,W,12/19/2012,12:00,3,4,0.75,1,2,0.5,0,0,0.0,0,0,0,1,0,0,1,0,7,-5
+Indiana Pacers,,Jeff Ayres,Utah Jazz,W,12/19/2012,4:55,0,1,0.0,0,0,0.0,2,2,1.0,0,1,1,0,0,0,0,2,2,-4
+Indiana Pacers,,Miles Plumlee,Utah Jazz,W,12/19/2012,4:55,1,4,0.25,0,0,0.0,0,0,0.0,2,1,3,1,0,0,1,2,2,-4
+Indiana Pacers,,Tyler Hansbrough,Cleveland Cavaliers,W,12/21/2012,13:03,0,3,0.0,0,0,0.0,2,2,1.0,1,3,4,1,0,0,2,2,2,-1
+Indiana Pacers,,Gerald Green,Cleveland Cavaliers,W,12/21/2012,15:43,4,6,0.667,2,4,0.5,4,4,1.0,0,0,0,0,0,1,1,1,14,-2
+Indiana Pacers,,Sam Young,Cleveland Cavaliers,W,12/21/2012,12:49,1,3,0.333,1,1,1.0,0,0,0.0,1,2,3,1,0,0,1,0,3,-10
+Indiana Pacers,,Ian Mahinmi,Cleveland Cavaliers,W,12/21/2012,22:37,4,7,0.571,0,0,0.0,2,4,0.5,1,2,3,3,0,1,3,4,10,4
+Indiana Pacers,,Ben Hansbrough,Cleveland Cavaliers,W,12/21/2012,11:23,0,1,0.0,0,1,0.0,0,0,0.0,1,2,3,1,0,0,1,0,0,-7
+Indiana Pacers,,Miles Plumlee,Cleveland Cavaliers,W,12/21/2012,1:17,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-6
+Indiana Pacers,,Jeff Ayres,Cleveland Cavaliers,W,12/21/2012,1:17,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-6
+Indiana Pacers,,Ian Mahinmi,New Orleans Hornets,W,12/22/2012,19:53,3,7,0.429,0,0,0.0,0,1,0.0,1,3,4,0,0,3,1,3,6,1
+Indiana Pacers,,Tyler Hansbrough,New Orleans Hornets,W,12/22/2012,13:43,2,3,0.667,0,0,0.0,0,0,0.0,1,1,2,1,0,1,1,2,4,-8
+Indiana Pacers,,Sam Young,New Orleans Hornets,W,12/22/2012,20:30,0,2,0.0,0,1,0.0,0,0,0.0,0,3,3,0,0,0,1,0,0,-7
+Indiana Pacers,,Ben Hansbrough,New Orleans Hornets,W,12/22/2012,4:59,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,3,1,0,-6
+Indiana Pacers,,D.J. Augustin,New Orleans Hornets,W,12/22/2012,7:10,0,3,0.0,0,1,0.0,1,2,0.5,0,0,0,3,1,0,0,0,1,2
+Indiana Pacers,,Tyler Hansbrough,Chicago Bulls,W,02/04/2013,11:59,3,7,0.429,0,0,0.0,2,4,0.5,3,2,5,0,0,0,0,3,8,-9
+Indiana Pacers,,Orlando Johnson,Chicago Bulls,W,02/04/2013,8:28,0,0,0.0,0,0,0.0,2,2,1.0,0,1,1,1,0,0,1,1,2,-10
+Indiana Pacers,,D.J. Augustin,Chicago Bulls,W,02/04/2013,10:24,0,1,0.0,0,1,0.0,2,2,1.0,0,0,0,0,0,0,1,0,2,-1
+Indiana Pacers,,Ian Mahinmi,Chicago Bulls,W,02/04/2013,16:37,3,4,0.75,0,0,0.0,0,0,0.0,2,3,5,0,2,0,0,3,6,-6
+Indiana Pacers,,Sam Young,Chicago Bulls,W,02/04/2013,9:13,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,0,5,0,-8
+Indiana Pacers,,D.J. Augustin,Phoenix Suns,W,12/28/2012,15:27,0,2,0.0,0,1,0.0,2,2,1.0,0,1,1,1,0,0,1,2,2,1
+Indiana Pacers,,Gerald Green,Phoenix Suns,W,12/28/2012,20:19,3,6,0.5,2,4,0.5,0,0,0.0,0,1,1,0,0,0,1,1,8,-5
+Indiana Pacers,,Tyler Hansbrough,Phoenix Suns,W,12/28/2012,14:26,5,6,0.833,0,0,0.0,2,2,1.0,1,4,5,1,0,0,0,3,12,5
+Indiana Pacers,,Ian Mahinmi,Phoenix Suns,W,12/28/2012,16:04,1,5,0.2,0,0,0.0,4,6,0.667,4,1,5,2,0,0,1,1,6,-12
+Indiana Pacers,,Gerald Green,Atlanta Hawks,L,12/29/2012,25:09,3,11,0.273,0,4,0.0,0,0,0.0,1,0,1,1,0,1,0,0,6,-5
+Indiana Pacers,,Tyler Hansbrough,Atlanta Hawks,L,12/29/2012,24:18,1,3,0.333,0,0,0.0,4,4,1.0,2,8,10,2,0,1,1,2,6,5
+Indiana Pacers,,Ian Mahinmi,Atlanta Hawks,L,12/29/2012,19:19,3,7,0.429,0,0,0.0,7,8,0.875,1,1,2,0,1,3,1,3,13,-4
+Indiana Pacers,,D.J. Augustin,Atlanta Hawks,L,12/29/2012,15:02,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,3,1,0,0,0,0,10
+Indiana Pacers,,Gerald Green,Memphis Grizzlies,W,12/31/2012,15:08,2,5,0.4,0,2,0.0,0,0,0.0,0,1,1,1,1,0,1,1,4,0
+Indiana Pacers,,Tyler Hansbrough,Memphis Grizzlies,W,12/31/2012,14:02,3,6,0.5,0,0,0.0,0,0,0.0,4,1,5,1,0,2,2,0,6,5
+Indiana Pacers,,Sam Young,Memphis Grizzlies,W,12/31/2012,6:51,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-9
+Indiana Pacers,,Ben Hansbrough,Memphis Grizzlies,W,12/31/2012,14:06,2,5,0.4,2,3,0.667,0,0,0.0,0,0,0,1,0,0,0,2,6,8
+Indiana Pacers,,Ian Mahinmi,Memphis Grizzlies,W,12/31/2012,14:55,1,5,0.2,0,0,0.0,0,0,0.0,0,2,2,0,2,0,1,2,2,3
+Indiana Pacers,,Gerald Green,Washington Wizards,W,01/02/2013,17:58,1,4,0.25,1,2,0.5,0,0,0.0,0,0,0,0,1,0,2,0,3,-6
+Indiana Pacers,,Tyler Hansbrough,Washington Wizards,W,01/02/2013,14:50,0,3,0.0,0,0,0.0,2,4,0.5,2,1,3,1,0,0,2,2,2,-8
+Indiana Pacers,,Ian Mahinmi,Washington Wizards,W,01/02/2013,22:36,3,5,0.6,0,0,0.0,3,4,0.75,3,8,11,0,1,0,0,1,9,-2
+Indiana Pacers,,Ben Hansbrough,Washington Wizards,W,01/02/2013,10:43,0,3,0.0,0,2,0.0,1,2,0.5,0,1,1,0,1,0,2,1,1,-3
+Indiana Pacers,,Sam Young,Washington Wizards,W,01/02/2013,8:15,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,-6
+Indiana Pacers,,Tyler Hansbrough,Boston Celtics,L,01/04/2013,22:56,7,11,0.636,0,0,0.0,5,8,0.625,2,2,4,0,1,0,2,2,19,-2
+Indiana Pacers,,Gerald Green,Boston Celtics,L,01/04/2013,21:49,1,8,0.125,0,4,0.0,1,2,0.5,0,2,2,2,0,1,0,2,3,-10
+Indiana Pacers,,Ian Mahinmi,Boston Celtics,L,01/04/2013,17:42,2,5,0.4,0,0,0.0,0,2,0.0,3,1,4,0,0,2,2,3,4,-2
+Indiana Pacers,,Ben Hansbrough,Boston Celtics,L,01/04/2013,18:29,1,4,0.25,1,2,0.5,2,2,1.0,0,3,3,0,0,0,2,0,5,-10
+Indiana Pacers,,Orlando Johnson,Boston Celtics,L,01/04/2013,12:00,2,3,0.667,1,1,1.0,2,2,1.0,1,1,2,0,0,1,0,1,7,-1
+Indiana Pacers,,Jeff Ayres,Boston Celtics,L,01/04/2013,2:28,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,1,0,-1
+Indiana Pacers,,Gerald Green,Milwaukee Bucks,W,01/05/2013,18:00,2,10,0.2,1,7,0.143,0,0,0.0,0,1,1,2,0,0,0,4,5,5
+Indiana Pacers,,Jeff Ayres,Milwaukee Bucks,W,01/05/2013,4:51,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,2,0,-4
+Indiana Pacers,,Tyler Hansbrough,Milwaukee Bucks,W,01/05/2013,20:59,3,6,0.5,0,0,0.0,3,8,0.375,3,3,6,0,0,1,0,1,9,1
+Indiana Pacers,,Orlando Johnson,Milwaukee Bucks,W,01/05/2013,11:16,3,8,0.375,0,3,0.0,1,2,0.5,1,2,3,0,0,0,2,1,7,-5
+Indiana Pacers,,D.J. Augustin,Milwaukee Bucks,W,01/05/2013,20:48,3,5,0.6,2,3,0.667,0,0,0.0,0,2,2,2,2,0,0,0,8,13
+Indiana Pacers,,Ian Mahinmi,Milwaukee Bucks,W,01/05/2013,15:37,2,3,0.667,0,0,0.0,0,0,0.0,3,2,5,1,0,0,0,1,4,11
+Indiana Pacers,,Ben Hansbrough,Milwaukee Bucks,W,01/05/2013,1:55,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+Indiana Pacers,,Tyler Hansbrough,Miami Heat,W,01/08/2013,14:59,1,4,0.25,0,0,0.0,5,6,0.833,0,2,2,0,0,0,0,1,7,16
+Indiana Pacers,,Gerald Green,Miami Heat,W,01/08/2013,21:48,3,11,0.273,1,5,0.2,0,0,0.0,2,2,4,0,2,2,1,2,7,7
+Indiana Pacers,,Ian Mahinmi,Miami Heat,W,01/08/2013,17:55,3,7,0.429,0,0,0.0,1,2,0.5,1,4,5,0,1,0,0,4,7,17
+Indiana Pacers,,D.J. Augustin,Miami Heat,W,01/08/2013,24:32,0,2,0.0,0,0,0.0,4,4,1.0,0,3,3,8,2,0,0,0,4,17
+Indiana Pacers,,Orlando Johnson,Miami Heat,W,01/08/2013,4:26,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,2,0,0,0,0,0,5
+Indiana Pacers,,Gerald Green,New York Knicks,W,01/10/2013,16:33,3,8,0.375,1,5,0.2,0,0,0.0,1,5,6,1,0,0,2,1,7,13
+Indiana Pacers,,Tyler Hansbrough,New York Knicks,W,01/10/2013,13:34,1,8,0.125,0,0,0.0,4,4,1.0,3,1,4,0,1,0,0,2,6,13
+Indiana Pacers,,D.J. Augustin,New York Knicks,W,01/10/2013,13:56,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-5
+Indiana Pacers,,Ian Mahinmi,New York Knicks,W,01/10/2013,20:09,6,7,0.857,0,0,0.0,1,1,1.0,2,4,6,0,0,0,1,4,13,8
+Indiana Pacers,,Jeff Ayres,New York Knicks,W,01/10/2013,8:59,2,5,0.4,0,0,0.0,2,2,1.0,1,0,1,0,0,0,0,2,6,0
+Indiana Pacers,,Gerald Green,Charlotte Bobcats,W,01/12/2013,21:51,3,12,0.25,2,8,0.25,0,0,0.0,0,2,2,0,0,0,2,1,8,7
+Indiana Pacers,,Tyler Hansbrough,Charlotte Bobcats,W,01/12/2013,9:38,1,3,0.333,0,0,0.0,1,1,1.0,0,1,1,0,0,1,2,3,3,-1
+Indiana Pacers,,Orlando Johnson,Charlotte Bobcats,W,01/12/2013,7:01,1,3,0.333,1,2,0.5,0,0,0.0,0,3,3,1,1,0,0,0,3,8
+Indiana Pacers,,Ian Mahinmi,Charlotte Bobcats,W,01/12/2013,26:04,2,5,0.4,0,0,0.0,1,1,1.0,1,7,8,2,2,3,0,3,5,12
+Indiana Pacers,,D.J. Augustin,Charlotte Bobcats,W,01/12/2013,28:13,5,9,0.556,4,8,0.5,4,4,1.0,0,0,0,4,1,0,1,4,18,12
+Indiana Pacers,,Gerald Green,Brooklyn Nets,L,01/13/2013,32:37,5,13,0.385,1,6,0.167,4,4,1.0,1,4,5,2,1,1,0,0,15,-12
+Indiana Pacers,,Tyler Hansbrough,Brooklyn Nets,L,01/13/2013,13:09,1,4,0.25,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-21
+Indiana Pacers,,Ian Mahinmi,Brooklyn Nets,L,01/13/2013,17:28,2,2,1.0,0,0,0.0,1,2,0.5,2,1,3,0,0,1,2,2,5,-21
+Indiana Pacers,,Orlando Johnson,Brooklyn Nets,L,01/13/2013,16:56,0,4,0.0,0,3,0.0,0,0,0.0,0,2,2,3,1,0,0,2,0,4
+Indiana Pacers,,D.J. Augustin,Brooklyn Nets,L,01/13/2013,18:06,1,4,0.25,1,2,0.5,0,0,0.0,0,0,0,4,0,0,0,0,3,-13
+Indiana Pacers,,Tyler Hansbrough,Charlotte Bobcats,W,01/15/2013,17:36,2,5,0.4,0,0,0.0,5,5,1.0,3,0,3,0,0,1,4,3,9,-2
+Indiana Pacers,,Gerald Green,Charlotte Bobcats,W,01/15/2013,19:31,1,7,0.143,0,4,0.0,1,2,0.5,1,0,1,3,0,1,0,3,3,0
+Indiana Pacers,,Ian Mahinmi,Charlotte Bobcats,W,01/15/2013,14:43,0,2,0.0,0,0,0.0,4,4,1.0,1,5,6,0,0,3,2,4,4,-2
+Indiana Pacers,,D.J. Augustin,Charlotte Bobcats,W,01/15/2013,20:32,2,4,0.5,2,3,0.667,0,0,0.0,0,2,2,1,0,0,2,2,6,-1
+Indiana Pacers,,Orlando Johnson,Charlotte Bobcats,W,01/15/2013,12:00,1,4,0.25,0,0,0.0,0,0,0.0,1,4,5,2,0,0,0,0,2,1
+Indiana Pacers,,Jeff Ayres,Charlotte Bobcats,W,01/15/2013,6:41,2,6,0.333,0,0,0.0,0,0,0.0,0,3,3,0,0,0,0,1,4,-2
+Indiana Pacers,,Dominic McGuire,Charlotte Bobcats,W,01/15/2013,5:30,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-1
+Indiana Pacers,,Ben Hansbrough,Charlotte Bobcats,W,01/15/2013,3:46,1,2,0.5,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,1,3,-1
+Indiana Pacers,,Gerald Green,Orlando Magic,L,01/16/2013,13:56,4,11,0.364,0,4,0.0,2,2,1.0,2,0,2,0,1,1,0,1,10,-5
+Indiana Pacers,,Tyler Hansbrough,Orlando Magic,L,01/16/2013,19:33,5,8,0.625,0,0,0.0,0,1,0.0,1,3,4,1,0,0,0,4,10,-15
+Indiana Pacers,,Ian Mahinmi,Orlando Magic,L,01/16/2013,15:48,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,3,3,0,-9
+Indiana Pacers,,D.J. Augustin,Orlando Magic,L,01/16/2013,18:14,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,2,0,0,1,0,0,1
+Indiana Pacers,,Orlando Johnson,Orlando Magic,L,01/16/2013,11:48,0,4,0.0,0,1,0.0,0,0,0.0,0,2,2,0,1,0,0,1,0,2
+Indiana Pacers,,Jeff Ayres,Orlando Magic,L,01/16/2013,6:25,0,1,0.0,0,0,0.0,0,0,0.0,1,3,4,0,0,1,0,0,0,8
+Indiana Pacers,,Ian Mahinmi,Houston Rockets,W,01/18/2013,11:21,1,1,1.0,0,0,0.0,1,1,1.0,0,1,1,0,0,1,0,1,3,6
+Indiana Pacers,,Orlando Johnson,Houston Rockets,W,01/18/2013,9:17,1,2,0.5,1,1,1.0,0,0,0.0,0,2,2,1,0,0,0,1,3,-3
+Indiana Pacers,,D.J. Augustin,Houston Rockets,W,01/18/2013,17:33,3,7,0.429,0,3,0.0,0,0,0.0,0,2,2,0,0,0,1,2,6,-2
+Indiana Pacers,,Tyler Hansbrough,Houston Rockets,W,01/18/2013,17:35,1,4,0.25,0,0,0.0,2,2,1.0,1,0,1,0,0,0,0,1,4,-3
+Indiana Pacers,,Jeff Ayres,Houston Rockets,W,01/18/2013,7:54,1,5,0.2,0,0,0.0,0,0,0.0,2,0,2,0,0,1,0,1,2,1
+Indiana Pacers,,Ben Hansbrough,Houston Rockets,W,01/18/2013,0:30,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Indiana Pacers,,Gerald Green,Memphis Grizzlies,W,01/21/2013,6:28,0,3,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-4
+Indiana Pacers,,Tyler Hansbrough,Memphis Grizzlies,W,01/21/2013,12:07,4,5,0.8,0,0,0.0,1,1,1.0,5,3,8,0,0,0,2,2,9,0
+Indiana Pacers,,D.J. Augustin,Memphis Grizzlies,W,01/21/2013,15:25,2,3,0.667,2,3,0.667,0,1,0.0,0,0,0,3,0,0,0,0,6,3
+Indiana Pacers,,Ian Mahinmi,Memphis Grizzlies,W,01/21/2013,15:25,2,4,0.5,0,0,0.0,0,2,0.0,1,1,2,0,0,1,0,3,4,3
+Indiana Pacers,,Orlando Johnson,Memphis Grizzlies,W,01/21/2013,11:48,2,2,1.0,2,2,1.0,0,0,0.0,0,0,0,0,0,0,3,2,6,8
+Indiana Pacers,,Tyler Hansbrough,Portland Trail Blazers,L,01/23/2013,13:08,0,3,0.0,0,0,0.0,1,2,0.5,1,2,3,1,0,0,0,1,1,0
+Indiana Pacers,,Orlando Johnson,Portland Trail Blazers,L,01/23/2013,11:15,0,2,0.0,0,1,0.0,0,0,0.0,3,0,3,2,0,0,0,1,0,-6
+Indiana Pacers,,Ian Mahinmi,Portland Trail Blazers,L,01/23/2013,16:12,2,5,0.4,0,0,0.0,4,4,1.0,2,2,4,0,0,1,1,4,8,-10
+Indiana Pacers,,D.J. Augustin,Portland Trail Blazers,L,01/23/2013,19:39,2,7,0.286,2,5,0.4,0,0,0.0,0,1,1,2,2,0,1,1,6,-18
+Indiana Pacers,,Orlando Johnson,Utah Jazz,L,01/26/2013,6:44,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,-3
+Indiana Pacers,,Tyler Hansbrough,Utah Jazz,L,01/26/2013,11:38,4,5,0.8,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,3,8,3
+Indiana Pacers,,Ian Mahinmi,Utah Jazz,L,01/26/2013,17:46,3,4,0.75,0,0,0.0,2,2,1.0,2,0,2,0,0,0,1,3,8,-1
+Indiana Pacers,,D.J. Augustin,Utah Jazz,L,01/26/2013,30:04,4,9,0.444,2,5,0.4,1,1,1.0,1,0,1,3,1,0,1,0,11,5
+Indiana Pacers,,Jeff Ayres,Utah Jazz,L,01/26/2013,5:05,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-5
+Indiana Pacers,,Orlando Johnson,Denver Nuggets,L,01/28/2013,10:17,3,5,0.6,2,2,1.0,0,0,0.0,1,1,2,0,0,0,1,2,8,-2
+Indiana Pacers,,Tyler Hansbrough,Denver Nuggets,L,01/28/2013,12:48,1,2,0.5,0,0,0.0,1,2,0.5,1,0,1,0,0,0,1,5,3,4
+Indiana Pacers,,Ian Mahinmi,Denver Nuggets,L,01/28/2013,15:25,2,5,0.4,0,0,0.0,2,4,0.5,3,2,5,0,1,0,2,1,6,-3
+Indiana Pacers,,D.J. Augustin,Denver Nuggets,L,01/28/2013,12:43,1,4,0.25,0,3,0.0,2,2,1.0,0,0,0,2,0,0,1,0,4,-4
+Indiana Pacers,,Tyler Hansbrough,Detroit Pistons,W,01/30/2013,17:08,3,8,0.375,0,0,0.0,8,8,1.0,2,9,11,1,1,0,2,1,14,10
+Indiana Pacers,,Orlando Johnson,Detroit Pistons,W,01/30/2013,12:12,2,2,1.0,1,1,1.0,1,1,1.0,0,1,1,2,0,0,3,3,6,1
+Indiana Pacers,,D.J. Augustin,Detroit Pistons,W,01/30/2013,15:13,1,3,0.333,1,2,0.5,0,0,0.0,0,1,1,1,1,0,1,0,3,3
+Indiana Pacers,,Ian Mahinmi,Detroit Pistons,W,01/30/2013,17:51,1,5,0.2,0,0,0.0,2,2,1.0,2,3,5,0,1,1,1,2,4,5
+Indiana Pacers,,Gerald Green,Detroit Pistons,W,01/30/2013,3:56,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-2
+Indiana Pacers,,Ben Hansbrough,Detroit Pistons,W,01/30/2013,3:56,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,1,2,-2
+Indiana Pacers,,Jeff Ayres,Detroit Pistons,W,01/30/2013,3:56,0,3,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,-2
+Indiana Pacers,,Miles Plumlee,Detroit Pistons,W,01/30/2013,3:20,0,0,0.0,0,0,0.0,0,0,0.0,2,1,3,0,0,0,1,0,0,-3
+Indiana Pacers,,Tyler Hansbrough,Miami Heat,W,02/01/2013,12:05,4,8,0.5,0,1,0.0,3,4,0.75,1,2,3,1,0,0,0,3,11,4
+Indiana Pacers,,Orlando Johnson,Miami Heat,W,02/01/2013,4:13,1,1,1.0,1,1,1.0,1,2,0.5,0,1,1,0,0,0,1,2,4,4
+Indiana Pacers,,Ian Mahinmi,Miami Heat,W,02/01/2013,18:01,2,4,0.5,0,0,0.0,0,0,0.0,1,2,3,0,1,1,2,3,4,3
+Indiana Pacers,,D.J. Augustin,Miami Heat,W,02/01/2013,12:42,1,2,0.5,1,2,0.5,1,1,1.0,0,1,1,0,0,0,0,0,4,7
+Indiana Pacers,,Sam Young,Miami Heat,W,02/01/2013,11:21,0,1,0.0,0,0,0.0,0,0,0.0,1,1,2,1,1,0,0,2,0,1
+Indiana Pacers,,Tyler Hansbrough,Atlanta Hawks,W,02/05/2013,12:55,0,2,0.0,0,0,0.0,4,6,0.667,0,0,0,2,1,1,0,2,4,-1
+Indiana Pacers,,Orlando Johnson,Atlanta Hawks,W,02/05/2013,8:19,1,1,1.0,1,1,1.0,0,0,0.0,0,1,1,0,0,0,0,2,3,-6
+Indiana Pacers,,D.J. Augustin,Atlanta Hawks,W,02/05/2013,15:40,3,6,0.5,2,4,0.5,2,3,0.667,0,0,0,2,0,0,0,1,10,3
+Indiana Pacers,,Ian Mahinmi,Atlanta Hawks,W,02/05/2013,15:56,4,4,1.0,0,0,0.0,4,7,0.571,0,3,3,0,0,0,1,3,12,2
+Indiana Pacers,,Sam Young,Atlanta Hawks,W,02/05/2013,14:50,0,2,0.0,0,1,0.0,0,0,0.0,0,3,3,1,0,0,0,2,0,3
+Indiana Pacers,,Ben Hansbrough,Atlanta Hawks,W,02/05/2013,1:39,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0
+Indiana Pacers,,Jeff Ayres,Atlanta Hawks,W,02/05/2013,1:39,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Indiana Pacers,,Orlando Johnson,Philadelphia 76ers,W,02/06/2013,17:49,2,3,0.667,2,3,0.667,2,2,1.0,0,3,3,0,1,0,0,1,8,9
+Indiana Pacers,,Tyler Hansbrough,Philadelphia 76ers,W,02/06/2013,17:21,1,8,0.125,0,0,0.0,3,4,0.75,3,4,7,1,1,0,0,1,5,7
+Indiana Pacers,,D.J. Augustin,Philadelphia 76ers,W,02/06/2013,13:54,1,4,0.25,1,2,0.5,3,4,0.75,1,3,4,1,0,0,0,1,6,5
+Indiana Pacers,,Ian Mahinmi,Philadelphia 76ers,W,02/06/2013,14:05,0,0,0.0,0,0,0.0,0,0,0.0,0,4,4,0,0,0,1,1,0,-3
+Indiana Pacers,,Sam Young,Philadelphia 76ers,W,02/06/2013,7:55,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,2,1,0,-3
+Indiana Pacers,,Tyler Hansbrough,Toronto Raptors,L,02/08/2013,12:02,1,1,1.0,0,0,0.0,1,2,0.5,2,3,5,0,0,0,0,0,3,-9
+Indiana Pacers,,Orlando Johnson,Toronto Raptors,L,02/08/2013,14:26,1,4,0.25,0,1,0.0,1,2,0.5,1,3,4,1,0,0,0,0,3,0
+Indiana Pacers,,D.J. Augustin,Toronto Raptors,L,02/08/2013,14:43,1,1,1.0,1,1,1.0,1,2,0.5,0,2,2,1,0,0,2,1,4,-8
+Indiana Pacers,,Ian Mahinmi,Toronto Raptors,L,02/08/2013,15:14,3,4,0.75,0,0,0.0,0,0,0.0,0,1,1,0,0,1,4,3,6,-6
+Indiana Pacers,,Gerald Green,Toronto Raptors,L,02/08/2013,5:46,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,0,1
+Indiana Pacers,,Tyler Hansbrough,Brooklyn Nets,L,02/11/2013,11:00,0,4,0.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,0,0,-7
+Indiana Pacers,,Orlando Johnson,Brooklyn Nets,L,02/11/2013,12:54,1,3,0.333,1,3,0.333,0,0,0.0,0,3,3,2,0,0,0,0,3,-1
+Indiana Pacers,,D.J. Augustin,Brooklyn Nets,L,02/11/2013,21:13,1,7,0.143,1,4,0.25,0,0,0.0,0,1,1,2,0,0,0,1,3,-5
+Indiana Pacers,,Ian Mahinmi,Brooklyn Nets,L,02/11/2013,17:40,1,2,0.5,0,0,0.0,2,2,1.0,3,3,6,0,0,1,1,2,4,-5
+Indiana Pacers,,Jeff Ayres,Brooklyn Nets,L,02/11/2013,17:20,7,11,0.636,0,1,0.0,0,0,0.0,4,6,10,1,0,0,1,3,14,10
+Indiana Pacers,,Gerald Green,Brooklyn Nets,L,02/11/2013,6:00,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,1,0,0,0,0,10
+Indiana Pacers,,Orlando Johnson,Charlotte Bobcats,W,02/13/2013,18:34,2,5,0.4,0,2,0.0,2,4,0.5,1,2,3,2,0,0,1,1,6,14
+Indiana Pacers,,Jeff Ayres,Charlotte Bobcats,W,02/13/2013,24:35,5,8,0.625,0,0,0.0,0,0,0.0,3,5,8,1,0,2,3,5,10,12
+Indiana Pacers,,D.J. Augustin,Charlotte Bobcats,W,02/13/2013,12:13,1,3,0.333,1,3,0.333,0,0,0.0,0,0,0,1,0,0,0,0,3,-1
+Indiana Pacers,,Ian Mahinmi,Charlotte Bobcats,W,02/13/2013,26:12,5,10,0.5,0,0,0.0,0,0,0.0,2,3,5,0,3,2,0,3,10,21
+Indiana Pacers,,Gerald Green,Charlotte Bobcats,W,02/13/2013,9:03,1,5,0.2,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,2,2,-4
+Indiana Pacers,,Ben Hansbrough,Charlotte Bobcats,W,02/13/2013,3:31,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+Indiana Pacers,,Miles Plumlee,Charlotte Bobcats,W,02/13/2013,3:31,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,1
+Indiana Pacers,,Sam Young,Charlotte Bobcats,W,02/13/2013,3:31,0,1,0.0,0,0,0.0,2,2,1.0,0,2,2,0,0,1,0,0,2,1
+Indiana Pacers,,Tyler Hansbrough,New York Knicks,W,02/20/2013,18:43,2,3,0.667,0,0,0.0,6,10,0.6,3,2,5,1,0,1,1,2,10,17
+Indiana Pacers,,Ian Mahinmi,New York Knicks,W,02/20/2013,9:33,1,3,0.333,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,5,2,9
+Indiana Pacers,,Orlando Johnson,New York Knicks,W,02/20/2013,13:37,2,7,0.286,2,2,1.0,2,2,1.0,2,2,4,1,1,0,0,0,8,9
+Indiana Pacers,,D.J. Augustin,New York Knicks,W,02/20/2013,14:15,2,3,0.667,2,3,0.667,3,3,1.0,0,2,2,4,0,0,2,1,9,9
+Indiana Pacers,,Sam Young,New York Knicks,W,02/20/2013,14:39,2,3,0.667,0,0,0.0,3,4,0.75,3,2,5,4,1,0,2,2,7,18
+Indiana Pacers,,Jeff Ayres,New York Knicks,W,02/20/2013,22:41,3,5,0.6,0,0,0.0,3,3,1.0,2,5,7,2,0,0,1,2,9,12
+Indiana Pacers,,Gerald Green,New York Knicks,W,02/20/2013,6:09,1,5,0.2,1,2,0.5,0,0,0.0,0,2,2,0,0,1,0,0,3,4
+Indiana Pacers,,Ben Hansbrough,New York Knicks,W,02/20/2013,5:24,0,2,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,1
+Indiana Pacers,,Orlando Johnson,Detroit Pistons,W,02/22/2013,23:22,5,5,1.0,3,3,1.0,1,3,0.333,1,2,3,3,0,0,0,2,14,4
+Indiana Pacers,,Tyler Hansbrough,Detroit Pistons,W,02/22/2013,17:31,1,2,0.5,0,0,0.0,5,6,0.833,0,3,3,1,2,0,0,1,7,10
+Indiana Pacers,,D.J. Augustin,Detroit Pistons,W,02/22/2013,14:46,2,2,1.0,1,1,1.0,0,0,0.0,1,2,3,3,0,0,0,2,5,10
+Indiana Pacers,,Sam Young,Detroit Pistons,W,02/22/2013,18:42,2,5,0.4,0,1,0.0,2,4,0.5,1,4,5,1,0,0,1,2,6,2
+Indiana Pacers,,Ian Mahinmi,Detroit Pistons,W,02/22/2013,14:13,3,7,0.429,0,0,0.0,0,0,0.0,0,3,3,0,1,1,0,0,6,10
+Indiana Pacers,,Gerald Green,Detroit Pistons,W,02/22/2013,12:44,1,8,0.125,0,1,0.0,1,2,0.5,0,0,0,3,0,0,0,0,3,-6
+Indiana Pacers,,Jeff Ayres,Detroit Pistons,W,02/22/2013,7:33,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,3,2,-9
+Indiana Pacers,,Ben Hansbrough,Detroit Pistons,W,02/22/2013,5:18,2,2,1.0,1,1,1.0,1,4,0.25,0,0,0,0,0,0,1,2,6,-9
+Indiana Pacers,,Ian Mahinmi,Detroit Pistons,W,02/23/2013,28:01,3,8,0.375,0,0,0.0,1,2,0.5,6,4,10,1,1,2,1,5,7,9
+Indiana Pacers,,Tyler Hansbrough,Detroit Pistons,W,02/23/2013,17:50,3,5,0.6,0,0,0.0,3,4,0.75,4,0,4,1,0,0,2,3,9,-3
+Indiana Pacers,,Danny Granger,Detroit Pistons,W,02/23/2013,18:36,1,10,0.1,0,4,0.0,0,0,0.0,0,2,2,1,0,1,1,2,2,0
+Indiana Pacers,,Orlando Johnson,Detroit Pistons,W,02/23/2013,10:31,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,3,2,-12
+Indiana Pacers,,D.J. Augustin,Detroit Pistons,W,02/23/2013,18:21,3,4,0.75,3,4,0.75,1,2,0.5,0,2,2,0,0,0,1,0,10,-5
+Indiana Pacers,,Danny Granger,Golden State Warriors,W,02/26/2013,18:30,1,7,0.143,0,1,0.0,3,4,0.75,0,2,2,1,1,0,0,0,5,0
+Indiana Pacers,,Tyler Hansbrough,Golden State Warriors,W,02/26/2013,12:01,0,3,0.0,0,0,0.0,2,2,1.0,0,1,1,0,0,0,0,1,2,-7
+Indiana Pacers,,D.J. Augustin,Golden State Warriors,W,02/26/2013,10:19,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,2,1,1,1,2,0,-4
+Indiana Pacers,,Orlando Johnson,Golden State Warriors,W,02/26/2013,6:27,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,1,0,-10
+Indiana Pacers,,Ian Mahinmi,Golden State Warriors,W,02/26/2013,20:09,2,4,0.5,0,0,0.0,3,6,0.5,3,3,6,0,1,1,2,5,7,-8
+Indiana Pacers,,Jeff Ayres,Los Angeles Clippers,L,02/28/2013,14:56,1,3,0.333,0,0,0.0,0,0,0.0,3,4,7,0,1,0,2,3,2,-7
+Indiana Pacers,,Danny Granger,Los Angeles Clippers,L,02/28/2013,18:59,5,10,0.5,1,2,0.5,1,2,0.5,1,1,2,1,0,0,2,1,12,-25
+Indiana Pacers,,D.J. Augustin,Los Angeles Clippers,L,02/28/2013,10:37,0,2,0.0,0,2,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,-13
+Indiana Pacers,,Tyler Hansbrough,Los Angeles Clippers,L,02/28/2013,17:26,0,3,0.0,0,0,0.0,0,0,0.0,2,2,4,0,0,0,2,3,0,-9
+Indiana Pacers,,Orlando Johnson,Los Angeles Clippers,L,02/28/2013,4:59,1,2,0.5,0,1,0.0,0,0,0.0,1,0,1,1,0,0,1,0,2,-5
+Indiana Pacers,,Ian Mahinmi,Toronto Raptors,W,03/01/2013,22:32,3,10,0.3,0,0,0.0,1,2,0.5,2,4,6,0,1,0,3,3,7,7
+Indiana Pacers,,Danny Granger,Toronto Raptors,W,03/01/2013,9:34,3,5,0.6,1,3,0.333,1,2,0.5,2,1,3,0,1,0,1,2,8,10
+Indiana Pacers,,D.J. Augustin,Toronto Raptors,W,03/01/2013,18:54,0,1,0.0,0,1,0.0,2,2,1.0,0,2,2,7,0,0,2,1,2,8
+Indiana Pacers,,Tyler Hansbrough,Toronto Raptors,W,03/01/2013,18:26,2,3,0.667,0,0,0.0,1,2,0.5,1,1,2,1,1,0,1,1,5,-5
+Indiana Pacers,,Orlando Johnson,Toronto Raptors,W,03/01/2013,17:43,1,3,0.333,0,2,0.0,2,2,1.0,0,3,3,0,0,1,1,2,4,8
+Indiana Pacers,,Jeff Ayres,Toronto Raptors,W,03/01/2013,1:31,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-2
+Indiana Pacers,,Gerald Green,Toronto Raptors,W,03/01/2013,1:31,0,0,0.0,0,0,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,-2
+Indiana Pacers,,Sam Young,Toronto Raptors,W,03/01/2013,1:31,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-2
+Indiana Pacers,,Tyler Hansbrough,Chicago Bulls,W,03/03/2013,12:10,0,1,0.0,0,0,0.0,2,2,1.0,1,0,1,1,2,1,1,2,2,7
+Indiana Pacers,,Danny Granger,Chicago Bulls,W,03/03/2013,8:01,0,3,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-1
+Indiana Pacers,,D.J. Augustin,Chicago Bulls,W,03/03/2013,12:19,0,2,0.0,0,2,0.0,2,2,1.0,0,1,1,1,0,0,0,0,2,-8
+Indiana Pacers,,Ian Mahinmi,Chicago Bulls,W,03/03/2013,12:12,2,3,0.667,0,0,0.0,0,0,0.0,0,0,0,1,1,0,1,1,4,-8
+Indiana Pacers,,Orlando Johnson,Chicago Bulls,W,03/03/2013,3:46,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-5
+Indiana Pacers,,Sam Young,Chicago Bulls,W,03/03/2013,5:18,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+Indiana Pacers,,Ian Mahinmi,Boston Celtics,L,03/06/2013,15:38,1,3,0.333,0,0,0.0,2,4,0.5,1,2,3,0,0,0,1,1,4,1
+Indiana Pacers,,Orlando Johnson,Boston Celtics,L,03/06/2013,12:43,3,9,0.333,1,5,0.2,0,0,0.0,1,4,5,0,0,2,0,1,7,2
+Indiana Pacers,,D.J. Augustin,Boston Celtics,L,03/06/2013,11:17,0,3,0.0,0,3,0.0,2,2,1.0,0,1,1,1,0,0,0,1,2,-6
+Indiana Pacers,,Tyler Hansbrough,Boston Celtics,L,03/06/2013,9:11,0,1,0.0,0,0,0.0,0,0,0.0,2,0,2,0,0,0,1,2,0,-7
+Indiana Pacers,,Sam Young,Boston Celtics,L,03/06/2013,4:12,1,1,1.0,0,0,0.0,1,1,1.0,0,0,0,0,0,0,1,0,3,-2
+Indiana Pacers,,Ian Mahinmi,Orlando Magic,W,03/08/2013,13:34,0,1,0.0,0,0,0.0,2,2,1.0,1,5,6,1,0,2,2,3,2,7
+Indiana Pacers,,Orlando Johnson,Orlando Magic,W,03/08/2013,19:50,1,5,0.2,0,3,0.0,0,0,0.0,0,1,1,2,1,0,2,3,2,9
+Indiana Pacers,,Tyler Hansbrough,Orlando Magic,W,03/08/2013,20:10,7,10,0.7,0,0,0.0,4,6,0.667,3,3,6,2,0,1,0,2,18,9
+Indiana Pacers,,D.J. Augustin,Orlando Magic,W,03/08/2013,25:32,5,9,0.556,4,6,0.667,0,0,0.0,1,2,3,8,0,0,1,3,14,14
+Indiana Pacers,,Sam Young,Orlando Magic,W,03/08/2013,15:13,2,6,0.333,1,1,1.0,0,0,0.0,1,1,2,5,1,1,0,0,5,7
+Indiana Pacers,,Jeff Ayres,Orlando Magic,W,03/08/2013,5:33,0,1,0.0,0,0,0.0,2,2,1.0,1,0,1,0,0,0,0,0,2,5
+Indiana Pacers,,Gerald Green,Orlando Magic,W,03/08/2013,5:22,3,5,0.6,1,1,1.0,0,0,0.0,1,1,2,1,0,0,0,0,7,5
+Indiana Pacers,,Miles Plumlee,Orlando Magic,W,03/08/2013,3:25,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,3
+Indiana Pacers,,D.J. Augustin,Miami Heat,L,03/10/2013,23:41,4,8,0.5,4,8,0.5,2,2,1.0,1,0,1,2,0,0,2,0,14,1
+Indiana Pacers,,Tyler Hansbrough,Miami Heat,L,03/10/2013,13:44,0,3,0.0,0,0,0.0,4,6,0.667,1,1,2,0,0,0,0,2,4,3
+Indiana Pacers,,Orlando Johnson,Miami Heat,L,03/10/2013,14:30,2,4,0.5,2,4,0.5,2,2,1.0,0,4,4,0,0,0,2,2,8,10
+Indiana Pacers,,Ian Mahinmi,Miami Heat,L,03/10/2013,12:59,1,3,0.333,0,0,0.0,0,0,0.0,1,2,3,0,1,0,0,1,2,10
+Indiana Pacers,,Sam Young,Miami Heat,L,03/10/2013,7:12,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,0,0,0,1,0,0,2
+Indiana Pacers,,Ben Hansbrough,Miami Heat,L,03/10/2013,2:34,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,7
+Indiana Pacers,,Jeff Ayres,Miami Heat,L,03/10/2013,2:34,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,1,0,7
+Indiana Pacers,,Tyler Hansbrough,Minnesota Timberwolves,W,03/13/2013,16:49,1,3,0.333,0,0,0.0,3,6,0.5,1,2,3,0,1,0,1,3,5,-6
+Indiana Pacers,,Sam Young,Minnesota Timberwolves,W,03/13/2013,16:37,1,3,0.333,0,0,0.0,2,2,1.0,0,1,1,0,1,0,1,1,4,-3
+Indiana Pacers,,Orlando Johnson,Minnesota Timberwolves,W,03/13/2013,21:40,5,8,0.625,2,4,0.5,0,0,0.0,1,2,3,2,1,1,0,1,12,-3
+Indiana Pacers,,D.J. Augustin,Minnesota Timberwolves,W,03/13/2013,15:07,1,6,0.167,1,5,0.2,0,0,0.0,0,3,3,0,0,0,1,4,3,1
+Indiana Pacers,,Ian Mahinmi,Minnesota Timberwolves,W,03/13/2013,13:36,2,3,0.667,0,0,0.0,1,4,0.25,0,3,3,0,1,1,0,1,5,-7
+Indiana Pacers,,Ian Mahinmi,Los Angeles Lakers,L,03/15/2013,14:13,2,4,0.5,0,0,0.0,0,0,0.0,1,1,2,0,1,1,1,4,4,-8
+Indiana Pacers,,Orlando Johnson,Los Angeles Lakers,L,03/15/2013,5:06,0,3,0.0,0,1,0.0,0,0,0.0,1,2,3,0,0,0,0,0,0,-10
+Indiana Pacers,,D.J. Augustin,Los Angeles Lakers,L,03/15/2013,14:21,2,6,0.333,1,3,0.333,0,0,0.0,1,1,2,1,0,1,1,1,5,-11
+Indiana Pacers,,Tyler Hansbrough,Los Angeles Lakers,L,03/15/2013,9:35,1,5,0.2,0,0,0.0,0,0,0.0,2,2,4,0,0,1,1,2,2,-7
+Indiana Pacers,,Jeff Ayres,Los Angeles Lakers,L,03/15/2013,9:35,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,1,2,-6
+Indiana Pacers,,Sam Young,Los Angeles Lakers,L,03/15/2013,12:17,2,3,0.667,1,1,1.0,1,2,0.5,1,2,3,1,0,0,0,0,6,-6
+Indiana Pacers,,Tyler Hansbrough,Philadelphia 76ers,L,03/16/2013,21:09,2,3,0.667,0,0,0.0,4,4,1.0,2,4,6,0,0,0,3,3,8,-2
+Indiana Pacers,,Orlando Johnson,Philadelphia 76ers,L,03/16/2013,21:06,2,4,0.5,1,1,1.0,0,0,0.0,1,2,3,2,1,0,1,2,5,-9
+Indiana Pacers,,D.J. Augustin,Philadelphia 76ers,L,03/16/2013,9:01,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-1
+Indiana Pacers,,Ian Mahinmi,Philadelphia 76ers,L,03/16/2013,12:06,1,4,0.25,0,0,0.0,0,0,0.0,3,0,3,0,0,1,0,1,2,-13
+Indiana Pacers,,Sam Young,Philadelphia 76ers,L,03/16/2013,4:58,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-13
+Indiana Pacers,,Jeff Ayres,Cleveland Cavaliers,W,03/18/2013,24:35,4,8,0.5,1,1,1.0,2,2,1.0,1,6,7,4,0,2,2,2,11,0
+Indiana Pacers,,Orlando Johnson,Cleveland Cavaliers,W,03/18/2013,20:53,3,6,0.5,1,2,0.5,1,2,0.5,0,3,3,0,0,0,0,0,8,5
+Indiana Pacers,,D.J. Augustin,Cleveland Cavaliers,W,03/18/2013,21:00,1,3,0.333,1,3,0.333,0,0,0.0,3,1,4,4,2,0,1,1,3,5
+Indiana Pacers,,Ian Mahinmi,Cleveland Cavaliers,W,03/18/2013,14:47,4,7,0.571,0,0,0.0,0,0,0.0,1,4,5,2,0,1,2,5,8,0
+Indiana Pacers,,Gerald Green,Cleveland Cavaliers,W,03/18/2013,23:05,7,13,0.538,4,7,0.571,2,2,1.0,0,6,6,2,0,0,1,1,20,7
+Indiana Pacers,,Ben Hansbrough,Cleveland Cavaliers,W,03/18/2013,4:46,0,1,0.0,0,0,0.0,2,2,1.0,0,0,0,1,0,0,0,1,2,-3
+Indiana Pacers,,Miles Plumlee,Cleveland Cavaliers,W,03/18/2013,4:46,0,2,0.0,0,0,0.0,0,0,0.0,2,0,2,0,0,0,0,0,0,-3
+Indiana Pacers,,Sam Young,Cleveland Cavaliers,W,03/18/2013,4:46,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-3
+Indiana Pacers,,Orlando Johnson,Orlando Magic,W,03/19/2013,18:23,2,5,0.4,0,3,0.0,0,0,0.0,0,8,8,5,0,1,0,1,4,12
+Indiana Pacers,,Jeff Ayres,Orlando Magic,W,03/19/2013,20:36,2,6,0.333,0,0,0.0,0,0,0.0,1,4,5,0,2,0,3,1,4,17
+Indiana Pacers,,D.J. Augustin,Orlando Magic,W,03/19/2013,12:43,0,3,0.0,0,3,0.0,0,0,0.0,0,1,1,1,0,0,1,2,0,5
+Indiana Pacers,,Ian Mahinmi,Orlando Magic,W,03/19/2013,19:07,3,5,0.6,0,0,0.0,3,4,0.75,1,3,4,0,0,1,1,2,9,13
+Indiana Pacers,,Gerald Green,Orlando Magic,W,03/19/2013,19:34,6,13,0.462,3,6,0.5,0,0,0.0,0,8,8,2,0,0,1,1,15,17
+Indiana Pacers,,Ben Hansbrough,Orlando Magic,W,03/19/2013,4:28,0,1,0.0,0,1,0.0,2,2,1.0,0,0,0,1,0,0,0,2,2,-3
+Indiana Pacers,,Miles Plumlee,Orlando Magic,W,03/19/2013,4:28,0,2,0.0,0,0,0.0,1,2,0.5,1,2,3,0,0,0,0,0,1,-3
+Indiana Pacers,,Sam Young,Orlando Magic,W,03/19/2013,4:03,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Indiana Pacers,,Orlando Johnson,Milwaukee Bucks,W,03/22/2013,13:47,1,3,0.333,0,0,0.0,0,0,0.0,0,2,2,1,0,1,0,1,2,-1
+Indiana Pacers,,Jeff Ayres,Milwaukee Bucks,W,03/22/2013,21:28,5,10,0.5,0,0,0.0,0,0,0.0,1,6,7,0,1,0,1,3,10,4
+Indiana Pacers,,D.J. Augustin,Milwaukee Bucks,W,03/22/2013,16:49,3,3,1.0,2,2,1.0,2,2,1.0,0,0,0,3,1,0,2,1,10,7
+Indiana Pacers,,Ian Mahinmi,Milwaukee Bucks,W,03/22/2013,17:32,4,7,0.571,0,0,0.0,2,3,0.667,1,4,5,1,0,0,2,4,10,5
+Indiana Pacers,,Gerald Green,Milwaukee Bucks,W,03/22/2013,15:38,0,4,0.0,0,2,0.0,2,2,1.0,0,1,1,3,0,0,0,2,2,7
+Indiana Pacers,,Ben Hansbrough,Milwaukee Bucks,W,03/22/2013,4:22,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,2,0
+Indiana Pacers,,Miles Plumlee,Milwaukee Bucks,W,03/22/2013,4:22,0,1,0.0,0,0,0.0,0,0,0.0,1,2,3,0,0,1,1,1,0,0
+Indiana Pacers,,Sam Young,Milwaukee Bucks,W,03/22/2013,4:22,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,0
+Indiana Pacers,,Jeff Ayres,Chicago Bulls,L,03/23/2013,19:48,2,4,0.5,0,0,0.0,2,2,1.0,0,2,2,0,0,0,0,2,6,-4
+Indiana Pacers,,Orlando Johnson,Chicago Bulls,L,03/23/2013,8:45,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,1
+Indiana Pacers,,D.J. Augustin,Chicago Bulls,L,03/23/2013,15:27,0,3,0.0,0,1,0.0,0,0,0.0,1,1,2,1,1,0,0,1,0,-10
+Indiana Pacers,,Ian Mahinmi,Chicago Bulls,L,03/23/2013,12:58,1,4,0.25,0,0,0.0,2,2,1.0,1,4,5,0,0,1,0,1,4,-9
+Indiana Pacers,,Gerald Green,Chicago Bulls,L,03/23/2013,11:13,2,8,0.25,1,1,1.0,0,0,0.0,1,0,1,0,2,0,0,0,5,-9
+Indiana Pacers,,Sam Young,Chicago Bulls,L,03/23/2013,3:38,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Indiana Pacers,,Orlando Johnson,Atlanta Hawks,W,03/25/2013,24:57,6,12,0.5,2,6,0.333,1,1,1.0,2,3,5,2,1,1,1,0,15,0
+Indiana Pacers,,Ben Hansbrough,Atlanta Hawks,W,03/25/2013,11:33,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,3,0,0,1,1,0,-7
+Indiana Pacers,,Ian Mahinmi,Atlanta Hawks,W,03/25/2013,10:13,0,4,0.0,0,1,0.0,1,2,0.5,0,0,0,0,0,1,2,3,1,-10
+Indiana Pacers,,Jeff Ayres,Atlanta Hawks,W,03/25/2013,21:54,6,10,0.6,1,1,1.0,1,1,1.0,1,2,3,1,0,0,1,2,14,1
+Indiana Pacers,,Sam Young,Atlanta Hawks,W,03/25/2013,6:23,1,1,1.0,1,1,1.0,0,0,0.0,0,2,2,1,0,0,0,0,3,11
+Indiana Pacers,,Orlando Johnson,Houston Rockets,W,03/27/2013,13:17,2,2,1.0,2,2,1.0,0,0,0.0,0,0,0,1,0,0,2,2,6,-4
+Indiana Pacers,,Jeff Ayres,Houston Rockets,W,03/27/2013,15:53,1,3,0.333,0,0,0.0,0,0,0.0,0,5,5,1,0,0,1,2,2,-5
+Indiana Pacers,,Sam Young,Houston Rockets,W,03/27/2013,4:24,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,4
+Indiana Pacers,,D.J. Augustin,Houston Rockets,W,03/27/2013,9:41,1,1,1.0,1,1,1.0,2,2,1.0,1,0,1,1,0,0,0,0,5,-10
+Indiana Pacers,,Ian Mahinmi,Houston Rockets,W,03/27/2013,11:16,0,2,0.0,0,0,0.0,0,0,0.0,1,2,3,0,1,1,1,4,0,-12
+Indiana Pacers,,Gerald Green,Houston Rockets,W,03/27/2013,4:32,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,2,0,1,0,0,2,-1
+Indiana Pacers,,Orlando Johnson,Dallas Mavericks,W,03/28/2013,20:31,5,10,0.5,2,5,0.4,0,0,0.0,0,4,4,3,0,0,0,0,12,13
+Indiana Pacers,,Tyler Hansbrough,Dallas Mavericks,W,03/28/2013,20:00,5,10,0.5,0,0,0.0,3,6,0.5,5,4,9,1,1,0,3,2,13,8
+Indiana Pacers,,D.J. Augustin,Dallas Mavericks,W,03/28/2013,18:29,2,4,0.5,2,2,1.0,0,0,0.0,1,1,2,1,0,0,1,2,6,-7
+Indiana Pacers,,Ian Mahinmi,Dallas Mavericks,W,03/28/2013,20:11,4,8,0.5,0,0,0.0,1,2,0.5,2,5,7,1,1,1,0,2,9,-6
+Indiana Pacers,,Gerald Green,Dallas Mavericks,W,03/28/2013,10:01,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,2,0,0,0,-6
+Indiana Pacers,,Jeff Ayres,Dallas Mavericks,W,03/28/2013,3:26,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,2
+Indiana Pacers,,Tyler Hansbrough,Phoenix Suns,W,03/30/2013,13:08,1,3,0.333,0,0,0.0,3,4,0.75,4,2,6,0,0,0,0,0,5,1
+Indiana Pacers,,Orlando Johnson,Phoenix Suns,W,03/30/2013,11:20,1,4,0.25,0,1,0.0,1,1,1.0,1,1,2,0,1,0,0,2,3,-9
+Indiana Pacers,,D.J. Augustin,Phoenix Suns,W,03/30/2013,13:42,2,4,0.5,0,1,0.0,4,4,1.0,0,1,1,1,1,0,0,0,8,4
+Indiana Pacers,,Ian Mahinmi,Phoenix Suns,W,03/30/2013,18:52,3,6,0.5,0,0,0.0,0,2,0.0,4,2,6,1,1,1,1,4,6,1
+Indiana Pacers,,Sam Young,Phoenix Suns,W,03/30/2013,5:23,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,0,-1
+Indiana Pacers,,Tyler Hansbrough,Los Angeles Clippers,W,04/01/2013,13:57,0,1,0.0,0,0,0.0,2,2,1.0,0,2,2,0,0,0,1,3,2,-16
+Indiana Pacers,,Orlando Johnson,Los Angeles Clippers,W,04/01/2013,11:25,2,3,0.667,2,3,0.667,0,0,0.0,0,2,2,2,0,0,2,1,6,-4
+Indiana Pacers,,Ian Mahinmi,Los Angeles Clippers,W,04/01/2013,13:50,0,1,0.0,0,0,0.0,0,2,0.0,1,2,3,1,1,0,1,2,0,-12
+Indiana Pacers,,D.J. Augustin,Los Angeles Clippers,W,04/01/2013,10:03,3,5,0.6,2,3,0.667,2,2,1.0,0,0,0,0,0,0,1,1,10,-4
+Indiana Pacers,,Sam Young,Los Angeles Clippers,W,04/01/2013,5:08,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,2,0,0,1,1,0,-1
+Indiana Pacers,,Jeff Ayres,Los Angeles Clippers,W,04/01/2013,0:15,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-3
+Indiana Pacers,,Tyler Hansbrough,Oklahoma City Thunder,L,04/05/2013,15:25,1,3,0.333,0,0,0.0,2,2,1.0,1,1,2,0,1,0,1,3,4,-11
+Indiana Pacers,,Orlando Johnson,Oklahoma City Thunder,L,04/05/2013,18:11,1,5,0.2,1,4,0.25,1,2,0.5,0,3,3,1,0,0,1,2,4,-12
+Indiana Pacers,,Gerald Green,Oklahoma City Thunder,L,04/05/2013,10:12,1,3,0.333,0,1,0.0,2,2,1.0,0,0,0,1,0,0,3,2,4,-4
+Indiana Pacers,,Ian Mahinmi,Oklahoma City Thunder,L,04/05/2013,14:17,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,1,2,0,-5
+Indiana Pacers,,D.J. Augustin,Oklahoma City Thunder,L,04/05/2013,11:58,0,3,0.0,0,1,0.0,2,2,1.0,0,2,2,0,0,0,0,1,2,-1
+Indiana Pacers,,Tyler Hansbrough,Washington Wizards,L,04/06/2013,16:15,1,4,0.25,0,0,0.0,2,2,1.0,1,5,6,2,0,0,1,1,4,-3
+Indiana Pacers,,D.J. Augustin,Washington Wizards,L,04/06/2013,19:01,2,6,0.333,1,4,0.25,0,1,0.0,0,0,0,1,0,0,0,0,5,2
+Indiana Pacers,,Orlando Johnson,Washington Wizards,L,04/06/2013,17:15,1,6,0.167,1,4,0.25,0,0,0.0,0,1,1,2,0,0,2,0,3,7
+Indiana Pacers,,Ian Mahinmi,Washington Wizards,L,04/06/2013,12:16,0,2,0.0,0,0,0.0,0,0,0.0,0,3,3,1,0,0,1,3,0,1
+Indiana Pacers,,Gerald Green,Washington Wizards,L,04/06/2013,18:05,6,12,0.5,1,5,0.2,0,0,0.0,0,0,0,1,0,0,1,1,13,-7
+Indiana Pacers,,Jeff Ayres,Washington Wizards,L,04/06/2013,5:10,1,1,1.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,1,2,0
+Indiana Pacers,,Sam Young,Washington Wizards,L,04/06/2013,5:10,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,2,0
+Indiana Pacers,,Miles Plumlee,Washington Wizards,L,04/06/2013,2:53,2,2,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,4,2
+Indiana Pacers,,Tyler Hansbrough,Cleveland Cavaliers,W,04/09/2013,16:47,4,8,0.5,0,0,0.0,4,8,0.5,4,0,4,0,1,0,0,1,12,-8
+Indiana Pacers,,Orlando Johnson,Cleveland Cavaliers,W,04/09/2013,9:18,0,4,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-11
+Indiana Pacers,,Ian Mahinmi,Cleveland Cavaliers,W,04/09/2013,15:33,1,2,0.5,0,0,0.0,0,4,0.0,3,2,5,1,0,0,1,1,2,-12
+Indiana Pacers,,D.J. Augustin,Cleveland Cavaliers,W,04/09/2013,15:50,2,5,0.4,1,3,0.333,0,0,0.0,0,1,1,1,1,0,0,0,5,0
+Indiana Pacers,,Gerald Green,Cleveland Cavaliers,W,04/09/2013,9:16,1,8,0.125,0,3,0.0,0,0,0.0,0,0,0,1,2,0,0,0,2,-4
+Indiana Pacers,,Sam Young,Cleveland Cavaliers,W,04/09/2013,5:24,0,1,0.0,0,1,0.0,0,0,0.0,1,1,2,0,0,0,0,0,0,6
+Indiana Pacers,,Jeff Ayres,Cleveland Cavaliers,W,04/09/2013,8:08,0,0,0.0,0,0,0.0,1,2,0.5,0,2,2,0,0,0,1,0,1,23
+Indiana Pacers,,Tyler Hansbrough,Brooklyn Nets,L,04/12/2013,17:42,3,7,0.429,0,0,0.0,3,3,1.0,3,0,3,0,1,0,3,2,9,3
+Indiana Pacers,,Sam Young,Brooklyn Nets,L,04/12/2013,16:51,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,0,1,0,1,2,2,-3
+Indiana Pacers,,D.J. Augustin,Brooklyn Nets,L,04/12/2013,11:44,0,1,0.0,0,1,0.0,1,1,1.0,0,0,0,2,0,0,1,0,1,5
+Indiana Pacers,,Ian Mahinmi,Brooklyn Nets,L,04/12/2013,8:01,1,1,1.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,2,-5
+Indiana Pacers,,Orlando Johnson,Brooklyn Nets,L,04/12/2013,0:22,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Indiana Pacers,,Sam Young,New York Knicks,L,04/14/2013,13:18,2,4,0.5,0,1,0.0,2,4,0.5,1,0,1,0,0,0,0,4,6,-4
+Indiana Pacers,,Tyler Hansbrough,New York Knicks,L,04/14/2013,15:34,0,1,0.0,0,0,0.0,1,4,0.25,1,3,4,0,0,0,5,2,1,-18
+Indiana Pacers,,Orlando Johnson,New York Knicks,L,04/14/2013,8:18,1,3,0.333,1,2,0.5,0,0,0.0,0,2,2,0,0,0,0,0,3,-3
+Indiana Pacers,,D.J. Augustin,New York Knicks,L,04/14/2013,12:00,0,1,0.0,0,1,0.0,0,0,0.0,1,1,2,1,0,0,2,0,0,-5
+Indiana Pacers,,Jeff Ayres,New York Knicks,L,04/14/2013,17:09,5,6,0.833,0,0,0.0,2,2,1.0,1,3,4,1,0,0,1,0,12,1
+Indiana Pacers,,Ben Hansbrough,New York Knicks,L,04/14/2013,1:11,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,2
+Indiana Pacers,,Gerald Green,New York Knicks,L,04/14/2013,1:11,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,2
+Indiana Pacers,,Jeff Ayres,Philadelphia 76ers,L,04/17/2013,27:58,5,10,0.5,0,1,0.0,2,2,1.0,1,5,6,1,2,2,1,0,12,0
+Indiana Pacers,,Orlando Johnson,Philadelphia 76ers,L,04/17/2013,16:10,1,8,0.125,0,5,0.0,0,0,0.0,0,3,3,0,1,0,0,0,2,-5
+Indiana Pacers,,Sam Young,Philadelphia 76ers,L,04/17/2013,20:03,1,2,0.5,0,1,0.0,2,4,0.5,0,3,3,0,1,0,0,3,4,3
+Indiana Pacers,,Miles Plumlee,Philadelphia 76ers,L,04/17/2013,6:21,1,3,0.333,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,0,2,-10
+Indiana Pacers,,Ben Hansbrough,Philadelphia 76ers,L,04/17/2013,17:39,3,8,0.375,0,3,0.0,5,5,1.0,1,1,2,3,1,1,0,1,11,4

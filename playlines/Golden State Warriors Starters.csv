@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Golden State Warriors,F,Harrison Barnes,Phoenix Suns,W,10/31/2012,13:48,2,5,0.4,0,0,0.0,2,2,1.0,2,1,3,1,0,0,0,1,6,-2
+Golden State Warriors,F,David Lee,Phoenix Suns,W,10/31/2012,39:15,2,16,0.125,0,0,0.0,2,2,1.0,3,6,9,3,0,1,1,4,6,3
+Golden State Warriors,C,Andrew Bogut,Phoenix Suns,W,10/31/2012,18:29,4,6,0.667,0,0,0.0,0,1,0.0,1,5,6,1,0,1,0,1,8,-7
+Golden State Warriors,G,Klay Thompson,Phoenix Suns,W,10/31/2012,33:45,6,16,0.375,4,7,0.571,0,0,0.0,2,6,8,1,0,0,4,2,16,-10
+Golden State Warriors,G,Stephen Curry,Phoenix Suns,W,10/31/2012,30:22,2,14,0.143,0,6,0.0,1,3,0.333,3,4,7,3,2,0,4,3,5,-2
+Golden State Warriors,F,Harrison Barnes,Memphis Grizzlies,L,11/02/2012,23:22,3,7,0.429,2,5,0.4,0,0,0.0,0,0,0,1,0,0,2,5,8,-11
+Golden State Warriors,F,David Lee,Memphis Grizzlies,L,11/02/2012,34:58,8,13,0.615,0,0,0.0,0,0,0.0,0,7,7,0,0,0,4,5,16,-1
+Golden State Warriors,C,Andrew Bogut,Memphis Grizzlies,L,11/02/2012,18:00,2,5,0.4,0,0,0.0,0,0,0.0,1,2,3,1,0,1,2,3,4,-16
+Golden State Warriors,G,Klay Thompson,Memphis Grizzlies,L,11/02/2012,38:27,4,10,0.4,1,2,0.5,2,2,1.0,0,3,3,5,1,1,1,1,11,-5
+Golden State Warriors,G,Stephen Curry,Memphis Grizzlies,L,11/02/2012,42:30,10,20,0.5,6,10,0.6,0,1,0.0,1,4,5,7,1,0,4,3,26,-7
+Golden State Warriors,F,Harrison Barnes,Los Angeles Clippers,W,11/03/2012,19:54,4,6,0.667,0,0,0.0,2,2,1.0,0,1,1,1,0,0,0,5,10,3
+Golden State Warriors,F,David Lee,Los Angeles Clippers,W,11/03/2012,29:16,4,8,0.5,0,0,0.0,0,0,0.0,1,11,12,4,0,0,1,4,8,3
+Golden State Warriors,C,Festus Ezeli,Los Angeles Clippers,W,11/03/2012,27:50,2,4,0.5,0,0,0.0,4,10,0.4,3,2,5,0,0,1,1,4,8,5
+Golden State Warriors,G,Klay Thompson,Los Angeles Clippers,W,11/03/2012,28:19,6,17,0.353,2,6,0.333,3,3,1.0,3,5,8,3,1,0,2,4,17,2
+Golden State Warriors,G,Stephen Curry,Los Angeles Clippers,W,11/03/2012,43:02,6,16,0.375,2,7,0.286,9,10,0.9,0,4,4,4,3,0,5,4,23,6
+Golden State Warriors,F,Harrison Barnes,Sacramento Kings,L,11/05/2012,29:58,3,8,0.375,0,3,0.0,0,0,0.0,0,2,2,4,1,0,1,2,6,2
+Golden State Warriors,F,David Lee,Sacramento Kings,L,11/05/2012,41:07,6,13,0.462,0,0,0.0,8,8,1.0,1,5,6,4,1,0,3,4,20,2
+Golden State Warriors,C,Andrew Bogut,Sacramento Kings,L,11/05/2012,18:55,5,7,0.714,0,0,0.0,2,3,0.667,1,2,3,1,0,1,1,2,12,2
+Golden State Warriors,G,Klay Thompson,Sacramento Kings,L,11/05/2012,39:17,7,17,0.412,3,9,0.333,5,6,0.833,0,7,7,3,2,0,1,2,22,-2
+Golden State Warriors,G,Stephen Curry,Sacramento Kings,L,11/05/2012,39:04,3,15,0.2,2,6,0.333,4,5,0.8,1,5,6,8,1,0,3,2,12,0
+Golden State Warriors,F,Harrison Barnes,Cleveland Cavaliers,W,11/07/2012,30:24,5,9,0.556,1,2,0.5,3,5,0.6,1,1,2,1,1,0,2,3,14,-6
+Golden State Warriors,F,David Lee,Cleveland Cavaliers,W,11/07/2012,37:52,10,16,0.625,0,0,0.0,2,2,1.0,2,12,14,6,3,0,1,4,22,7
+Golden State Warriors,C,Andrew Bogut,Cleveland Cavaliers,W,11/07/2012,17:24,0,2,0.0,0,0,0.0,0,0,0.0,1,2,3,5,1,1,1,0,0,3
+Golden State Warriors,G,Klay Thompson,Cleveland Cavaliers,W,11/07/2012,22:20,4,10,0.4,1,5,0.2,4,6,0.667,1,1,2,1,1,0,4,4,13,2
+Golden State Warriors,G,Stephen Curry,Cleveland Cavaliers,W,11/07/2012,36:28,8,14,0.571,2,6,0.333,3,3,1.0,0,5,5,6,2,0,3,3,21,7
+Golden State Warriors,F,Harrison Barnes,Los Angeles Lakers,L,11/09/2012,29:03,3,8,0.375,1,3,0.333,0,0,0.0,0,4,4,0,1,0,3,4,7,-19
+Golden State Warriors,F,David Lee,Los Angeles Lakers,L,11/09/2012,30:52,3,10,0.3,0,0,0.0,4,6,0.667,1,11,12,1,0,0,4,2,10,-20
+Golden State Warriors,C,Festus Ezeli,Los Angeles Lakers,L,11/09/2012,20:42,2,3,0.667,0,0,0.0,0,0,0.0,2,1,3,0,0,0,0,3,4,-6
+Golden State Warriors,G,Klay Thompson,Los Angeles Lakers,L,11/09/2012,29:13,6,16,0.375,3,8,0.375,0,0,0.0,0,2,2,1,0,0,2,4,15,-12
+Golden State Warriors,G,Stephen Curry,Los Angeles Lakers,L,11/09/2012,30:16,6,16,0.375,2,6,0.333,4,4,1.0,0,3,3,5,1,0,0,0,18,-19
+Golden State Warriors,F,Harrison Barnes,Denver Nuggets,L,11/10/2012,18:48,2,5,0.4,1,1,1.0,2,4,0.5,3,2,5,1,0,1,1,3,7,-1
+Golden State Warriors,F,David Lee,Denver Nuggets,L,11/10/2012,48:07,7,19,0.368,0,0,0.0,4,6,0.667,5,4,9,5,4,1,2,4,18,12
+Golden State Warriors,C,Festus Ezeli,Denver Nuggets,L,11/10/2012,9:57,0,2,0.0,0,0,0.0,0,0,0.0,0,3,3,0,0,0,1,1,0,-13
+Golden State Warriors,G,Klay Thompson,Denver Nuggets,L,11/10/2012,54:48,9,26,0.346,5,15,0.333,0,2,0.0,0,5,5,1,0,2,3,4,23,4
+Golden State Warriors,G,Stephen Curry,Denver Nuggets,L,11/10/2012,37:12,7,17,0.412,3,6,0.5,2,2,1.0,0,5,5,3,3,0,4,5,19,-5
+Golden State Warriors,F,Harrison Barnes,Atlanta Hawks,W,11/14/2012,39:40,6,11,0.545,1,2,0.5,6,8,0.75,3,10,13,1,1,0,3,2,19,-5
+Golden State Warriors,F,David Lee,Atlanta Hawks,W,11/14/2012,37:07,8,17,0.471,0,1,0.0,2,3,0.667,4,6,10,5,0,0,5,3,18,-1
+Golden State Warriors,C,Festus Ezeli,Atlanta Hawks,W,11/14/2012,17:36,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,1,0,0,1,0,2,-1
+Golden State Warriors,G,Klay Thompson,Atlanta Hawks,W,11/14/2012,35:23,2,11,0.182,1,5,0.2,2,2,1.0,0,1,1,4,0,0,3,2,7,-1
+Golden State Warriors,G,Stephen Curry,Atlanta Hawks,W,11/14/2012,32:31,4,12,0.333,0,5,0.0,4,4,1.0,0,1,1,7,3,0,4,3,12,1
+Golden State Warriors,F,Harrison Barnes,Minnesota Timberwolves,W,11/16/2012,34:37,8,15,0.533,0,2,0.0,2,2,1.0,2,7,9,1,0,0,1,2,18,11
+Golden State Warriors,F,David Lee,Minnesota Timberwolves,W,11/16/2012,34:15,8,15,0.533,0,0,0.0,2,3,0.667,6,7,13,3,1,0,1,2,18,18
+Golden State Warriors,C,Festus Ezeli,Minnesota Timberwolves,W,11/16/2012,15:51,2,2,1.0,0,0,0.0,0,0,0.0,4,1,5,0,0,1,1,3,4,4
+Golden State Warriors,G,Klay Thompson,Minnesota Timberwolves,W,11/16/2012,27:47,5,14,0.357,1,6,0.167,1,2,0.5,0,3,3,2,1,0,2,3,12,17
+Golden State Warriors,G,Stephen Curry,Minnesota Timberwolves,W,11/16/2012,29:09,7,12,0.583,0,3,0.0,3,3,1.0,2,2,4,6,1,1,3,6,17,19
+Golden State Warriors,F,Harrison Barnes,Oklahoma City Thunder,L,11/18/2012,29:35,5,11,0.455,0,2,0.0,2,2,1.0,0,1,1,3,2,0,2,0,12,-24
+Golden State Warriors,F,David Lee,Oklahoma City Thunder,L,11/18/2012,34:50,8,16,0.5,0,0,0.0,3,3,1.0,2,8,10,5,2,0,2,4,19,-10
+Golden State Warriors,C,Festus Ezeli,Oklahoma City Thunder,L,11/18/2012,16:04,1,2,0.5,0,0,0.0,3,6,0.5,3,2,5,0,0,1,0,1,5,-7
+Golden State Warriors,G,Klay Thompson,Oklahoma City Thunder,L,11/18/2012,23:02,2,8,0.25,0,3,0.0,0,0,0.0,0,4,4,1,0,1,1,1,4,-18
+Golden State Warriors,G,Stephen Curry,Oklahoma City Thunder,L,11/18/2012,33:21,9,17,0.529,4,8,0.5,0,0,0.0,1,1,2,6,0,0,3,2,22,-11
+Golden State Warriors,F,Harrison Barnes,Dallas Mavericks,W,11/19/2012,39:43,8,16,0.5,4,6,0.667,0,2,0.0,2,10,12,0,1,0,2,1,20,8
+Golden State Warriors,F,David Lee,Dallas Mavericks,W,11/19/2012,43:10,7,17,0.412,0,0,0.0,3,6,0.5,4,15,19,3,1,0,3,4,17,4
+Golden State Warriors,C,Festus Ezeli,Dallas Mavericks,W,11/19/2012,21:15,4,4,1.0,0,0,0.0,1,3,0.333,7,1,8,0,0,1,2,3,9,-3
+Golden State Warriors,G,Klay Thompson,Dallas Mavericks,W,11/19/2012,41:45,2,14,0.143,1,6,0.167,2,2,1.0,1,2,3,2,1,1,4,4,7,6
+Golden State Warriors,G,Stephen Curry,Dallas Mavericks,W,11/19/2012,43:16,9,21,0.429,3,7,0.429,10,10,1.0,0,6,6,9,2,0,4,2,31,3
+Golden State Warriors,F,Harrison Barnes,Brooklyn Nets,W,11/21/2012,28:11,3,7,0.429,1,2,0.5,2,3,0.667,0,5,5,1,0,0,1,2,9,5
+Golden State Warriors,F,David Lee,Brooklyn Nets,W,11/21/2012,42:45,10,15,0.667,0,0,0.0,0,0,0.0,4,9,13,6,0,0,4,1,20,16
+Golden State Warriors,C,Festus Ezeli,Brooklyn Nets,W,11/21/2012,16:09,3,7,0.429,0,0,0.0,0,0,0.0,5,0,5,0,0,1,2,1,6,-5
+Golden State Warriors,G,Klay Thompson,Brooklyn Nets,W,11/21/2012,37:56,10,19,0.526,3,6,0.5,0,0,0.0,0,1,1,3,0,0,2,3,23,9
+Golden State Warriors,G,Stephen Curry,Brooklyn Nets,W,11/21/2012,41:35,7,13,0.538,2,4,0.5,9,10,0.9,0,6,6,4,0,0,2,2,25,9
+Golden State Warriors,F,Harrison Barnes,Denver Nuggets,L,11/23/2012,15:08,1,5,0.2,0,2,0.0,2,2,1.0,0,2,2,1,1,0,2,5,4,0
+Golden State Warriors,F,David Lee,Denver Nuggets,L,11/23/2012,35:20,9,19,0.474,0,0,0.0,3,4,0.75,1,9,10,3,3,0,2,5,21,-17
+Golden State Warriors,C,Festus Ezeli,Denver Nuggets,L,11/23/2012,17:33,0,3,0.0,0,0,0.0,0,2,0.0,1,9,10,0,0,3,0,2,0,-5
+Golden State Warriors,G,Klay Thompson,Denver Nuggets,L,11/23/2012,35:50,6,12,0.5,4,7,0.571,0,0,0.0,0,1,1,3,0,0,0,2,16,-15
+Golden State Warriors,G,Stephen Curry,Denver Nuggets,L,11/23/2012,25:46,2,5,0.4,2,2,1.0,0,0,0.0,0,1,1,3,0,0,4,4,6,-18
+Golden State Warriors,F,Harrison Barnes,Minnesota Timberwolves,W,11/24/2012,38:39,4,7,0.571,0,1,0.0,2,4,0.5,0,11,11,2,0,0,1,1,10,17
+Golden State Warriors,F,David Lee,Minnesota Timberwolves,W,11/24/2012,35:51,7,14,0.5,0,0,0.0,3,4,0.75,3,5,8,4,0,0,2,4,17,6
+Golden State Warriors,C,Festus Ezeli,Minnesota Timberwolves,W,11/24/2012,14:05,1,1,1.0,0,0,0.0,0,0,0.0,2,1,3,1,0,1,0,4,2,2
+Golden State Warriors,G,Klay Thompson,Minnesota Timberwolves,W,11/24/2012,31:53,8,17,0.471,1,8,0.125,7,8,0.875,0,3,3,1,0,0,1,1,24,0
+Golden State Warriors,G,Stephen Curry,Minnesota Timberwolves,W,11/24/2012,38:53,7,19,0.368,5,10,0.5,1,1,1.0,0,2,2,6,1,0,3,3,20,22
+Golden State Warriors,F,Harrison Barnes,Denver Nuggets,W,11/29/2012,17:24,1,7,0.143,0,0,0.0,0,0,0.0,0,2,2,2,1,0,0,0,2,-5
+Golden State Warriors,F,David Lee,Denver Nuggets,W,11/29/2012,35:11,13,15,0.867,0,0,0.0,5,7,0.714,4,5,9,6,1,1,4,3,31,-6
+Golden State Warriors,C,Festus Ezeli,Denver Nuggets,W,11/29/2012,14:32,1,1,1.0,0,0,0.0,0,0,0.0,0,3,3,0,2,2,1,2,2,-1
+Golden State Warriors,G,Klay Thompson,Denver Nuggets,W,11/29/2012,42:47,10,19,0.526,1,6,0.167,0,0,0.0,0,9,9,3,0,1,3,2,21,1
+Golden State Warriors,G,Stephen Curry,Denver Nuggets,W,11/29/2012,45:07,7,17,0.412,4,7,0.571,2,2,1.0,1,3,4,10,4,0,3,4,20,2
+Golden State Warriors,F,Harrison Barnes,Indiana Pacers,W,12/01/2012,28:54,2,4,0.5,0,1,0.0,2,3,0.667,0,5,5,1,0,0,1,0,6,-2
+Golden State Warriors,F,David Lee,Indiana Pacers,W,12/01/2012,38:23,4,12,0.333,0,0,0.0,5,5,1.0,4,8,12,4,2,0,2,4,13,13
+Golden State Warriors,C,Festus Ezeli,Indiana Pacers,W,12/01/2012,22:17,2,4,0.5,0,0,0.0,0,0,0.0,2,3,5,1,0,2,1,4,4,4
+Golden State Warriors,G,Klay Thompson,Indiana Pacers,W,12/01/2012,43:16,8,23,0.348,4,10,0.4,2,2,1.0,2,5,7,0,0,1,3,1,22,4
+Golden State Warriors,G,Stephen Curry,Indiana Pacers,W,12/01/2012,37:07,7,14,0.5,3,5,0.6,3,3,1.0,0,1,1,11,2,0,4,4,20,6
+Golden State Warriors,F,Harrison Barnes,Orlando Magic,L,12/03/2012,34:36,4,8,0.5,1,2,0.5,0,2,0.0,0,4,4,2,1,2,1,1,9,0
+Golden State Warriors,F,David Lee,Orlando Magic,L,12/03/2012,38:49,9,16,0.563,0,0,0.0,4,6,0.667,1,8,9,2,1,2,3,5,22,1
+Golden State Warriors,C,Festus Ezeli,Orlando Magic,L,12/03/2012,15:47,2,5,0.4,0,0,0.0,0,0,0.0,3,1,4,0,0,0,1,2,4,6
+Golden State Warriors,G,Klay Thompson,Orlando Magic,L,12/03/2012,30:26,3,12,0.25,2,6,0.333,0,0,0.0,0,2,2,4,0,0,1,4,8,7
+Golden State Warriors,G,Stephen Curry,Orlando Magic,L,12/03/2012,44:12,9,21,0.429,3,6,0.5,4,5,0.8,1,4,5,11,2,0,1,0,25,-3
+Golden State Warriors,F,Harrison Barnes,Detroit Pistons,W,12/05/2012,30:30,2,7,0.286,0,3,0.0,6,6,1.0,0,5,5,3,0,0,1,0,10,15
+Golden State Warriors,F,David Lee,Detroit Pistons,W,12/05/2012,37:49,7,12,0.583,0,0,0.0,6,8,0.75,2,9,11,4,0,0,4,1,20,12
+Golden State Warriors,C,Festus Ezeli,Detroit Pistons,W,12/05/2012,18:50,2,3,0.667,0,0,0.0,1,2,0.5,1,2,3,1,0,2,0,5,5,17
+Golden State Warriors,G,Klay Thompson,Detroit Pistons,W,12/05/2012,38:15,9,13,0.692,5,8,0.625,4,4,1.0,0,4,4,1,2,1,0,1,27,9
+Golden State Warriors,G,Stephen Curry,Detroit Pistons,W,12/05/2012,37:16,7,15,0.467,4,6,0.667,4,4,1.0,0,3,3,10,4,0,1,2,22,10
+Golden State Warriors,F,Harrison Barnes,Brooklyn Nets,W,12/07/2012,23:12,2,5,0.4,0,1,0.0,2,2,1.0,0,3,3,2,1,0,0,4,6,-3
+Golden State Warriors,F,David Lee,Brooklyn Nets,W,12/07/2012,40:57,14,22,0.636,0,0,0.0,2,4,0.5,7,8,15,2,0,0,2,1,30,16
+Golden State Warriors,C,Festus Ezeli,Brooklyn Nets,W,12/07/2012,8:38,0,4,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,3,0,-14
+Golden State Warriors,G,Klay Thompson,Brooklyn Nets,W,12/07/2012,36:19,5,11,0.455,3,7,0.429,0,0,0.0,1,4,5,2,2,0,1,4,13,2
+Golden State Warriors,G,Stephen Curry,Brooklyn Nets,W,12/07/2012,42:59,10,19,0.526,5,9,0.556,3,3,1.0,1,3,4,5,2,0,0,1,28,8
+Golden State Warriors,F,Harrison Barnes,Washington Wizards,W,12/08/2012,23:57,1,7,0.143,1,2,0.5,0,2,0.0,1,5,6,4,1,0,2,1,3,-2
+Golden State Warriors,F,David Lee,Washington Wizards,W,12/08/2012,35:07,8,16,0.5,0,0,0.0,8,8,1.0,3,14,17,0,1,0,4,2,24,-1
+Golden State Warriors,C,Festus Ezeli,Washington Wizards,W,12/08/2012,13:04,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,1,0,0,0,4
+Golden State Warriors,G,Klay Thompson,Washington Wizards,W,12/08/2012,38:47,8,14,0.571,5,9,0.556,2,2,1.0,1,5,6,5,0,2,3,2,23,5
+Golden State Warriors,G,Stephen Curry,Washington Wizards,W,12/08/2012,35:28,7,15,0.467,2,8,0.25,6,7,0.857,1,2,3,5,0,0,4,1,22,-5
+Golden State Warriors,F,Harrison Barnes,Charlotte Bobcats,W,12/10/2012,22:26,2,7,0.286,1,3,0.333,1,2,0.5,1,2,3,3,0,0,2,3,6,18
+Golden State Warriors,F,David Lee,Charlotte Bobcats,W,12/10/2012,34:42,10,14,0.714,0,0,0.0,5,5,1.0,5,6,11,4,1,0,3,4,25,4
+Golden State Warriors,C,Festus Ezeli,Charlotte Bobcats,W,12/10/2012,12:24,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,2,6
+Golden State Warriors,G,Klay Thompson,Charlotte Bobcats,W,12/10/2012,36:12,4,7,0.571,2,5,0.4,0,0,0.0,1,1,2,6,0,1,1,4,10,1
+Golden State Warriors,G,Stephen Curry,Charlotte Bobcats,W,12/10/2012,36:33,10,22,0.455,4,7,0.571,3,4,0.75,1,6,7,7,1,0,3,5,27,3
+Golden State Warriors,F,Harrison Barnes,Miami Heat,W,12/12/2012,17:34,3,8,0.375,0,1,0.0,2,4,0.5,1,2,3,1,2,0,0,1,8,3
+Golden State Warriors,F,David Lee,Miami Heat,W,12/12/2012,38:23,9,18,0.5,0,0,0.0,4,4,1.0,6,8,14,2,0,0,2,3,22,11
+Golden State Warriors,C,Festus Ezeli,Miami Heat,W,12/12/2012,14:55,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,4,0,3
+Golden State Warriors,G,Klay Thompson,Miami Heat,W,12/12/2012,43:58,11,22,0.5,5,14,0.357,0,0,0.0,0,7,7,4,2,1,3,1,27,0
+Golden State Warriors,G,Stephen Curry,Miami Heat,W,12/12/2012,41:45,4,10,0.4,1,3,0.333,0,0,0.0,0,3,3,7,2,0,6,0,9,9
+Golden State Warriors,F,Harrison Barnes,Orlando Magic,L,12/14/2012,16:50,2,8,0.25,0,1,0.0,1,1,1.0,1,1,2,2,0,1,0,0,5,-9
+Golden State Warriors,F,David Lee,Orlando Magic,L,12/14/2012,41:17,11,20,0.55,0,0,0.0,2,2,1.0,4,11,15,1,0,0,3,4,24,-9
+Golden State Warriors,C,Festus Ezeli,Orlando Magic,L,12/14/2012,12:04,0,2,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,3,3,0,-9
+Golden State Warriors,G,Klay Thompson,Orlando Magic,L,12/14/2012,32:57,3,13,0.231,3,8,0.375,0,0,0.0,2,2,4,4,2,1,1,2,9,-7
+Golden State Warriors,G,Stephen Curry,Orlando Magic,L,12/14/2012,42:55,8,19,0.421,2,5,0.4,7,8,0.875,1,2,3,3,0,0,1,0,25,-6
+Golden State Warriors,F,Harrison Barnes,Atlanta Hawks,W,12/15/2012,30:56,8,14,0.571,3,4,0.75,0,0,0.0,0,3,3,1,1,0,0,3,19,19
+Golden State Warriors,F,David Lee,Atlanta Hawks,W,12/15/2012,33:27,10,14,0.714,0,0,0.0,0,0,0.0,2,9,11,4,3,0,3,3,20,16
+Golden State Warriors,C,Andris Biedrins,Atlanta Hawks,W,12/15/2012,13:60,0,0,0.0,0,0,0.0,0,0,0.0,0,7,7,0,0,1,0,4,0,2
+Golden State Warriors,G,Klay Thompson,Atlanta Hawks,W,12/15/2012,22:41,3,9,0.333,1,3,0.333,0,0,0.0,0,4,4,1,0,0,1,5,7,16
+Golden State Warriors,G,Stephen Curry,Atlanta Hawks,W,12/15/2012,36:12,6,20,0.3,3,11,0.273,3,3,1.0,0,8,8,11,3,0,4,1,18,20
+Golden State Warriors,F,Harrison Barnes,New Orleans Hornets,W,12/18/2012,19:23,0,5,0.0,0,1,0.0,0,0,0.0,0,2,2,1,0,1,0,1,0,2
+Golden State Warriors,F,David Lee,New Orleans Hornets,W,12/18/2012,37:44,10,16,0.625,0,0,0.0,6,7,0.857,3,6,9,4,1,1,2,4,26,2
+Golden State Warriors,C,Festus Ezeli,New Orleans Hornets,W,12/18/2012,10:56,1,2,0.5,0,0,0.0,0,2,0.0,3,3,6,2,0,0,1,0,2,1
+Golden State Warriors,G,Klay Thompson,New Orleans Hornets,W,12/18/2012,35:10,5,15,0.333,3,8,0.375,6,6,1.0,0,4,4,2,3,0,1,2,19,8
+Golden State Warriors,G,Stephen Curry,New Orleans Hornets,W,12/18/2012,39:17,5,13,0.385,1,3,0.333,2,2,1.0,2,3,5,3,0,0,2,2,13,3
+Golden State Warriors,F,Harrison Barnes,Sacramento Kings,L,12/19/2012,16:15,2,6,0.333,0,2,0.0,0,0,0.0,0,1,1,0,0,0,1,3,4,-9
+Golden State Warriors,F,David Lee,Sacramento Kings,L,12/19/2012,44:29,12,17,0.706,0,0,0.0,5,6,0.833,4,4,8,5,1,0,2,4,29,0
+Golden State Warriors,C,Festus Ezeli,Sacramento Kings,L,12/19/2012,13:15,1,3,0.333,0,0,0.0,0,0,0.0,0,2,2,0,0,1,1,3,2,-4
+Golden State Warriors,G,Klay Thompson,Sacramento Kings,L,12/19/2012,36:27,3,9,0.333,3,6,0.5,2,2,1.0,0,5,5,5,2,1,0,3,11,0
+Golden State Warriors,G,Stephen Curry,Sacramento Kings,L,12/19/2012,41:46,11,24,0.458,7,12,0.583,3,3,1.0,0,6,6,4,1,1,4,6,32,0
+Golden State Warriors,F,Harrison Barnes,Charlotte Bobcats,W,12/21/2012,27:43,0,7,0.0,0,2,0.0,4,6,0.667,1,2,3,0,2,0,2,1,4,13
+Golden State Warriors,F,David Lee,Charlotte Bobcats,W,12/21/2012,34:10,11,16,0.688,0,0,0.0,1,1,1.0,6,5,11,11,0,0,2,3,23,9
+Golden State Warriors,C,Festus Ezeli,Charlotte Bobcats,W,12/21/2012,19:52,3,3,1.0,0,0,0.0,0,0,0.0,4,5,9,0,0,2,1,2,6,-1
+Golden State Warriors,G,Klay Thompson,Charlotte Bobcats,W,12/21/2012,29:03,7,15,0.467,4,8,0.5,2,2,1.0,0,3,3,1,1,0,1,5,20,10
+Golden State Warriors,G,Stephen Curry,Charlotte Bobcats,W,12/21/2012,35:41,9,17,0.529,8,13,0.615,1,1,1.0,0,3,3,8,0,2,2,2,27,7
+Golden State Warriors,F,Harrison Barnes,Los Angeles Lakers,L,12/22/2012,28:53,6,13,0.462,1,4,0.25,0,0,0.0,3,1,4,1,3,0,0,2,13,-4
+Golden State Warriors,F,David Lee,Los Angeles Lakers,L,12/22/2012,44:50,9,18,0.5,0,0,0.0,2,2,1.0,2,9,11,4,0,0,2,3,20,-1
+Golden State Warriors,C,Festus Ezeli,Los Angeles Lakers,L,12/22/2012,25:55,1,3,0.333,0,0,0.0,0,0,0.0,3,5,8,0,0,3,6,4,2,-10
+Golden State Warriors,G,Klay Thompson,Los Angeles Lakers,L,12/22/2012,39:00,6,16,0.375,3,8,0.375,3,4,0.75,1,3,4,3,1,1,2,3,18,5
+Golden State Warriors,G,Stephen Curry,Los Angeles Lakers,L,12/22/2012,44:31,8,23,0.348,3,10,0.3,1,1,1.0,1,7,8,7,4,0,4,4,20,6
+Golden State Warriors,F,Harrison Barnes,Utah Jazz,W,12/26/2012,16:13,2,5,0.4,1,2,0.5,2,2,1.0,0,2,2,0,0,1,0,0,7,-3
+Golden State Warriors,F,David Lee,Utah Jazz,W,12/26/2012,35:13,7,16,0.438,0,1,0.0,4,4,1.0,3,6,9,2,1,1,0,4,18,13
+Golden State Warriors,C,Festus Ezeli,Utah Jazz,W,12/26/2012,13:42,1,2,0.5,0,0,0.0,0,0,0.0,2,3,5,1,1,0,0,0,2,15
+Golden State Warriors,G,Klay Thompson,Utah Jazz,W,12/26/2012,31:34,5,13,0.385,2,3,0.667,3,3,1.0,0,1,1,2,3,0,0,2,15,18
+Golden State Warriors,G,Stephen Curry,Utah Jazz,W,12/26/2012,37:51,7,18,0.389,4,7,0.571,5,6,0.833,2,6,8,7,1,1,2,0,23,13
+Golden State Warriors,F,Harrison Barnes,Philadelphia 76ers,W,12/28/2012,15:30,4,8,0.5,0,1,0.0,2,2,1.0,0,2,2,0,0,0,2,0,10,-4
+Golden State Warriors,F,David Lee,Philadelphia 76ers,W,12/28/2012,38:26,9,19,0.474,0,0,0.0,7,9,0.778,1,11,12,1,0,0,4,1,25,8
+Golden State Warriors,C,Festus Ezeli,Philadelphia 76ers,W,12/28/2012,10:13,0,0,0.0,0,0,0.0,0,0,0.0,2,3,5,0,0,0,0,3,0,-7
+Golden State Warriors,G,Klay Thompson,Philadelphia 76ers,W,12/28/2012,38:58,5,14,0.357,4,7,0.571,0,0,0.0,0,1,1,3,2,1,2,2,14,5
+Golden State Warriors,G,Stephen Curry,Philadelphia 76ers,W,12/28/2012,39:23,5,11,0.455,1,4,0.25,0,0,0.0,0,5,5,6,1,0,4,3,11,7
+Golden State Warriors,F,Harrison Barnes,Boston Celtics,W,12/29/2012,25:55,5,6,0.833,3,4,0.75,2,2,1.0,0,8,8,0,0,0,2,0,15,14
+Golden State Warriors,F,David Lee,Boston Celtics,W,12/29/2012,32:14,10,15,0.667,0,0,0.0,0,0,0.0,0,5,5,4,1,0,3,2,20,18
+Golden State Warriors,C,Festus Ezeli,Boston Celtics,W,12/29/2012,20:40,0,3,0.0,0,0,0.0,2,2,1.0,1,2,3,1,1,5,3,2,2,7
+Golden State Warriors,G,Klay Thompson,Boston Celtics,W,12/29/2012,26:12,4,9,0.444,3,6,0.5,2,2,1.0,0,6,6,1,1,2,0,3,13,4
+Golden State Warriors,G,Stephen Curry,Boston Celtics,W,12/29/2012,34:43,8,13,0.615,4,5,0.8,2,2,1.0,1,3,4,9,3,2,5,3,22,19
+Golden State Warriors,F,Harrison Barnes,Los Angeles Clippers,W,01/02/2013,25:29,5,13,0.385,1,2,0.5,2,3,0.667,1,8,9,4,1,1,1,0,13,29
+Golden State Warriors,F,David Lee,Los Angeles Clippers,W,01/02/2013,40:20,9,16,0.563,0,0,0.0,6,6,1.0,3,10,13,7,2,0,2,5,24,24
+Golden State Warriors,C,Festus Ezeli,Los Angeles Clippers,W,01/02/2013,7:45,1,2,0.5,0,0,0.0,2,2,1.0,2,2,4,0,1,0,0,4,4,5
+Golden State Warriors,G,Klay Thompson,Los Angeles Clippers,W,01/02/2013,35:15,7,14,0.5,5,9,0.556,0,0,0.0,1,2,3,3,1,0,4,4,19,22
+Golden State Warriors,G,Stephen Curry,Los Angeles Clippers,W,01/02/2013,43:09,11,16,0.688,6,8,0.75,3,4,0.75,1,5,6,8,2,0,4,3,31,27
+Golden State Warriors,F,Harrison Barnes,Los Angeles Clippers,L,01/05/2013,21:45,5,9,0.556,0,1,0.0,1,2,0.5,0,2,2,3,0,1,1,1,11,-22
+Golden State Warriors,F,David Lee,Los Angeles Clippers,L,01/05/2013,28:58,3,10,0.3,0,0,0.0,4,4,1.0,2,3,5,2,0,0,4,1,10,-23
+Golden State Warriors,C,Festus Ezeli,Los Angeles Clippers,L,01/05/2013,16:16,1,1,1.0,0,0,0.0,0,0,0.0,2,1,3,0,1,2,2,3,2,-18
+Golden State Warriors,G,Klay Thompson,Los Angeles Clippers,L,01/05/2013,30:20,4,10,0.4,3,7,0.429,3,4,0.75,0,1,1,2,0,2,1,1,14,-28
+Golden State Warriors,G,Stephen Curry,Los Angeles Clippers,L,01/05/2013,28:60,4,11,0.364,1,5,0.2,1,1,1.0,0,0,0,5,0,0,2,0,10,-31
+Golden State Warriors,F,Harrison Barnes,Memphis Grizzlies,L,01/09/2013,27:28,3,5,0.6,1,1,1.0,0,0,0.0,0,3,3,1,1,1,1,3,7,-7
+Golden State Warriors,F,David Lee,Memphis Grizzlies,L,01/09/2013,40:35,6,14,0.429,0,0,0.0,2,6,0.333,1,9,10,4,1,0,4,4,14,-10
+Golden State Warriors,C,Festus Ezeli,Memphis Grizzlies,L,01/09/2013,24:54,3,6,0.5,0,0,0.0,0,0,0.0,1,1,2,0,3,1,2,4,6,-1
+Golden State Warriors,G,Klay Thompson,Memphis Grizzlies,L,01/09/2013,42:27,6,13,0.462,2,6,0.333,6,6,1.0,2,5,7,7,1,0,1,3,20,3
+Golden State Warriors,G,Stephen Curry,Memphis Grizzlies,L,01/09/2013,40:31,10,22,0.455,4,8,0.5,0,1,0.0,1,3,4,4,2,0,4,2,24,-12
+Golden State Warriors,F,Harrison Barnes,Portland Trail Blazers,W,01/11/2013,30:54,5,9,0.556,1,2,0.5,2,2,1.0,0,7,7,1,2,0,2,3,13,3
+Golden State Warriors,F,David Lee,Portland Trail Blazers,W,01/11/2013,35:55,11,20,0.55,0,0,0.0,2,4,0.5,1,9,10,1,2,0,1,2,24,4
+Golden State Warriors,C,Festus Ezeli,Portland Trail Blazers,W,01/11/2013,19:54,0,1,0.0,0,0,0.0,0,0,0.0,4,3,7,2,0,1,0,2,0,6
+Golden State Warriors,G,Klay Thompson,Portland Trail Blazers,W,01/11/2013,36:50,6,14,0.429,2,5,0.4,2,2,1.0,0,4,4,2,1,0,5,5,16,14
+Golden State Warriors,G,Stephen Curry,Portland Trail Blazers,W,01/11/2013,43:35,7,22,0.318,3,8,0.375,5,5,1.0,0,3,3,12,3,1,1,1,22,-1
+Golden State Warriors,F,Harrison Barnes,Denver Nuggets,L,01/13/2013,29:22,8,11,0.727,5,6,0.833,0,0,0.0,0,6,6,0,1,0,2,2,21,-8
+Golden State Warriors,F,David Lee,Denver Nuggets,L,01/13/2013,42:09,11,18,0.611,0,0,0.0,1,2,0.5,3,10,13,6,1,1,4,5,23,-9
+Golden State Warriors,C,Festus Ezeli,Denver Nuggets,L,01/13/2013,16:02,0,0,0.0,0,0,0.0,0,0,0.0,2,3,5,1,0,1,0,5,0,-3
+Golden State Warriors,G,Klay Thompson,Denver Nuggets,L,01/13/2013,39:16,6,16,0.375,1,7,0.143,0,0,0.0,0,6,6,3,0,1,5,3,13,-7
+Golden State Warriors,G,Stephen Curry,Denver Nuggets,L,01/13/2013,41:08,11,18,0.611,7,9,0.778,0,0,0.0,0,0,0,7,1,0,1,4,29,-13
+Golden State Warriors,F,Harrison Barnes,Miami Heat,L,01/16/2013,22:42,3,12,0.25,1,3,0.333,2,2,1.0,3,3,6,3,0,0,1,3,9,1
+Golden State Warriors,F,David Lee,Miami Heat,L,01/16/2013,32:27,4,13,0.308,0,1,0.0,4,4,1.0,1,10,11,1,0,0,3,1,12,-25
+Golden State Warriors,C,Festus Ezeli,Miami Heat,L,01/16/2013,8:13,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,1,0,-5
+Golden State Warriors,G,Klay Thompson,Miami Heat,L,01/16/2013,28:35,1,8,0.125,0,4,0.0,0,0,0.0,0,2,2,3,0,0,4,3,2,-19
+Golden State Warriors,G,Jarrett Jack,Miami Heat,L,01/16/2013,32:12,7,14,0.5,0,0,0.0,2,4,0.5,1,2,3,2,1,0,5,2,16,-21
+Golden State Warriors,F,Harrison Barnes,San Antonio Spurs,L,01/18/2013,37:45,1,5,0.2,0,2,0.0,2,2,1.0,0,8,8,2,1,0,1,0,4,-10
+Golden State Warriors,F,David Lee,San Antonio Spurs,L,01/18/2013,38:11,9,18,0.5,0,0,0.0,4,6,0.667,2,4,6,7,0,0,2,4,22,-10
+Golden State Warriors,C,Festus Ezeli,San Antonio Spurs,L,01/18/2013,17:39,0,2,0.0,0,0,0.0,0,0,0.0,1,4,5,0,0,1,2,3,0,5
+Golden State Warriors,G,Klay Thompson,San Antonio Spurs,L,01/18/2013,39:10,7,20,0.35,4,11,0.364,3,3,1.0,0,3,3,3,2,0,2,1,21,-6
+Golden State Warriors,G,Jarrett Jack,San Antonio Spurs,L,01/18/2013,43:04,9,17,0.529,0,3,0.0,2,2,1.0,0,2,2,10,0,0,1,3,20,-3
+Golden State Warriors,F,Harrison Barnes,New Orleans Hornets,W,01/19/2013,17:47,1,2,0.5,0,1,0.0,0,1,0.0,0,1,1,2,1,0,4,2,2,-2
+Golden State Warriors,F,Carl Landry,New Orleans Hornets,W,01/19/2013,37:33,3,9,0.333,0,0,0.0,5,6,0.833,3,8,11,2,1,0,3,2,11,-2
+Golden State Warriors,C,Festus Ezeli,New Orleans Hornets,W,01/19/2013,30:18,5,9,0.556,0,0,0.0,3,3,1.0,6,2,8,1,0,1,1,3,13,-2
+Golden State Warriors,G,Klay Thompson,New Orleans Hornets,W,01/19/2013,38:25,11,16,0.688,5,7,0.714,2,2,1.0,0,3,3,1,1,0,2,1,29,1
+Golden State Warriors,G,Stephen Curry,New Orleans Hornets,W,01/19/2013,38:29,5,17,0.294,2,8,0.25,8,10,0.8,1,2,3,7,4,0,1,2,20,11
+Golden State Warriors,F,Harrison Barnes,Los Angeles Clippers,W,01/21/2013,15:59,4,4,1.0,1,1,1.0,0,0,0.0,0,2,2,1,0,0,1,1,9,-1
+Golden State Warriors,F,David Lee,Los Angeles Clippers,W,01/21/2013,38:53,5,16,0.313,0,0,0.0,2,2,1.0,2,9,11,6,0,0,5,5,12,14
+Golden State Warriors,C,Festus Ezeli,Los Angeles Clippers,W,01/21/2013,13:37,0,1,0.0,0,0,0.0,1,2,0.5,1,1,2,0,0,0,0,4,1,-6
+Golden State Warriors,G,Klay Thompson,Los Angeles Clippers,W,01/21/2013,38:43,6,13,0.462,3,8,0.375,3,3,1.0,0,2,2,1,1,0,2,0,18,8
+Golden State Warriors,G,Stephen Curry,Los Angeles Clippers,W,01/21/2013,36:38,9,14,0.643,6,8,0.75,4,4,1.0,0,3,3,6,0,0,2,4,28,7
+Golden State Warriors,F,Harrison Barnes,Oklahoma City Thunder,W,01/23/2013,25:37,0,5,0.0,0,1,0.0,2,2,1.0,0,7,7,2,1,0,1,2,2,16
+Golden State Warriors,F,David Lee,Oklahoma City Thunder,W,01/23/2013,41:52,9,18,0.5,0,0,0.0,4,5,0.8,4,8,12,1,0,0,3,3,22,6
+Golden State Warriors,C,Festus Ezeli,Oklahoma City Thunder,W,01/23/2013,23:20,0,1,0.0,0,0,0.0,1,2,0.5,3,1,4,0,3,2,3,0,1,4
+Golden State Warriors,G,Klay Thompson,Oklahoma City Thunder,W,01/23/2013,29:56,6,11,0.545,3,6,0.5,4,4,1.0,0,1,1,2,0,0,1,6,19,13
+Golden State Warriors,G,Stephen Curry,Oklahoma City Thunder,W,01/23/2013,41:36,11,27,0.407,3,14,0.214,6,6,1.0,1,2,3,7,4,0,2,1,31,8
+Golden State Warriors,F,Harrison Barnes,Chicago Bulls,L,01/25/2013,21:38,0,4,0.0,0,2,0.0,3,4,0.75,0,5,5,3,1,0,2,1,3,7
+Golden State Warriors,F,David Lee,Chicago Bulls,L,01/25/2013,35:34,6,15,0.4,0,0,0.0,11,12,0.917,2,4,6,1,1,0,2,2,23,-13
+Golden State Warriors,C,Festus Ezeli,Chicago Bulls,L,01/25/2013,8:53,0,0,0.0,0,0,0.0,0,0,0.0,2,1,3,0,0,0,2,4,0,-6
+Golden State Warriors,G,Klay Thompson,Chicago Bulls,L,01/25/2013,32:40,4,13,0.308,0,4,0.0,5,5,1.0,0,8,8,1,2,1,0,3,13,-7
+Golden State Warriors,G,Stephen Curry,Chicago Bulls,L,01/25/2013,36:39,7,18,0.389,3,7,0.429,4,4,1.0,0,1,1,1,0,0,2,1,21,-15
+Golden State Warriors,F,Harrison Barnes,Milwaukee Bucks,L,01/26/2013,13:18,2,3,0.667,1,2,0.5,2,2,1.0,0,1,1,0,1,0,2,2,7,-3
+Golden State Warriors,F,David Lee,Milwaukee Bucks,L,01/26/2013,37:56,6,18,0.333,0,0,0.0,0,0,0.0,2,13,15,5,1,0,2,3,12,-2
+Golden State Warriors,C,Festus Ezeli,Milwaukee Bucks,L,01/26/2013,10:32,0,2,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,3,1,0,-9
+Golden State Warriors,G,Klay Thompson,Milwaukee Bucks,L,01/26/2013,38:36,8,21,0.381,3,11,0.273,0,0,0.0,0,3,3,1,2,0,1,3,19,-3
+Golden State Warriors,G,Stephen Curry,Milwaukee Bucks,L,01/26/2013,36:50,8,19,0.421,5,9,0.556,5,5,1.0,2,0,2,7,1,0,2,2,26,-8
+Golden State Warriors,F,Harrison Barnes,Toronto Raptors,W,01/28/2013,32:55,6,11,0.545,0,1,0.0,2,3,0.667,1,4,5,2,0,0,0,2,14,17
+Golden State Warriors,F,David Lee,Toronto Raptors,W,01/28/2013,44:05,10,17,0.588,0,0,0.0,1,2,0.5,2,10,12,7,0,0,3,2,21,15
+Golden State Warriors,C,Andrew Bogut,Toronto Raptors,W,01/28/2013,23:36,6,8,0.75,0,0,0.0,0,0,0.0,1,7,8,2,1,4,2,3,12,11
+Golden State Warriors,G,Klay Thompson,Toronto Raptors,W,01/28/2013,35:13,7,16,0.438,3,7,0.429,2,2,1.0,1,6,7,1,2,0,3,2,19,12
+Golden State Warriors,G,Stephen Curry,Toronto Raptors,W,01/28/2013,26:16,7,12,0.583,1,3,0.333,2,2,1.0,1,0,1,5,1,0,2,1,17,0
+Golden State Warriors,F,Richard Jefferson,Cleveland Cavaliers,W,01/29/2013,20:39,1,4,0.25,0,0,0.0,1,2,0.5,0,1,1,0,1,0,1,1,3,1
+Golden State Warriors,F,David Lee,Cleveland Cavaliers,W,01/29/2013,39:23,8,12,0.667,0,0,0.0,4,4,1.0,2,11,13,8,2,0,1,3,20,20
+Golden State Warriors,C,Andris Biedrins,Cleveland Cavaliers,W,01/29/2013,11:24,1,1,1.0,0,0,0.0,0,0,0.0,2,3,5,0,1,2,0,3,2,12
+Golden State Warriors,G,Klay Thompson,Cleveland Cavaliers,W,01/29/2013,43:05,13,24,0.542,6,8,0.75,0,0,0.0,0,7,7,2,0,3,3,2,32,17
+Golden State Warriors,G,Jarrett Jack,Cleveland Cavaliers,W,01/29/2013,35:55,11,18,0.611,3,4,0.75,1,2,0.5,0,1,1,12,1,1,4,0,26,10
+Golden State Warriors,F,Harrison Barnes,Dallas Mavericks,W,01/31/2013,38:45,4,10,0.4,0,2,0.0,4,4,1.0,1,3,4,5,1,0,0,2,12,10
+Golden State Warriors,F,David Lee,Dallas Mavericks,W,01/31/2013,41:52,6,13,0.462,0,0,0.0,3,5,0.6,7,13,20,9,1,0,2,2,15,0
+Golden State Warriors,C,Andrew Bogut,Dallas Mavericks,W,01/31/2013,25:29,3,9,0.333,0,0,0.0,2,2,1.0,0,5,5,1,0,3,1,4,8,1
+Golden State Warriors,G,Klay Thompson,Dallas Mavericks,W,01/31/2013,34:56,11,18,0.611,3,7,0.429,2,4,0.5,0,1,1,0,1,0,0,5,27,-6
+Golden State Warriors,G,Jarrett Jack,Dallas Mavericks,W,01/31/2013,42:14,3,13,0.231,2,5,0.4,5,5,1.0,0,4,4,9,1,0,4,3,13,9
+Golden State Warriors,F,Harrison Barnes,Phoenix Suns,W,02/02/2013,32:13,9,11,0.818,0,0,0.0,3,4,0.75,1,7,8,1,0,0,2,2,21,17
+Golden State Warriors,F,David Lee,Phoenix Suns,W,02/02/2013,37:02,6,16,0.375,0,0,0.0,4,5,0.8,4,8,12,7,1,0,5,2,16,15
+Golden State Warriors,C,Andrew Bogut,Phoenix Suns,W,02/02/2013,24:40,5,9,0.556,0,0,0.0,1,4,0.25,5,2,7,2,0,3,0,3,11,14
+Golden State Warriors,G,Klay Thompson,Phoenix Suns,W,02/02/2013,34:50,6,14,0.429,2,5,0.4,3,3,1.0,0,7,7,7,1,0,0,3,17,24
+Golden State Warriors,G,Stephen Curry,Phoenix Suns,W,02/02/2013,42:25,11,20,0.55,6,10,0.6,1,1,1.0,0,2,2,8,2,0,2,3,29,28
+Golden State Warriors,F,Harrison Barnes,Houston Rockets,L,02/05/2013,17:14,3,5,0.6,0,1,0.0,1,2,0.5,0,1,1,0,0,0,1,1,7,-23
+Golden State Warriors,F,David Lee,Houston Rockets,L,02/05/2013,26:29,8,10,0.8,0,0,0.0,2,2,1.0,4,3,7,2,0,0,2,3,18,-30
+Golden State Warriors,C,Andrew Bogut,Houston Rockets,L,02/05/2013,24:31,5,9,0.556,0,0,0.0,0,0,0.0,2,7,9,3,0,1,0,3,10,-29
+Golden State Warriors,G,Klay Thompson,Houston Rockets,L,02/05/2013,19:59,3,5,0.6,0,1,0.0,0,0,0.0,0,1,1,1,1,0,2,4,6,-20
+Golden State Warriors,G,Stephen Curry,Houston Rockets,L,02/05/2013,28:10,3,12,0.25,1,5,0.2,0,0,0.0,0,4,4,9,0,1,2,2,7,-27
+Golden State Warriors,F,Harrison Barnes,Oklahoma City Thunder,L,02/06/2013,28:43,7,9,0.778,2,2,1.0,3,4,0.75,0,0,0,0,1,0,0,0,19,-3
+Golden State Warriors,F,David Lee,Oklahoma City Thunder,L,02/06/2013,33:28,5,13,0.385,0,0,0.0,2,4,0.5,5,6,11,6,2,1,4,1,12,-14
+Golden State Warriors,C,Andris Biedrins,Oklahoma City Thunder,L,02/06/2013,12:02,1,1,1.0,0,0,0.0,0,0,0.0,2,5,7,0,0,3,0,0,2,-2
+Golden State Warriors,G,Klay Thompson,Oklahoma City Thunder,L,02/06/2013,33:39,8,16,0.5,3,6,0.5,0,0,0.0,0,3,3,2,1,0,2,3,19,-10
+Golden State Warriors,G,Stephen Curry,Oklahoma City Thunder,L,02/06/2013,36:08,5,20,0.25,2,7,0.286,2,2,1.0,3,5,8,11,1,0,6,3,14,-8
+Golden State Warriors,F,Harrison Barnes,Memphis Grizzlies,L,02/08/2013,34:51,2,8,0.25,0,2,0.0,2,4,0.5,0,7,7,4,0,0,2,3,6,0
+Golden State Warriors,F,David Lee,Memphis Grizzlies,L,02/08/2013,40:56,10,16,0.625,0,0,0.0,6,6,1.0,2,4,6,0,1,0,2,4,26,-6
+Golden State Warriors,C,Andrew Bogut,Memphis Grizzlies,L,02/08/2013,27:41,3,3,1.0,0,0,0.0,1,2,0.5,1,5,6,2,0,0,1,2,7,-2
+Golden State Warriors,G,Klay Thompson,Memphis Grizzlies,L,02/08/2013,35:48,4,13,0.308,1,4,0.25,0,0,0.0,0,2,2,1,2,2,6,1,9,-5
+Golden State Warriors,G,Stephen Curry,Memphis Grizzlies,L,02/08/2013,39:54,11,22,0.5,4,9,0.444,6,6,1.0,3,2,5,8,2,0,2,4,32,2
+Golden State Warriors,F,Harrison Barnes,Dallas Mavericks,L,02/09/2013,28:31,4,10,0.4,2,3,0.667,2,2,1.0,1,1,2,0,0,0,0,1,12,-20
+Golden State Warriors,F,David Lee,Dallas Mavericks,L,02/09/2013,20:49,4,9,0.444,0,0,0.0,2,2,1.0,0,6,6,0,0,0,3,4,10,-13
+Golden State Warriors,C,Andris Biedrins,Dallas Mavericks,L,02/09/2013,13:19,0,0,0.0,0,0,0.0,0,0,0.0,2,6,8,2,0,0,0,3,0,-1
+Golden State Warriors,G,Klay Thompson,Dallas Mavericks,L,02/09/2013,34:33,4,14,0.286,3,7,0.429,0,0,0.0,1,2,3,0,1,0,2,3,11,-23
+Golden State Warriors,G,Stephen Curry,Dallas Mavericks,L,02/09/2013,30:45,8,23,0.348,1,3,0.333,1,1,1.0,3,4,7,4,1,0,5,2,18,-22
+Golden State Warriors,F,Harrison Barnes,Houston Rockets,L,02/12/2013,27:03,2,3,0.667,0,1,0.0,3,4,0.75,0,2,2,1,0,1,2,4,7,-3
+Golden State Warriors,F,David Lee,Houston Rockets,L,02/12/2013,34:36,3,10,0.3,0,0,0.0,6,8,0.75,2,10,12,4,0,1,2,6,12,-16
+Golden State Warriors,C,Andrew Bogut,Houston Rockets,L,02/12/2013,26:43,3,7,0.429,0,0,0.0,0,0,0.0,4,8,12,4,0,1,2,4,6,-9
+Golden State Warriors,G,Klay Thompson,Houston Rockets,L,02/12/2013,39:11,9,21,0.429,1,5,0.2,3,5,0.6,1,2,3,1,1,1,3,2,22,-14
+Golden State Warriors,G,Stephen Curry,Houston Rockets,L,02/12/2013,34:37,10,19,0.526,2,5,0.4,5,6,0.833,0,5,5,6,1,0,1,4,27,-3
+Golden State Warriors,F,Harrison Barnes,Utah Jazz,L,02/19/2013,18:60,1,5,0.2,0,2,0.0,1,2,0.5,0,0,0,0,1,0,1,2,3,-7
+Golden State Warriors,F,David Lee,Utah Jazz,L,02/19/2013,30:30,9,13,0.692,0,0,0.0,0,0,0.0,2,7,9,1,1,1,0,5,18,-12
+Golden State Warriors,C,Andrew Bogut,Utah Jazz,L,02/19/2013,15:04,0,4,0.0,0,0,0.0,0,0,0.0,2,3,5,1,0,0,0,2,0,-9
+Golden State Warriors,G,Klay Thompson,Utah Jazz,L,02/19/2013,34:26,6,11,0.545,0,2,0.0,3,4,0.75,2,5,7,0,0,0,1,0,15,-19
+Golden State Warriors,G,Stephen Curry,Utah Jazz,L,02/19/2013,37:32,12,22,0.545,4,9,0.444,1,1,1.0,2,3,5,4,1,0,4,3,29,-17
+Golden State Warriors,F,Harrison Barnes,Phoenix Suns,W,02/20/2013,23:01,1,7,0.143,1,2,0.5,0,0,0.0,1,2,3,0,1,0,0,2,3,-5
+Golden State Warriors,F,David Lee,Phoenix Suns,W,02/20/2013,36:00,7,13,0.538,0,0,0.0,5,6,0.833,2,9,11,5,0,0,4,4,19,11
+Golden State Warriors,C,Andrew Bogut,Phoenix Suns,W,02/20/2013,29:19,3,8,0.375,0,0,0.0,1,2,0.5,4,7,11,5,2,3,0,0,7,4
+Golden State Warriors,G,Klay Thompson,Phoenix Suns,W,02/20/2013,43:50,10,18,0.556,4,8,0.5,4,4,1.0,0,8,8,4,0,1,2,2,28,8
+Golden State Warriors,G,Stephen Curry,Phoenix Suns,W,02/20/2013,40:44,8,16,0.5,2,6,0.333,2,2,1.0,0,3,3,11,1,0,2,1,20,16
+Golden State Warriors,F,Harrison Barnes,San Antonio Spurs,W,02/22/2013,31:17,1,8,0.125,0,2,0.0,5,6,0.833,0,4,4,3,0,0,2,4,7,11
+Golden State Warriors,F,David Lee,San Antonio Spurs,W,02/22/2013,42:05,10,20,0.5,0,0,0.0,5,6,0.833,5,17,22,1,1,0,3,4,25,-2
+Golden State Warriors,C,Andris Biedrins,San Antonio Spurs,W,02/22/2013,15:48,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,0,1,0,0,3,0,-18
+Golden State Warriors,G,Klay Thompson,San Antonio Spurs,W,02/22/2013,43:32,5,14,0.357,0,3,0.0,0,0,0.0,0,3,3,3,1,1,1,3,10,-6
+Golden State Warriors,G,Stephen Curry,San Antonio Spurs,W,02/22/2013,44:55,6,17,0.353,3,9,0.333,4,5,0.8,0,4,4,6,1,0,2,2,19,0
+Golden State Warriors,F,Harrison Barnes,Minnesota Timberwolves,W,02/24/2013,22:07,3,5,0.6,0,1,0.0,1,2,0.5,1,1,2,0,0,0,0,2,7,-11
+Golden State Warriors,F,David Lee,Minnesota Timberwolves,W,02/24/2013,40:34,8,15,0.533,0,0,0.0,6,6,1.0,5,8,13,3,1,1,5,3,22,9
+Golden State Warriors,C,Andris Biedrins,Minnesota Timberwolves,W,02/24/2013,12:28,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,2,0,3,0,-12
+Golden State Warriors,G,Klay Thompson,Minnesota Timberwolves,W,02/24/2013,33:44,4,13,0.308,1,3,0.333,1,2,0.5,1,2,3,0,2,0,2,6,10,-1
+Golden State Warriors,G,Stephen Curry,Minnesota Timberwolves,W,02/24/2013,33:34,6,15,0.4,1,5,0.2,5,5,1.0,1,4,5,5,5,0,6,5,18,1
+Golden State Warriors,F,Harrison Barnes,Indiana Pacers,L,02/26/2013,21:41,3,4,0.75,1,1,1.0,2,2,1.0,0,2,2,1,0,0,2,0,9,0
+Golden State Warriors,F,David Lee,Indiana Pacers,L,02/26/2013,35:57,5,12,0.417,0,0,0.0,2,4,0.5,2,10,12,1,4,2,5,3,12,-14
+Golden State Warriors,C,Andris Biedrins,Indiana Pacers,L,02/26/2013,17:36,0,1,0.0,0,0,0.0,0,0,0.0,1,4,5,0,0,3,0,5,0,-2
+Golden State Warriors,G,Klay Thompson,Indiana Pacers,L,02/26/2013,35:19,5,14,0.357,3,6,0.5,0,0,0.0,2,2,4,2,2,0,0,0,13,-24
+Golden State Warriors,G,Stephen Curry,Indiana Pacers,L,02/26/2013,36:43,14,20,0.7,7,10,0.7,3,4,0.75,0,2,2,4,3,1,6,3,38,-12
+Golden State Warriors,F,Harrison Barnes,New York Knicks,L,02/27/2013,19:26,1,4,0.25,1,1,1.0,0,0,0.0,0,3,3,0,0,0,2,4,3,-6
+Golden State Warriors,F,Draymond Green,New York Knicks,L,02/27/2013,27:02,2,4,0.5,0,1,0.0,0,0,0.0,0,5,5,1,1,1,1,5,4,-7
+Golden State Warriors,C,Andris Biedrins,New York Knicks,L,02/27/2013,7:57,0,1,0.0,0,0,0.0,0,0,0.0,1,3,4,0,0,0,0,1,0,-6
+Golden State Warriors,G,Stephen Curry,New York Knicks,L,02/27/2013,48:00,18,28,0.643,11,13,0.846,7,7,1.0,0,6,6,7,3,0,4,3,54,-4
+Golden State Warriors,G,Klay Thompson,New York Knicks,L,02/27/2013,35:56,3,13,0.231,0,6,0.0,0,0,0.0,1,3,4,0,1,1,0,5,6,-5
+Golden State Warriors,F,Harrison Barnes,Boston Celtics,L,03/01/2013,39:18,7,17,0.412,0,2,0.0,2,3,0.667,3,3,6,0,3,0,2,2,16,-6
+Golden State Warriors,F,David Lee,Boston Celtics,L,03/01/2013,38:32,4,13,0.308,0,0,0.0,2,4,0.5,5,14,19,4,1,0,0,3,10,-2
+Golden State Warriors,C,Andris Biedrins,Boston Celtics,L,03/01/2013,11:12,0,0,0.0,0,0,0.0,0,0,0.0,1,4,5,1,1,0,0,1,0,4
+Golden State Warriors,G,Klay Thompson,Boston Celtics,L,03/01/2013,40:50,7,19,0.368,1,7,0.143,0,0,0.0,0,9,9,4,0,1,2,5,15,2
+Golden State Warriors,G,Stephen Curry,Boston Celtics,L,03/01/2013,42:03,6,22,0.273,3,11,0.273,10,10,1.0,0,1,1,6,1,0,4,2,25,7
+Golden State Warriors,F,Harrison Barnes,Philadelphia 76ers,L,03/02/2013,28:14,2,7,0.286,0,1,0.0,1,1,1.0,0,3,3,1,2,0,2,1,5,3
+Golden State Warriors,F,David Lee,Philadelphia 76ers,L,03/02/2013,40:01,6,14,0.429,0,0,0.0,1,2,0.5,5,11,16,7,0,1,3,1,13,0
+Golden State Warriors,C,Festus Ezeli,Philadelphia 76ers,L,03/02/2013,20:05,1,4,0.25,0,0,0.0,0,0,0.0,2,2,4,1,2,1,0,1,2,6
+Golden State Warriors,G,Klay Thompson,Philadelphia 76ers,L,03/02/2013,37:46,11,18,0.611,7,12,0.583,0,0,0.0,1,2,3,3,3,0,4,4,29,-6
+Golden State Warriors,G,Stephen Curry,Philadelphia 76ers,L,03/02/2013,41:55,11,20,0.55,3,9,0.333,5,7,0.714,0,3,3,8,3,0,4,2,30,2
+Golden State Warriors,F,Harrison Barnes,Toronto Raptors,W,03/04/2013,22:22,4,6,0.667,1,2,0.5,3,3,1.0,0,2,2,1,1,2,1,1,12,-7
+Golden State Warriors,F,David Lee,Toronto Raptors,W,03/04/2013,35:58,12,21,0.571,0,0,0.0,5,5,1.0,2,9,11,5,0,0,2,4,29,7
+Golden State Warriors,C,Andrew Bogut,Toronto Raptors,W,03/04/2013,29:54,2,4,0.5,0,0,0.0,0,0,0.0,1,7,8,1,0,1,2,5,4,2
+Golden State Warriors,G,Klay Thompson,Toronto Raptors,W,03/04/2013,27:58,8,11,0.727,4,5,0.8,2,2,1.0,0,1,1,4,0,1,2,6,22,9
+Golden State Warriors,G,Stephen Curry,Toronto Raptors,W,03/04/2013,41:56,8,16,0.5,2,5,0.4,8,8,1.0,2,3,5,12,0,0,6,5,26,1
+Golden State Warriors,F,Harrison Barnes,Sacramento Kings,W,03/06/2013,25:32,5,11,0.455,0,2,0.0,4,6,0.667,1,3,4,1,0,0,1,1,14,10
+Golden State Warriors,F,David Lee,Sacramento Kings,W,03/06/2013,40:06,8,14,0.571,0,0,0.0,1,1,1.0,0,10,10,3,1,0,2,0,17,10
+Golden State Warriors,C,Andrew Bogut,Sacramento Kings,W,03/06/2013,27:54,0,2,0.0,0,0,0.0,2,2,1.0,1,7,8,1,2,2,0,4,2,9
+Golden State Warriors,G,Klay Thompson,Sacramento Kings,W,03/06/2013,37:16,6,17,0.353,4,10,0.4,4,4,1.0,0,5,5,2,0,0,2,1,20,9
+Golden State Warriors,G,Stephen Curry,Sacramento Kings,W,03/06/2013,34:15,3,11,0.273,2,5,0.4,5,5,1.0,1,4,5,8,2,0,6,4,13,-2
+Golden State Warriors,F,Harrison Barnes,Houston Rockets,L,03/08/2013,23:20,2,10,0.2,0,2,0.0,2,2,1.0,1,2,3,0,1,0,3,0,6,-9
+Golden State Warriors,F,David Lee,Houston Rockets,L,03/08/2013,25:29,7,12,0.583,0,0,0.0,2,2,1.0,2,3,5,0,0,0,3,5,16,-2
+Golden State Warriors,C,Andrew Bogut,Houston Rockets,L,03/08/2013,27:46,1,5,0.2,1,1,1.0,0,2,0.0,3,8,11,2,4,1,2,3,3,-14
+Golden State Warriors,G,Klay Thompson,Houston Rockets,L,03/08/2013,43:00,9,20,0.45,4,6,0.667,0,0,0.0,0,5,5,3,0,2,2,3,22,-11
+Golden State Warriors,G,Stephen Curry,Houston Rockets,L,03/08/2013,42:55,8,21,0.381,3,8,0.375,5,7,0.714,1,4,5,8,1,0,1,5,24,-9
+Golden State Warriors,F,Harrison Barnes,Milwaukee Bucks,L,03/09/2013,21:43,3,6,0.5,1,1,1.0,3,6,0.5,1,4,5,1,1,0,1,1,10,0
+Golden State Warriors,F,Carl Landry,Milwaukee Bucks,L,03/09/2013,29:09,7,10,0.7,0,0,0.0,4,4,1.0,3,7,10,0,0,0,2,1,18,4
+Golden State Warriors,C,Andrew Bogut,Milwaukee Bucks,L,03/09/2013,29:27,2,5,0.4,0,0,0.0,0,0,0.0,2,7,9,4,0,1,3,4,4,-2
+Golden State Warriors,G,Klay Thompson,Milwaukee Bucks,L,03/09/2013,39:07,7,17,0.412,2,5,0.4,2,2,1.0,0,3,3,2,1,0,1,2,18,-10
+Golden State Warriors,G,Stephen Curry,Milwaukee Bucks,L,03/09/2013,39:14,7,18,0.389,2,6,0.333,0,0,0.0,1,1,2,10,0,0,4,4,16,-12
+Golden State Warriors,F,Harrison Barnes,New York Knicks,W,03/11/2013,16:08,2,5,0.4,0,0,0.0,1,2,0.5,1,0,1,1,0,0,0,2,5,14
+Golden State Warriors,F,David Lee,New York Knicks,W,03/11/2013,38:14,7,15,0.467,0,0,0.0,7,8,0.875,3,7,10,8,0,0,4,5,21,31
+Golden State Warriors,C,Andrew Bogut,New York Knicks,W,03/11/2013,22:45,1,4,0.25,0,0,0.0,2,2,1.0,2,9,11,1,2,1,0,5,4,35
+Golden State Warriors,G,Klay Thompson,New York Knicks,W,03/11/2013,34:36,9,18,0.5,4,7,0.571,1,2,0.5,1,4,5,1,3,1,0,4,23,26
+Golden State Warriors,G,Stephen Curry,New York Knicks,W,03/11/2013,36:56,9,18,0.5,6,10,0.6,2,2,1.0,1,5,6,3,1,0,2,1,26,26
+Golden State Warriors,F,Harrison Barnes,Detroit Pistons,W,03/13/2013,18:52,6,7,0.857,0,1,0.0,1,2,0.5,0,2,2,0,0,1,1,3,13,13
+Golden State Warriors,F,David Lee,Detroit Pistons,W,03/13/2013,36:50,9,13,0.692,0,0,0.0,2,5,0.4,4,11,15,5,0,0,1,1,20,23
+Golden State Warriors,C,Andrew Bogut,Detroit Pistons,W,03/13/2013,32:12,2,5,0.4,0,0,0.0,3,6,0.5,4,6,10,4,2,3,0,2,7,16
+Golden State Warriors,G,Klay Thompson,Detroit Pistons,W,03/13/2013,42:32,4,15,0.267,1,6,0.167,1,2,0.5,0,3,3,1,1,1,1,2,10,20
+Golden State Warriors,G,Stephen Curry,Detroit Pistons,W,03/13/2013,42:54,11,17,0.647,5,7,0.714,4,4,1.0,1,1,2,8,1,0,4,0,31,15
+Golden State Warriors,F,Harrison Barnes,Chicago Bulls,L,03/15/2013,24:35,5,9,0.556,0,1,0.0,2,2,1.0,2,2,4,1,2,0,2,1,12,-3
+Golden State Warriors,F,David Lee,Chicago Bulls,L,03/15/2013,24:02,7,12,0.583,0,0,0.0,1,2,0.5,2,6,8,1,2,1,2,2,15,-30
+Golden State Warriors,C,Andrew Bogut,Chicago Bulls,L,03/15/2013,17:19,0,1,0.0,0,0,0.0,1,2,0.5,1,3,4,2,1,2,1,3,1,-25
+Golden State Warriors,G,Klay Thompson,Chicago Bulls,L,03/15/2013,31:59,3,9,0.333,0,4,0.0,1,2,0.5,0,1,1,3,1,0,2,0,7,-34
+Golden State Warriors,G,Stephen Curry,Chicago Bulls,L,03/15/2013,29:48,2,13,0.154,0,5,0.0,4,4,1.0,0,0,0,4,0,0,1,2,8,-32
+Golden State Warriors,F,Harrison Barnes,Houston Rockets,W,03/17/2013,17:46,4,10,0.4,1,2,0.5,0,0,0.0,1,4,5,0,0,0,0,0,9,6
+Golden State Warriors,F,David Lee,Houston Rockets,W,03/17/2013,35:13,4,13,0.308,0,0,0.0,2,3,0.667,1,9,10,4,1,0,2,2,10,23
+Golden State Warriors,C,Andrew Bogut,Houston Rockets,W,03/17/2013,32:55,4,8,0.5,0,0,0.0,4,4,1.0,2,10,12,0,0,3,0,2,12,26
+Golden State Warriors,G,Klay Thompson,Houston Rockets,W,03/17/2013,42:09,10,18,0.556,6,9,0.667,0,0,0.0,0,4,4,0,1,0,4,3,26,19
+Golden State Warriors,G,Stephen Curry,Houston Rockets,W,03/17/2013,44:32,12,22,0.545,5,11,0.455,0,0,0.0,0,5,5,11,2,1,3,1,29,22
+Golden State Warriors,F,Harrison Barnes,New Orleans Hornets,W,03/18/2013,21:28,2,4,0.5,0,0,0.0,3,4,0.75,0,2,2,0,0,0,0,1,7,11
+Golden State Warriors,F,David Lee,New Orleans Hornets,W,03/18/2013,29:54,7,9,0.778,0,0,0.0,6,6,1.0,4,7,11,4,0,1,3,3,20,25
+Golden State Warriors,C,Andrew Bogut,New Orleans Hornets,W,03/18/2013,30:30,4,6,0.667,0,0,0.0,0,0,0.0,1,8,9,5,1,4,1,3,8,24
+Golden State Warriors,G,Klay Thompson,New Orleans Hornets,W,03/18/2013,33:13,5,15,0.333,3,6,0.5,0,0,0.0,0,5,5,1,1,0,4,3,13,16
+Golden State Warriors,G,Stephen Curry,New Orleans Hornets,W,03/18/2013,38:40,10,19,0.526,6,9,0.667,4,4,1.0,1,6,7,3,0,0,7,3,30,19
+Golden State Warriors,F,Harrison Barnes,San Antonio Spurs,L,03/20/2013,17:33,6,9,0.667,1,1,1.0,0,0,0.0,0,1,1,1,1,0,1,0,13,2
+Golden State Warriors,F,David Lee,San Antonio Spurs,L,03/20/2013,37:51,4,17,0.235,0,0,0.0,2,2,1.0,4,8,12,1,2,1,2,3,10,-12
+Golden State Warriors,C,Andrew Bogut,San Antonio Spurs,L,03/20/2013,33:07,2,9,0.222,0,0,0.0,0,0,0.0,4,7,11,1,0,0,0,3,4,-11
+Golden State Warriors,G,Klay Thompson,San Antonio Spurs,L,03/20/2013,34:02,3,8,0.375,1,1,1.0,2,2,1.0,1,2,3,0,1,1,2,2,9,-12
+Golden State Warriors,G,Stephen Curry,San Antonio Spurs,L,03/20/2013,35:37,8,20,0.4,4,8,0.5,4,5,0.8,1,3,4,3,2,0,3,0,24,-12
+Golden State Warriors,F,Harrison Barnes,Washington Wizards,W,03/23/2013,35:55,5,8,0.625,1,2,0.5,5,6,0.833,1,7,8,0,0,0,2,1,16,11
+Golden State Warriors,F,David Lee,Washington Wizards,W,03/23/2013,34:47,4,9,0.444,0,0,0.0,3,4,0.75,2,13,15,4,1,0,3,4,11,18
+Golden State Warriors,C,Andrew Bogut,Washington Wizards,W,03/23/2013,28:25,5,8,0.625,0,0,0.0,0,0,0.0,2,2,4,4,1,2,4,4,10,8
+Golden State Warriors,G,Klay Thompson,Washington Wizards,W,03/23/2013,37:53,7,16,0.438,3,7,0.429,1,2,0.5,0,0,0,2,0,0,3,2,18,16
+Golden State Warriors,G,Stephen Curry,Washington Wizards,W,03/23/2013,31:39,13,18,0.722,6,10,0.6,3,4,0.75,0,2,2,8,2,0,3,2,35,9
+Golden State Warriors,F,Harrison Barnes,Los Angeles Lakers,W,03/25/2013,28:59,3,8,0.375,1,2,0.5,3,3,1.0,1,4,5,0,1,0,1,3,10,9
+Golden State Warriors,F,David Lee,Los Angeles Lakers,W,03/25/2013,37:37,9,15,0.6,0,0,0.0,5,5,1.0,3,9,12,2,0,0,4,3,23,-4
+Golden State Warriors,C,Andrew Bogut,Los Angeles Lakers,W,03/25/2013,29:55,2,3,0.667,0,0,0.0,0,2,0.0,4,5,9,4,0,2,1,5,4,-3
+Golden State Warriors,G,Klay Thompson,Los Angeles Lakers,W,03/25/2013,41:20,8,18,0.444,6,11,0.545,0,0,0.0,0,4,4,3,2,1,1,4,22,6
+Golden State Warriors,G,Stephen Curry,Los Angeles Lakers,W,03/25/2013,43:00,9,24,0.375,3,9,0.333,4,7,0.571,0,7,7,10,0,0,2,4,25,3
+Golden State Warriors,F,Harrison Barnes,Sacramento Kings,L,03/27/2013,21:40,4,8,0.5,1,2,0.5,0,0,0.0,0,3,3,0,2,0,1,2,9,-16
+Golden State Warriors,F,David Lee,Sacramento Kings,L,03/27/2013,43:12,10,13,0.769,0,0,0.0,0,0,0.0,0,10,10,4,1,0,6,4,20,-9
+Golden State Warriors,C,Andrew Bogut,Sacramento Kings,L,03/27/2013,26:39,6,11,0.545,0,0,0.0,0,0,0.0,5,4,9,2,1,4,1,0,12,-5
+Golden State Warriors,G,Klay Thompson,Sacramento Kings,L,03/27/2013,34:13,1,13,0.077,1,8,0.125,1,1,1.0,0,3,3,4,0,0,2,5,4,-2
+Golden State Warriors,G,Stephen Curry,Sacramento Kings,L,03/27/2013,45:35,5,18,0.278,2,9,0.222,5,6,0.833,2,3,5,12,4,0,3,3,17,1
+Golden State Warriors,F,Harrison Barnes,Portland Trail Blazers,W,03/30/2013,33:54,4,10,0.4,0,2,0.0,3,3,1.0,0,7,7,1,1,1,1,2,11,9
+Golden State Warriors,F,David Lee,Portland Trail Blazers,W,03/30/2013,24:42,5,12,0.417,0,0,0.0,3,4,0.75,2,6,8,3,0,0,1,4,13,8
+Golden State Warriors,C,Andrew Bogut,Portland Trail Blazers,W,03/30/2013,21:41,5,8,0.625,0,0,0.0,0,2,0.0,3,3,6,1,0,2,0,3,10,2
+Golden State Warriors,G,Klay Thompson,Portland Trail Blazers,W,03/30/2013,26:18,1,6,0.167,1,4,0.25,3,4,0.75,0,4,4,1,1,0,0,3,6,17
+Golden State Warriors,G,Stephen Curry,Portland Trail Blazers,W,03/30/2013,37:28,14,22,0.636,7,12,0.583,4,4,1.0,2,3,5,6,1,0,3,2,39,15
+Golden State Warriors,F,Harrison Barnes,New Orleans Hornets,W,04/03/2013,19:23,3,9,0.333,1,3,0.333,3,4,0.75,1,2,3,0,0,0,2,0,10,-17
+Golden State Warriors,F,David Lee,New Orleans Hornets,W,04/03/2013,37:51,9,15,0.6,0,0,0.0,5,6,0.833,3,13,16,4,1,1,3,3,23,18
+Golden State Warriors,C,Andrew Bogut,New Orleans Hornets,W,04/03/2013,26:25,2,6,0.333,0,0,0.0,0,0,0.0,2,7,9,0,1,2,1,3,4,0
+Golden State Warriors,G,Klay Thompson,New Orleans Hornets,W,04/03/2013,35:56,4,11,0.364,0,2,0.0,0,0,0.0,1,1,2,2,1,1,1,4,8,22
+Golden State Warriors,G,Stephen Curry,New Orleans Hornets,W,04/03/2013,35:57,6,14,0.429,4,10,0.4,4,4,1.0,0,3,3,9,1,0,2,5,20,14
+Golden State Warriors,F,Harrison Barnes,Phoenix Suns,W,04/05/2013,25:43,4,9,0.444,1,1,1.0,2,2,1.0,0,3,3,0,1,0,2,1,11,-3
+Golden State Warriors,F,David Lee,Phoenix Suns,W,04/05/2013,44:19,10,18,0.556,0,0,0.0,2,2,1.0,4,10,14,2,0,0,1,3,22,11
+Golden State Warriors,C,Andrew Bogut,Phoenix Suns,W,04/05/2013,19:10,3,5,0.6,0,0,0.0,0,0,0.0,3,2,5,0,0,0,0,2,6,8
+Golden State Warriors,G,Klay Thompson,Phoenix Suns,W,04/05/2013,41:02,10,18,0.556,3,4,0.75,2,3,0.667,0,0,0,3,4,1,3,5,25,11
+Golden State Warriors,G,Stephen Curry,Phoenix Suns,W,04/05/2013,40:58,6,15,0.4,3,8,0.375,3,3,1.0,0,1,1,15,4,0,4,5,18,14
+Golden State Warriors,F,Harrison Barnes,Utah Jazz,L,04/07/2013,22:59,1,3,0.333,0,2,0.0,2,2,1.0,0,3,3,3,0,0,1,0,4,2
+Golden State Warriors,F,David Lee,Utah Jazz,L,04/07/2013,44:54,8,17,0.471,0,0,0.0,5,7,0.714,2,11,13,1,1,0,2,1,21,-9
+Golden State Warriors,C,Andrew Bogut,Utah Jazz,L,04/07/2013,23:29,1,3,0.333,0,0,0.0,0,0,0.0,1,5,6,2,0,1,3,2,2,-9
+Golden State Warriors,G,Klay Thompson,Utah Jazz,L,04/07/2013,42:14,8,15,0.533,2,3,0.667,2,4,0.5,0,2,2,2,1,1,3,3,20,-7
+Golden State Warriors,G,Stephen Curry,Utah Jazz,L,04/07/2013,45:09,8,19,0.421,4,9,0.444,2,2,1.0,1,3,4,5,1,0,5,3,22,-5
+Golden State Warriors,F,Harrison Barnes,Minnesota Timberwolves,W,04/09/2013,25:48,6,11,0.545,1,1,1.0,2,2,1.0,3,7,10,1,0,0,1,3,15,23
+Golden State Warriors,F,David Lee,Minnesota Timberwolves,W,04/09/2013,32:47,6,12,0.5,0,1,0.0,3,4,0.75,3,9,12,5,1,1,4,0,15,16
+Golden State Warriors,C,Andrew Bogut,Minnesota Timberwolves,W,04/09/2013,29:57,1,3,0.333,0,0,0.0,0,2,0.0,1,13,14,2,0,3,3,3,2,12
+Golden State Warriors,G,Klay Thompson,Minnesota Timberwolves,W,04/09/2013,35:36,10,19,0.526,6,10,0.6,4,4,1.0,0,3,3,2,5,0,2,4,30,13
+Golden State Warriors,G,Stephen Curry,Minnesota Timberwolves,W,04/09/2013,39:10,9,21,0.429,2,9,0.222,4,5,0.8,1,3,4,10,1,1,3,4,24,12
+Golden State Warriors,F,Harrison Barnes,Oklahoma City Thunder,L,04/11/2013,20:42,3,8,0.375,1,1,1.0,2,2,1.0,1,1,2,0,1,0,1,5,9,-25
+Golden State Warriors,F,David Lee,Oklahoma City Thunder,L,04/11/2013,31:48,6,13,0.462,0,0,0.0,1,1,1.0,2,9,11,0,1,1,3,3,13,-18
+Golden State Warriors,C,Andrew Bogut,Oklahoma City Thunder,L,04/11/2013,9:05,0,3,0.0,0,0,0.0,0,0,0.0,0,4,4,0,1,0,1,0,0,-7
+Golden State Warriors,G,Klay Thompson,Oklahoma City Thunder,L,04/11/2013,30:42,2,10,0.2,0,3,0.0,2,2,1.0,0,0,0,1,1,1,2,4,6,-17
+Golden State Warriors,G,Stephen Curry,Oklahoma City Thunder,L,04/11/2013,34:55,9,18,0.5,3,6,0.5,1,1,1.0,0,3,3,7,2,0,4,0,22,-9
+Golden State Warriors,F,Harrison Barnes,Los Angeles Lakers,L,04/12/2013,29:05,1,6,0.167,0,0,0.0,2,2,1.0,2,4,6,0,0,0,0,2,4,0
+Golden State Warriors,F,David Lee,Los Angeles Lakers,L,04/12/2013,42:43,8,12,0.667,0,0,0.0,3,4,0.75,2,6,8,2,1,1,0,4,19,-6
+Golden State Warriors,C,Festus Ezeli,Los Angeles Lakers,L,04/12/2013,16:16,2,3,0.667,0,0,0.0,0,0,0.0,4,3,7,0,0,1,0,6,4,8
+Golden State Warriors,G,Klay Thompson,Los Angeles Lakers,L,04/12/2013,43:02,10,24,0.417,2,7,0.286,3,4,0.75,0,2,2,7,2,0,1,5,25,3
+Golden State Warriors,G,Stephen Curry,Los Angeles Lakers,L,04/12/2013,44:17,17,31,0.548,9,15,0.6,4,4,1.0,3,3,6,9,3,0,1,3,47,3
+Golden State Warriors,F,Harrison Barnes,San Antonio Spurs,W,04/15/2013,33:03,4,10,0.4,1,3,0.333,2,2,1.0,1,6,7,3,1,0,6,2,11,1
+Golden State Warriors,F,David Lee,San Antonio Spurs,W,04/15/2013,36:23,5,10,0.5,0,0,0.0,2,4,0.5,2,9,11,2,0,0,2,4,12,18
+Golden State Warriors,C,Festus Ezeli,San Antonio Spurs,W,04/15/2013,29:19,3,6,0.5,0,0,0.0,2,2,1.0,2,11,13,0,0,3,1,2,8,18
+Golden State Warriors,G,Klay Thompson,San Antonio Spurs,W,04/15/2013,34:56,10,17,0.588,1,4,0.25,2,2,1.0,1,4,5,2,1,2,3,2,23,30
+Golden State Warriors,G,Stephen Curry,San Antonio Spurs,W,04/15/2013,38:42,13,23,0.565,7,13,0.538,2,2,1.0,1,7,8,5,2,0,3,0,35,13
+Golden State Warriors,F,Harrison Barnes,Portland Trail Blazers,W,04/17/2013,30:11,3,10,0.3,0,1,0.0,2,2,1.0,2,8,10,3,0,0,1,1,8,17
+Golden State Warriors,F,David Lee,Portland Trail Blazers,W,04/17/2013,31:48,9,12,0.75,0,0,0.0,2,3,0.667,0,10,10,1,3,0,1,2,20,15
+Golden State Warriors,C,Andrew Bogut,Portland Trail Blazers,W,04/17/2013,17:17,1,8,0.125,0,0,0.0,0,0,0.0,3,5,8,3,0,2,2,2,2,8
+Golden State Warriors,G,Klay Thompson,Portland Trail Blazers,W,04/17/2013,38:17,9,19,0.474,5,7,0.714,1,2,0.5,0,3,3,0,1,0,2,4,24,7
+Golden State Warriors,G,Stephen Curry,Portland Trail Blazers,W,04/17/2013,31:41,5,16,0.313,4,11,0.364,1,1,1.0,1,1,2,5,3,0,1,2,15,9

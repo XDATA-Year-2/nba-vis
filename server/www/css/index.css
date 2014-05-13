@@ -1,0 +1,37 @@
+div.team-button {
+  display: inline-table;
+  margin: .1em;
+  padding: .2em;
+  border-radius: 5px;
+  border: solid 1px black;
+}
+
+div.active {
+  background-color: gold;
+}
+
+div.game-icon {
+  /*display: inline;*/
+  position: absolute;
+}
+
+#games {
+  position: relative;
+}
+
+#buttons {
+  display: table;
+}
+
+#seasons {
+  display: table;
+  table-layout: fixed;
+
+}
+
+div.season-button {
+  display: table-cell;
+  text-align: center;
+  border-radius: 5px;
+  border: solid 1px black;
+}
