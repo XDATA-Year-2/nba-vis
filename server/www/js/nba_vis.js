@@ -13,7 +13,8 @@ var buttons = d3.select("#buttons")
 var games = d3.select("#games") //div
   .style('height',bar_height*2)
   .style('width',width)
-
+var notebook = d3.select("#notebook")
+  .style('width',width)
 
 
 var game_y_scale = d3.scale.linear()
@@ -105,7 +106,7 @@ var load_team = function(abbr,season){
 var load_notebook = function(d){
   var id = d.gameid
   d3.text('http://localhost:8000/notebook/'+id,function(data){
-    d3.select('#notebook').html(data)
+    notebook.html(data)
   })
 }
 
