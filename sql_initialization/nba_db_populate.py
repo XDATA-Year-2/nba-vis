@@ -91,6 +91,7 @@ def extract_game (x,notebook,preview,recap):
 
   c.execute("insert into GAMES values (?,?,?,?,?,?,?,?,?,?,?,?,?)",(game_id,season,date,time,attendance,gamecode,home_team_id,visitor_team_id,lead_changes,times_tied,notebook,preview,recap))
   # conn.commit()
+  return game_id
 
 
 def extract_teams (x):
@@ -256,17 +257,71 @@ def extract_season (x):
   season_id = OtherStats[0][1]
   check_season(season_id,season)
 
+def extract_comments (com,game_id):
+  try:
+    com = open(com)
+    # print "has comments"
+  except:
+    return
+  i = 0
+  for line in com:
+    line = line.split("::")
+    user = line[0].strip()
+    comment = line[1].strip()
+    c.execute("insert into COMMENTS values (?,?,?,?)",(game_id,i,user,comment))
+    i+=1
 
-def extract_all (game_files_dir,notebook_files_dir,preview_files_dir,recap_files_dir):
-  for f in os.listdir(game_files_dir):
+def extract_playbyplay (pbp,game_id):
+  try:
+    pbp = open(pbp)
+  except:
+    return
+  pbp = json.load(pbp)
+  plays = pbp['resultSets'][0]['rowSet']
+  for p in plays:
+    event_num = p[1]
+    event_msg_type = p[2]
+    event_msg_action_type = p[3]
+    period = p[4]
+    world_time = p[5]
+    play_clock_time = p[6]
+    score = p[10]
+    try:
+      score_margin = int(p[11])
+    except:
+      score_margin = None
+    description = ""
+    description_type = ""
+    if p[7]!=None:
+      description = p[7]
+      description_type = "HOME"
+    elif p[8]!=None:
+      description = p[8]
+      description_type = "NEUTRAL"
+    elif p[9]!=None:
+      description = p[9]
+      description_type = "VISTIOR"
+    else:
+      print "DANGER DANGER"
+      print p
+      exit(1)
+    c.execute("insert into PLAY_BY_PLAY values(?,?,?,?,?,?,?,?,?,?,?)",(game_id,event_num,event_msg_type,event_msg_action_type,period,world_time,play_clock_time,description,description_type,score,score_margin))
+
+
+
+
+def extract_all (game_files_dir,notebook_files_dir,preview_files_dir,recap_files_dir,comment_files_dir,pbp_dir):
+  for fraw in os.listdir(game_files_dir):
       # if os.path.isfile(f):
-      n = f.replace('gamestats.json','notebook.txt')
+      n = fraw.replace('gamestats.json','notebook.txt')
       n = notebook_files_dir+n
-      r = f.replace('gamestats.json','recap.txt')
+      r = fraw.replace('gamestats.json','recap.txt')
       r = recap_files_dir+r
-      p = f.replace('gamestats.json','preview.txt')
+      p = fraw.replace('gamestats.json','preview.txt')
       p = preview_files_dir+p
-      f = game_files_dir+f
+      
+
+      f = game_files_dir+fraw
       fopen = open(f)
       notebook = open(n).read()
       recap = open(r).read()
@@ -276,21 +331,30 @@ def extract_all (game_files_dir,notebook_files_dir,preview_files_dir,recap_files
 
       extract_season(x)
       extract_teams(x)
-      extract_game(x,notebook,preview,recap)
+      game_id = extract_game(x,notebook,preview,recap)
       extract_officials(x)
       extract_team_lines(x)
       extract_game_periods(x)
       extract_players(x)
       extract_inactive_players(x)
 
+
+      com = fraw.replace('gamestats.json','espn_comments.txt')
+      com = comment_files_dir+com
+      extract_comments(com,game_id)
+
+      pbp = fraw.replace('gamestats.json','playbyplay.json')
+      pbp = pbp_dir+pbp
+      extract_playbyplay(pbp,game_id)
+
       conn.commit()
       print f
 
 
-def init_db (game_files_dir,notebook_files_dir,preview_files_dir,recap_files_dir):
+def init_db (game_files_dir,notebook_files_dir,preview_files_dir,recap_files_dir,comment_files_dir,pbp_dir):
   populate_positions()
   populate_periods()
-  extract_all(game_files_dir,notebook_files_dir,preview_files_dir,recap_files_dir)
+  extract_all(game_files_dir,notebook_files_dir,preview_files_dir,recap_files_dir,comment_files_dir,pbp_dir)
   conn.commit()
 
 def check ():
@@ -299,5 +363,5 @@ def check ():
     print r
 
 
-init_db("../nba/gamestats/","../nba/notebook/","../nba/preview/","../nba/recaps/")
+init_db("../nba/gamestats/","../nba/notebook/","../nba/preview/","../nba/recaps/","../nba/comments/","../nba/playbyplay/")
 # check()
