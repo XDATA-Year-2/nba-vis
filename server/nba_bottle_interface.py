@@ -66,7 +66,7 @@ def team_scores(teamname,season):
 
 @route('/notebook/<gameid>')
 def notebook(gameid):
-  notebook = c.execute('select notebook_entry from games where game_id='+gameid).fetchone()
+  notebook = c.execute('select notebook from games where game_id='+gameid).fetchone()
   return notebook[0].replace('\n','\n<br/>')
 
 

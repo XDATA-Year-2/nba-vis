@@ -73,7 +73,7 @@ def populate_positions ():
   c.execute("insert into POSITIONS values ('C','Center')")
   conn.commit()
 
-def extract_game (x,notebook):
+def extract_game (x,notebook,preview,recap):
   GameSummary = x['resultSets'][0]['rowSet'][0]
   GameInfo = x['resultSets'][8]['rowSet'][0]
   OtherStats = x['resultSets'][6]['rowSet'][0]
@@ -89,7 +89,7 @@ def extract_game (x,notebook):
   lead_changes = int(OtherStats[9])
   times_tied = int(OtherStats[10])
 
-  c.execute("insert into GAMES values (?,?,?,?,?,?,?,?,?,?,?)",(game_id,season,date,time,attendance,gamecode,home_team_id,visitor_team_id,lead_changes,times_tied,notebook))
+  c.execute("insert into GAMES values (?,?,?,?,?,?,?,?,?,?,?,?,?)",(game_id,season,date,time,attendance,gamecode,home_team_id,visitor_team_id,lead_changes,times_tied,notebook,preview,recap))
   # conn.commit()
 
 
@@ -257,20 +257,26 @@ def extract_season (x):
   check_season(season_id,season)
 
 
-def extract_all (game_files_dir,notebook_files_dir):
+def extract_all (game_files_dir,notebook_files_dir,preview_files_dir,recap_files_dir):
   for f in os.listdir(game_files_dir):
       # if os.path.isfile(f):
       n = f.replace('gamestats.json','notebook.txt')
       n = notebook_files_dir+n
+      r = f.replace('gamestats.json','recap.txt')
+      r = recap_files_dir+r
+      p = f.replace('gamestats.json','preview.txt')
+      p = preview_files_dir+p
       f = game_files_dir+f
       fopen = open(f)
       notebook = open(n).read()
+      recap = open(r).read()
+      preview = open(p).read()
       # print notebook
       x = json.load(fopen)
 
       extract_season(x)
       extract_teams(x)
-      extract_game(x,notebook)
+      extract_game(x,notebook,preview,recap)
       extract_officials(x)
       extract_team_lines(x)
       extract_game_periods(x)
@@ -281,10 +287,10 @@ def extract_all (game_files_dir,notebook_files_dir):
       print f
 
 
-def init_db (game_files_dir,notebook_files_dir):
+def init_db (game_files_dir,notebook_files_dir,preview_files_dir,recap_files_dir):
   populate_positions()
   populate_periods()
-  extract_all(game_files_dir,notebook_files_dir)
+  extract_all(game_files_dir,notebook_files_dir,preview_files_dir,recap_files_dir)
   conn.commit()
 
 def check ():
@@ -293,5 +299,5 @@ def check ():
     print r
 
 
-init_db("../nba/gamestats/","../nba/notebook/")
+init_db("../nba/gamestats/","../nba/notebook/","../nba/preview/","../nba/recaps/")
 # check()
