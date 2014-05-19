@@ -257,7 +257,7 @@ def extract_season (x):
   season_id = OtherStats[0][1]
   check_season(season_id,season)
 
-def extract_comments (com,game_id):
+def extract_comments (com,game_id,source):
   try:
     com = open(com)
     # print "has comments"
@@ -268,7 +268,7 @@ def extract_comments (com,game_id):
     line = line.split("::")
     user = line[0].strip()
     comment = line[1].strip()
-    c.execute("insert into COMMENTS values (?,?,?,?)",(game_id,i,user,comment))
+    c.execute("insert into COMMENTS(GAME_ID,COMMENT_NUM,SOURCE,USER_NAME,COMMENT) values (?,?,?,?,?)",(game_id,i,source,user,comment))
     i+=1
 
 def extract_playbyplay (pbp,game_id):
@@ -339,9 +339,18 @@ def extract_all (game_files_dir,notebook_files_dir,preview_files_dir,recap_files
       extract_inactive_players(x)
 
 
-      com = fraw.replace('gamestats.json','espn_comments.txt')
-      com = comment_files_dir+com
-      extract_comments(com,game_id)
+      espn = fraw.replace('gamestats.json','espn_comments.txt')
+      espn = comment_files_dir+espn
+      extract_comments(espn,game_id,"espn")
+
+      espn = fraw.replace('gamestats.json','espn_comments.txt')
+      espn = comment_files_dir+espn
+      extract_comments(espn,game_id,"espn")
+
+      yahoo = fraw.replace('gamestats.json','yahoo_comments.txt')
+      yahoo = comment_files_dir+yahoo
+      extract_comments(yahoo,game_id,"yahoo")
+
 
       pbp = fraw.replace('gamestats.json','playbyplay.json')
       pbp = pbp_dir+pbp
