@@ -343,9 +343,9 @@ def extract_all (game_files_dir,notebook_files_dir,preview_files_dir,recap_files
       espn = comment_files_dir+espn
       extract_comments(espn,game_id,"espn")
 
-      espn = fraw.replace('gamestats.json','espn_comments.txt')
-      espn = comment_files_dir+espn
-      extract_comments(espn,game_id,"espn")
+      #espn = fraw.replace('gamestats.json','espn_comments.txt')
+      #espn = comment_files_dir+espn
+      #extract_comments(espn,game_id,"espn")
 
       yahoo = fraw.replace('gamestats.json','yahoo_comments.txt')
       yahoo = comment_files_dir+yahoo
