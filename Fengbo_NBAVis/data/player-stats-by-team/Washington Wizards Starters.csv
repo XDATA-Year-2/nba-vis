@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Washington Wizards,F,Trevor Ariza,Cleveland Cavaliers,L,10/30/2012,24:35,3,8,0.375,2,4,0.5,1,2,0.5,1,2,3,4,3,2,0,0,9,-9
+Washington Wizards,F,Trevor Booker,Cleveland Cavaliers,L,10/30/2012,16:45,2,9,0.222,0,1,0.0,0,0,0.0,1,0,1,1,1,1,4,4,4,-15
+Washington Wizards,C,Emeka Okafor,Cleveland Cavaliers,L,10/30/2012,24:35,4,10,0.4,0,0,0.0,2,4,0.5,5,2,7,0,0,4,1,1,10,-5
+Washington Wizards,G,Bradley Beal,Cleveland Cavaliers,L,10/30/2012,21:33,2,8,0.25,2,4,0.5,2,2,1.0,0,3,3,3,1,0,2,1,8,-16
+Washington Wizards,G,A.J. Price,Cleveland Cavaliers,L,10/30/2012,29:24,2,13,0.154,2,9,0.222,1,1,1.0,1,1,2,6,0,0,1,1,7,-11
+Washington Wizards,F,Trevor Ariza,Boston Celtics,L,11/03/2012,16:40,0,4,0.0,0,1,0.0,0,0,0.0,0,0,0,0,1,0,1,1,0,-18
+Washington Wizards,F,Trevor Booker,Boston Celtics,L,11/03/2012,28:42,5,10,0.5,0,1,0.0,1,1,1.0,3,7,10,0,1,1,2,3,11,-10
+Washington Wizards,C,Emeka Okafor,Boston Celtics,L,11/03/2012,16:36,1,6,0.167,0,0,0.0,1,2,0.5,2,5,7,1,0,1,1,0,3,-18
+Washington Wizards,G,Bradley Beal,Boston Celtics,L,11/03/2012,21:52,0,5,0.0,0,2,0.0,2,2,1.0,0,1,1,1,0,0,0,0,2,-18
+Washington Wizards,G,A.J. Price,Boston Celtics,L,11/03/2012,29:26,3,10,0.3,2,5,0.4,0,0,0.0,0,4,4,4,2,0,2,0,8,-12
+Washington Wizards,F,Trevor Ariza,Boston Celtics,L,11/07/2012,18:41,1,6,0.167,0,1,0.0,0,0,0.0,1,2,3,2,2,0,0,2,2,-8
+Washington Wizards,F,Trevor Booker,Boston Celtics,L,11/07/2012,20:18,3,7,0.429,0,0,0.0,0,0,0.0,1,3,4,1,0,0,0,1,6,-4
+Washington Wizards,C,Emeka Okafor,Boston Celtics,L,11/07/2012,11:15,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,1,2,0,0,2,-4
+Washington Wizards,G,Bradley Beal,Boston Celtics,L,11/07/2012,38:19,6,15,0.4,3,8,0.375,1,1,1.0,0,4,4,3,1,1,2,4,16,6
+Washington Wizards,G,A.J. Price,Boston Celtics,L,11/07/2012,36:41,6,13,0.462,3,8,0.375,0,0,0.0,0,5,5,7,1,0,6,3,15,6
+Washington Wizards,F,Trevor Ariza,Milwaukee Bucks,L,11/09/2012,31:34,5,11,0.455,1,2,0.5,4,4,1.0,1,7,8,4,3,1,3,2,15,1
+Washington Wizards,F,Trevor Booker,Milwaukee Bucks,L,11/09/2012,27:13,5,7,0.714,0,0,0.0,1,2,0.5,0,1,1,2,2,0,1,1,11,3
+Washington Wizards,C,Emeka Okafor,Milwaukee Bucks,L,11/09/2012,34:59,5,11,0.455,0,0,0.0,1,2,0.5,4,2,6,1,3,3,1,2,11,-1
+Washington Wizards,G,Bradley Beal,Milwaukee Bucks,L,11/09/2012,34:28,7,14,0.5,0,4,0.0,8,8,1.0,1,3,4,2,2,0,3,2,22,7
+Washington Wizards,G,A.J. Price,Milwaukee Bucks,L,11/09/2012,36:11,4,12,0.333,1,5,0.2,3,3,1.0,0,6,6,9,0,0,3,3,12,2
+Washington Wizards,F,Trevor Ariza,Indiana Pacers,L,11/10/2012,26:09,2,5,0.4,0,2,0.0,0,0,0.0,0,6,6,2,4,1,2,1,4,-6
+Washington Wizards,F,Trevor Booker,Indiana Pacers,L,11/10/2012,31:16,5,11,0.455,0,0,0.0,0,0,0.0,1,4,5,1,0,1,1,3,10,-3
+Washington Wizards,C,Emeka Okafor,Indiana Pacers,L,11/10/2012,32:46,8,18,0.444,0,0,0.0,1,2,0.5,1,7,8,0,0,1,1,5,17,8
+Washington Wizards,G,Bradley Beal,Indiana Pacers,L,11/10/2012,35:15,6,11,0.545,3,3,1.0,2,3,0.667,1,5,6,2,1,1,3,1,17,3
+Washington Wizards,G,A.J. Price,Indiana Pacers,L,11/10/2012,36:30,5,12,0.417,2,7,0.286,0,0,0.0,0,3,3,14,0,0,0,2,12,1
+Washington Wizards,F,Trevor Ariza,Charlotte Bobcats,L,11/13/2012,34:59,7,18,0.389,2,8,0.25,3,4,0.75,2,4,6,2,1,1,1,1,19,-9
+Washington Wizards,F,Trevor Booker,Charlotte Bobcats,L,11/13/2012,27:28,4,8,0.5,0,0,0.0,0,0,0.0,4,4,8,3,1,2,2,1,8,-15
+Washington Wizards,C,Emeka Okafor,Charlotte Bobcats,L,11/13/2012,27:16,1,2,0.5,0,0,0.0,6,6,1.0,1,8,9,2,0,3,1,3,8,-16
+Washington Wizards,G,Bradley Beal,Charlotte Bobcats,L,11/13/2012,22:17,1,11,0.091,1,6,0.167,5,5,1.0,2,1,3,0,1,0,1,3,8,-2
+Washington Wizards,G,A.J. Price,Charlotte Bobcats,L,11/13/2012,32:54,2,12,0.167,1,7,0.143,1,2,0.5,1,2,3,6,1,0,2,2,6,-8
+Washington Wizards,F,Trevor Ariza,Dallas Mavericks,L,11/14/2012,19:50,2,7,0.286,0,1,0.0,0,0,0.0,1,2,3,1,2,1,1,1,4,-12
+Washington Wizards,F,Trevor Booker,Dallas Mavericks,L,11/14/2012,22:47,3,5,0.6,0,0,0.0,1,2,0.5,1,5,6,4,1,0,0,2,7,-16
+Washington Wizards,C,Emeka Okafor,Dallas Mavericks,L,11/14/2012,21:46,4,8,0.5,0,0,0.0,0,0,0.0,3,1,4,1,1,2,1,2,8,-7
+Washington Wizards,G,Bradley Beal,Dallas Mavericks,L,11/14/2012,27:38,3,14,0.214,2,6,0.333,0,0,0.0,1,0,1,2,1,0,0,2,8,-17
+Washington Wizards,G,A.J. Price,Dallas Mavericks,L,11/14/2012,18:24,4,7,0.571,3,4,0.75,0,0,0.0,1,0,1,2,1,0,2,2,11,-16
+Washington Wizards,F,Trevor Ariza,Utah Jazz,L,11/17/2012,34:17,7,15,0.467,1,4,0.25,1,3,0.333,1,8,9,1,3,0,2,1,16,6
+Washington Wizards,F,Jan Vesely,Utah Jazz,L,11/17/2012,22:09,2,6,0.333,0,0,0.0,1,2,0.5,3,2,5,2,0,2,2,2,5,11
+Washington Wizards,C,Emeka Okafor,Utah Jazz,L,11/17/2012,31:59,4,10,0.4,0,0,0.0,0,0,0.0,6,8,14,2,1,3,3,3,8,8
+Washington Wizards,G,Jordan Crawford,Utah Jazz,L,11/17/2012,34:56,7,18,0.389,1,3,0.333,5,5,1.0,1,0,1,8,0,0,2,4,20,2
+Washington Wizards,G,A.J. Price,Utah Jazz,L,11/17/2012,31:07,3,5,0.6,2,2,1.0,0,0,0.0,1,2,3,3,2,0,0,2,8,6
+Washington Wizards,F,Trevor Ariza,Indiana Pacers,L,11/19/2012,13:18,2,9,0.222,0,2,0.0,2,2,1.0,2,3,5,2,0,0,1,1,6,-22
+Washington Wizards,F,Jan Vesely,Indiana Pacers,L,11/19/2012,21:48,2,4,0.5,0,0,0.0,1,1,1.0,2,0,2,1,0,0,1,3,5,6
+Washington Wizards,C,Emeka Okafor,Indiana Pacers,L,11/19/2012,9:06,0,4,0.0,0,0,0.0,1,2,0.5,1,0,1,0,0,0,0,0,1,-15
+Washington Wizards,G,Jordan Crawford,Indiana Pacers,L,11/19/2012,24:11,2,12,0.167,0,4,0.0,7,7,1.0,2,1,3,2,0,0,3,1,11,-17
+Washington Wizards,G,A.J. Price,Indiana Pacers,L,11/19/2012,23:51,2,8,0.25,1,5,0.2,3,3,1.0,1,1,2,0,1,0,0,0,8,-16
+Washington Wizards,F,Bradley Beal,Atlanta Hawks,L,11/21/2012,26:09,3,8,0.375,0,3,0.0,0,0,0.0,3,2,5,4,1,1,5,6,6,-2
+Washington Wizards,F,Jan Vesely,Atlanta Hawks,L,11/21/2012,8:24,0,1,0.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,4,0,-4
+Washington Wizards,C,Kevin Seraphin,Atlanta Hawks,L,11/21/2012,33:16,10,21,0.476,0,0,0.0,1,2,0.5,3,7,10,1,0,2,1,3,21,-11
+Washington Wizards,G,Jordan Crawford,Atlanta Hawks,L,11/21/2012,19:46,4,8,0.5,1,2,0.5,0,0,0.0,1,3,4,1,0,0,2,1,9,-14
+Washington Wizards,G,Shaun Livingston,Atlanta Hawks,L,11/21/2012,21:40,1,5,0.2,0,2,0.0,0,0,0.0,0,1,1,4,0,1,1,1,2,-13
+Washington Wizards,F,Bradley Beal,Charlotte Bobcats,L,11/24/2012,39:34,3,12,0.25,3,9,0.333,4,4,1.0,2,8,10,5,0,2,1,1,13,-20
+Washington Wizards,F,Jan Vesely,Charlotte Bobcats,L,11/24/2012,10:00,1,1,1.0,0,0,0.0,0,1,0.0,0,0,0,0,1,0,1,0,2,-10
+Washington Wizards,C,Kevin Seraphin,Charlotte Bobcats,L,11/24/2012,22:23,3,10,0.3,0,0,0.0,0,0,0.0,2,3,5,0,0,1,3,1,6,-23
+Washington Wizards,G,Jordan Crawford,Charlotte Bobcats,L,11/24/2012,35:00,4,15,0.267,0,4,0.0,1,1,1.0,2,2,4,6,1,0,5,3,9,-16
+Washington Wizards,G,Shaun Livingston,Charlotte Bobcats,L,11/24/2012,22:01,3,4,0.75,0,0,0.0,2,2,1.0,1,3,4,0,1,0,3,2,8,-17
+Washington Wizards,F,Trevor Ariza,San Antonio Spurs,L,11/26/2012,16:35,2,5,0.4,0,1,0.0,1,1,1.0,3,1,4,1,1,0,2,0,5,-8
+Washington Wizards,F,Kevin Seraphin,San Antonio Spurs,L,11/26/2012,31:36,9,19,0.474,0,0,0.0,0,0,0.0,4,3,7,0,4,2,3,4,18,-16
+Washington Wizards,C,Emeka Okafor,San Antonio Spurs,L,11/26/2012,23:02,2,4,0.5,0,0,0.0,0,0,0.0,2,1,3,2,0,0,0,1,4,-14
+Washington Wizards,G,Bradley Beal,San Antonio Spurs,L,11/26/2012,30:24,4,13,0.308,0,1,0.0,3,4,0.75,0,3,3,1,2,0,0,0,11,-9
+Washington Wizards,G,A.J. Price,San Antonio Spurs,L,11/26/2012,33:10,4,8,0.5,1,2,0.5,2,3,0.667,1,4,5,7,1,0,2,0,11,-18
+Washington Wizards,F,Trevor Ariza,Portland Trail Blazers,W,11/28/2012,36:22,6,9,0.667,2,2,1.0,0,0,0.0,1,4,5,2,1,0,1,2,14,-3
+Washington Wizards,F,Kevin Seraphin,Portland Trail Blazers,W,11/28/2012,32:54,5,13,0.385,0,0,0.0,0,0,0.0,2,8,10,3,0,1,2,2,10,-6
+Washington Wizards,C,Emeka Okafor,Portland Trail Blazers,W,11/28/2012,21:51,2,7,0.286,0,0,0.0,2,2,1.0,3,5,8,2,3,1,1,2,6,-1
+Washington Wizards,G,Bradley Beal,Portland Trail Blazers,W,11/28/2012,16:18,2,6,0.333,1,2,0.5,0,0,0.0,0,0,0,0,0,0,2,0,5,-3
+Washington Wizards,G,A.J. Price,Portland Trail Blazers,W,11/28/2012,30:59,1,7,0.143,1,3,0.333,0,0,0.0,0,3,3,6,0,0,1,3,3,0
+Washington Wizards,F,Trevor Ariza,New York Knicks,L,11/30/2012,24:06,3,9,0.333,0,3,0.0,3,3,1.0,0,4,4,1,1,1,1,3,9,-9
+Washington Wizards,F,Kevin Seraphin,New York Knicks,L,11/30/2012,26:23,6,15,0.4,0,0,0.0,1,2,0.5,7,3,10,2,0,0,3,3,13,-12
+Washington Wizards,C,Emeka Okafor,New York Knicks,L,11/30/2012,15:34,2,3,0.667,0,0,0.0,2,2,1.0,2,2,4,0,2,1,0,2,6,-3
+Washington Wizards,G,Bradley Beal,New York Knicks,L,11/30/2012,31:20,5,11,0.455,2,5,0.4,2,4,0.5,0,3,3,0,0,0,2,0,14,-9
+Washington Wizards,G,A.J. Price,New York Knicks,L,11/30/2012,24:50,3,7,0.429,2,4,0.5,0,0,0.0,1,3,4,2,0,0,0,1,8,-11
+Washington Wizards,F,Trevor Ariza,Miami Heat,W,12/04/2012,16:13,2,6,0.333,0,0,0.0,0,0,0.0,1,1,2,5,3,0,0,1,4,7
+Washington Wizards,F,Chris Singleton,Miami Heat,W,12/04/2012,35:04,2,7,0.286,0,1,0.0,5,8,0.625,2,7,9,3,0,1,1,1,9,6
+Washington Wizards,C,Emeka Okafor,Miami Heat,W,12/04/2012,12:42,1,1,1.0,0,0,0.0,2,2,1.0,2,3,5,0,0,0,1,0,4,3
+Washington Wizards,G,Bradley Beal,Miami Heat,W,12/04/2012,16:56,5,11,0.455,0,3,0.0,0,0,0.0,0,2,2,3,0,1,0,3,10,-3
+Washington Wizards,G,A.J. Price,Miami Heat,W,12/04/2012,23:03,5,7,0.714,2,4,0.5,2,2,1.0,0,1,1,4,0,0,0,1,14,3
+Washington Wizards,F,Martell Webster,Atlanta Hawks,L,12/07/2012,31:15,2,5,0.4,1,2,0.5,0,0,0.0,0,0,0,2,0,0,2,1,5,-21
+Washington Wizards,F,Chris Singleton,Atlanta Hawks,L,12/07/2012,18:19,3,7,0.429,0,0,0.0,1,2,0.5,1,2,3,2,0,0,0,2,7,-14
+Washington Wizards,C,Emeka Okafor,Atlanta Hawks,L,12/07/2012,22:39,3,5,0.6,0,0,0.0,0,0,0.0,1,4,5,1,0,0,2,1,6,-3
+Washington Wizards,G,Bradley Beal,Atlanta Hawks,L,12/07/2012,28:04,5,12,0.417,2,4,0.5,6,6,1.0,0,3,3,3,2,1,1,2,18,-7
+Washington Wizards,G,A.J. Price,Atlanta Hawks,L,12/07/2012,29:14,2,6,0.333,2,5,0.4,0,0,0.0,0,2,2,6,1,1,2,0,6,-12
+Washington Wizards,F,Martell Webster,Golden State Warriors,L,12/08/2012,24:53,3,10,0.3,1,5,0.2,2,4,0.5,1,4,5,3,2,1,0,1,9,0
+Washington Wizards,F,Chris Singleton,Golden State Warriors,L,12/08/2012,35:29,4,11,0.364,1,2,0.5,1,2,0.5,1,3,4,1,1,1,0,5,10,5
+Washington Wizards,C,Emeka Okafor,Golden State Warriors,L,12/08/2012,11:34,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,1,0,1,1,2,-2
+Washington Wizards,G,Bradley Beal,Golden State Warriors,L,12/08/2012,40:26,6,17,0.353,1,6,0.167,4,6,0.667,1,5,6,6,2,1,1,1,17,-3
+Washington Wizards,G,A.J. Price,Golden State Warriors,L,12/08/2012,4:18,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-3
+Washington Wizards,F,Martell Webster,New Orleans Hornets,W,12/11/2012,17:50,0,4,0.0,0,1,0.0,2,3,0.667,1,2,3,0,0,0,2,3,2,-7
+Washington Wizards,F,Chris Singleton,New Orleans Hornets,W,12/11/2012,30:46,1,7,0.143,0,1,0.0,0,0,0.0,2,3,5,0,0,2,2,4,2,-1
+Washington Wizards,C,Emeka Okafor,New Orleans Hornets,W,12/11/2012,24:37,3,4,0.75,0,0,0.0,0,0,0.0,1,3,4,2,0,2,2,3,6,-2
+Washington Wizards,G,Bradley Beal,New Orleans Hornets,W,12/11/2012,38:33,6,12,0.5,1,4,0.25,2,2,1.0,1,6,7,4,1,0,1,2,15,2
+Washington Wizards,G,Jordan Crawford,New Orleans Hornets,W,12/11/2012,41:35,9,24,0.375,2,8,0.25,6,8,0.75,0,6,6,4,0,1,2,1,26,13
+Washington Wizards,F,Chris Singleton,Houston Rockets,L,12/12/2012,20:59,0,7,0.0,0,2,0.0,0,0,0.0,1,4,5,0,1,4,1,2,0,6
+Washington Wizards,F,Martell Webster,Houston Rockets,L,12/12/2012,37:30,7,12,0.583,1,4,0.25,1,1,1.0,1,6,7,1,2,1,1,2,16,-2
+Washington Wizards,C,Emeka Okafor,Houston Rockets,L,12/12/2012,34:24,9,12,0.75,0,0,0.0,1,2,0.5,2,4,6,2,2,2,2,1,19,-3
+Washington Wizards,G,Bradley Beal,Houston Rockets,L,12/12/2012,37:57,6,15,0.4,3,7,0.429,5,6,0.833,0,4,4,5,2,0,3,6,20,-8
+Washington Wizards,G,Jordan Crawford,Houston Rockets,L,12/12/2012,39:09,6,18,0.333,3,9,0.333,2,2,1.0,1,7,8,6,0,0,3,2,17,3
+Washington Wizards,F,Chris Singleton,Los Angeles Lakers,L,12/14/2012,15:50,2,4,0.5,0,0,0.0,0,0,0.0,2,3,5,0,0,0,1,2,4,-16
+Washington Wizards,F,Martell Webster,Los Angeles Lakers,L,12/14/2012,38:09,5,9,0.556,2,3,0.667,5,5,1.0,0,4,4,2,0,0,3,5,17,-6
+Washington Wizards,C,Emeka Okafor,Los Angeles Lakers,L,12/14/2012,17:29,1,6,0.167,0,0,0.0,0,0,0.0,0,5,5,2,0,1,0,3,2,-3
+Washington Wizards,G,Bradley Beal,Los Angeles Lakers,L,12/14/2012,21:53,2,7,0.286,0,3,0.0,0,0,0.0,0,4,4,1,1,0,3,5,4,-19
+Washington Wizards,G,Jordan Crawford,Los Angeles Lakers,L,12/14/2012,35:57,5,17,0.294,1,3,0.333,0,0,0.0,3,3,6,6,2,0,4,1,11,-1
+Washington Wizards,F,Chris Singleton,Miami Heat,L,12/15/2012,29:35,3,6,0.5,0,2,0.0,1,1,1.0,2,4,6,0,2,0,2,4,7,-25
+Washington Wizards,F,Martell Webster,Miami Heat,L,12/15/2012,24:13,1,6,0.167,0,1,0.0,2,2,1.0,1,1,2,1,1,0,2,3,4,-30
+Washington Wizards,C,Emeka Okafor,Miami Heat,L,12/15/2012,23:00,4,8,0.5,0,0,0.0,0,2,0.0,4,6,10,0,0,0,1,2,8,-28
+Washington Wizards,G,Bradley Beal,Miami Heat,L,12/15/2012,37:32,6,18,0.333,2,6,0.333,5,6,0.833,0,3,3,0,1,0,3,1,19,-38
+Washington Wizards,G,Jordan Crawford,Miami Heat,L,12/15/2012,34:45,2,12,0.167,1,5,0.2,0,0,0.0,0,1,1,6,3,0,6,1,5,-26
+Washington Wizards,F,Chris Singleton,Atlanta Hawks,L,12/18/2012,11:12,1,4,0.25,0,0,0.0,0,0,0.0,0,2,2,1,2,0,0,2,2,-14
+Washington Wizards,F,Martell Webster,Atlanta Hawks,L,12/18/2012,37:26,3,9,0.333,1,4,0.25,4,4,1.0,0,2,2,2,0,1,1,4,11,-6
+Washington Wizards,C,Emeka Okafor,Atlanta Hawks,L,12/18/2012,24:56,3,9,0.333,0,0,0.0,0,0,0.0,2,0,2,1,0,0,1,0,6,-1
+Washington Wizards,G,Bradley Beal,Atlanta Hawks,L,12/18/2012,40:12,8,22,0.364,0,3,0.0,1,2,0.5,3,2,5,4,2,0,1,4,17,-1
+Washington Wizards,G,Jordan Crawford,Atlanta Hawks,L,12/18/2012,44:23,10,22,0.455,5,10,0.5,2,2,1.0,2,9,11,11,0,0,1,1,27,-1
+Washington Wizards,F,Martell Webster,Orlando Magic,L,12/19/2012,31:18,4,8,0.5,3,6,0.5,0,0,0.0,0,4,4,1,1,1,0,3,11,-2
+Washington Wizards,F,Earl Barron,Orlando Magic,L,12/19/2012,20:13,1,6,0.167,0,0,0.0,0,0,0.0,0,5,5,1,1,0,2,5,2,-7
+Washington Wizards,C,Emeka Okafor,Orlando Magic,L,12/19/2012,27:04,4,9,0.444,0,0,0.0,0,2,0.0,3,9,12,3,0,1,0,1,8,-1
+Washington Wizards,G,Shaun Livingston,Orlando Magic,L,12/19/2012,24:48,1,7,0.143,0,0,0.0,0,0,0.0,0,3,3,4,0,0,1,2,2,-16
+Washington Wizards,G,Jordan Crawford,Orlando Magic,L,12/19/2012,41:01,7,16,0.438,3,7,0.429,2,2,1.0,1,3,4,6,2,0,7,1,19,-2
+Washington Wizards,F,Martell Webster,Detroit Pistons,L,12/21/2012,40:43,2,7,0.286,1,3,0.333,5,6,0.833,3,6,9,5,1,1,0,1,10,-26
+Washington Wizards,F,Kevin Seraphin,Detroit Pistons,L,12/21/2012,30:23,5,18,0.278,0,0,0.0,0,0,0.0,4,2,6,0,0,1,2,4,10,-20
+Washington Wizards,C,Emeka Okafor,Detroit Pistons,L,12/21/2012,22:24,4,8,0.5,0,0,0.0,0,0,0.0,1,7,8,0,0,1,1,2,8,-12
+Washington Wizards,G,Jordan Crawford,Detroit Pistons,L,12/21/2012,36:37,10,23,0.435,0,2,0.0,0,0,0.0,1,6,7,7,1,0,4,3,20,-24
+Washington Wizards,G,Shaun Livingston,Detroit Pistons,L,12/21/2012,35:36,2,5,0.4,0,0,0.0,5,5,1.0,0,6,6,2,0,0,1,2,9,-20
+Washington Wizards,F,Martell Webster,Detroit Pistons,L,12/22/2012,29:19,1,6,0.167,0,3,0.0,2,2,1.0,0,5,5,2,0,0,0,0,4,7
+Washington Wizards,F,Nene,Detroit Pistons,L,12/22/2012,26:26,2,8,0.25,0,0,0.0,6,6,1.0,4,3,7,5,1,0,2,2,10,4
+Washington Wizards,C,Emeka Okafor,Detroit Pistons,L,12/22/2012,29:16,5,9,0.556,0,0,0.0,4,6,0.667,3,11,14,0,1,2,4,1,14,-3
+Washington Wizards,G,Bradley Beal,Detroit Pistons,L,12/22/2012,43:51,7,17,0.412,0,5,0.0,0,0,0.0,1,4,5,4,0,0,0,2,14,-15
+Washington Wizards,G,Jordan Crawford,Detroit Pistons,L,12/22/2012,37:12,4,13,0.308,2,8,0.25,11,12,0.917,0,1,1,6,3,0,3,4,21,-5
+Washington Wizards,F,Martell Webster,Cleveland Cavaliers,L,12/26/2012,33:55,5,7,0.714,2,3,0.667,0,0,0.0,4,6,10,2,0,0,4,3,12,4
+Washington Wizards,F,Nene,Cleveland Cavaliers,L,12/26/2012,25:55,6,10,0.6,0,0,0.0,4,5,0.8,1,6,7,4,0,2,4,3,16,25
+Washington Wizards,C,Emeka Okafor,Cleveland Cavaliers,L,12/26/2012,30:25,8,14,0.571,0,0,0.0,1,2,0.5,1,9,10,0,0,4,2,2,17,1
+Washington Wizards,G,Bradley Beal,Cleveland Cavaliers,L,12/26/2012,21:20,0,5,0.0,0,2,0.0,2,2,1.0,0,2,2,4,0,0,1,0,2,5
+Washington Wizards,G,Shelvin Mack,Cleveland Cavaliers,L,12/26/2012,28:30,2,6,0.333,2,3,0.667,0,0,0.0,1,5,6,7,1,0,3,0,6,7
+Washington Wizards,F,Martell Webster,Orlando Magic,W,12/28/2012,23:14,3,7,0.429,2,3,0.667,0,0,0.0,0,1,1,2,0,0,0,3,8,-9
+Washington Wizards,F,Nene,Orlando Magic,W,12/28/2012,29:05,7,11,0.636,0,0,0.0,9,10,0.9,2,9,11,4,1,0,3,3,23,-3
+Washington Wizards,C,Emeka Okafor,Orlando Magic,W,12/28/2012,29:57,1,7,0.143,0,0,0.0,0,0,0.0,1,10,11,1,0,3,1,1,2,3
+Washington Wizards,G,Bradley Beal,Orlando Magic,W,12/28/2012,30:30,4,12,0.333,0,3,0.0,3,3,1.0,0,1,1,4,1,1,0,1,11,1
+Washington Wizards,G,Shelvin Mack,Orlando Magic,W,12/28/2012,13:51,2,7,0.286,0,4,0.0,0,0,0.0,0,2,2,1,0,0,1,1,4,-16
+Washington Wizards,F,Martell Webster,Chicago Bulls,L,12/29/2012,36:51,4,10,0.4,2,3,0.667,0,0,0.0,1,5,6,1,0,0,0,0,10,-4
+Washington Wizards,F,Nene,Chicago Bulls,L,12/29/2012,24:35,4,11,0.364,0,0,0.0,2,6,0.333,1,8,9,2,0,0,2,1,10,-6
+Washington Wizards,C,Emeka Okafor,Chicago Bulls,L,12/29/2012,35:34,5,11,0.455,0,0,0.0,1,2,0.5,6,12,18,1,0,2,2,3,11,-7
+Washington Wizards,G,Bradley Beal,Chicago Bulls,L,12/29/2012,33:51,5,15,0.333,0,3,0.0,4,4,1.0,1,4,5,3,1,0,3,2,14,-10
+Washington Wizards,G,Garrett Temple,Chicago Bulls,L,12/29/2012,41:12,3,11,0.273,0,2,0.0,2,2,1.0,3,6,9,5,1,1,4,3,8,-9
+Washington Wizards,F,Martell Webster,Dallas Mavericks,L,01/01/2013,30:43,4,11,0.364,2,8,0.25,4,4,1.0,2,4,6,1,0,0,3,0,14,-10
+Washington Wizards,F,Nene,Dallas Mavericks,L,01/01/2013,25:10,2,10,0.2,0,0,0.0,3,3,1.0,1,4,5,3,1,1,2,3,7,-2
+Washington Wizards,C,Emeka Okafor,Dallas Mavericks,L,01/01/2013,26:44,5,10,0.5,0,0,0.0,4,6,0.667,5,6,11,1,0,0,2,3,14,6
+Washington Wizards,G,Bradley Beal,Dallas Mavericks,L,01/01/2013,35:06,7,16,0.438,4,7,0.571,4,7,0.571,2,2,4,2,0,1,2,2,22,-18
+Washington Wizards,G,Garrett Temple,Dallas Mavericks,L,01/01/2013,23:29,1,6,0.167,1,4,0.25,3,4,0.75,1,2,3,3,1,1,1,4,6,6
+Washington Wizards,F,Martell Webster,Indiana Pacers,L,01/02/2013,14:00,0,3,0.0,0,0,0.0,0,0,0.0,0,0,0,2,1,0,1,1,0,-14
+Washington Wizards,F,Nene,Indiana Pacers,L,01/02/2013,24:57,6,13,0.462,0,0,0.0,3,3,1.0,1,5,6,1,2,1,5,1,15,-13
+Washington Wizards,C,Emeka Okafor,Indiana Pacers,L,01/02/2013,21:44,2,6,0.333,0,0,0.0,0,0,0.0,2,7,9,0,1,1,2,1,4,-14
+Washington Wizards,G,Bradley Beal,Indiana Pacers,L,01/02/2013,28:08,6,15,0.4,2,4,0.5,0,0,0.0,0,2,2,3,0,1,0,2,14,-8
+Washington Wizards,G,Garrett Temple,Indiana Pacers,L,01/02/2013,22:19,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,7,0,2,2,6,0,-10
+Washington Wizards,F,Martell Webster,Brooklyn Nets,L,01/04/2013,43:33,4,12,0.333,2,4,0.5,4,4,1.0,1,4,5,4,1,0,2,2,14,-4
+Washington Wizards,F,Nene,Brooklyn Nets,L,01/04/2013,36:02,8,12,0.667,0,0,0.0,4,5,0.8,0,6,6,4,3,0,3,6,20,13
+Washington Wizards,C,Emeka Okafor,Brooklyn Nets,L,01/04/2013,30:56,6,10,0.6,0,0,0.0,1,7,0.143,0,7,7,2,2,0,0,3,13,3
+Washington Wizards,G,Bradley Beal,Brooklyn Nets,L,01/04/2013,47:36,10,19,0.526,2,4,0.5,2,2,1.0,1,5,6,4,3,1,1,3,24,3
+Washington Wizards,G,Garrett Temple,Brooklyn Nets,L,01/04/2013,47:21,3,10,0.3,1,3,0.333,1,2,0.5,3,4,7,11,1,0,1,3,8,2
+Washington Wizards,F,Martell Webster,Miami Heat,L,01/06/2013,25:14,4,11,0.364,1,6,0.167,1,2,0.5,1,5,6,0,2,0,1,4,10,-15
+Washington Wizards,F,Nene,Miami Heat,L,01/06/2013,22:11,1,6,0.167,0,0,0.0,3,5,0.6,2,4,6,0,0,0,1,3,5,-16
+Washington Wizards,C,Emeka Okafor,Miami Heat,L,01/06/2013,18:58,2,6,0.333,0,0,0.0,1,2,0.5,3,6,9,2,1,0,0,0,5,-6
+Washington Wizards,G,Bradley Beal,Miami Heat,L,01/06/2013,34:16,4,14,0.286,1,3,0.333,0,3,0.0,0,3,3,4,2,0,1,1,9,-24
+Washington Wizards,G,Garrett Temple,Miami Heat,L,01/06/2013,31:41,0,7,0.0,0,3,0.0,0,0,0.0,1,2,3,7,1,0,3,2,0,-18
+Washington Wizards,F,Martell Webster,Oklahoma City Thunder,W,01/07/2013,34:14,7,14,0.5,4,6,0.667,4,5,0.8,0,4,4,2,1,1,1,4,22,-1
+Washington Wizards,F,Kevin Seraphin,Oklahoma City Thunder,W,01/07/2013,38:10,8,20,0.4,0,0,0.0,3,4,0.75,4,1,5,0,0,0,2,4,19,2
+Washington Wizards,C,Emeka Okafor,Oklahoma City Thunder,W,01/07/2013,37:11,5,10,0.5,0,0,0.0,2,2,1.0,3,9,12,3,0,2,3,1,12,3
+Washington Wizards,G,Bradley Beal,Oklahoma City Thunder,W,01/07/2013,44:46,7,17,0.412,5,7,0.714,3,3,1.0,0,5,5,4,1,0,2,1,22,4
+Washington Wizards,G,Garrett Temple,Oklahoma City Thunder,W,01/07/2013,35:07,3,8,0.375,1,3,0.333,2,2,1.0,1,3,4,3,1,1,3,2,9,7
+Washington Wizards,F,Martell Webster,Atlanta Hawks,W,01/12/2013,26:27,6,10,0.6,1,3,0.333,2,6,0.333,0,1,1,2,2,0,1,3,15,14
+Washington Wizards,F,Nene,Atlanta Hawks,W,01/12/2013,26:38,3,5,0.6,0,0,0.0,2,2,1.0,3,7,10,3,0,0,3,4,8,3
+Washington Wizards,C,Emeka Okafor,Atlanta Hawks,W,01/12/2013,24:57,3,8,0.375,0,0,0.0,4,6,0.667,3,7,10,2,0,0,1,1,10,16
+Washington Wizards,G,Bradley Beal,Atlanta Hawks,W,01/12/2013,39:40,6,16,0.375,1,3,0.333,3,4,0.75,1,3,4,2,3,0,2,2,16,19
+Washington Wizards,G,A.J. Price,Atlanta Hawks,W,01/12/2013,26:55,6,12,0.5,0,4,0.0,4,4,1.0,1,3,4,3,2,0,1,2,16,4
+Washington Wizards,F,Martell Webster,Orlando Magic,W,01/14/2013,19:02,2,3,0.667,1,2,0.5,3,3,1.0,0,2,2,3,2,0,2,4,8,12
+Washington Wizards,F,Nene,Orlando Magic,W,01/14/2013,15:46,1,4,0.25,0,0,0.0,0,0,0.0,0,3,3,0,0,0,0,1,2,-3
+Washington Wizards,C,Emeka Okafor,Orlando Magic,W,01/14/2013,27:25,8,13,0.615,0,0,0.0,3,4,0.75,2,9,11,2,0,1,1,1,19,6
+Washington Wizards,G,Bradley Beal,Orlando Magic,W,01/14/2013,29:42,7,10,0.7,1,1,1.0,2,2,1.0,1,1,2,2,1,0,2,2,17,9
+Washington Wizards,G,A.J. Price,Orlando Magic,W,01/14/2013,28:11,5,9,0.556,3,5,0.6,5,6,0.833,1,0,1,6,2,0,1,1,18,28
+Washington Wizards,F,Martell Webster,Sacramento Kings,L,01/16/2013,27:44,3,5,0.6,1,3,0.333,3,4,0.75,0,9,9,3,0,0,3,1,10,2
+Washington Wizards,F,Nene,Sacramento Kings,L,01/16/2013,29:19,7,12,0.583,0,0,0.0,1,1,1.0,4,5,9,6,2,1,3,4,15,9
+Washington Wizards,C,Emeka Okafor,Sacramento Kings,L,01/16/2013,27:21,3,7,0.429,0,0,0.0,0,0,0.0,1,7,8,0,0,1,2,3,6,5
+Washington Wizards,G,Bradley Beal,Sacramento Kings,L,01/16/2013,40:49,9,14,0.643,6,7,0.857,2,2,1.0,1,2,3,6,1,1,1,2,26,2
+Washington Wizards,G,A.J. Price,Sacramento Kings,L,01/16/2013,22:05,3,8,0.375,1,2,0.5,0,0,0.0,0,1,1,4,1,0,1,1,7,2
+Washington Wizards,F,Martell Webster,Denver Nuggets,W,01/18/2013,19:53,3,7,0.429,1,4,0.25,3,3,1.0,1,4,5,4,0,0,0,4,10,4
+Washington Wizards,F,Nene,Denver Nuggets,W,01/18/2013,28:33,3,8,0.375,0,0,0.0,1,5,0.2,1,3,4,1,3,1,3,2,7,-4
+Washington Wizards,C,Emeka Okafor,Denver Nuggets,W,01/18/2013,21:10,5,7,0.714,0,0,0.0,0,0,0.0,1,6,7,0,3,2,3,2,10,-7
+Washington Wizards,G,Bradley Beal,Denver Nuggets,W,01/18/2013,32:06,8,13,0.615,4,7,0.571,3,5,0.6,2,1,3,4,0,1,3,2,23,-6
+Washington Wizards,G,A.J. Price,Denver Nuggets,W,01/18/2013,21:56,2,4,0.5,2,2,1.0,0,0,0.0,0,1,1,3,1,0,1,1,6,-11
+Washington Wizards,F,Martell Webster,Los Angeles Clippers,L,01/19/2013,19:50,1,7,0.143,1,4,0.25,0,0,0.0,2,2,4,3,1,0,1,1,3,1
+Washington Wizards,F,Nene,Los Angeles Clippers,L,01/19/2013,27:52,6,14,0.429,0,0,0.0,0,1,0.0,0,7,7,2,0,0,3,5,12,1
+Washington Wizards,C,Emeka Okafor,Los Angeles Clippers,L,01/19/2013,26:19,3,4,0.75,0,0,0.0,0,3,0.0,6,6,12,3,0,3,4,0,6,-3
+Washington Wizards,G,Bradley Beal,Los Angeles Clippers,L,01/19/2013,32:02,5,11,0.455,3,5,0.6,0,0,0.0,0,1,1,0,1,0,1,3,13,-7
+Washington Wizards,G,A.J. Price,Los Angeles Clippers,L,01/19/2013,17:20,2,4,0.5,2,3,0.667,1,3,0.333,0,1,1,4,0,0,0,3,7,-10
+Washington Wizards,F,Martell Webster,Portland Trail Blazers,W,01/21/2013,38:15,8,11,0.727,4,6,0.667,4,4,1.0,0,4,4,6,0,0,2,1,24,11
+Washington Wizards,F,Nene,Portland Trail Blazers,W,01/21/2013,32:20,10,17,0.588,0,0,0.0,4,5,0.8,4,5,9,5,4,0,1,2,24,3
+Washington Wizards,C,Emeka Okafor,Portland Trail Blazers,W,01/21/2013,29:33,6,11,0.545,0,0,0.0,1,4,0.25,4,9,13,3,0,1,2,1,13,9
+Washington Wizards,G,Bradley Beal,Portland Trail Blazers,W,01/21/2013,25:49,1,7,0.143,0,2,0.0,0,0,0.0,1,4,5,1,0,0,2,2,2,12
+Washington Wizards,G,A.J. Price,Portland Trail Blazers,W,01/21/2013,21:38,2,7,0.286,0,3,0.0,0,0,0.0,0,1,1,4,0,0,0,1,4,9
+Washington Wizards,F,Martell Webster,Utah Jazz,L,01/23/2013,34:16,3,6,0.5,3,4,0.75,6,6,1.0,1,2,3,2,1,1,3,3,15,0
+Washington Wizards,F,Nene,Utah Jazz,L,01/23/2013,28:29,3,14,0.214,0,0,0.0,3,4,0.75,3,5,8,2,1,2,5,2,9,-4
+Washington Wizards,C,Emeka Okafor,Utah Jazz,L,01/23/2013,31:04,3,10,0.3,0,0,0.0,0,0,0.0,5,12,17,1,1,2,1,2,6,-9
+Washington Wizards,G,Bradley Beal,Utah Jazz,L,01/23/2013,25:16,5,11,0.455,0,3,0.0,2,6,0.333,0,2,2,2,1,0,1,1,12,7
+Washington Wizards,G,A.J. Price,Utah Jazz,L,01/23/2013,21:20,4,9,0.444,2,5,0.4,0,0,0.0,0,3,3,3,0,0,0,1,10,5
+Washington Wizards,F,Martell Webster,Minnesota Timberwolves,W,01/25/2013,26:46,5,7,0.714,3,4,0.75,0,0,0.0,1,3,4,3,1,0,0,1,13,16
+Washington Wizards,F,Nene,Minnesota Timberwolves,W,01/25/2013,21:58,6,9,0.667,0,0,0.0,2,4,0.5,2,5,7,3,0,0,3,3,14,17
+Washington Wizards,C,Emeka Okafor,Minnesota Timberwolves,W,01/25/2013,23:32,4,6,0.667,0,0,0.0,0,0,0.0,1,7,8,4,2,1,3,4,8,23
+Washington Wizards,G,Bradley Beal,Minnesota Timberwolves,W,01/25/2013,25:15,6,11,0.545,2,5,0.4,2,2,1.0,0,1,1,0,0,4,1,0,16,24
+Washington Wizards,G,John Wall,Minnesota Timberwolves,W,01/25/2013,20:58,6,10,0.6,0,0,0.0,2,3,0.667,0,1,1,5,0,2,2,3,14,15
+Washington Wizards,F,Martell Webster,Chicago Bulls,W,01/26/2013,21:36,2,5,0.4,0,2,0.0,0,0,0.0,0,3,3,1,0,1,3,1,4,11
+Washington Wizards,F,Nene,Chicago Bulls,W,01/26/2013,30:20,5,13,0.385,0,0,0.0,6,6,1.0,1,5,6,4,0,0,0,3,16,22
+Washington Wizards,C,Emeka Okafor,Chicago Bulls,W,01/26/2013,30:26,6,8,0.75,0,0,0.0,3,4,0.75,4,12,16,0,2,0,0,3,15,20
+Washington Wizards,G,Bradley Beal,Chicago Bulls,W,01/26/2013,29:10,2,10,0.2,0,3,0.0,0,1,0.0,0,0,0,1,0,0,0,1,4,16
+Washington Wizards,G,John Wall,Chicago Bulls,W,01/26/2013,27:15,6,13,0.462,0,0,0.0,3,4,0.75,0,3,3,7,1,0,4,1,15,18
+Washington Wizards,F,Martell Webster,Sacramento Kings,L,01/28/2013,32:06,6,9,0.667,2,5,0.4,4,4,1.0,1,2,3,2,0,0,2,1,18,7
+Washington Wizards,F,Nene,Sacramento Kings,L,01/28/2013,30:21,2,8,0.25,0,0,0.0,0,0,0.0,2,5,7,2,1,1,6,3,4,-1
+Washington Wizards,C,Emeka Okafor,Sacramento Kings,L,01/28/2013,33:09,9,13,0.692,0,0,0.0,5,6,0.833,4,11,15,3,1,0,1,4,23,19
+Washington Wizards,G,Bradley Beal,Sacramento Kings,L,01/28/2013,24:26,2,6,0.333,1,2,0.5,1,1,1.0,0,1,1,3,0,0,1,4,6,3
+Washington Wizards,G,John Wall,Sacramento Kings,L,01/28/2013,29:56,9,16,0.563,0,0,0.0,1,2,0.5,0,1,1,6,0,0,2,3,19,-2
+Washington Wizards,F,Martell Webster,Philadelphia 76ers,L,01/30/2013,31:08,4,13,0.308,3,9,0.333,4,4,1.0,0,2,2,0,1,0,4,2,15,5
+Washington Wizards,F,Nene,Philadelphia 76ers,L,01/30/2013,36:31,5,10,0.5,0,0,0.0,6,6,1.0,2,6,8,2,1,0,3,2,16,-6
+Washington Wizards,C,Emeka Okafor,Philadelphia 76ers,L,01/30/2013,35:50,7,15,0.467,0,0,0.0,1,2,0.5,4,13,17,2,0,2,1,3,15,5
+Washington Wizards,G,Garrett Temple,Philadelphia 76ers,L,01/30/2013,20:07,1,2,0.5,0,1,0.0,0,0,0.0,0,2,2,3,1,1,0,2,2,-9
+Washington Wizards,G,John Wall,Philadelphia 76ers,L,01/30/2013,32:03,3,12,0.25,0,2,0.0,3,5,0.6,0,5,5,6,1,2,5,1,9,-1
+Washington Wizards,F,Martell Webster,Memphis Grizzlies,L,02/01/2013,33:48,3,8,0.375,2,6,0.333,0,0,0.0,0,0,0,1,1,0,1,2,8,-6
+Washington Wizards,F,Nene,Memphis Grizzlies,L,02/01/2013,33:08,7,16,0.438,0,0,0.0,0,0,0.0,0,4,4,6,1,0,1,4,14,-7
+Washington Wizards,C,Emeka Okafor,Memphis Grizzlies,L,02/01/2013,35:25,4,9,0.444,0,0,0.0,0,0,0.0,3,7,10,1,2,0,1,5,8,-3
+Washington Wizards,G,Garrett Temple,Memphis Grizzlies,L,02/01/2013,17:50,2,5,0.4,0,2,0.0,0,0,0.0,0,0,0,1,3,0,0,0,4,-1
+Washington Wizards,G,John Wall,Memphis Grizzlies,L,02/01/2013,23:29,3,8,0.375,1,2,0.5,2,2,1.0,0,7,7,6,0,0,4,4,9,-9
+Washington Wizards,F,Martell Webster,San Antonio Spurs,L,02/02/2013,32:36,5,9,0.556,3,5,0.6,1,2,0.5,0,5,5,2,1,0,2,3,14,-14
+Washington Wizards,F,Nene,San Antonio Spurs,L,02/02/2013,28:12,5,12,0.417,0,0,0.0,1,4,0.25,4,2,6,6,0,1,2,1,11,-22
+Washington Wizards,C,Emeka Okafor,San Antonio Spurs,L,02/02/2013,20:22,1,6,0.167,0,0,0.0,0,2,0.0,2,7,9,0,0,1,1,1,2,-24
+Washington Wizards,G,Garrett Temple,San Antonio Spurs,L,02/02/2013,10:52,1,4,0.25,0,1,0.0,0,0,0.0,1,0,1,0,0,0,1,2,2,-13
+Washington Wizards,G,John Wall,San Antonio Spurs,L,02/02/2013,36:07,10,22,0.455,0,2,0.0,1,1,1.0,2,3,5,9,1,0,4,5,21,-9
+Washington Wizards,F,Martell Webster,Los Angeles Clippers,W,02/04/2013,34:05,6,10,0.6,5,6,0.833,4,4,1.0,1,4,5,3,1,0,0,3,21,17
+Washington Wizards,F,Nene,Los Angeles Clippers,W,02/04/2013,32:19,5,11,0.455,0,0,0.0,5,7,0.714,3,4,7,4,0,0,2,3,15,7
+Washington Wizards,C,Emeka Okafor,Los Angeles Clippers,W,02/04/2013,26:23,4,9,0.444,0,0,0.0,1,4,0.25,6,9,15,2,1,0,0,0,9,12
+Washington Wizards,G,Garrett Temple,Los Angeles Clippers,W,02/04/2013,36:56,7,12,0.583,0,0,0.0,1,2,0.5,0,3,3,2,3,3,2,2,15,5
+Washington Wizards,G,John Wall,Los Angeles Clippers,W,02/04/2013,32:09,6,18,0.333,0,0,0.0,1,3,0.333,0,1,1,8,1,0,2,3,13,9
+Washington Wizards,F,Martell Webster,New York Knicks,W,02/06/2013,42:01,6,11,0.545,5,9,0.556,2,2,1.0,0,2,2,2,0,0,0,1,19,14
+Washington Wizards,F,Nene,New York Knicks,W,02/06/2013,27:49,6,9,0.667,0,0,0.0,1,2,0.5,1,9,10,3,1,1,0,5,13,10
+Washington Wizards,C,Emeka Okafor,New York Knicks,W,02/06/2013,24:59,6,11,0.545,0,0,0.0,0,0,0.0,2,5,7,1,1,0,0,1,12,0
+Washington Wizards,G,Garrett Temple,New York Knicks,W,02/06/2013,16:36,2,4,0.5,0,0,0.0,0,0,0.0,0,2,2,1,0,0,2,0,4,7
+Washington Wizards,G,John Wall,New York Knicks,W,02/06/2013,38:53,8,18,0.444,0,1,0.0,5,5,1.0,1,4,5,9,0,1,6,2,21,21
+Washington Wizards,F,Martell Webster,Brooklyn Nets,W,02/08/2013,32:41,6,9,0.667,3,5,0.6,1,2,0.5,0,4,4,2,3,0,0,3,16,7
+Washington Wizards,F,Nene,Brooklyn Nets,W,02/08/2013,33:39,9,13,0.692,0,0,0.0,2,2,1.0,0,11,11,1,1,2,1,2,20,12
+Washington Wizards,C,Emeka Okafor,Brooklyn Nets,W,02/08/2013,25:30,3,8,0.375,0,0,0.0,0,0,0.0,1,7,8,0,0,0,3,2,6,-1
+Washington Wizards,G,Garrett Temple,Brooklyn Nets,W,02/08/2013,16:16,1,4,0.25,0,1,0.0,0,0,0.0,0,1,1,1,1,0,0,2,2,0
+Washington Wizards,G,John Wall,Brooklyn Nets,W,02/08/2013,33:01,6,17,0.353,0,0,0.0,3,3,1.0,1,3,4,9,4,0,2,5,15,15
+Washington Wizards,F,Martell Webster,Milwaukee Bucks,W,02/11/2013,20:02,1,4,0.25,0,1,0.0,0,0,0.0,0,1,1,1,0,0,1,2,2,-4
+Washington Wizards,F,Nene,Milwaukee Bucks,W,02/11/2013,37:23,10,13,0.769,0,0,0.0,1,2,0.5,1,12,13,6,2,1,2,2,21,15
+Washington Wizards,C,Emeka Okafor,Milwaukee Bucks,W,02/11/2013,24:15,5,8,0.625,0,0,0.0,2,2,1.0,3,7,10,3,0,0,1,2,12,-2
+Washington Wizards,G,Garrett Temple,Milwaukee Bucks,W,02/11/2013,11:44,1,3,0.333,0,0,0.0,0,0,0.0,0,3,3,0,0,1,1,1,2,-15
+Washington Wizards,G,John Wall,Milwaukee Bucks,W,02/11/2013,32:43,5,6,0.833,0,0,0.0,4,6,0.667,0,4,4,10,1,0,7,1,14,0
+Washington Wizards,F,Martell Webster,Detroit Pistons,L,02/13/2013,25:12,3,5,0.6,2,2,1.0,1,2,0.5,0,3,3,1,0,0,1,0,9,-1
+Washington Wizards,F,Nene,Detroit Pistons,L,02/13/2013,32:36,5,9,0.556,0,0,0.0,0,1,0.0,0,2,2,4,2,1,2,2,10,-14
+Washington Wizards,C,Emeka Okafor,Detroit Pistons,L,02/13/2013,25:16,10,15,0.667,0,0,0.0,0,2,0.0,2,7,9,1,0,0,2,3,20,0
+Washington Wizards,G,Garrett Temple,Detroit Pistons,L,02/13/2013,13:32,2,3,0.667,0,0,0.0,0,0,0.0,0,0,0,0,1,0,2,2,4,3
+Washington Wizards,G,John Wall,Detroit Pistons,L,02/13/2013,36:08,4,11,0.364,0,1,0.0,8,10,0.8,0,3,3,9,2,1,3,0,16,-8
+Washington Wizards,F,Martell Webster,Toronto Raptors,L,02/19/2013,37:51,5,9,0.556,3,5,0.6,3,4,0.75,2,6,8,4,0,0,1,4,16,3
+Washington Wizards,F,Nene,Toronto Raptors,L,02/19/2013,35:39,3,11,0.273,0,0,0.0,1,2,0.5,3,4,7,3,0,0,3,3,7,4
+Washington Wizards,C,Emeka Okafor,Toronto Raptors,L,02/19/2013,28:40,5,10,0.5,0,0,0.0,2,2,1.0,2,7,9,1,0,1,1,1,12,-15
+Washington Wizards,G,Bradley Beal,Toronto Raptors,L,02/19/2013,33:01,9,19,0.474,3,6,0.5,4,6,0.667,2,2,4,1,0,0,0,1,25,-10
+Washington Wizards,G,John Wall,Toronto Raptors,L,02/19/2013,31:11,1,12,0.083,0,0,0.0,7,8,0.875,0,3,3,6,3,2,7,3,9,-17
+Washington Wizards,F,Martell Webster,Denver Nuggets,W,02/22/2013,35:01,6,12,0.5,3,6,0.5,0,0,0.0,3,4,7,2,1,0,1,5,15,-5
+Washington Wizards,F,Nene,Denver Nuggets,W,02/22/2013,30:13,5,11,0.455,0,0,0.0,4,4,1.0,1,3,4,3,1,2,2,4,14,2
+Washington Wizards,C,Emeka Okafor,Denver Nuggets,W,02/22/2013,26:41,8,14,0.571,0,0,0.0,1,5,0.2,5,8,13,2,0,0,0,2,17,15
+Washington Wizards,G,Bradley Beal,Denver Nuggets,W,02/22/2013,37:57,3,8,0.375,2,5,0.4,9,11,0.818,3,9,12,4,2,2,3,3,17,12
+Washington Wizards,G,John Wall,Denver Nuggets,W,02/22/2013,32:59,5,12,0.417,0,0,0.0,4,4,1.0,1,0,1,10,1,3,6,3,14,1
+Washington Wizards,F,Martell Webster,Houston Rockets,W,02/23/2013,30:24,5,10,0.5,2,5,0.4,0,0,0.0,0,1,1,4,0,0,1,4,12,0
+Washington Wizards,F,Nene,Houston Rockets,W,02/23/2013,30:33,3,6,0.5,0,0,0.0,2,2,1.0,1,8,9,3,0,0,3,4,8,-3
+Washington Wizards,C,Emeka Okafor,Houston Rockets,W,02/23/2013,33:49,8,16,0.5,0,0,0.0,1,3,0.333,2,9,11,1,2,3,3,4,17,14
+Washington Wizards,G,Bradley Beal,Houston Rockets,W,02/23/2013,37:04,7,15,0.467,2,4,0.5,5,6,0.833,4,1,5,4,2,1,1,3,21,6
+Washington Wizards,G,John Wall,Houston Rockets,W,02/23/2013,34:33,4,10,0.4,0,0,0.0,4,4,1.0,0,4,4,11,0,1,2,2,12,12
+Washington Wizards,F,Martell Webster,Toronto Raptors,W,02/25/2013,34:23,4,8,0.5,2,3,0.667,2,2,1.0,1,2,3,0,1,0,1,4,12,-4
+Washington Wizards,F,Nene,Toronto Raptors,W,02/25/2013,30:27,4,10,0.4,0,0,0.0,3,3,1.0,1,8,9,3,0,1,5,4,11,10
+Washington Wizards,C,Emeka Okafor,Toronto Raptors,W,02/25/2013,31:38,4,14,0.286,0,0,0.0,0,0,0.0,3,10,13,2,1,0,2,3,8,3
+Washington Wizards,G,Bradley Beal,Toronto Raptors,W,02/25/2013,39:01,8,13,0.615,2,3,0.667,2,2,1.0,0,6,6,2,1,0,2,5,20,11
+Washington Wizards,G,John Wall,Toronto Raptors,W,02/25/2013,24:16,3,11,0.273,0,0,0.0,4,4,1.0,0,5,5,7,1,0,1,2,10,5
+Washington Wizards,F,Martell Webster,Detroit Pistons,L,02/27/2013,23:16,2,6,0.333,1,2,0.5,0,0,0.0,1,3,4,2,0,0,0,1,5,5
+Washington Wizards,F,Trevor Booker,Detroit Pistons,L,02/27/2013,16:47,2,5,0.4,0,0,0.0,0,2,0.0,1,4,5,2,0,0,0,1,4,-18
+Washington Wizards,C,Emeka Okafor,Detroit Pistons,L,02/27/2013,34:57,6,10,0.6,0,0,0.0,3,4,0.75,2,3,5,3,0,0,1,1,15,-12
+Washington Wizards,G,Bradley Beal,Detroit Pistons,L,02/27/2013,42:36,8,16,0.5,0,5,0.0,0,0,0.0,0,6,6,1,3,1,1,3,16,-11
+Washington Wizards,G,John Wall,Detroit Pistons,L,02/27/2013,24:02,3,9,0.333,0,0,0.0,0,0,0.0,0,1,1,4,1,0,7,1,6,-12
+Washington Wizards,F,Martell Webster,New York Knicks,L,03/01/2013,36:39,4,7,0.571,1,3,0.333,0,0,0.0,0,5,5,1,1,0,0,4,9,8
+Washington Wizards,F,Chris Singleton,New York Knicks,L,03/01/2013,20:47,0,6,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,1,2,0,-13
+Washington Wizards,C,Emeka Okafor,New York Knicks,L,03/01/2013,37:19,4,8,0.5,0,0,0.0,3,8,0.375,2,8,10,1,0,2,2,3,11,-4
+Washington Wizards,G,Bradley Beal,New York Knicks,L,03/01/2013,39:21,10,21,0.476,4,7,0.571,5,7,0.714,2,9,11,2,0,0,1,2,29,-4
+Washington Wizards,G,John Wall,New York Knicks,L,03/01/2013,42:11,6,14,0.429,0,1,0.0,4,4,1.0,1,2,3,7,3,1,5,3,16,-10
+Washington Wizards,F,Martell Webster,Philadelphia 76ers,W,03/03/2013,30:00,4,10,0.4,3,5,0.6,5,5,1.0,1,1,2,2,0,1,0,3,16,6
+Washington Wizards,F,Nene,Philadelphia 76ers,W,03/03/2013,34:43,7,14,0.5,0,0,0.0,1,2,0.5,1,8,9,2,1,2,3,1,15,5
+Washington Wizards,C,Emeka Okafor,Philadelphia 76ers,W,03/03/2013,35:45,4,9,0.444,0,0,0.0,4,6,0.667,3,13,16,3,1,1,4,3,12,11
+Washington Wizards,G,Bradley Beal,Philadelphia 76ers,W,03/03/2013,36:48,6,12,0.5,2,3,0.667,0,0,0.0,1,3,4,3,0,2,2,4,14,3
+Washington Wizards,G,John Wall,Philadelphia 76ers,W,03/03/2013,31:20,7,11,0.636,0,1,0.0,2,2,1.0,1,4,5,6,0,1,2,2,16,0
+Washington Wizards,F,Trevor Ariza,Minnesota Timberwolves,L,03/06/2013,38:02,4,10,0.4,3,7,0.429,5,5,1.0,1,6,7,6,1,0,4,1,16,-5
+Washington Wizards,F,Nene,Minnesota Timberwolves,L,03/06/2013,35:58,3,8,0.375,0,0,0.0,6,8,0.75,3,5,8,1,1,1,7,5,12,-4
+Washington Wizards,C,Emeka Okafor,Minnesota Timberwolves,L,03/06/2013,33:00,5,9,0.556,0,0,0.0,0,0,0.0,0,14,14,1,0,1,2,3,10,6
+Washington Wizards,G,Martell Webster,Minnesota Timberwolves,L,03/06/2013,41:49,4,11,0.364,2,8,0.25,1,2,0.5,1,6,7,2,0,0,0,4,11,2
+Washington Wizards,G,John Wall,Minnesota Timberwolves,L,03/06/2013,38:49,7,15,0.467,0,1,0.0,5,5,1.0,1,2,3,7,3,1,6,3,19,1
+Washington Wizards,F,Martell Webster,Brooklyn Nets,L,03/08/2013,25:23,2,7,0.286,1,4,0.25,0,0,0.0,2,1,3,3,0,1,0,5,5,-27
+Washington Wizards,F,Nene,Brooklyn Nets,L,03/08/2013,22:49,4,9,0.444,0,0,0.0,3,4,0.75,1,4,5,2,0,1,2,2,11,-16
+Washington Wizards,C,Emeka Okafor,Brooklyn Nets,L,03/08/2013,26:17,3,9,0.333,0,0,0.0,0,0,0.0,2,7,9,1,0,2,1,3,6,-13
+Washington Wizards,G,Trevor Ariza,Brooklyn Nets,L,03/08/2013,23:23,2,9,0.222,0,3,0.0,0,0,0.0,0,2,2,3,1,0,1,0,4,-16
+Washington Wizards,G,John Wall,Brooklyn Nets,L,03/08/2013,32:11,6,19,0.316,0,1,0.0,4,6,0.667,1,5,6,3,2,1,1,2,16,-17
+Washington Wizards,F,Martell Webster,Charlotte Bobcats,W,03/09/2013,35:00,7,13,0.538,4,8,0.5,2,2,1.0,0,4,4,1,2,0,0,2,20,12
+Washington Wizards,F,Nene,Charlotte Bobcats,W,03/09/2013,31:17,6,12,0.5,0,0,0.0,7,11,0.636,2,6,8,4,0,2,4,4,19,26
+Washington Wizards,C,Emeka Okafor,Charlotte Bobcats,W,03/09/2013,27:39,2,7,0.286,0,0,0.0,2,2,1.0,3,7,10,2,1,1,0,2,6,3
+Washington Wizards,G,Garrett Temple,Charlotte Bobcats,W,03/09/2013,23:02,1,4,0.25,0,0,0.0,0,0,0.0,0,4,4,4,0,0,2,5,2,12
+Washington Wizards,G,John Wall,Charlotte Bobcats,W,03/09/2013,30:24,6,11,0.545,1,1,1.0,0,1,0.0,0,2,2,6,1,2,3,0,13,9
+Washington Wizards,F,Martell Webster,Cleveland Cavaliers,L,03/12/2013,42:29,6,14,0.429,5,11,0.455,0,0,0.0,0,4,4,1,1,0,3,1,17,2
+Washington Wizards,F,Nene,Cleveland Cavaliers,L,03/12/2013,31:20,5,11,0.455,0,0,0.0,5,6,0.833,2,8,10,1,0,0,1,5,15,-7
+Washington Wizards,C,Emeka Okafor,Cleveland Cavaliers,L,03/12/2013,31:58,8,12,0.667,0,0,0.0,2,2,1.0,5,6,11,1,1,2,1,1,18,-4
+Washington Wizards,G,Garrett Temple,Cleveland Cavaliers,L,03/12/2013,21:06,1,3,0.333,0,0,0.0,0,0,0.0,0,3,3,0,0,0,3,4,2,-6
+Washington Wizards,G,John Wall,Cleveland Cavaliers,L,03/12/2013,36:44,7,15,0.467,0,0,0.0,13,14,0.929,2,5,7,14,1,1,4,4,27,12
+Washington Wizards,F,Martell Webster,Milwaukee Bucks,W,03/13/2013,32:54,7,14,0.5,4,7,0.571,2,2,1.0,0,4,4,1,0,0,1,0,20,0
+Washington Wizards,F,Nene,Milwaukee Bucks,W,03/13/2013,33:55,6,15,0.4,0,0,0.0,1,5,0.2,3,10,13,6,3,0,1,3,13,17
+Washington Wizards,C,Emeka Okafor,Milwaukee Bucks,W,03/13/2013,22:47,3,10,0.3,0,0,0.0,0,2,0.0,2,3,5,0,0,0,0,0,6,-5
+Washington Wizards,G,Garrett Temple,Milwaukee Bucks,W,03/13/2013,41:09,6,7,0.857,0,0,0.0,1,1,1.0,1,2,3,4,0,0,2,1,13,19
+Washington Wizards,G,John Wall,Milwaukee Bucks,W,03/13/2013,42:58,10,19,0.526,1,2,0.5,2,3,0.667,1,5,6,10,4,0,2,2,23,16
+Washington Wizards,F,Martell Webster,New Orleans Hornets,W,03/15/2013,32:31,6,14,0.429,4,11,0.364,2,2,1.0,1,3,4,1,0,0,2,2,18,1
+Washington Wizards,F,Nene,New Orleans Hornets,W,03/15/2013,23:23,2,9,0.222,0,0,0.0,5,6,0.833,1,1,2,1,1,2,1,3,9,3
+Washington Wizards,C,Emeka Okafor,New Orleans Hornets,W,03/15/2013,27:37,1,4,0.25,0,0,0.0,2,4,0.5,0,2,2,2,1,1,2,1,4,2
+Washington Wizards,G,Garrett Temple,New Orleans Hornets,W,03/15/2013,44:57,4,5,0.8,0,0,0.0,2,3,0.667,0,2,2,5,1,0,0,0,10,13
+Washington Wizards,G,John Wall,New Orleans Hornets,W,03/15/2013,33:36,12,15,0.8,3,3,1.0,2,2,1.0,1,3,4,9,2,0,3,1,29,12
+Washington Wizards,F,Martell Webster,Phoenix Suns,W,03/16/2013,38:20,10,18,0.556,7,10,0.7,7,7,1.0,1,1,2,5,0,0,1,2,34,17
+Washington Wizards,F,Nene,Phoenix Suns,W,03/16/2013,22:58,5,10,0.5,0,0,0.0,4,4,1.0,3,2,5,2,0,0,0,1,14,19
+Washington Wizards,C,Emeka Okafor,Phoenix Suns,W,03/16/2013,26:26,7,12,0.583,0,0,0.0,3,5,0.6,4,6,10,1,0,1,0,2,17,19
+Washington Wizards,G,Garrett Temple,Phoenix Suns,W,03/16/2013,35:40,4,10,0.4,3,4,0.75,0,0,0.0,1,2,3,4,2,0,4,3,11,15
+Washington Wizards,G,John Wall,Phoenix Suns,W,03/16/2013,31:60,8,11,0.727,0,0,0.0,1,2,0.5,0,5,5,11,3,1,3,3,17,22
+Washington Wizards,F,Martell Webster,Charlotte Bobcats,L,03/18/2013,35:08,3,7,0.429,2,6,0.333,4,5,0.8,0,3,3,2,1,0,1,3,12,2
+Washington Wizards,F,Nene,Charlotte Bobcats,L,03/18/2013,29:18,9,11,0.818,0,0,0.0,3,3,1.0,2,5,7,7,0,1,1,5,21,-3
+Washington Wizards,C,Emeka Okafor,Charlotte Bobcats,L,03/18/2013,29:42,7,13,0.538,0,0,0.0,3,4,0.75,4,5,9,0,0,2,3,1,17,-3
+Washington Wizards,G,Garrett Temple,Charlotte Bobcats,L,03/18/2013,28:02,6,8,0.75,2,2,1.0,3,4,0.75,2,3,5,3,2,1,2,1,17,6
+Washington Wizards,G,John Wall,Charlotte Bobcats,L,03/18/2013,32:60,8,17,0.471,1,1,1.0,8,9,0.889,1,3,4,5,2,1,6,6,25,-9
+Washington Wizards,F,Martell Webster,Phoenix Suns,W,03/20/2013,29:11,5,9,0.556,3,5,0.6,0,1,0.0,0,2,2,2,0,0,1,2,13,1
+Washington Wizards,F,Nene,Phoenix Suns,W,03/20/2013,32:23,4,10,0.4,0,0,0.0,9,12,0.75,1,7,8,2,2,0,5,3,17,-1
+Washington Wizards,C,Jason Collins,Phoenix Suns,W,03/20/2013,17:13,0,2,0.0,0,0,0.0,0,0,0.0,0,3,3,2,2,2,1,4,0,-2
+Washington Wizards,G,Garrett Temple,Phoenix Suns,W,03/20/2013,27:31,0,4,0.0,0,1,0.0,0,0,0.0,0,3,3,3,2,0,2,2,0,14
+Washington Wizards,G,John Wall,Phoenix Suns,W,03/20/2013,35:50,7,14,0.5,0,0,0.0,5,6,0.833,2,0,2,8,1,0,5,4,19,-7
+Washington Wizards,F,Martell Webster,Los Angeles Lakers,W,03/22/2013,30:46,5,12,0.417,2,7,0.286,1,2,0.5,0,3,3,2,1,0,0,3,13,8
+Washington Wizards,F,Nene,Los Angeles Lakers,W,03/22/2013,32:32,7,15,0.467,0,0,0.0,1,2,0.5,1,4,5,2,1,2,1,2,15,4
+Washington Wizards,C,Jason Collins,Los Angeles Lakers,W,03/22/2013,13:18,1,1,1.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,4,2,-1
+Washington Wizards,G,Garrett Temple,Los Angeles Lakers,W,03/22/2013,36:17,4,8,0.5,2,3,0.667,0,0,0.0,1,5,6,2,2,1,0,3,10,-2
+Washington Wizards,G,John Wall,Los Angeles Lakers,W,03/22/2013,44:15,9,19,0.474,0,1,0.0,6,8,0.75,1,5,6,16,3,0,1,2,24,7
+Washington Wizards,F,Martell Webster,Golden State Warriors,L,03/23/2013,27:01,4,11,0.364,0,6,0.0,2,2,1.0,1,2,3,1,1,0,1,2,10,-21
+Washington Wizards,F,Nene,Golden State Warriors,L,03/23/2013,24:07,3,9,0.333,0,0,0.0,3,4,0.75,1,3,4,4,2,1,0,1,9,-15
+Washington Wizards,C,Emeka Okafor,Golden State Warriors,L,03/23/2013,22:58,3,7,0.429,0,0,0.0,1,2,0.5,3,2,5,0,1,0,0,1,7,-12
+Washington Wizards,G,Garrett Temple,Golden State Warriors,L,03/23/2013,42:37,4,10,0.4,1,2,0.5,0,0,0.0,0,3,3,6,2,0,5,3,9,-8
+Washington Wizards,G,John Wall,Golden State Warriors,L,03/23/2013,23:37,6,12,0.5,0,0,0.0,2,2,1.0,2,1,3,3,1,0,1,0,14,-13
+Washington Wizards,F,Chris Singleton,Memphis Grizzlies,W,03/25/2013,42:33,3,8,0.375,0,1,0.0,4,6,0.667,3,4,7,3,0,2,3,4,10,11
+Washington Wizards,F,Trevor Booker,Memphis Grizzlies,W,03/25/2013,27:14,2,3,0.667,0,0,0.0,3,6,0.5,2,2,4,2,3,1,0,1,7,19
+Washington Wizards,C,Emeka Okafor,Memphis Grizzlies,W,03/25/2013,30:41,9,15,0.6,0,0,0.0,3,4,0.75,3,6,9,0,0,0,2,2,21,13
+Washington Wizards,G,Garrett Temple,Memphis Grizzlies,W,03/25/2013,34:45,3,8,0.375,1,3,0.333,0,0,0.0,0,1,1,3,2,0,2,3,7,5
+Washington Wizards,G,John Wall,Memphis Grizzlies,W,03/25/2013,44:33,13,22,0.591,2,4,0.5,19,24,0.792,0,7,7,8,1,1,2,2,47,26
+Washington Wizards,F,Chris Singleton,Oklahoma City Thunder,L,03/27/2013,40:31,3,12,0.25,1,6,0.167,1,2,0.5,1,4,5,1,1,0,3,5,8,-18
+Washington Wizards,F,Trevor Booker,Oklahoma City Thunder,L,03/27/2013,27:05,5,8,0.625,0,0,0.0,0,0,0.0,5,3,8,0,1,1,0,2,10,-21
+Washington Wizards,C,Emeka Okafor,Oklahoma City Thunder,L,03/27/2013,26:37,2,9,0.222,0,0,0.0,1,2,0.5,3,7,10,1,1,0,0,2,5,-11
+Washington Wizards,G,Garrett Temple,Oklahoma City Thunder,L,03/27/2013,38:32,5,11,0.455,2,6,0.333,1,2,0.5,0,1,1,2,4,0,4,4,13,-23
+Washington Wizards,G,John Wall,Oklahoma City Thunder,L,03/27/2013,35:15,3,18,0.167,0,1,0.0,12,15,0.8,1,3,4,12,1,0,3,4,18,-19
+Washington Wizards,F,Martell Webster,Orlando Magic,L,03/29/2013,39:00,7,18,0.389,1,7,0.143,4,4,1.0,1,5,6,3,0,1,1,3,19,4
+Washington Wizards,F,Trevor Booker,Orlando Magic,L,03/29/2013,25:11,3,7,0.429,0,0,0.0,1,2,0.5,2,5,7,1,0,0,1,0,7,1
+Washington Wizards,C,Emeka Okafor,Orlando Magic,L,03/29/2013,30:08,3,5,0.6,0,0,0.0,3,4,0.75,4,9,13,1,0,1,2,1,9,9
+Washington Wizards,G,Garrett Temple,Orlando Magic,L,03/29/2013,34:59,2,9,0.222,1,6,0.167,2,2,1.0,2,2,4,3,0,0,0,1,7,6
+Washington Wizards,G,John Wall,Orlando Magic,L,03/29/2013,37:48,11,28,0.393,1,2,0.5,12,14,0.857,5,4,9,2,2,0,4,5,35,-5
+Washington Wizards,F,Trevor Booker,Toronto Raptors,W,03/31/2013,17:32,1,3,0.333,0,0,0.0,1,2,0.5,0,4,4,1,0,0,0,2,3,3
+Washington Wizards,F,Martell Webster,Toronto Raptors,W,03/31/2013,29:41,2,9,0.222,0,2,0.0,3,5,0.6,2,6,8,3,0,0,0,2,7,24
+Washington Wizards,C,Emeka Okafor,Toronto Raptors,W,03/31/2013,26:46,7,14,0.5,0,0,0.0,5,7,0.714,3,7,10,1,1,0,4,5,19,15
+Washington Wizards,G,Garrett Temple,Toronto Raptors,W,03/31/2013,12:51,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,1,0,-1
+Washington Wizards,G,John Wall,Toronto Raptors,W,03/31/2013,34:50,7,15,0.467,1,3,0.333,3,4,0.75,0,6,6,10,0,1,1,4,18,28
+Washington Wizards,F,Martell Webster,Chicago Bulls,W,04/02/2013,21:42,2,7,0.286,0,1,0.0,2,2,1.0,1,3,4,0,0,0,1,2,6,10
+Washington Wizards,F,Nene,Chicago Bulls,W,04/02/2013,28:28,5,11,0.455,0,0,0.0,0,0,0.0,2,5,7,4,0,1,0,4,10,-6
+Washington Wizards,C,Emeka Okafor,Chicago Bulls,W,04/02/2013,21:57,4,10,0.4,0,0,0.0,2,4,0.5,1,8,9,1,0,0,0,1,10,-2
+Washington Wizards,G,Garrett Temple,Chicago Bulls,W,04/02/2013,13:53,1,2,0.5,0,1,0.0,0,1,0.0,0,2,2,0,0,0,0,0,2,-10
+Washington Wizards,G,John Wall,Chicago Bulls,W,04/02/2013,36:53,8,17,0.471,0,0,0.0,11,13,0.846,1,7,8,9,0,3,1,0,27,7
+Washington Wizards,F,Martell Webster,Toronto Raptors,L,04/03/2013,25:41,1,8,0.125,0,4,0.0,2,4,0.5,1,2,3,3,0,0,1,3,4,-13
+Washington Wizards,F,Nene,Toronto Raptors,L,04/03/2013,32:18,5,12,0.417,0,0,0.0,2,2,1.0,2,3,5,1,1,1,3,5,12,-4
+Washington Wizards,C,Emeka Okafor,Toronto Raptors,L,04/03/2013,33:39,8,16,0.5,0,0,0.0,1,2,0.5,1,7,8,0,1,1,3,4,17,-8
+Washington Wizards,G,Garrett Temple,Toronto Raptors,L,04/03/2013,15:56,0,2,0.0,0,0,0.0,0,0,0.0,0,2,2,1,2,0,0,1,0,-11
+Washington Wizards,G,John Wall,Toronto Raptors,L,04/03/2013,32:35,5,17,0.294,0,1,0.0,10,10,1.0,1,4,5,5,0,0,2,3,20,-21
+Washington Wizards,F,Martell Webster,Indiana Pacers,W,04/06/2013,23:51,3,7,0.429,1,2,0.5,6,7,0.857,0,2,2,3,0,1,0,2,13,21
+Washington Wizards,F,Nene,Indiana Pacers,W,04/06/2013,14:15,2,3,0.667,0,0,0.0,3,4,0.75,1,3,4,2,0,1,2,4,7,18
+Washington Wizards,C,Emeka Okafor,Indiana Pacers,W,04/06/2013,25:49,3,13,0.231,0,0,0.0,2,2,1.0,2,7,9,2,0,0,1,3,8,8
+Washington Wizards,G,Garrett Temple,Indiana Pacers,W,04/06/2013,29:53,3,4,0.75,2,3,0.667,0,0,0.0,0,5,5,0,1,1,0,3,8,12
+Washington Wizards,G,John Wall,Indiana Pacers,W,04/06/2013,38:10,16,25,0.64,0,0,0.0,5,10,0.5,0,4,4,5,3,2,2,2,37,20
+Washington Wizards,F,Martell Webster,Boston Celtics,L,04/07/2013,25:07,4,11,0.364,3,7,0.429,1,1,1.0,2,4,6,2,1,0,2,2,12,-10
+Washington Wizards,F,Nene,Boston Celtics,L,04/07/2013,26:27,3,9,0.333,0,0,0.0,1,2,0.5,0,5,5,3,0,0,3,4,7,-7
+Washington Wizards,C,Emeka Okafor,Boston Celtics,L,04/07/2013,26:31,3,6,0.5,0,0,0.0,2,5,0.4,4,5,9,2,0,1,0,1,8,-12
+Washington Wizards,G,Garrett Temple,Boston Celtics,L,04/07/2013,24:00,3,6,0.5,1,2,0.5,0,0,0.0,0,1,1,2,1,2,0,1,7,-6
+Washington Wizards,G,John Wall,Boston Celtics,L,04/07/2013,39:44,8,20,0.4,0,3,0.0,0,0,0.0,0,3,3,10,1,0,3,3,16,-11
+Washington Wizards,F,Nene,New York Knicks,L,04/09/2013,24:01,3,6,0.5,0,0,0.0,3,4,0.75,1,2,3,5,1,0,2,0,9,-13
+Washington Wizards,F,Martell Webster,New York Knicks,L,04/09/2013,27:07,4,8,0.5,0,2,0.0,2,2,1.0,3,4,7,1,2,0,2,1,10,-15
+Washington Wizards,C,Emeka Okafor,New York Knicks,L,04/09/2013,22:04,1,5,0.2,0,0,0.0,2,4,0.5,4,4,8,1,0,0,1,1,4,-18
+Washington Wizards,G,Garrett Temple,New York Knicks,L,04/09/2013,30:19,2,5,0.4,1,2,0.5,2,4,0.5,0,2,2,3,0,0,0,4,7,4
+Washington Wizards,G,John Wall,New York Knicks,L,04/09/2013,33:05,11,19,0.579,0,0,0.0,11,14,0.786,0,3,3,3,1,0,4,0,33,-27
+Washington Wizards,F,Martell Webster,Miami Heat,L,04/10/2013,26:08,2,7,0.286,2,4,0.5,6,8,0.75,1,0,1,2,4,0,2,0,12,-1
+Washington Wizards,F,Nene,Miami Heat,L,04/10/2013,23:59,6,10,0.6,0,0,0.0,1,4,0.25,2,1,3,2,2,0,1,2,13,-5
+Washington Wizards,C,Emeka Okafor,Miami Heat,L,04/10/2013,20:54,3,6,0.5,0,0,0.0,2,2,1.0,1,5,6,0,1,0,2,0,8,-3
+Washington Wizards,G,Garrett Temple,Miami Heat,L,04/10/2013,31:24,3,10,0.3,2,6,0.333,0,0,0.0,0,3,3,2,3,0,4,3,8,-13
+Washington Wizards,G,John Wall,Miami Heat,L,04/10/2013,39:51,7,18,0.389,0,1,0.0,3,3,1.0,3,6,9,11,2,2,2,2,17,7
+Washington Wizards,F,Cartier Martin,Philadelphia 76ers,L,04/12/2013,37:26,2,8,0.25,0,3,0.0,2,2,1.0,1,3,4,2,1,1,1,0,6,-7
+Washington Wizards,F,Nene,Philadelphia 76ers,L,04/12/2013,19:29,3,5,0.6,0,0,0.0,3,4,0.75,4,6,10,4,1,0,4,3,9,-6
+Washington Wizards,C,Emeka Okafor,Philadelphia 76ers,L,04/12/2013,18:11,3,8,0.375,0,0,0.0,1,2,0.5,1,3,4,1,0,0,3,3,7,-4
+Washington Wizards,G,Garrett Temple,Philadelphia 76ers,L,04/12/2013,30:51,3,6,0.5,1,2,0.5,1,1,1.0,2,3,5,2,2,1,1,0,8,-5
+Washington Wizards,G,John Wall,Philadelphia 76ers,L,04/12/2013,34:31,9,21,0.429,0,1,0.0,6,10,0.6,0,2,2,7,1,1,3,1,24,-12
+Washington Wizards,F,Cartier Martin,Brooklyn Nets,L,04/15/2013,31:41,4,8,0.5,4,7,0.571,2,2,1.0,0,8,8,0,0,0,1,3,14,7
+Washington Wizards,F,Trevor Booker,Brooklyn Nets,L,04/15/2013,33:09,8,12,0.667,0,0,0.0,0,0,0.0,6,7,13,2,2,0,1,5,16,4
+Washington Wizards,C,Emeka Okafor,Brooklyn Nets,L,04/15/2013,9:39,2,2,1.0,0,0,0.0,0,0,0.0,0,2,2,0,1,0,1,0,4,13
+Washington Wizards,G,Garrett Temple,Brooklyn Nets,L,04/15/2013,39:00,6,11,0.545,0,2,0.0,2,2,1.0,2,0,2,2,1,0,3,4,14,5
+Washington Wizards,G,John Wall,Brooklyn Nets,L,04/15/2013,33:47,5,19,0.263,0,2,0.0,8,12,0.667,0,6,6,12,3,0,3,1,18,0
+Washington Wizards,F,Cartier Martin,Chicago Bulls,L,04/17/2013,8:53,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,-22
+Washington Wizards,F,Trevor Booker,Chicago Bulls,L,04/17/2013,30:39,5,10,0.5,0,0,0.0,0,1,0.0,2,6,8,1,2,2,0,2,10,-22
+Washington Wizards,C,Kevin Seraphin,Chicago Bulls,L,04/17/2013,31:04,4,9,0.444,0,0,0.0,2,2,1.0,1,8,9,3,0,2,2,3,10,-14
+Washington Wizards,G,Garrett Temple,Chicago Bulls,L,04/17/2013,36:07,2,11,0.182,2,5,0.4,0,0,0.0,1,1,2,5,3,0,2,2,6,-9
+Washington Wizards,G,John Wall,Chicago Bulls,L,04/17/2013,38:10,8,21,0.381,1,2,0.5,6,8,0.75,1,2,3,4,0,0,1,3,23,-17

@@ -1,0 +1,85 @@
+{
+	"team": "Memphis Grizzlies",
+	"players": [
+		{
+			"name": "Rudy Gay",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Zach Randolph",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Marc Gasol",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Tony Allen",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Mike Conley",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jerryd Bayless",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Wayne Ellington",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Quincy Pondexter",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Marreese Speights",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Tayshaun Prince",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Darrell Arthur",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Ed Davis",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Tony Wroten",
+			"positions": [""]
+		},
+		{
+			"name": "Josh Selby",
+			"positions": [""]
+		},
+		{
+			"name": "Hamed Haddadi",
+			"positions": [""]
+		},
+		{
+			"name": "Chris Johnson",
+			"positions": [""]
+		},
+		{
+			"name": "Jon Leuer",
+			"positions": [""]
+		},
+		{
+			"name": "Austin Daye",
+			"positions": [""]
+		},
+		{
+			"name": "Dexter Pittman",
+			"positions": [""]
+		},
+		{
+			"name": "Keyon Dooling",
+			"positions": [""]
+		}
+	]
+}

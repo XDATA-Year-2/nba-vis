@@ -1,0 +1,85 @@
+{
+	"team": "Boston Celtics",
+	"players": [
+		{
+			"name": "Paul Pierce",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Brandon Bass",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kevin Garnett",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Courtney Lee",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Rajon Rondo",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jared Sullinger",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jason Terry",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Leandro Barbosa",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jason Collins",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Avery Bradley",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jeff Green",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jordan Crawford",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Chris Wilcox",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Darko Milicic",
+			"positions": [""]
+		},
+		{
+			"name": "Kris Joseph",
+			"positions": [""]
+		},
+		{
+			"name": "Jarvis Varnado",
+			"positions": [""]
+		},
+		{
+			"name": "Fab Melo",
+			"positions": [""]
+		},
+		{
+			"name": "Terrence Williams",
+			"positions": [""]
+		},
+		{
+			"name": "DJ White",
+			"positions": [""]
+		},
+		{
+			"name": "Shavlik Randolph",
+			"positions": [""]
+		}
+	]
+}

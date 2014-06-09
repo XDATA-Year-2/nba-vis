@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Sacramento Kings,F,James Johnson,Chicago Bulls,L,10/31/2012,21:28,1,8,0.125,0,1,0.0,0,0,0.0,2,1,3,1,3,0,4,3,2,-13
+Sacramento Kings,F,Jason Thompson,Chicago Bulls,L,10/31/2012,27:35,3,6,0.5,0,0,0.0,2,2,1.0,3,5,8,2,0,1,0,4,8,-2
+Sacramento Kings,C,DeMarcus Cousins,Chicago Bulls,L,10/31/2012,25:02,7,14,0.5,0,0,0.0,0,0,0.0,3,4,7,1,3,2,7,4,14,-12
+Sacramento Kings,G,Tyreke Evans,Chicago Bulls,L,10/31/2012,39:05,8,13,0.615,1,2,0.5,4,4,1.0,1,7,8,3,0,1,2,3,21,1
+Sacramento Kings,G,Isaiah Thomas,Chicago Bulls,L,10/31/2012,24:43,3,8,0.375,2,3,0.667,2,2,1.0,0,0,0,1,0,0,3,1,10,-6
+Sacramento Kings,F,James Johnson,Minnesota Timberwolves,L,11/02/2012,20:45,2,5,0.4,0,0,0.0,1,2,0.5,1,5,6,2,2,0,2,3,5,-7
+Sacramento Kings,F,Jason Thompson,Minnesota Timberwolves,L,11/02/2012,33:31,4,10,0.4,0,0,0.0,2,2,1.0,4,3,7,2,1,2,0,4,10,-6
+Sacramento Kings,C,DeMarcus Cousins,Minnesota Timberwolves,L,11/02/2012,25:19,5,13,0.385,0,0,0.0,1,1,1.0,0,4,4,0,0,0,1,5,11,-5
+Sacramento Kings,G,Tyreke Evans,Minnesota Timberwolves,L,11/02/2012,29:35,3,14,0.214,0,1,0.0,0,0,0.0,2,5,7,5,1,0,2,4,6,-7
+Sacramento Kings,G,Isaiah Thomas,Minnesota Timberwolves,L,11/02/2012,25:45,7,13,0.538,3,7,0.429,3,4,0.75,0,2,2,2,0,0,2,5,20,-7
+Sacramento Kings,F,James Johnson,Indiana Pacers,L,11/03/2012,19:54,1,5,0.2,0,1,0.0,2,2,1.0,1,1,2,1,1,3,2,0,4,-11
+Sacramento Kings,F,Jason Thompson,Indiana Pacers,L,11/03/2012,23:49,2,6,0.333,0,0,0.0,0,0,0.0,0,2,2,1,0,3,0,3,4,0
+Sacramento Kings,C,DeMarcus Cousins,Indiana Pacers,L,11/03/2012,42:11,9,27,0.333,0,0,0.0,3,6,0.5,7,6,13,1,4,1,1,4,21,-8
+Sacramento Kings,G,Tyreke Evans,Indiana Pacers,L,11/03/2012,44:27,5,15,0.333,0,0,0.0,4,4,1.0,2,7,9,4,3,2,4,3,14,-12
+Sacramento Kings,G,Isaiah Thomas,Indiana Pacers,L,11/03/2012,22:36,2,6,0.333,1,4,0.25,0,0,0.0,1,1,2,2,1,0,5,0,5,-2
+Sacramento Kings,F,James Johnson,Golden State Warriors,W,11/05/2012,29:07,2,8,0.25,0,2,0.0,3,6,0.5,0,2,2,2,1,2,0,5,7,5
+Sacramento Kings,F,Jason Thompson,Golden State Warriors,W,11/05/2012,26:46,1,2,0.5,0,0,0.0,4,4,1.0,0,6,6,0,0,1,1,1,6,2
+Sacramento Kings,C,DeMarcus Cousins,Golden State Warriors,W,11/05/2012,33:33,10,16,0.625,0,0,0.0,3,5,0.6,5,10,15,1,2,2,3,2,23,1
+Sacramento Kings,G,Tyreke Evans,Golden State Warriors,W,11/05/2012,29:14,1,9,0.111,0,2,0.0,1,2,0.5,0,3,3,2,0,0,2,3,3,7
+Sacramento Kings,G,Isaiah Thomas,Golden State Warriors,W,11/05/2012,21:11,4,8,0.5,1,3,0.333,1,1,1.0,0,0,0,0,2,0,2,3,10,-2
+Sacramento Kings,F,James Johnson,Detroit Pistons,W,11/07/2012,32:12,2,6,0.333,0,0,0.0,1,2,0.5,1,4,5,2,0,1,2,3,5,-5
+Sacramento Kings,F,Jason Thompson,Detroit Pistons,W,11/07/2012,27:43,5,6,0.833,0,0,0.0,3,4,0.75,2,2,4,1,0,1,1,3,13,-2
+Sacramento Kings,C,DeMarcus Cousins,Detroit Pistons,W,11/07/2012,32:56,8,17,0.471,0,0,0.0,5,7,0.714,3,8,11,0,2,0,1,2,21,-10
+Sacramento Kings,G,Tyreke Evans,Detroit Pistons,W,11/07/2012,31:13,5,11,0.455,0,1,0.0,5,6,0.833,2,5,7,3,3,0,2,4,15,-5
+Sacramento Kings,G,Isaiah Thomas,Detroit Pistons,W,11/07/2012,20:53,6,9,0.667,3,4,0.75,0,0,0.0,1,0,1,2,0,0,1,2,15,-7
+Sacramento Kings,F,James Johnson,San Antonio Spurs,L,11/09/2012,21:05,3,6,0.5,0,0,0.0,3,4,0.75,2,3,5,0,2,0,4,2,9,1
+Sacramento Kings,F,Jason Thompson,San Antonio Spurs,L,11/09/2012,37:47,7,10,0.7,0,0,0.0,3,4,0.75,1,5,6,1,2,1,0,2,17,-6
+Sacramento Kings,C,DeMarcus Cousins,San Antonio Spurs,L,11/09/2012,22:58,4,14,0.286,0,0,0.0,6,7,0.857,4,5,9,3,1,0,2,5,14,-7
+Sacramento Kings,G,Tyreke Evans,San Antonio Spurs,L,11/09/2012,33:23,5,13,0.385,0,2,0.0,2,2,1.0,0,6,6,3,1,0,1,0,12,-3
+Sacramento Kings,G,Isaiah Thomas,San Antonio Spurs,L,11/09/2012,29:18,3,11,0.273,1,5,0.2,3,4,0.75,2,2,4,2,1,0,3,3,10,0
+Sacramento Kings,F,James Johnson,Los Angeles Lakers,L,11/11/2012,27:21,2,8,0.25,0,2,0.0,0,0,0.0,0,1,1,1,1,0,1,3,4,-17
+Sacramento Kings,F,Travis Outlaw,Los Angeles Lakers,L,11/11/2012,25:43,5,9,0.556,1,2,0.5,0,0,0.0,0,3,3,2,0,2,1,4,11,0
+Sacramento Kings,C,Jason Thompson,Los Angeles Lakers,L,11/11/2012,34:02,4,10,0.4,0,1,0.0,7,9,0.778,6,4,10,3,2,1,3,6,15,-14
+Sacramento Kings,G,Tyreke Evans,Los Angeles Lakers,L,11/11/2012,25:58,4,9,0.444,0,1,0.0,1,2,0.5,0,4,4,4,2,0,1,0,9,-18
+Sacramento Kings,G,Isaiah Thomas,Los Angeles Lakers,L,11/11/2012,23:18,6,11,0.545,1,3,0.333,0,0,0.0,1,1,2,1,0,0,0,1,13,-8
+Sacramento Kings,F,James Johnson,Portland Trail Blazers,L,11/13/2012,32:36,7,13,0.538,0,1,0.0,2,3,0.667,0,2,2,0,1,2,2,3,16,-21
+Sacramento Kings,F,Jason Thompson,Portland Trail Blazers,L,11/13/2012,31:23,3,9,0.333,0,0,0.0,2,2,1.0,2,9,11,0,0,2,2,3,8,-15
+Sacramento Kings,C,Charles Hayes,Portland Trail Blazers,L,11/13/2012,30:34,3,7,0.429,0,0,0.0,0,0,0.0,3,5,8,6,0,0,1,4,6,-7
+Sacramento Kings,G,Tyreke Evans,Portland Trail Blazers,L,11/13/2012,29:38,4,8,0.5,0,2,0.0,2,4,0.5,0,1,1,4,1,0,2,2,10,-20
+Sacramento Kings,G,Aaron Brooks,Portland Trail Blazers,L,11/13/2012,7:05,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-10
+Sacramento Kings,F,James Johnson,Atlanta Hawks,L,11/16/2012,17:03,1,7,0.143,0,1,0.0,0,0,0.0,0,0,0,1,2,0,1,2,2,-15
+Sacramento Kings,F,Jason Thompson,Atlanta Hawks,L,11/16/2012,33:07,8,12,0.667,0,0,0.0,3,5,0.6,4,6,10,0,0,0,2,3,19,-13
+Sacramento Kings,C,DeMarcus Cousins,Atlanta Hawks,L,11/16/2012,35:27,4,15,0.267,0,0,0.0,1,1,1.0,4,12,16,7,2,0,2,3,9,-19
+Sacramento Kings,G,Tyreke Evans,Atlanta Hawks,L,11/16/2012,27:19,5,11,0.455,1,2,0.5,3,4,0.75,0,0,0,1,1,0,2,1,14,-25
+Sacramento Kings,G,Isaiah Thomas,Atlanta Hawks,L,11/16/2012,19:09,1,6,0.167,1,4,0.25,0,0,0.0,0,1,1,5,1,0,0,2,3,-18
+Sacramento Kings,F,John Salmons,Brooklyn Nets,L,11/18/2012,27:45,1,3,0.333,0,2,0.0,0,0,0.0,0,5,5,1,0,0,0,1,2,2
+Sacramento Kings,F,Jason Thompson,Brooklyn Nets,L,11/18/2012,26:45,4,9,0.444,0,0,0.0,0,2,0.0,5,3,8,0,0,1,3,2,8,-6
+Sacramento Kings,C,DeMarcus Cousins,Brooklyn Nets,L,11/18/2012,34:24,12,21,0.571,1,1,1.0,4,6,0.667,2,5,7,3,2,1,4,3,29,-2
+Sacramento Kings,G,Tyreke Evans,Brooklyn Nets,L,11/18/2012,31:34,8,14,0.571,1,2,0.5,4,6,0.667,1,6,7,2,1,2,2,3,21,-2
+Sacramento Kings,G,Aaron Brooks,Brooklyn Nets,L,11/18/2012,17:60,2,2,1.0,0,0,0.0,0,1,0.0,0,2,2,0,0,0,2,2,4,-1
+Sacramento Kings,F,John Salmons,Los Angeles Lakers,W,11/21/2012,31:10,5,12,0.417,2,4,0.5,1,2,0.5,0,3,3,1,2,0,0,3,13,17
+Sacramento Kings,F,Jason Thompson,Los Angeles Lakers,W,11/21/2012,40:28,6,12,0.5,0,1,0.0,1,2,0.5,4,6,10,1,1,1,1,1,13,13
+Sacramento Kings,C,DeMarcus Cousins,Los Angeles Lakers,W,11/21/2012,21:10,3,9,0.333,0,0,0.0,1,2,0.5,2,6,8,2,0,0,3,6,7,10
+Sacramento Kings,G,Tyreke Evans,Los Angeles Lakers,W,11/21/2012,28:47,7,11,0.636,0,0,0.0,4,4,1.0,1,3,4,6,0,1,5,3,18,17
+Sacramento Kings,G,Aaron Brooks,Los Angeles Lakers,W,11/21/2012,21:58,5,9,0.556,2,5,0.4,1,1,1.0,1,3,4,3,1,0,0,2,13,1
+Sacramento Kings,F,John Salmons,Utah Jazz,L,11/23/2012,30:28,2,5,0.4,0,2,0.0,0,0,0.0,1,4,5,2,0,0,1,2,4,5
+Sacramento Kings,F,Jason Thompson,Utah Jazz,L,11/23/2012,32:55,5,9,0.556,0,0,0.0,1,1,1.0,1,2,3,0,0,0,1,3,11,-7
+Sacramento Kings,C,DeMarcus Cousins,Utah Jazz,L,11/23/2012,33:26,5,11,0.455,0,0,0.0,4,6,0.667,1,6,7,4,0,2,4,4,14,-1
+Sacramento Kings,G,Tyreke Evans,Utah Jazz,L,11/23/2012,30:37,7,17,0.412,1,3,0.333,4,4,1.0,1,3,4,5,2,0,1,4,19,6
+Sacramento Kings,G,Aaron Brooks,Utah Jazz,L,11/23/2012,31:47,7,9,0.778,3,4,0.75,0,0,0.0,1,1,2,3,0,0,1,0,17,2
+Sacramento Kings,F,John Salmons,Utah Jazz,W,11/24/2012,28:27,3,8,0.375,2,4,0.5,0,0,0.0,2,3,5,1,0,0,1,2,8,14
+Sacramento Kings,F,Jason Thompson,Utah Jazz,W,11/24/2012,33:28,6,12,0.5,0,0,0.0,4,6,0.667,4,5,9,2,0,1,1,1,16,12
+Sacramento Kings,C,DeMarcus Cousins,Utah Jazz,W,11/24/2012,29:32,6,11,0.545,0,1,0.0,2,4,0.5,4,5,9,3,0,0,2,3,14,2
+Sacramento Kings,G,Tyreke Evans,Utah Jazz,W,11/24/2012,36:35,9,17,0.529,0,1,0.0,9,9,1.0,1,4,5,5,2,0,2,2,27,11
+Sacramento Kings,G,Aaron Brooks,Utah Jazz,W,11/24/2012,31:44,5,6,0.833,3,4,0.75,0,0,0.0,0,0,0,2,4,0,1,1,13,6
+Sacramento Kings,F,John Salmons,Minnesota Timberwolves,L,11/27/2012,29:55,2,5,0.4,1,2,0.5,0,0,0.0,0,0,0,2,1,0,2,4,5,-7
+Sacramento Kings,F,Jason Thompson,Minnesota Timberwolves,L,11/27/2012,27:06,3,8,0.375,0,0,0.0,1,2,0.5,0,5,5,0,1,3,2,1,7,-7
+Sacramento Kings,C,DeMarcus Cousins,Minnesota Timberwolves,L,11/27/2012,27:52,9,22,0.409,0,0,0.0,2,2,1.0,4,1,5,2,2,0,2,4,20,-1
+Sacramento Kings,G,Tyreke Evans,Minnesota Timberwolves,L,11/27/2012,35:60,9,14,0.643,2,3,0.667,0,0,0.0,0,7,7,6,2,2,2,1,20,-3
+Sacramento Kings,G,Aaron Brooks,Minnesota Timberwolves,L,11/27/2012,26:01,2,7,0.286,1,4,0.25,2,3,0.667,2,1,3,4,0,0,0,3,7,-7
+Sacramento Kings,F,John Salmons,Indiana Pacers,L,11/30/2012,27:48,2,4,0.5,0,2,0.0,5,6,0.833,0,5,5,3,0,0,0,0,9,-6
+Sacramento Kings,F,Jason Thompson,Indiana Pacers,L,11/30/2012,22:23,1,3,0.333,0,0,0.0,1,1,1.0,0,3,3,1,0,1,0,4,3,-1
+Sacramento Kings,C,DeMarcus Cousins,Indiana Pacers,L,11/30/2012,32:27,5,17,0.294,0,0,0.0,9,10,0.9,5,11,16,1,2,0,2,1,19,-5
+Sacramento Kings,G,Marcus Thornton,Indiana Pacers,L,11/30/2012,32:39,5,11,0.455,2,6,0.333,3,3,1.0,0,3,3,0,0,0,2,2,15,-11
+Sacramento Kings,G,Aaron Brooks,Indiana Pacers,L,11/30/2012,30:24,4,8,0.5,1,2,0.5,0,0,0.0,0,2,2,1,1,0,3,6,9,-9
+Sacramento Kings,F,John Salmons,Los Angeles Clippers,L,12/01/2012,36:08,4,12,0.333,0,3,0.0,1,2,0.5,0,4,4,4,0,0,2,1,9,-17
+Sacramento Kings,F,Jason Thompson,Los Angeles Clippers,L,12/01/2012,30:25,6,10,0.6,0,0,0.0,4,4,1.0,4,8,12,4,0,0,0,3,16,-15
+Sacramento Kings,C,DeMarcus Cousins,Los Angeles Clippers,L,12/01/2012,17:49,3,9,0.333,0,0,0.0,2,3,0.667,1,5,6,1,0,0,2,2,8,-19
+Sacramento Kings,G,Marcus Thornton,Los Angeles Clippers,L,12/01/2012,38:15,7,11,0.636,6,9,0.667,0,0,0.0,0,2,2,2,0,0,1,1,20,-25
+Sacramento Kings,G,Aaron Brooks,Los Angeles Clippers,L,12/01/2012,22:09,1,6,0.167,0,3,0.0,0,0,0.0,0,1,1,2,0,0,2,3,2,-19
+Sacramento Kings,F,John Salmons,Toronto Raptors,W,12/05/2012,33:26,4,7,0.571,2,2,1.0,2,2,1.0,0,2,2,7,0,1,0,1,12,10
+Sacramento Kings,F,Jason Thompson,Toronto Raptors,W,12/05/2012,33:41,6,11,0.545,0,0,0.0,1,1,1.0,3,7,10,1,1,0,1,3,13,8
+Sacramento Kings,C,DeMarcus Cousins,Toronto Raptors,W,12/05/2012,36:32,11,18,0.611,0,1,0.0,3,3,1.0,2,11,13,1,0,1,4,3,25,10
+Sacramento Kings,G,Tyreke Evans,Toronto Raptors,W,12/05/2012,34:08,7,16,0.438,2,4,0.5,7,12,0.583,1,1,2,2,1,2,2,1,23,10
+Sacramento Kings,G,Aaron Brooks,Toronto Raptors,W,12/05/2012,33:05,2,8,0.25,1,3,0.333,6,8,0.75,0,1,1,4,1,0,3,2,11,8
+Sacramento Kings,F,John Salmons,Orlando Magic,W,12/07/2012,28:22,1,8,0.125,0,3,0.0,0,0,0.0,0,2,2,1,0,0,0,3,2,5
+Sacramento Kings,F,Jason Thompson,Orlando Magic,W,12/07/2012,27:48,5,11,0.455,0,0,0.0,2,2,1.0,2,4,6,1,1,0,3,1,12,2
+Sacramento Kings,C,DeMarcus Cousins,Orlando Magic,W,12/07/2012,32:29,5,13,0.385,0,0,0.0,7,10,0.7,2,12,14,4,3,2,4,2,17,8
+Sacramento Kings,G,Francisco Garcia,Orlando Magic,W,12/07/2012,22:21,2,5,0.4,1,3,0.333,0,0,0.0,0,2,2,1,2,3,1,2,5,-2
+Sacramento Kings,G,Aaron Brooks,Orlando Magic,W,12/07/2012,19:08,5,9,0.556,1,3,0.333,0,0,0.0,0,4,4,3,1,0,1,2,11,3
+Sacramento Kings,F,John Salmons,Portland Trail Blazers,W,12/08/2012,36:26,6,10,0.6,3,4,0.75,4,5,0.8,1,2,3,11,2,0,0,3,19,17
+Sacramento Kings,F,Jason Thompson,Portland Trail Blazers,W,12/08/2012,29:06,4,10,0.4,0,0,0.0,4,5,0.8,2,6,8,0,2,0,2,3,12,12
+Sacramento Kings,C,DeMarcus Cousins,Portland Trail Blazers,W,12/08/2012,34:09,6,17,0.353,0,1,0.0,7,8,0.875,2,10,12,2,1,0,0,2,19,13
+Sacramento Kings,G,Francisco Garcia,Portland Trail Blazers,W,12/08/2012,30:31,5,13,0.385,2,5,0.4,0,0,0.0,1,4,5,2,1,2,1,2,12,17
+Sacramento Kings,G,Aaron Brooks,Portland Trail Blazers,W,12/08/2012,30:19,6,10,0.6,2,4,0.5,0,0,0.0,0,2,2,3,2,0,4,1,14,10
+Sacramento Kings,F,John Salmons,Dallas Mavericks,L,12/10/2012,30:06,2,4,0.5,1,2,0.5,0,0,0.0,0,3,3,7,1,0,2,0,5,-6
+Sacramento Kings,F,Jason Thompson,Dallas Mavericks,L,12/10/2012,30:04,5,8,0.625,0,0,0.0,1,4,0.25,2,10,12,2,0,1,2,0,11,-6
+Sacramento Kings,C,DeMarcus Cousins,Dallas Mavericks,L,12/10/2012,34:45,10,17,0.588,0,1,0.0,5,6,0.833,5,1,6,1,1,0,4,2,25,-12
+Sacramento Kings,G,Francisco Garcia,Dallas Mavericks,L,12/10/2012,30:51,9,16,0.563,7,12,0.583,0,0,0.0,0,1,1,1,0,3,0,4,25,7
+Sacramento Kings,G,Aaron Brooks,Dallas Mavericks,L,12/10/2012,28:16,3,8,0.375,2,4,0.5,1,2,0.5,0,5,5,5,0,0,3,1,9,-9
+Sacramento Kings,F,John Salmons,Milwaukee Bucks,L,12/12/2012,36:21,7,14,0.5,1,5,0.2,1,1,1.0,1,2,3,1,0,2,1,4,16,-12
+Sacramento Kings,F,Travis Outlaw,Milwaukee Bucks,L,12/12/2012,16:20,1,6,0.167,0,1,0.0,4,4,1.0,2,2,4,0,0,0,0,1,6,-8
+Sacramento Kings,C,Jason Thompson,Milwaukee Bucks,L,12/12/2012,33:11,4,10,0.4,0,0,0.0,0,1,0.0,5,10,15,1,2,1,2,1,8,-11
+Sacramento Kings,G,Francisco Garcia,Milwaukee Bucks,L,12/12/2012,22:20,1,5,0.2,0,2,0.0,1,2,0.5,1,4,5,1,0,2,1,2,3,-11
+Sacramento Kings,G,Aaron Brooks,Milwaukee Bucks,L,12/12/2012,35:09,3,11,0.273,1,7,0.143,3,3,1.0,0,1,1,6,1,1,4,3,10,-14
+Sacramento Kings,F,John Salmons,Oklahoma City Thunder,L,12/14/2012,28:24,1,7,0.143,1,4,0.25,0,0,0.0,0,2,2,3,0,0,1,3,3,-4
+Sacramento Kings,F,Jason Thompson,Oklahoma City Thunder,L,12/14/2012,29:17,6,7,0.857,0,0,0.0,3,4,0.75,2,4,6,4,1,1,2,4,15,-16
+Sacramento Kings,C,DeMarcus Cousins,Oklahoma City Thunder,L,12/14/2012,28:02,3,12,0.25,0,0,0.0,4,4,1.0,2,5,7,2,1,1,2,0,10,-6
+Sacramento Kings,G,Tyreke Evans,Oklahoma City Thunder,L,12/14/2012,35:27,8,12,0.667,0,1,0.0,5,7,0.714,1,3,4,2,3,0,2,1,21,-14
+Sacramento Kings,G,Aaron Brooks,Oklahoma City Thunder,L,12/14/2012,22:38,4,8,0.5,2,4,0.5,3,3,1.0,1,1,2,1,0,0,3,3,13,-1
+Sacramento Kings,F,John Salmons,Denver Nuggets,L,12/16/2012,20:37,1,8,0.125,0,4,0.0,2,2,1.0,0,0,0,1,0,0,1,3,4,-23
+Sacramento Kings,F,Jason Thompson,Denver Nuggets,L,12/16/2012,26:12,7,14,0.5,0,0,0.0,2,2,1.0,7,3,10,1,2,1,0,0,16,-22
+Sacramento Kings,C,DeMarcus Cousins,Denver Nuggets,L,12/16/2012,32:34,5,14,0.357,0,0,0.0,9,11,0.818,6,5,11,1,0,0,1,3,19,-22
+Sacramento Kings,G,Tyreke Evans,Denver Nuggets,L,12/16/2012,10:22,0,4,0.0,0,2,0.0,2,2,1.0,1,0,1,0,0,0,0,0,2,-13
+Sacramento Kings,G,Aaron Brooks,Denver Nuggets,L,12/16/2012,21:03,3,10,0.3,2,4,0.5,1,2,0.5,1,1,2,2,0,0,2,2,9,-27
+Sacramento Kings,F,John Salmons,Phoenix Suns,L,12/17/2012,30:30,2,7,0.286,0,0,0.0,2,4,0.5,0,6,6,2,1,0,3,1,6,-17
+Sacramento Kings,F,Jason Thompson,Phoenix Suns,L,12/17/2012,27:54,4,10,0.4,0,0,0.0,0,0,0.0,2,4,6,2,0,0,1,4,8,-8
+Sacramento Kings,C,DeMarcus Cousins,Phoenix Suns,L,12/17/2012,25:44,1,10,0.1,0,0,0.0,7,8,0.875,4,6,10,0,1,0,3,4,9,-14
+Sacramento Kings,G,Francisco Garcia,Phoenix Suns,L,12/17/2012,19:26,2,6,0.333,0,2,0.0,2,3,0.667,0,2,2,0,1,0,1,2,6,-8
+Sacramento Kings,G,Aaron Brooks,Phoenix Suns,L,12/17/2012,29:30,6,11,0.545,0,3,0.0,0,0,0.0,0,3,3,3,0,1,1,2,12,-20
+Sacramento Kings,F,John Salmons,Golden State Warriors,W,12/19/2012,35:05,6,13,0.462,0,1,0.0,5,6,0.833,1,5,6,5,1,1,1,1,17,10
+Sacramento Kings,F,Jason Thompson,Golden State Warriors,W,12/19/2012,34:46,5,14,0.357,0,0,0.0,0,0,0.0,5,10,15,3,0,3,0,2,10,17
+Sacramento Kings,C,DeMarcus Cousins,Golden State Warriors,W,12/19/2012,37:54,5,12,0.417,0,0,0.0,14,18,0.778,3,4,7,5,2,1,5,5,24,6
+Sacramento Kings,G,Francisco Garcia,Golden State Warriors,W,12/19/2012,11:28,1,1,1.0,1,1,1.0,2,2,1.0,0,1,1,3,0,1,0,1,5,9
+Sacramento Kings,G,Aaron Brooks,Golden State Warriors,W,12/19/2012,29:36,9,12,0.75,3,3,1.0,2,2,1.0,0,2,2,5,2,0,1,2,23,11
+Sacramento Kings,F,John Salmons,Los Angeles Clippers,L,12/21/2012,29:15,2,6,0.333,1,2,0.5,0,0,0.0,0,2,2,4,0,1,1,3,5,-12
+Sacramento Kings,F,Jason Thompson,Los Angeles Clippers,L,12/21/2012,26:46,5,7,0.714,0,0,0.0,0,0,0.0,3,5,8,2,0,2,3,4,10,6
+Sacramento Kings,C,DeMarcus Cousins,Los Angeles Clippers,L,12/21/2012,19:30,4,9,0.444,0,0,0.0,1,2,0.5,0,5,5,3,2,1,2,0,9,-9
+Sacramento Kings,G,Marcus Thornton,Los Angeles Clippers,L,12/21/2012,24:55,4,9,0.444,2,5,0.4,1,1,1.0,0,4,4,1,1,0,1,0,11,-4
+Sacramento Kings,G,Aaron Brooks,Los Angeles Clippers,L,12/21/2012,20:33,2,6,0.333,1,4,0.25,1,1,1.0,0,0,0,2,0,1,3,4,6,-7
+Sacramento Kings,F,John Salmons,Portland Trail Blazers,W,12/23/2012,31:50,6,11,0.545,1,3,0.333,2,2,1.0,1,6,7,7,2,0,2,3,15,4
+Sacramento Kings,F,James Johnson,Portland Trail Blazers,W,12/23/2012,22:51,4,7,0.571,0,0,0.0,2,2,1.0,3,0,3,2,1,1,1,5,10,-9
+Sacramento Kings,C,Jason Thompson,Portland Trail Blazers,W,12/23/2012,21:01,5,9,0.556,0,0,0.0,0,2,0.0,0,6,6,2,1,0,3,3,10,-4
+Sacramento Kings,G,Marcus Thornton,Portland Trail Blazers,W,12/23/2012,34:49,10,18,0.556,2,5,0.4,0,0,0.0,0,4,4,4,2,0,2,2,22,16
+Sacramento Kings,G,Aaron Brooks,Portland Trail Blazers,W,12/23/2012,26:50,3,6,0.5,2,3,0.667,0,0,0.0,0,1,1,6,1,0,1,0,8,2
+Sacramento Kings,F,John Salmons,Portland Trail Blazers,L,12/26/2012,29:25,6,10,0.6,3,4,0.75,4,4,1.0,0,2,2,4,1,0,0,1,19,-17
+Sacramento Kings,F,James Johnson,Portland Trail Blazers,L,12/26/2012,17:43,2,9,0.222,0,1,0.0,0,0,0.0,3,1,4,3,2,1,2,2,4,-16
+Sacramento Kings,C,Jason Thompson,Portland Trail Blazers,L,12/26/2012,25:00,5,10,0.5,0,0,0.0,1,2,0.5,2,4,6,0,0,1,0,3,11,-24
+Sacramento Kings,G,Marcus Thornton,Portland Trail Blazers,L,12/26/2012,22:09,2,9,0.222,2,6,0.333,0,0,0.0,2,1,3,2,0,0,0,2,6,-17
+Sacramento Kings,G,Aaron Brooks,Portland Trail Blazers,L,12/26/2012,20:14,4,8,0.5,1,3,0.333,0,0,0.0,0,0,0,5,1,0,1,0,9,-22
+Sacramento Kings,F,John Salmons,New York Knicks,W,12/28/2012,29:10,3,9,0.333,2,4,0.5,0,2,0.0,0,1,1,3,2,2,1,2,8,-1
+Sacramento Kings,F,Jason Thompson,New York Knicks,W,12/28/2012,27:40,3,8,0.375,0,0,0.0,0,0,0.0,3,5,8,2,0,1,1,4,6,-5
+Sacramento Kings,C,DeMarcus Cousins,New York Knicks,W,12/28/2012,31:28,5,14,0.357,0,0,0.0,5,6,0.833,3,7,10,5,3,1,2,5,15,6
+Sacramento Kings,G,Marcus Thornton,New York Knicks,W,12/28/2012,28:26,5,12,0.417,2,6,0.333,6,6,1.0,0,3,3,1,0,0,0,0,18,-4
+Sacramento Kings,G,Isaiah Thomas,New York Knicks,W,12/28/2012,28:42,3,10,0.3,3,6,0.5,2,2,1.0,1,0,1,4,1,0,0,2,11,1
+Sacramento Kings,F,John Salmons,Boston Celtics,W,12/30/2012,32:33,9,12,0.75,2,4,0.5,3,3,1.0,1,5,6,4,0,0,0,1,23,26
+Sacramento Kings,F,Jason Thompson,Boston Celtics,W,12/30/2012,32:01,8,11,0.727,0,0,0.0,4,8,0.5,3,3,6,0,1,2,1,3,20,19
+Sacramento Kings,C,DeMarcus Cousins,Boston Celtics,W,12/30/2012,31:08,4,12,0.333,0,0,0.0,4,4,1.0,2,8,10,10,1,0,2,5,12,21
+Sacramento Kings,G,Marcus Thornton,Boston Celtics,W,12/30/2012,18:37,2,7,0.286,1,3,0.333,0,0,0.0,0,3,3,0,0,0,1,1,5,5
+Sacramento Kings,G,Isaiah Thomas,Boston Celtics,W,12/30/2012,39:37,10,15,0.667,3,7,0.429,4,5,0.8,0,4,4,5,1,0,2,2,27,20
+Sacramento Kings,F,John Salmons,Detroit Pistons,L,01/01/2013,27:52,4,9,0.444,2,5,0.4,0,0,0.0,0,1,1,6,1,0,2,2,10,2
+Sacramento Kings,F,Jason Thompson,Detroit Pistons,L,01/01/2013,32:58,6,10,0.6,0,0,0.0,4,6,0.667,2,4,6,1,0,1,0,1,16,7
+Sacramento Kings,C,DeMarcus Cousins,Detroit Pistons,L,01/01/2013,35:42,10,21,0.476,0,0,0.0,1,2,0.5,8,6,14,2,3,0,2,5,21,-7
+Sacramento Kings,G,Francisco Garcia,Detroit Pistons,L,01/01/2013,24:06,1,5,0.2,1,3,0.333,2,2,1.0,1,0,1,2,3,0,1,1,5,2
+Sacramento Kings,G,Isaiah Thomas,Detroit Pistons,L,01/01/2013,26:24,4,10,0.4,2,5,0.4,2,2,1.0,0,2,2,2,1,0,4,0,12,0
+Sacramento Kings,F,Francisco Garcia,Cleveland Cavaliers,W,01/02/2013,33:35,6,13,0.462,2,6,0.333,0,0,0.0,1,5,6,2,2,2,0,2,14,11
+Sacramento Kings,F,Jason Thompson,Cleveland Cavaliers,W,01/02/2013,36:23,8,16,0.5,0,0,0.0,3,4,0.75,3,7,10,2,0,3,1,3,19,4
+Sacramento Kings,C,DeMarcus Cousins,Cleveland Cavaliers,W,01/02/2013,34:22,7,17,0.412,0,0,0.0,4,4,1.0,7,9,16,6,2,1,1,3,18,13
+Sacramento Kings,G,John Salmons,Cleveland Cavaliers,W,01/02/2013,31:58,3,6,0.5,1,4,0.25,0,0,0.0,1,2,3,3,1,0,3,5,7,10
+Sacramento Kings,G,Isaiah Thomas,Cleveland Cavaliers,W,01/02/2013,19:29,3,8,0.375,0,2,0.0,2,3,0.667,0,1,1,4,1,0,1,1,8,4
+Sacramento Kings,F,John Salmons,Toronto Raptors,W,01/04/2013,35:03,7,14,0.5,1,4,0.25,5,7,0.714,0,2,2,4,1,0,2,0,20,23
+Sacramento Kings,F,Jason Thompson,Toronto Raptors,W,01/04/2013,29:56,7,11,0.636,0,0,0.0,0,0,0.0,0,6,6,0,0,0,0,1,14,27
+Sacramento Kings,C,DeMarcus Cousins,Toronto Raptors,W,01/04/2013,32:44,11,18,0.611,0,0,0.0,9,12,0.75,6,14,20,4,2,0,4,4,31,18
+Sacramento Kings,G,Francisco Garcia,Toronto Raptors,W,01/04/2013,22:41,1,7,0.143,1,5,0.2,0,0,0.0,0,2,2,2,2,3,0,5,3,18
+Sacramento Kings,G,Isaiah Thomas,Toronto Raptors,W,01/04/2013,30:52,4,6,0.667,0,1,0.0,3,4,0.75,0,3,3,6,0,0,1,2,11,24
+Sacramento Kings,F,John Salmons,Brooklyn Nets,L,01/05/2013,32:37,5,13,0.385,3,7,0.429,0,0,0.0,1,1,2,2,0,0,0,1,13,-5
+Sacramento Kings,F,Jason Thompson,Brooklyn Nets,L,01/05/2013,25:35,7,16,0.438,0,0,0.0,1,4,0.25,4,0,4,1,0,0,2,2,15,-15
+Sacramento Kings,C,DeMarcus Cousins,Brooklyn Nets,L,01/05/2013,33:47,11,18,0.611,0,0,0.0,6,8,0.75,6,5,11,3,0,1,0,3,28,-14
+Sacramento Kings,G,Francisco Garcia,Brooklyn Nets,L,01/05/2013,21:00,0,4,0.0,0,1,0.0,0,0,0.0,0,1,1,2,1,1,0,0,0,-10
+Sacramento Kings,G,Isaiah Thomas,Brooklyn Nets,L,01/05/2013,21:57,3,5,0.6,1,3,0.333,5,5,1.0,0,1,1,2,0,1,2,2,12,-8
+Sacramento Kings,F,John Salmons,Memphis Grizzlies,L,01/07/2013,30:03,7,12,0.583,3,4,0.75,0,0,0.0,0,0,0,2,1,0,1,2,17,-12
+Sacramento Kings,F,Jason Thompson,Memphis Grizzlies,L,01/07/2013,24:00,5,8,0.625,0,0,0.0,2,2,1.0,1,3,4,2,1,0,0,2,12,-6
+Sacramento Kings,C,DeMarcus Cousins,Memphis Grizzlies,L,01/07/2013,27:29,3,9,0.333,0,0,0.0,4,5,0.8,2,6,8,1,1,0,4,3,10,-21
+Sacramento Kings,G,Francisco Garcia,Memphis Grizzlies,L,01/07/2013,17:04,0,3,0.0,0,3,0.0,0,0,0.0,0,1,1,2,1,0,0,3,0,-2
+Sacramento Kings,G,Isaiah Thomas,Memphis Grizzlies,L,01/07/2013,29:23,2,12,0.167,0,7,0.0,5,6,0.833,0,2,2,4,0,0,1,3,9,-14
+Sacramento Kings,F,John Salmons,Dallas Mavericks,L,01/10/2013,38:05,4,15,0.267,3,10,0.3,0,0,0.0,0,1,1,4,2,0,4,6,11,-3
+Sacramento Kings,F,Jason Thompson,Dallas Mavericks,L,01/10/2013,29:36,3,5,0.6,0,0,0.0,0,0,0.0,0,3,3,1,0,0,2,5,6,-2
+Sacramento Kings,C,DeMarcus Cousins,Dallas Mavericks,L,01/10/2013,38:40,9,14,0.643,0,0,0.0,11,17,0.647,3,6,9,4,1,1,5,6,29,-2
+Sacramento Kings,G,Francisco Garcia,Dallas Mavericks,L,01/10/2013,32:57,4,8,0.5,2,5,0.4,3,3,1.0,0,4,4,3,0,1,1,2,13,-9
+Sacramento Kings,G,Isaiah Thomas,Dallas Mavericks,L,01/10/2013,31:12,6,11,0.545,1,4,0.25,5,5,1.0,0,2,2,4,2,0,2,2,18,3
+Sacramento Kings,F,John Salmons,Miami Heat,L,01/12/2013,18:31,0,3,0.0,0,0,0.0,0,0,0.0,0,2,2,3,0,0,2,2,0,-28
+Sacramento Kings,F,Jason Thompson,Miami Heat,L,01/12/2013,22:03,1,3,0.333,0,0,0.0,0,0,0.0,0,4,4,2,0,1,1,0,2,-14
+Sacramento Kings,C,DeMarcus Cousins,Miami Heat,L,01/12/2013,32:41,4,11,0.364,0,0,0.0,3,3,1.0,3,5,8,4,1,0,3,2,11,-26
+Sacramento Kings,G,Francisco Garcia,Miami Heat,L,01/12/2013,14:08,1,4,0.25,1,4,0.25,0,0,0.0,0,3,3,0,0,1,1,2,3,-24
+Sacramento Kings,G,Isaiah Thomas,Miami Heat,L,01/12/2013,33:09,13,22,0.591,6,8,0.75,2,3,0.667,0,2,2,5,1,0,3,3,34,-17
+Sacramento Kings,F,John Salmons,Cleveland Cavaliers,W,01/14/2013,32:23,5,12,0.417,1,4,0.25,3,4,0.75,2,0,2,4,2,1,0,2,14,-6
+Sacramento Kings,F,Jason Thompson,Cleveland Cavaliers,W,01/14/2013,22:00,2,9,0.222,0,0,0.0,2,2,1.0,3,1,4,1,0,0,0,4,6,-5
+Sacramento Kings,C,DeMarcus Cousins,Cleveland Cavaliers,W,01/14/2013,31:52,7,14,0.5,0,0,0.0,12,12,1.0,3,11,14,6,2,3,3,5,26,2
+Sacramento Kings,G,Tyreke Evans,Cleveland Cavaliers,W,01/14/2013,25:13,6,6,1.0,2,2,1.0,4,4,1.0,1,3,4,0,0,0,2,2,18,3
+Sacramento Kings,G,Isaiah Thomas,Cleveland Cavaliers,W,01/14/2013,31:22,2,8,0.25,0,3,0.0,2,2,1.0,0,2,2,6,1,0,1,3,6,-2
+Sacramento Kings,F,John Salmons,Washington Wizards,W,01/16/2013,43:02,9,15,0.6,2,3,0.667,1,1,1.0,2,2,4,2,1,0,2,1,21,4
+Sacramento Kings,F,Jason Thompson,Washington Wizards,W,01/16/2013,22:03,3,8,0.375,0,0,0.0,0,0,0.0,1,1,2,0,0,0,2,5,6,-4
+Sacramento Kings,C,DeMarcus Cousins,Washington Wizards,W,01/16/2013,42:44,9,19,0.474,0,0,0.0,3,3,1.0,4,12,16,5,3,0,6,5,21,9
+Sacramento Kings,G,Tyreke Evans,Washington Wizards,W,01/16/2013,40:29,8,15,0.533,1,1,1.0,4,7,0.571,0,8,8,8,3,0,2,2,21,3
+Sacramento Kings,G,Isaiah Thomas,Washington Wizards,W,01/16/2013,19:32,1,4,0.25,0,2,0.0,0,2,0.0,0,0,0,4,1,0,1,0,2,-7
+Sacramento Kings,F,John Salmons,Memphis Grizzlies,L,01/18/2013,31:20,3,6,0.5,0,1,0.0,0,0,0.0,1,3,4,2,2,3,2,2,6,-4
+Sacramento Kings,F,Jason Thompson,Memphis Grizzlies,L,01/18/2013,20:52,1,6,0.167,0,0,0.0,1,2,0.5,1,3,4,0,0,0,0,1,3,-11
+Sacramento Kings,C,DeMarcus Cousins,Memphis Grizzlies,L,01/18/2013,38:07,9,19,0.474,0,0,0.0,4,6,0.667,4,8,12,1,2,1,3,5,22,-5
+Sacramento Kings,G,Tyreke Evans,Memphis Grizzlies,L,01/18/2013,28:25,3,10,0.3,0,0,0.0,2,2,1.0,1,6,7,0,0,1,4,2,8,-11
+Sacramento Kings,G,Isaiah Thomas,Memphis Grizzlies,L,01/18/2013,29:27,4,12,0.333,0,2,0.0,1,2,0.5,0,0,0,5,2,0,1,1,9,-12
+Sacramento Kings,F,John Salmons,Charlotte Bobcats,W,01/19/2013,26:17,2,4,0.5,0,1,0.0,0,0,0.0,1,1,2,1,0,0,3,2,4,6
+Sacramento Kings,F,Jason Thompson,Charlotte Bobcats,W,01/19/2013,31:34,5,6,0.833,0,0,0.0,1,2,0.5,1,3,4,2,1,0,0,2,11,5
+Sacramento Kings,C,DeMarcus Cousins,Charlotte Bobcats,W,01/19/2013,38:25,8,19,0.421,0,0,0.0,1,2,0.5,2,8,10,4,1,0,5,4,17,7
+Sacramento Kings,G,Tyreke Evans,Charlotte Bobcats,W,01/19/2013,26:00,6,10,0.6,0,1,0.0,4,4,1.0,0,3,3,4,2,0,2,5,16,7
+Sacramento Kings,G,Isaiah Thomas,Charlotte Bobcats,W,01/19/2013,29:50,4,11,0.364,0,4,0.0,7,8,0.875,2,3,5,7,2,0,0,4,15,8
+Sacramento Kings,F,John Salmons,New Orleans Hornets,L,01/21/2013,29:04,1,4,0.25,1,2,0.5,2,2,1.0,0,1,1,4,1,0,0,2,5,-7
+Sacramento Kings,F,Jason Thompson,New Orleans Hornets,L,01/21/2013,17:23,3,4,0.75,0,0,0.0,1,2,0.5,2,4,6,1,0,0,3,2,7,-7
+Sacramento Kings,C,DeMarcus Cousins,New Orleans Hornets,L,01/21/2013,40:40,11,17,0.647,0,2,0.0,7,9,0.778,6,7,13,3,0,0,2,5,29,-8
+Sacramento Kings,G,Tyreke Evans,New Orleans Hornets,L,01/21/2013,37:10,5,12,0.417,0,2,0.0,6,7,0.857,0,2,2,4,2,0,1,3,16,-7
+Sacramento Kings,G,Isaiah Thomas,New Orleans Hornets,L,01/21/2013,39:43,8,14,0.571,1,1,1.0,3,3,1.0,0,1,1,3,1,0,4,5,20,-8
+Sacramento Kings,F,John Salmons,Phoenix Suns,L,01/23/2013,31:08,2,2,1.0,0,0,0.0,2,6,0.333,0,2,2,0,0,2,0,2,6,-10
+Sacramento Kings,F,Jason Thompson,Phoenix Suns,L,01/23/2013,10:01,2,6,0.333,0,0,0.0,0,0,0.0,2,1,3,1,0,0,1,3,4,-4
+Sacramento Kings,C,DeMarcus Cousins,Phoenix Suns,L,01/23/2013,37:05,7,18,0.389,1,1,1.0,0,0,0.0,5,10,15,5,2,1,6,5,15,-3
+Sacramento Kings,G,Tyreke Evans,Phoenix Suns,L,01/23/2013,33:21,6,14,0.429,1,1,1.0,3,4,0.75,3,3,6,4,2,1,3,0,16,-3
+Sacramento Kings,G,Isaiah Thomas,Phoenix Suns,L,01/23/2013,28:57,2,10,0.2,0,3,0.0,2,2,1.0,0,0,0,7,0,0,3,3,6,-7
+Sacramento Kings,F,John Salmons,Oklahoma City Thunder,L,01/25/2013,27:34,2,5,0.4,1,2,0.5,0,0,0.0,1,7,8,2,1,0,0,3,5,-16
+Sacramento Kings,F,Jason Thompson,Oklahoma City Thunder,L,01/25/2013,33:06,5,11,0.455,0,0,0.0,4,8,0.5,1,4,5,0,0,0,3,3,14,-2
+Sacramento Kings,C,DeMarcus Cousins,Oklahoma City Thunder,L,01/25/2013,32:00,6,16,0.375,0,0,0.0,2,3,0.667,3,5,8,2,3,0,7,3,14,-9
+Sacramento Kings,G,Tyreke Evans,Oklahoma City Thunder,L,01/25/2013,31:50,6,11,0.545,1,1,1.0,3,4,0.75,0,4,4,3,1,0,1,2,16,-2
+Sacramento Kings,G,Isaiah Thomas,Oklahoma City Thunder,L,01/25/2013,21:40,2,5,0.4,0,2,0.0,3,3,1.0,0,0,0,1,1,0,1,5,7,-3
+Sacramento Kings,F,John Salmons,Denver Nuggets,L,01/26/2013,23:01,3,5,0.6,2,3,0.667,0,0,0.0,0,1,1,3,0,0,3,2,8,-27
+Sacramento Kings,F,Jason Thompson,Denver Nuggets,L,01/26/2013,20:17,3,6,0.5,0,0,0.0,1,2,0.5,2,3,5,0,1,0,2,4,7,-26
+Sacramento Kings,C,DeMarcus Cousins,Denver Nuggets,L,01/26/2013,21:53,1,6,0.167,0,0,0.0,1,2,0.5,0,2,2,4,4,1,2,1,3,-22
+Sacramento Kings,G,Tyreke Evans,Denver Nuggets,L,01/26/2013,21:42,5,8,0.625,2,2,1.0,3,6,0.5,1,2,3,1,0,0,1,0,15,-18
+Sacramento Kings,G,Isaiah Thomas,Denver Nuggets,L,01/26/2013,20:57,5,10,0.5,0,1,0.0,0,0,0.0,0,3,3,3,0,0,2,3,10,-24
+Sacramento Kings,F,John Salmons,Washington Wizards,W,01/28/2013,12:00,0,4,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-5
+Sacramento Kings,F,Jason Thompson,Washington Wizards,W,01/28/2013,14:20,1,4,0.25,0,0,0.0,0,0,0.0,1,4,5,1,1,0,0,3,2,-4
+Sacramento Kings,C,DeMarcus Cousins,Washington Wizards,W,01/28/2013,26:14,5,8,0.625,0,0,0.0,2,4,0.5,1,3,4,1,2,1,3,3,12,-15
+Sacramento Kings,G,Tyreke Evans,Washington Wizards,W,01/28/2013,36:21,4,10,0.4,0,2,0.0,5,8,0.625,0,5,5,6,4,0,3,3,13,-3
+Sacramento Kings,G,Isaiah Thomas,Washington Wizards,W,01/28/2013,32:02,9,16,0.563,1,4,0.25,3,7,0.429,0,4,4,7,0,0,1,0,22,2
+Sacramento Kings,F,Francisco Garcia,Boston Celtics,L,01/30/2013,21:10,2,6,0.333,2,4,0.5,0,0,0.0,0,2,2,0,0,0,3,0,6,-15
+Sacramento Kings,F,Jason Thompson,Boston Celtics,L,01/30/2013,20:59,4,7,0.571,0,0,0.0,1,2,0.5,1,2,3,0,0,0,1,2,9,-14
+Sacramento Kings,C,DeMarcus Cousins,Boston Celtics,L,01/30/2013,32:53,4,12,0.333,0,1,0.0,5,8,0.625,2,4,6,4,1,1,5,4,13,-19
+Sacramento Kings,G,Tyreke Evans,Boston Celtics,L,01/30/2013,41:26,7,15,0.467,1,2,0.5,4,4,1.0,3,8,11,2,3,0,4,3,19,-9
+Sacramento Kings,G,Isaiah Thomas,Boston Celtics,L,01/30/2013,23:30,2,10,0.2,1,4,0.25,3,4,0.75,0,3,3,1,3,0,0,0,8,-11
+Sacramento Kings,F,John Salmons,Philadelphia 76ers,L,02/01/2013,32:31,1,7,0.143,0,2,0.0,0,0,0.0,0,3,3,3,1,0,0,0,2,11
+Sacramento Kings,F,Jason Thompson,Philadelphia 76ers,L,02/01/2013,30:46,3,9,0.333,0,0,0.0,0,0,0.0,1,3,4,0,1,0,1,3,6,-11
+Sacramento Kings,C,DeMarcus Cousins,Philadelphia 76ers,L,02/01/2013,35:12,6,13,0.462,0,0,0.0,0,3,0.0,5,7,12,4,2,3,4,4,12,-2
+Sacramento Kings,G,Tyreke Evans,Philadelphia 76ers,L,02/01/2013,41:44,11,18,0.611,1,2,0.5,6,8,0.75,0,4,4,4,2,0,3,3,29,6
+Sacramento Kings,G,Isaiah Thomas,Philadelphia 76ers,L,02/01/2013,33:08,7,18,0.389,0,3,0.0,10,10,1.0,0,4,4,5,1,0,2,2,24,11
+Sacramento Kings,F,Francisco Garcia,New York Knicks,L,02/02/2013,21:54,0,3,0.0,0,3,0.0,0,0,0.0,0,1,1,0,0,0,1,1,0,-21
+Sacramento Kings,F,John Salmons,New York Knicks,L,02/02/2013,23:49,1,5,0.2,1,2,0.5,0,0,0.0,0,0,0,1,0,0,3,3,3,-27
+Sacramento Kings,C,DeMarcus Cousins,New York Knicks,L,02/02/2013,32:57,10,14,0.714,0,1,0.0,5,5,1.0,1,8,9,1,1,0,3,2,25,-34
+Sacramento Kings,G,Tyreke Evans,New York Knicks,L,02/02/2013,30:32,3,10,0.3,0,0,0.0,1,2,0.5,1,3,4,4,1,1,3,1,7,-30
+Sacramento Kings,G,Isaiah Thomas,New York Knicks,L,02/02/2013,35:49,3,13,0.231,2,7,0.286,0,0,0.0,0,4,4,6,1,0,1,2,8,-7
+Sacramento Kings,F,John Salmons,Utah Jazz,L,02/04/2013,36:22,1,9,0.111,0,4,0.0,0,0,0.0,0,3,3,2,1,1,1,3,2,3
+Sacramento Kings,F,Jason Thompson,Utah Jazz,L,02/04/2013,44:58,9,18,0.5,0,0,0.0,5,8,0.625,5,5,10,0,2,1,1,4,23,-1
+Sacramento Kings,C,DeMarcus Cousins,Utah Jazz,L,02/04/2013,19:07,5,8,0.625,0,0,0.0,0,0,0.0,0,6,6,2,2,1,3,2,10,-2
+Sacramento Kings,G,Tyreke Evans,Utah Jazz,L,02/04/2013,39:40,7,15,0.467,0,3,0.0,6,10,0.6,2,0,2,3,0,0,2,3,20,4
+Sacramento Kings,G,Isaiah Thomas,Utah Jazz,L,02/04/2013,37:46,6,13,0.462,2,4,0.5,3,3,1.0,0,2,2,3,1,0,1,1,17,0
+Sacramento Kings,F,John Salmons,Utah Jazz,W,02/09/2013,21:28,4,11,0.364,3,8,0.375,0,1,0.0,1,1,2,4,0,0,0,0,11,20
+Sacramento Kings,F,Jason Thompson,Utah Jazz,W,02/09/2013,36:00,9,11,0.818,0,0,0.0,3,5,0.6,4,3,7,0,1,1,0,3,21,20
+Sacramento Kings,C,DeMarcus Cousins,Utah Jazz,W,02/09/2013,28:49,4,9,0.444,0,0,0.0,5,9,0.556,2,9,11,6,3,0,6,5,13,2
+Sacramento Kings,G,Tyreke Evans,Utah Jazz,W,02/09/2013,30:17,4,10,0.4,0,1,0.0,4,4,1.0,2,2,4,6,2,0,1,0,12,11
+Sacramento Kings,G,Isaiah Thomas,Utah Jazz,W,02/09/2013,33:27,10,16,0.625,2,4,0.5,3,3,1.0,0,4,4,3,3,0,3,4,25,21
+Sacramento Kings,F,John Salmons,Houston Rockets,W,02/10/2013,36:26,6,14,0.429,4,7,0.571,7,7,1.0,0,1,1,6,2,0,2,1,23,1
+Sacramento Kings,F,Jason Thompson,Houston Rockets,W,02/10/2013,32:48,6,10,0.6,0,0,0.0,0,0,0.0,2,5,7,1,1,2,1,4,12,7
+Sacramento Kings,C,DeMarcus Cousins,Houston Rockets,W,02/10/2013,23:56,9,14,0.643,0,0,0.0,2,3,0.667,1,6,7,1,0,0,1,5,20,0
+Sacramento Kings,G,Tyreke Evans,Houston Rockets,W,02/10/2013,23:02,3,7,0.429,0,1,0.0,0,0,0.0,2,2,4,4,1,0,2,4,6,-5
+Sacramento Kings,G,Isaiah Thomas,Houston Rockets,W,02/10/2013,33:20,4,10,0.4,2,3,0.667,13,13,1.0,0,1,1,6,2,0,2,1,23,11
+Sacramento Kings,F,John Salmons,Memphis Grizzlies,L,02/12/2013,30:07,1,5,0.2,0,3,0.0,0,0,0.0,0,3,3,2,1,1,0,2,2,-4
+Sacramento Kings,F,Jason Thompson,Memphis Grizzlies,L,02/12/2013,27:49,7,11,0.636,0,0,0.0,1,1,1.0,1,5,6,0,1,0,2,4,15,-2
+Sacramento Kings,C,DeMarcus Cousins,Memphis Grizzlies,L,02/12/2013,35:39,8,15,0.533,0,0,0.0,7,9,0.778,3,4,7,4,5,0,3,5,23,-15
+Sacramento Kings,G,Tyreke Evans,Memphis Grizzlies,L,02/12/2013,31:32,10,17,0.588,0,1,0.0,0,4,0.0,3,4,7,3,0,0,0,1,20,0
+Sacramento Kings,G,Isaiah Thomas,Memphis Grizzlies,L,02/12/2013,28:10,4,9,0.444,0,3,0.0,3,3,1.0,0,0,0,3,1,0,1,2,11,-11
+Sacramento Kings,F,John Salmons,Dallas Mavericks,L,02/13/2013,27:05,1,5,0.2,1,1,1.0,3,4,0.75,0,4,4,3,2,0,0,3,6,-3
+Sacramento Kings,F,Jason Thompson,Dallas Mavericks,L,02/13/2013,35:54,6,11,0.545,0,0,0.0,5,6,0.833,3,6,9,2,0,1,2,4,17,-21
+Sacramento Kings,C,DeMarcus Cousins,Dallas Mavericks,L,02/13/2013,28:30,5,9,0.556,0,1,0.0,7,9,0.778,6,7,13,2,0,0,5,2,17,-5
+Sacramento Kings,G,Tyreke Evans,Dallas Mavericks,L,02/13/2013,36:59,8,12,0.667,0,2,0.0,7,7,1.0,1,1,2,1,3,0,5,3,23,-19
+Sacramento Kings,G,Isaiah Thomas,Dallas Mavericks,L,02/13/2013,29:16,4,12,0.333,1,4,0.25,3,3,1.0,0,1,1,3,0,0,2,3,12,-21
+Sacramento Kings,F,John Salmons,San Antonio Spurs,L,02/19/2013,28:15,2,6,0.333,0,2,0.0,2,2,1.0,1,2,3,2,1,0,3,3,6,-13
+Sacramento Kings,F,Jason Thompson,San Antonio Spurs,L,02/19/2013,34:04,4,10,0.4,0,0,0.0,3,3,1.0,1,7,8,2,1,0,1,3,11,-14
+Sacramento Kings,C,DeMarcus Cousins,San Antonio Spurs,L,02/19/2013,27:08,3,8,0.375,0,0,0.0,5,8,0.625,3,4,7,4,0,2,3,4,11,-10
+Sacramento Kings,G,Tyreke Evans,San Antonio Spurs,L,02/19/2013,30:50,6,15,0.4,1,3,0.333,7,8,0.875,0,5,5,1,3,0,0,3,20,-12
+Sacramento Kings,G,Isaiah Thomas,San Antonio Spurs,L,02/19/2013,30:40,6,10,0.6,2,4,0.5,8,8,1.0,0,2,2,4,0,0,2,3,22,-3
+Sacramento Kings,F,John Salmons,Atlanta Hawks,L,02/22/2013,26:49,3,8,0.375,2,4,0.5,0,0,0.0,0,1,1,2,0,0,0,1,8,7
+Sacramento Kings,F,Jason Thompson,Atlanta Hawks,L,02/22/2013,30:02,3,9,0.333,0,0,0.0,3,4,0.75,2,8,10,0,0,2,2,5,9,-2
+Sacramento Kings,C,DeMarcus Cousins,Atlanta Hawks,L,02/22/2013,37:05,11,22,0.5,1,1,1.0,3,6,0.5,5,8,13,2,3,0,4,4,26,-6
+Sacramento Kings,G,Tyreke Evans,Atlanta Hawks,L,02/22/2013,39:04,5,14,0.357,1,3,0.333,4,4,1.0,2,6,8,6,0,0,2,2,15,-3
+Sacramento Kings,G,Isaiah Thomas,Atlanta Hawks,L,02/22/2013,37:16,9,18,0.5,4,6,0.667,8,9,0.889,2,4,6,9,0,0,3,2,30,-7
+Sacramento Kings,F,John Salmons,New Orleans Hornets,L,02/24/2013,36:43,6,14,0.429,6,7,0.857,0,0,0.0,1,2,3,3,0,1,2,0,18,-9
+Sacramento Kings,F,Jason Thompson,New Orleans Hornets,L,02/24/2013,28:16,8,11,0.727,0,0,0.0,0,0,0.0,4,5,9,0,0,1,3,2,16,-3
+Sacramento Kings,C,DeMarcus Cousins,New Orleans Hornets,L,02/24/2013,37:20,5,13,0.385,0,0,0.0,6,6,1.0,1,9,10,2,2,0,2,2,16,-8
+Sacramento Kings,G,Tyreke Evans,New Orleans Hornets,L,02/24/2013,34:10,4,16,0.25,2,3,0.667,2,2,1.0,1,2,3,4,1,0,0,2,12,-23
+Sacramento Kings,G,Isaiah Thomas,New Orleans Hornets,L,02/24/2013,33:48,6,14,0.429,1,3,0.333,3,3,1.0,1,2,3,5,2,0,1,2,16,-14
+Sacramento Kings,F,John Salmons,Miami Heat,L,02/26/2013,50:03,6,11,0.545,3,4,0.75,0,0,0.0,0,5,5,7,1,2,4,4,15,-3
+Sacramento Kings,F,Jason Thompson,Miami Heat,L,02/26/2013,26:15,3,10,0.3,0,0,0.0,2,3,0.667,3,3,6,2,1,0,4,1,8,4
+Sacramento Kings,C,DeMarcus Cousins,Miami Heat,L,02/26/2013,49:03,10,17,0.588,0,1,0.0,4,7,0.571,6,9,15,5,2,0,4,5,24,-17
+Sacramento Kings,G,Tyreke Evans,Miami Heat,L,02/26/2013,42:55,11,19,0.579,1,4,0.25,3,4,0.75,3,1,4,4,5,0,2,5,26,-16
+Sacramento Kings,G,Isaiah Thomas,Miami Heat,L,02/26/2013,48:20,5,11,0.455,2,4,0.5,2,2,1.0,0,2,2,9,1,0,2,3,14,-15
+Sacramento Kings,F,John Salmons,Orlando Magic,W,02/27/2013,22:11,7,9,0.778,4,5,0.8,3,3,1.0,0,1,1,5,0,0,0,2,21,15
+Sacramento Kings,F,Jason Thompson,Orlando Magic,W,02/27/2013,22:02,3,7,0.429,0,0,0.0,2,2,1.0,1,6,7,0,0,0,0,1,8,17
+Sacramento Kings,C,DeMarcus Cousins,Orlando Magic,W,02/27/2013,23:51,4,10,0.4,0,0,0.0,5,6,0.833,1,5,6,4,0,1,0,3,13,17
+Sacramento Kings,G,Tyreke Evans,Orlando Magic,W,02/27/2013,26:21,7,11,0.636,0,0,0.0,3,4,0.75,0,3,3,7,4,0,1,0,17,23
+Sacramento Kings,G,Isaiah Thomas,Orlando Magic,W,02/27/2013,13:48,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,2,1,0,0,3,2,7
+Sacramento Kings,F,John Salmons,San Antonio Spurs,L,03/01/2013,21:03,1,7,0.143,1,2,0.5,0,0,0.0,0,1,1,1,2,0,1,1,3,-14
+Sacramento Kings,F,Jason Thompson,San Antonio Spurs,L,03/01/2013,25:12,3,6,0.5,0,0,0.0,0,0,0.0,0,5,5,2,1,1,1,4,6,-22
+Sacramento Kings,C,DeMarcus Cousins,San Antonio Spurs,L,03/01/2013,20:47,4,9,0.444,0,0,0.0,1,2,0.5,2,5,7,0,1,0,4,3,9,-16
+Sacramento Kings,G,Tyreke Evans,San Antonio Spurs,L,03/01/2013,22:21,3,7,0.429,2,2,1.0,2,2,1.0,0,2,2,2,2,1,4,1,10,-13
+Sacramento Kings,G,Isaiah Thomas,San Antonio Spurs,L,03/01/2013,24:09,6,12,0.5,1,4,0.25,5,5,1.0,0,0,0,1,2,0,1,3,18,-21
+Sacramento Kings,F,John Salmons,Charlotte Bobcats,W,03/03/2013,30:25,6,13,0.462,5,10,0.5,5,5,1.0,2,1,3,2,2,0,1,3,22,34
+Sacramento Kings,F,Jason Thompson,Charlotte Bobcats,W,03/03/2013,27:46,6,8,0.75,0,0,0.0,6,6,1.0,4,10,14,0,2,0,2,4,18,34
+Sacramento Kings,C,DeMarcus Cousins,Charlotte Bobcats,W,03/03/2013,23:20,6,14,0.429,0,2,0.0,2,4,0.5,3,6,9,1,0,1,3,4,14,24
+Sacramento Kings,G,Tyreke Evans,Charlotte Bobcats,W,03/03/2013,23:44,3,6,0.5,2,3,0.667,5,7,0.714,0,7,7,4,1,1,1,1,13,30
+Sacramento Kings,G,Isaiah Thomas,Charlotte Bobcats,W,03/03/2013,26:50,4,10,0.4,2,5,0.4,0,0,0.0,0,2,2,7,0,0,2,2,10,29
+Sacramento Kings,F,John Salmons,Denver Nuggets,L,03/05/2013,32:08,4,9,0.444,3,7,0.429,0,0,0.0,1,3,4,2,0,1,2,5,11,-7
+Sacramento Kings,F,Jason Thompson,Denver Nuggets,L,03/05/2013,28:43,9,11,0.818,0,0,0.0,0,0,0.0,2,4,6,2,1,0,2,5,18,-4
+Sacramento Kings,C,DeMarcus Cousins,Denver Nuggets,L,03/05/2013,27:29,1,12,0.083,0,1,0.0,6,10,0.6,3,10,13,3,0,5,3,3,8,-13
+Sacramento Kings,G,Tyreke Evans,Denver Nuggets,L,03/05/2013,32:10,2,5,0.4,1,4,0.25,2,2,1.0,0,1,1,2,0,0,2,3,7,-16
+Sacramento Kings,G,Isaiah Thomas,Denver Nuggets,L,03/05/2013,34:07,6,13,0.462,3,6,0.5,8,9,0.889,1,2,3,8,1,1,2,2,23,-7
+Sacramento Kings,F,John Salmons,Golden State Warriors,L,03/06/2013,37:36,2,9,0.222,1,5,0.2,0,0,0.0,0,3,3,4,0,0,3,1,5,-2
+Sacramento Kings,F,Jason Thompson,Golden State Warriors,L,03/06/2013,33:36,8,13,0.615,0,0,0.0,1,3,0.333,2,6,8,1,2,0,1,2,17,-13
+Sacramento Kings,C,DeMarcus Cousins,Golden State Warriors,L,03/06/2013,20:19,2,10,0.2,0,0,0.0,1,1,1.0,2,2,4,3,4,1,2,3,5,-19
+Sacramento Kings,G,Tyreke Evans,Golden State Warriors,L,03/06/2013,30:51,4,14,0.286,0,3,0.0,1,2,0.5,0,2,2,6,1,2,1,1,9,-15
+Sacramento Kings,G,Isaiah Thomas,Golden State Warriors,L,03/06/2013,19:39,3,5,0.6,1,1,1.0,2,2,1.0,0,1,1,1,1,0,2,4,9,-8
+Sacramento Kings,F,John Salmons,Phoenix Suns,W,03/08/2013,23:00,1,5,0.2,0,4,0.0,0,0,0.0,0,3,3,5,0,0,1,0,2,15
+Sacramento Kings,F,Jason Thompson,Phoenix Suns,W,03/08/2013,28:36,4,8,0.5,0,0,0.0,4,6,0.667,1,0,1,1,0,1,1,2,12,20
+Sacramento Kings,C,DeMarcus Cousins,Phoenix Suns,W,03/08/2013,35:18,9,13,0.692,0,0,0.0,4,4,1.0,1,13,14,7,2,0,4,5,22,10
+Sacramento Kings,G,Tyreke Evans,Phoenix Suns,W,03/08/2013,34:47,9,12,0.75,4,6,0.667,3,4,0.75,0,2,2,5,1,2,6,2,25,0
+Sacramento Kings,G,Isaiah Thomas,Phoenix Suns,W,03/08/2013,33:03,8,13,0.615,4,5,0.8,7,7,1.0,1,4,5,6,5,0,2,3,27,20
+Sacramento Kings,F,John Salmons,Milwaukee Bucks,L,03/10/2013,35:39,2,8,0.25,1,5,0.2,0,2,0.0,0,4,4,4,0,0,1,2,5,0
+Sacramento Kings,F,Jason Thompson,Milwaukee Bucks,L,03/10/2013,37:20,8,13,0.615,0,0,0.0,2,2,1.0,2,6,8,2,1,1,1,2,18,-1
+Sacramento Kings,C,DeMarcus Cousins,Milwaukee Bucks,L,03/10/2013,28:17,10,12,0.833,0,0,0.0,4,4,1.0,0,10,10,1,1,0,0,4,24,3
+Sacramento Kings,G,Tyreke Evans,Milwaukee Bucks,L,03/10/2013,31:13,8,17,0.471,1,3,0.333,3,4,0.75,1,4,5,3,2,0,2,4,20,9
+Sacramento Kings,G,Isaiah Thomas,Milwaukee Bucks,L,03/10/2013,34:40,4,16,0.25,1,5,0.2,5,6,0.833,1,4,5,9,0,0,2,4,14,-7
+Sacramento Kings,F,John Salmons,Chicago Bulls,W,03/13/2013,30:17,2,10,0.2,1,5,0.2,0,0,0.0,0,2,2,2,0,0,0,1,5,20
+Sacramento Kings,F,Patrick Patterson,Chicago Bulls,W,03/13/2013,20:18,6,7,0.857,2,2,1.0,0,0,0.0,1,8,9,2,1,0,0,3,14,17
+Sacramento Kings,C,Jason Thompson,Chicago Bulls,W,03/13/2013,25:48,4,8,0.5,0,0,0.0,4,4,1.0,0,3,3,1,0,1,1,3,12,3
+Sacramento Kings,G,Tyreke Evans,Chicago Bulls,W,03/13/2013,36:24,11,13,0.846,1,3,0.333,3,4,0.75,1,4,5,7,3,1,2,3,26,33
+Sacramento Kings,G,Isaiah Thomas,Chicago Bulls,W,03/13/2013,28:03,8,14,0.571,2,5,0.4,4,4,1.0,0,3,3,3,1,0,1,0,22,26
+Sacramento Kings,F,John Salmons,Los Angeles Lakers,L,03/17/2013,30:28,1,7,0.143,1,3,0.333,0,0,0.0,0,0,0,5,0,0,0,3,3,-6
+Sacramento Kings,F,Patrick Patterson,Los Angeles Lakers,L,03/17/2013,36:01,9,12,0.75,2,2,1.0,2,2,1.0,3,2,5,0,0,0,0,2,22,-17
+Sacramento Kings,C,Jason Thompson,Los Angeles Lakers,L,03/17/2013,24:48,2,8,0.25,0,0,0.0,0,0,0.0,0,7,7,0,1,0,1,5,4,-3
+Sacramento Kings,G,Tyreke Evans,Los Angeles Lakers,L,03/17/2013,41:44,6,19,0.316,1,6,0.167,0,0,0.0,0,5,5,7,3,1,1,2,13,-7
+Sacramento Kings,G,Isaiah Thomas,Los Angeles Lakers,L,03/17/2013,34:19,9,20,0.45,3,10,0.3,5,5,1.0,0,1,1,6,1,0,1,3,26,-7
+Sacramento Kings,F,John Salmons,Los Angeles Clippers,W,03/19/2013,36:23,2,4,0.5,2,4,0.5,5,6,0.833,1,3,4,2,0,0,1,3,11,21
+Sacramento Kings,F,Jason Thompson,Los Angeles Clippers,W,03/19/2013,14:51,1,3,0.333,0,0,0.0,0,0,0.0,0,2,2,2,0,0,2,2,2,-4
+Sacramento Kings,C,DeMarcus Cousins,Los Angeles Clippers,W,03/19/2013,27:57,6,10,0.6,0,1,0.0,5,9,0.556,2,9,11,1,2,0,3,5,17,16
+Sacramento Kings,G,Tyreke Evans,Los Angeles Clippers,W,03/19/2013,35:56,4,13,0.308,0,2,0.0,9,10,0.9,0,4,4,5,2,0,1,2,17,11
+Sacramento Kings,G,Isaiah Thomas,Los Angeles Clippers,W,03/19/2013,21:47,3,5,0.6,1,3,0.333,0,0,0.0,0,0,0,3,2,0,2,4,7,-6
+Sacramento Kings,F,John Salmons,Minnesota Timberwolves,W,03/21/2013,43:21,5,11,0.455,0,3,0.0,3,3,1.0,0,5,5,3,1,0,1,1,13,4
+Sacramento Kings,F,Jason Thompson,Minnesota Timberwolves,W,03/21/2013,21:07,2,5,0.4,0,0,0.0,0,0,0.0,0,4,4,0,0,1,1,4,4,-3
+Sacramento Kings,C,DeMarcus Cousins,Minnesota Timberwolves,W,03/21/2013,27:54,6,12,0.5,0,0,0.0,3,5,0.6,2,12,14,2,0,1,4,5,15,-5
+Sacramento Kings,G,Tyreke Evans,Minnesota Timberwolves,W,03/21/2013,38:30,8,11,0.727,1,3,0.333,4,5,0.8,0,5,5,5,0,0,3,2,21,7
+Sacramento Kings,G,Isaiah Thomas,Minnesota Timberwolves,W,03/21/2013,35:14,8,15,0.533,3,6,0.5,5,5,1.0,0,3,3,6,0,0,1,2,24,3
+Sacramento Kings,F,John Salmons,Denver Nuggets,L,03/23/2013,36:14,7,12,0.583,4,8,0.5,0,0,0.0,0,3,3,2,0,1,1,3,18,-4
+Sacramento Kings,F,Jason Thompson,Denver Nuggets,L,03/23/2013,26:03,3,11,0.273,0,0,0.0,0,0,0.0,2,2,4,0,1,1,0,4,6,-12
+Sacramento Kings,C,DeMarcus Cousins,Denver Nuggets,L,03/23/2013,35:59,10,16,0.625,0,0,0.0,4,8,0.5,3,12,15,3,0,5,6,5,24,-10
+Sacramento Kings,G,Tyreke Evans,Denver Nuggets,L,03/23/2013,23:14,2,5,0.4,0,1,0.0,0,0,0.0,0,2,2,2,0,0,1,2,4,-1
+Sacramento Kings,G,Isaiah Thomas,Denver Nuggets,L,03/23/2013,32:48,3,12,0.25,2,8,0.25,2,3,0.667,1,0,1,9,1,0,2,4,10,0
+Sacramento Kings,F,John Salmons,Philadelphia 76ers,L,03/24/2013,31:29,2,9,0.222,1,6,0.167,0,0,0.0,1,4,5,2,0,0,0,1,5,2
+Sacramento Kings,F,Jason Thompson,Philadelphia 76ers,L,03/24/2013,26:57,4,10,0.4,0,0,0.0,0,2,0.0,3,5,8,0,0,1,2,0,8,-7
+Sacramento Kings,C,DeMarcus Cousins,Philadelphia 76ers,L,03/24/2013,27:25,3,9,0.333,0,0,0.0,2,2,1.0,2,7,9,2,1,1,2,5,8,4
+Sacramento Kings,G,Tyreke Evans,Philadelphia 76ers,L,03/24/2013,33:46,8,15,0.533,1,3,0.333,2,2,1.0,0,2,2,8,2,1,1,0,19,-21
+Sacramento Kings,G,Isaiah Thomas,Philadelphia 76ers,L,03/24/2013,28:56,10,15,0.667,4,7,0.571,1,1,1.0,0,3,3,0,0,0,3,3,25,-6
+Sacramento Kings,F,John Salmons,Golden State Warriors,W,03/27/2013,31:35,3,9,0.333,1,3,0.333,2,3,0.667,2,4,6,5,0,0,0,0,9,6
+Sacramento Kings,F,Jason Thompson,Golden State Warriors,W,03/27/2013,22:42,4,10,0.4,0,0,0.0,1,2,0.5,3,6,9,1,1,1,1,1,9,6
+Sacramento Kings,C,DeMarcus Cousins,Golden State Warriors,W,03/27/2013,23:24,7,15,0.467,0,0,0.0,0,4,0.0,4,2,6,0,2,0,5,4,14,9
+Sacramento Kings,G,Tyreke Evans,Golden State Warriors,W,03/27/2013,33:35,4,12,0.333,1,4,0.25,3,4,0.75,1,2,3,5,1,0,1,3,12,7
+Sacramento Kings,G,Isaiah Thomas,Golden State Warriors,W,03/27/2013,34:45,10,18,0.556,7,12,0.583,4,6,0.667,0,3,3,7,1,0,3,2,31,6
+Sacramento Kings,F,John Salmons,Phoenix Suns,W,03/28/2013,38:04,3,9,0.333,0,2,0.0,0,0,0.0,0,3,3,1,0,0,2,0,6,14
+Sacramento Kings,F,Jason Thompson,Phoenix Suns,W,03/28/2013,18:52,3,7,0.429,0,0,0.0,2,2,1.0,1,2,3,1,0,0,3,2,8,2
+Sacramento Kings,C,DeMarcus Cousins,Phoenix Suns,W,03/28/2013,30:00,12,16,0.75,1,2,0.5,9,9,1.0,5,9,14,2,1,1,5,4,34,11
+Sacramento Kings,G,Tyreke Evans,Phoenix Suns,W,03/28/2013,33:24,5,9,0.556,0,3,0.0,2,2,1.0,0,3,3,6,1,0,0,4,12,4
+Sacramento Kings,G,Isaiah Thomas,Phoenix Suns,W,03/28/2013,29:24,6,10,0.6,3,4,0.75,8,8,1.0,0,3,3,8,0,0,5,3,23,11
+Sacramento Kings,F,John Salmons,Los Angeles Lakers,L,03/30/2013,44:21,5,12,0.417,3,7,0.429,0,0,0.0,2,1,3,3,1,1,1,2,13,-5
+Sacramento Kings,F,Jason Thompson,Los Angeles Lakers,L,03/30/2013,23:50,7,10,0.7,0,0,0.0,1,1,1.0,2,2,4,1,0,0,1,4,15,-4
+Sacramento Kings,C,DeMarcus Cousins,Los Angeles Lakers,L,03/30/2013,38:55,8,20,0.4,0,2,0.0,3,4,0.75,2,9,11,2,0,0,3,3,19,1
+Sacramento Kings,G,Tyreke Evans,Los Angeles Lakers,L,03/30/2013,42:45,9,15,0.6,0,1,0.0,3,3,1.0,2,7,9,6,0,0,4,3,21,8
+Sacramento Kings,G,Isaiah Thomas,Los Angeles Lakers,L,03/30/2013,25:22,3,5,0.6,2,4,0.5,2,3,0.667,0,0,0,5,0,0,1,1,10,-3
+Sacramento Kings,F,John Salmons,Houston Rockets,L,04/03/2013,38:38,0,4,0.0,0,2,0.0,0,0,0.0,1,0,1,5,1,0,0,2,0,-7
+Sacramento Kings,F,Jason Thompson,Houston Rockets,L,04/03/2013,32:13,6,12,0.5,0,0,0.0,5,6,0.833,3,12,15,1,1,2,0,4,17,-4
+Sacramento Kings,C,DeMarcus Cousins,Houston Rockets,L,04/03/2013,26:37,7,13,0.538,0,0,0.0,6,9,0.667,3,3,6,2,2,0,2,6,20,-12
+Sacramento Kings,G,Tyreke Evans,Houston Rockets,L,04/03/2013,28:53,7,18,0.389,2,5,0.4,6,8,0.75,2,2,4,0,4,0,1,3,22,-11
+Sacramento Kings,G,Isaiah Thomas,Houston Rockets,L,04/03/2013,35:26,3,16,0.188,1,7,0.143,5,5,1.0,0,0,0,5,1,1,2,1,12,-6
+Sacramento Kings,F,John Salmons,Dallas Mavericks,L,04/05/2013,25:44,1,6,0.167,1,5,0.2,0,0,0.0,0,2,2,2,1,0,0,1,3,-9
+Sacramento Kings,F,Patrick Patterson,Dallas Mavericks,L,04/05/2013,41:36,3,9,0.333,1,3,0.333,3,4,0.75,2,5,7,2,0,0,3,2,10,-2
+Sacramento Kings,C,Jason Thompson,Dallas Mavericks,L,04/05/2013,36:46,6,13,0.462,0,0,0.0,4,5,0.8,3,13,16,4,0,1,3,1,16,-5
+Sacramento Kings,G,Tyreke Evans,Dallas Mavericks,L,04/05/2013,40:41,10,15,0.667,2,4,0.5,4,6,0.667,2,7,9,6,0,0,1,1,26,-3
+Sacramento Kings,G,Isaiah Thomas,Dallas Mavericks,L,04/05/2013,35:34,9,20,0.45,0,7,0.0,11,12,0.917,2,1,3,1,1,0,1,3,29,-3
+Sacramento Kings,F,John Salmons,Memphis Grizzlies,L,04/07/2013,19:37,1,4,0.25,0,2,0.0,0,0,0.0,0,0,0,2,1,0,1,1,2,-13
+Sacramento Kings,F,Jason Thompson,Memphis Grizzlies,L,04/07/2013,18:38,1,5,0.2,0,0,0.0,0,0,0.0,1,3,4,0,1,0,2,5,2,-10
+Sacramento Kings,C,DeMarcus Cousins,Memphis Grizzlies,L,04/07/2013,29:55,9,15,0.6,0,1,0.0,4,4,1.0,0,9,9,0,1,0,1,3,22,-5
+Sacramento Kings,G,Tyreke Evans,Memphis Grizzlies,L,04/07/2013,24:38,1,7,0.143,0,2,0.0,3,4,0.75,1,4,5,0,0,0,2,3,5,-11
+Sacramento Kings,G,Isaiah Thomas,Memphis Grizzlies,L,04/07/2013,31:41,5,13,0.385,1,4,0.25,7,10,0.7,2,4,6,8,1,0,2,1,18,-10
+Sacramento Kings,F,John Salmons,New Orleans Hornets,W,04/10/2013,31:40,7,10,0.7,2,4,0.5,6,8,0.75,0,3,3,3,0,0,1,3,22,28
+Sacramento Kings,F,Jason Thompson,New Orleans Hornets,W,04/10/2013,33:34,8,12,0.667,0,0,0.0,4,6,0.667,3,5,8,1,1,2,1,4,20,11
+Sacramento Kings,C,DeMarcus Cousins,New Orleans Hornets,W,04/10/2013,24:50,4,10,0.4,0,0,0.0,3,3,1.0,0,4,4,5,2,2,1,6,11,12
+Sacramento Kings,G,Tyreke Evans,New Orleans Hornets,W,04/10/2013,23:29,4,7,0.571,0,1,0.0,0,0,0.0,0,4,4,3,1,0,2,2,8,4
+Sacramento Kings,G,Isaiah Thomas,New Orleans Hornets,W,04/10/2013,26:36,6,13,0.462,1,2,0.5,2,4,0.5,1,2,3,3,1,0,1,2,15,6
+Sacramento Kings,F,John Salmons,San Antonio Spurs,L,04/12/2013,20:12,0,4,0.0,0,1,0.0,0,0,0.0,1,2,3,3,1,0,1,1,0,-9
+Sacramento Kings,F,Jason Thompson,San Antonio Spurs,L,04/12/2013,32:24,8,15,0.533,0,0,0.0,2,2,1.0,3,3,6,1,1,2,0,4,18,-5
+Sacramento Kings,C,DeMarcus Cousins,San Antonio Spurs,L,04/12/2013,28:36,6,11,0.545,0,0,0.0,7,9,0.778,4,8,12,1,1,2,2,4,19,1
+Sacramento Kings,G,Tyreke Evans,San Antonio Spurs,L,04/12/2013,21:20,3,9,0.333,2,2,1.0,1,2,0.5,0,1,1,2,0,0,3,0,9,-9
+Sacramento Kings,G,Isaiah Thomas,San Antonio Spurs,L,04/12/2013,22:29,3,10,0.3,0,2,0.0,0,0,0.0,0,2,2,3,3,0,2,1,6,-10
+Sacramento Kings,F,John Salmons,Houston Rockets,L,04/14/2013,26:24,5,8,0.625,3,6,0.5,1,1,1.0,0,0,0,0,0,1,1,3,14,-18
+Sacramento Kings,F,Jason Thompson,Houston Rockets,L,04/14/2013,21:26,3,11,0.273,0,0,0.0,1,2,0.5,1,3,4,2,0,1,1,3,7,-26
+Sacramento Kings,C,DeMarcus Cousins,Houston Rockets,L,04/14/2013,22:01,3,9,0.333,0,0,0.0,2,4,0.5,3,5,8,0,3,0,2,2,8,-20
+Sacramento Kings,G,Tyreke Evans,Houston Rockets,L,04/14/2013,17:54,4,10,0.4,1,3,0.333,1,1,1.0,1,2,3,1,0,1,2,1,10,-18
+Sacramento Kings,G,Isaiah Thomas,Houston Rockets,L,04/14/2013,28:10,2,9,0.222,1,3,0.333,5,5,1.0,0,1,1,10,0,0,1,4,10,-17
+Sacramento Kings,F,John Salmons,Oklahoma City Thunder,L,04/15/2013,24:20,2,8,0.25,0,3,0.0,0,0,0.0,1,4,5,3,0,0,1,3,4,-15
+Sacramento Kings,F,Jason Thompson,Oklahoma City Thunder,L,04/15/2013,26:23,2,8,0.25,0,1,0.0,3,6,0.5,1,2,3,0,1,0,0,2,7,-17
+Sacramento Kings,C,DeMarcus Cousins,Oklahoma City Thunder,L,04/15/2013,25:14,2,9,0.222,0,0,0.0,3,4,0.75,1,5,6,2,0,0,5,1,7,-26
+Sacramento Kings,G,Tyreke Evans,Oklahoma City Thunder,L,04/15/2013,10:00,4,5,0.8,0,1,0.0,0,0,0.0,0,0,0,1,1,0,0,1,8,-5
+Sacramento Kings,G,Isaiah Thomas,Oklahoma City Thunder,L,04/15/2013,27:31,5,10,0.5,4,8,0.5,2,2,1.0,1,3,4,2,0,0,5,2,16,-4
+Sacramento Kings,F,John Salmons,Los Angeles Clippers,L,04/17/2013,30:00,1,4,0.25,0,2,0.0,0,0,0.0,1,2,3,1,0,1,2,0,2,6
+Sacramento Kings,F,Jason Thompson,Los Angeles Clippers,L,04/17/2013,25:34,3,7,0.429,0,0,0.0,2,2,1.0,1,5,6,0,2,0,0,4,8,1
+Sacramento Kings,C,DeMarcus Cousins,Los Angeles Clippers,L,04/17/2013,41:23,14,24,0.583,0,0,0.0,8,11,0.727,4,18,22,3,0,3,3,4,36,2
+Sacramento Kings,G,Marcus Thornton,Los Angeles Clippers,L,04/17/2013,37:01,8,20,0.4,5,12,0.417,0,0,0.0,1,1,2,3,1,0,0,1,21,1
+Sacramento Kings,G,Isaiah Thomas,Los Angeles Clippers,L,04/17/2013,42:57,5,17,0.294,3,7,0.429,2,2,1.0,3,1,4,10,2,0,3,4,15,-6

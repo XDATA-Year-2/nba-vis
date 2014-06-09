@@ -1,0 +1,65 @@
+{
+	"team": "Chicago Bulls",
+	"players": [
+		{
+			"name": "Luol Deng",
+			"positions": ["Foward"]
+		},
+		{
+			"name": "Carlos Boozer",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Joakim Noah",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Richard Hamilton",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Kirk Hinrich",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Nate Robinson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Macro Belinelli",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Taj Gibson",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Jimmy Butler",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Nazr Mohammed",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Marquis Teague",
+			"positions": [""]
+		},
+		{
+			"name": "Vladimir Radmanovic",
+			"positions": [""]
+		},
+		{
+			"name": "Daequan Cook",
+			"positions": [""]
+		},
+		{
+			"name": "Lou Amundson",
+			"positions": [""]
+		},
+		{
+			"name": "Malcolm Thomas",
+			"positions": [""]
+		}
+	]
+}

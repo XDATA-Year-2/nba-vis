@@ -1,0 +1,81 @@
+{
+	"team": "New Orleans Hornets",
+	"players": [
+		{
+			"name": "Al-Farouq Aminu",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Anthony Davis",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Robin Lopez",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Austin Rivers",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Greivis Vasquez",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Ryan Anderson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Darius Miller",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Roger Mason Jr.",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Xavier Henry",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Lance Thomas",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Eric Gordon",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Brian Roberts",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jason Smith",
+			"positions": [""]
+		},
+		{
+			"name": "Hakim Warrick",
+			"positions": [""]
+		},
+		{
+			"name": "Dominic McGuire",
+			"positions": [""]
+		},
+		{
+			"name": "Donald Sloan",
+			"positions": [""]
+		},
+		{
+			"name": "Henry Sims",
+			"positions": [""]
+		},
+		{
+			"name": "Terrel Harris",
+			"positions": [""]
+		},
+		{
+			"name": "Lou Amundson",
+			"positions": [""]
+		}
+	]
+}

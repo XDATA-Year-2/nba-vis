@@ -1,0 +1,429 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Memphis Grizzlies,,Jerryd Bayless,Los Angeles Clippers,L,10/31/2012,15:20,1,8,0.125,1,3,0.333,3,4,0.75,0,1,1,4,1,1,1,3,6,-6
+Memphis Grizzlies,,Marreese Speights,Los Angeles Clippers,L,10/31/2012,16:51,2,4,0.5,0,0,0.0,3,3,1.0,0,2,2,0,1,0,0,4,7,7
+Memphis Grizzlies,,Wayne Ellington,Los Angeles Clippers,L,10/31/2012,15:31,2,5,0.4,0,2,0.0,0,0,0.0,1,1,2,0,0,0,0,2,4,3
+Memphis Grizzlies,,Quincy Pondexter,Los Angeles Clippers,L,10/31/2012,12:28,0,4,0.0,0,3,0.0,0,0,0.0,1,0,1,3,2,0,1,2,0,-10
+Memphis Grizzlies,,Marreese Speights,Golden State Warriors,W,11/02/2012,18:19,2,7,0.286,0,0,0.0,0,0,0.0,2,3,5,0,0,1,1,4,4,-5
+Memphis Grizzlies,,Wayne Ellington,Golden State Warriors,W,11/02/2012,17:43,3,6,0.5,2,4,0.5,2,2,1.0,0,0,0,3,1,0,0,0,10,2
+Memphis Grizzlies,,Quincy Pondexter,Golden State Warriors,W,11/02/2012,17:50,1,2,0.5,0,0,0.0,2,2,1.0,0,1,1,2,1,0,0,1,4,-1
+Memphis Grizzlies,,Jerryd Bayless,Golden State Warriors,W,11/02/2012,14:02,2,3,0.667,1,1,1.0,0,0,0.0,0,0,0,4,0,0,1,2,5,-4
+Memphis Grizzlies,,Quincy Pondexter,Utah Jazz,W,11/05/2012,22:20,5,8,0.625,2,2,1.0,2,3,0.667,1,1,2,1,0,0,1,1,14,3
+Memphis Grizzlies,,Marreese Speights,Utah Jazz,W,11/05/2012,21:29,3,5,0.6,0,0,0.0,1,2,0.5,0,6,6,1,1,1,3,4,7,11
+Memphis Grizzlies,,Wayne Ellington,Utah Jazz,W,11/05/2012,13:02,1,5,0.2,0,1,0.0,0,0,0.0,1,2,3,0,1,0,0,0,2,6
+Memphis Grizzlies,,Jerryd Bayless,Utah Jazz,W,11/05/2012,14:23,1,3,0.333,1,3,0.333,0,0,0.0,0,2,2,4,1,1,2,1,3,3
+Memphis Grizzlies,,Wayne Ellington,Milwaukee Bucks,W,11/07/2012,18:28,2,3,0.667,1,2,0.5,0,0,0.0,1,2,3,2,0,0,0,2,5,9
+Memphis Grizzlies,,Marreese Speights,Milwaukee Bucks,W,11/07/2012,21:59,9,13,0.692,0,0,0.0,0,1,0.0,1,8,9,1,0,2,1,4,18,10
+Memphis Grizzlies,,Jerryd Bayless,Milwaukee Bucks,W,11/07/2012,13:05,3,4,0.75,2,3,0.667,0,0,0.0,0,1,1,3,1,0,0,2,8,14
+Memphis Grizzlies,,Quincy Pondexter,Milwaukee Bucks,W,11/07/2012,23:08,3,6,0.5,3,4,0.75,0,0,0.0,1,1,2,1,1,0,0,2,9,12
+Memphis Grizzlies,,Tony Wroten,Milwaukee Bucks,W,11/07/2012,3:05,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+Memphis Grizzlies,,Josh Selby,Milwaukee Bucks,W,11/07/2012,3:05,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-3
+Memphis Grizzlies,,Marreese Speights,Houston Rockets,W,11/09/2012,20:37,2,9,0.222,0,0,0.0,3,4,0.75,6,1,7,2,0,2,0,0,7,9
+Memphis Grizzlies,,Quincy Pondexter,Houston Rockets,W,11/09/2012,28:59,2,7,0.286,1,4,0.25,0,0,0.0,1,0,1,1,4,0,1,1,5,12
+Memphis Grizzlies,,Jerryd Bayless,Houston Rockets,W,11/09/2012,17:56,4,8,0.5,2,4,0.5,2,2,1.0,0,2,2,3,3,0,1,1,12,9
+Memphis Grizzlies,,Wayne Ellington,Houston Rockets,W,11/09/2012,17:53,2,4,0.5,1,3,0.333,0,0,0.0,0,1,1,2,0,1,0,1,5,12
+Memphis Grizzlies,,Quincy Pondexter,Miami Heat,W,11/11/2012,19:27,3,6,0.5,1,2,0.5,0,2,0.0,0,1,1,1,1,0,0,2,7,19
+Memphis Grizzlies,,Marreese Speights,Miami Heat,W,11/11/2012,19:05,1,6,0.167,0,0,0.0,2,2,1.0,3,2,5,1,0,0,2,3,4,-15
+Memphis Grizzlies,,Jerryd Bayless,Miami Heat,W,11/11/2012,16:29,2,3,0.667,1,1,1.0,0,0,0.0,0,1,1,0,1,1,3,2,5,-8
+Memphis Grizzlies,,Wayne Ellington,Miami Heat,W,11/11/2012,27:20,8,13,0.615,7,11,0.636,2,2,1.0,0,1,1,3,0,0,0,2,25,36
+Memphis Grizzlies,,Josh Selby,Miami Heat,W,11/11/2012,3:30,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,1,0,0,1,0,-9
+Memphis Grizzlies,,Tony Wroten,Miami Heat,W,11/11/2012,3:30,0,3,0.0,0,0,0.0,0,0,0.0,1,0,1,0,1,0,0,1,0,-9
+Memphis Grizzlies,,Hamed Haddadi,Miami Heat,W,11/11/2012,2:56,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-5
+Memphis Grizzlies,,Quincy Pondexter,Oklahoma City Thunder,W,11/14/2012,27:16,4,10,0.4,3,7,0.429,2,2,1.0,1,1,2,2,0,0,0,2,13,8
+Memphis Grizzlies,,Marreese Speights,Oklahoma City Thunder,W,11/14/2012,7:22,0,3,0.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,0,0,7
+Memphis Grizzlies,,Jerryd Bayless,Oklahoma City Thunder,W,11/14/2012,17:19,5,8,0.625,2,3,0.667,0,0,0.0,0,2,2,4,0,0,1,5,12,13
+Memphis Grizzlies,,Wayne Ellington,Oklahoma City Thunder,W,11/14/2012,11:21,3,5,0.6,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,2,6,9
+Memphis Grizzlies,,Quincy Pondexter,New York Knicks,W,11/16/2012,24:56,1,3,0.333,1,3,0.333,0,0,0.0,0,3,3,1,0,0,0,0,3,-3
+Memphis Grizzlies,,Jerryd Bayless,New York Knicks,W,11/16/2012,13:10,3,6,0.5,0,1,0.0,0,0,0.0,0,1,1,1,0,0,2,3,6,-2
+Memphis Grizzlies,,Wayne Ellington,New York Knicks,W,11/16/2012,16:59,2,4,0.5,1,2,0.5,0,0,0.0,0,0,0,1,1,0,1,1,5,-10
+Memphis Grizzlies,,Marreese Speights,New York Knicks,W,11/16/2012,11:21,2,6,0.333,0,0,0.0,1,2,0.5,0,1,1,0,0,1,1,3,5,-9
+Memphis Grizzlies,,Tony Wroten,New York Knicks,W,11/16/2012,1:03,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+Memphis Grizzlies,,Josh Selby,New York Knicks,W,11/16/2012,1:03,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-4
+Memphis Grizzlies,,Quincy Pondexter,Charlotte Bobcats,W,11/17/2012,22:46,1,3,0.333,0,2,0.0,0,0,0.0,0,3,3,1,0,0,1,2,2,-4
+Memphis Grizzlies,,Marreese Speights,Charlotte Bobcats,W,11/17/2012,20:35,1,7,0.143,0,0,0.0,7,8,0.875,3,3,6,0,0,0,4,3,9,-3
+Memphis Grizzlies,,Jerryd Bayless,Charlotte Bobcats,W,11/17/2012,21:44,2,5,0.4,0,1,0.0,1,1,1.0,0,2,2,3,0,3,2,2,5,0
+Memphis Grizzlies,,Wayne Ellington,Charlotte Bobcats,W,11/17/2012,11:29,0,5,0.0,0,4,0.0,0,0,0.0,0,1,1,1,0,0,0,1,0,0
+Memphis Grizzlies,,Quincy Pondexter,Denver Nuggets,L,11/19/2012,26:12,3,7,0.429,0,3,0.0,0,0,0.0,1,1,2,1,2,0,0,2,6,-13
+Memphis Grizzlies,,Wayne Ellington,Denver Nuggets,L,11/19/2012,8:12,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-3
+Memphis Grizzlies,,Jerryd Bayless,Denver Nuggets,L,11/19/2012,19:06,4,8,0.5,1,5,0.2,0,2,0.0,0,1,1,3,2,0,2,2,9,-3
+Memphis Grizzlies,,Marreese Speights,Denver Nuggets,L,11/19/2012,13:20,4,7,0.571,0,0,0.0,0,0,0.0,1,2,3,1,0,2,1,4,8,-5
+Memphis Grizzlies,,Quincy Pondexter,Los Angeles Lakers,W,11/23/2012,21:19,2,2,1.0,2,2,1.0,2,2,1.0,1,1,2,0,0,0,1,4,8,1
+Memphis Grizzlies,,Marreese Speights,Los Angeles Lakers,W,11/23/2012,14:02,1,4,0.25,0,0,0.0,2,2,1.0,1,3,4,1,0,0,0,4,4,-11
+Memphis Grizzlies,,Jerryd Bayless,Los Angeles Lakers,W,11/23/2012,12:36,3,6,0.5,0,0,0.0,3,3,1.0,0,0,0,1,1,0,0,2,9,-17
+Memphis Grizzlies,,Wayne Ellington,Los Angeles Lakers,W,11/23/2012,10:31,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,1,0,1,2,0,-14
+Memphis Grizzlies,,Darrell Arthur,Los Angeles Lakers,W,11/23/2012,7:39,1,1,1.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,1,2,-7
+Memphis Grizzlies,,Quincy Pondexter,Cleveland Cavaliers,W,11/26/2012,22:09,4,6,0.667,2,3,0.667,0,0,0.0,0,2,2,1,0,0,0,0,10,-6
+Memphis Grizzlies,,Marreese Speights,Cleveland Cavaliers,W,11/26/2012,5:04,0,1,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,0,0,-4
+Memphis Grizzlies,,Darrell Arthur,Cleveland Cavaliers,W,11/26/2012,18:12,1,5,0.2,0,0,0.0,0,0,0.0,1,2,3,1,0,2,0,0,2,-1
+Memphis Grizzlies,,Josh Selby,Cleveland Cavaliers,W,11/26/2012,4:23,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,2,0,-2
+Memphis Grizzlies,,Wayne Ellington,Cleveland Cavaliers,W,11/26/2012,11:32,1,5,0.2,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-2
+Memphis Grizzlies,,Jerryd Bayless,Toronto Raptors,W,11/28/2012,17:25,1,5,0.2,0,2,0.0,0,0,0.0,0,2,2,4,1,0,0,3,2,-10
+Memphis Grizzlies,,Quincy Pondexter,Toronto Raptors,W,11/28/2012,24:09,2,6,0.333,0,2,0.0,0,1,0.0,1,1,2,4,0,1,1,0,4,-9
+Memphis Grizzlies,,Marreese Speights,Toronto Raptors,W,11/28/2012,24:19,7,11,0.636,1,1,1.0,3,4,0.75,4,8,12,2,1,1,2,3,18,10
+Memphis Grizzlies,,Wayne Ellington,Toronto Raptors,W,11/28/2012,13:26,2,6,0.333,0,1,0.0,0,0,0.0,0,1,1,1,0,0,0,1,4,7
+Memphis Grizzlies,,Hamed Haddadi,Toronto Raptors,W,11/28/2012,7:00,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-4
+Memphis Grizzlies,,Josh Selby,Toronto Raptors,W,11/28/2012,3:20,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-3
+Memphis Grizzlies,,Quincy Pondexter,Detroit Pistons,W,11/30/2012,24:41,0,3,0.0,0,1,0.0,0,0,0.0,0,2,2,2,2,0,0,4,0,19
+Memphis Grizzlies,,Jerryd Bayless,Detroit Pistons,W,11/30/2012,15:11,4,6,0.667,0,0,0.0,2,2,1.0,0,2,2,4,1,0,3,3,10,4
+Memphis Grizzlies,,Marreese Speights,Detroit Pistons,W,11/30/2012,17:12,3,7,0.429,0,0,0.0,0,1,0.0,3,4,7,0,1,0,0,2,6,6
+Memphis Grizzlies,,Darrell Arthur,Detroit Pistons,W,11/30/2012,14:43,5,8,0.625,0,0,0.0,1,1,1.0,0,1,1,1,0,0,0,3,11,9
+Memphis Grizzlies,,Quincy Pondexter,San Antonio Spurs,L,12/01/2012,28:31,1,6,0.167,1,4,0.25,0,0,0.0,0,3,3,1,0,0,2,1,3,-1
+Memphis Grizzlies,,Jerryd Bayless,San Antonio Spurs,L,12/01/2012,20:47,1,8,0.125,0,4,0.0,3,4,0.75,0,1,1,3,1,0,1,4,5,0
+Memphis Grizzlies,,Darrell Arthur,San Antonio Spurs,L,12/01/2012,14:60,5,8,0.625,0,0,0.0,0,0,0.0,2,0,2,0,0,0,2,1,10,14
+Memphis Grizzlies,,Marreese Speights,San Antonio Spurs,L,12/01/2012,15:15,1,6,0.167,0,0,0.0,2,2,1.0,2,6,8,0,0,3,0,2,4,-4
+Memphis Grizzlies,,Darrell Arthur,Phoenix Suns,W,12/04/2012,21:07,3,8,0.375,0,1,0.0,0,0,0.0,1,1,2,1,2,2,2,4,6,10
+Memphis Grizzlies,,Jerryd Bayless,Phoenix Suns,W,12/04/2012,10:45,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,1,1,0,0,2,2,-10
+Memphis Grizzlies,,Quincy Pondexter,Phoenix Suns,W,12/04/2012,37:26,4,9,0.444,2,6,0.333,6,9,0.667,1,2,3,1,1,0,2,2,16,12
+Memphis Grizzlies,,Marreese Speights,Phoenix Suns,W,12/04/2012,2:50,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-8
+Memphis Grizzlies,,Darrell Arthur,New Orleans Hornets,W,12/07/2012,12:24,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,3,2,-10
+Memphis Grizzlies,,Wayne Ellington,New Orleans Hornets,W,12/07/2012,10:12,0,2,0.0,0,2,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,-11
+Memphis Grizzlies,,Jerryd Bayless,New Orleans Hornets,W,12/07/2012,20:38,1,2,0.5,1,1,1.0,2,2,1.0,0,4,4,2,0,0,1,1,5,-4
+Memphis Grizzlies,,Marreese Speights,New Orleans Hornets,W,12/07/2012,10:07,1,1,1.0,0,0,0.0,0,0,0.0,2,3,5,0,0,1,2,0,2,1
+Memphis Grizzlies,,Quincy Pondexter,New Orleans Hornets,W,12/07/2012,25:39,6,6,1.0,4,4,1.0,0,0,0.0,3,3,6,3,0,0,2,2,16,3
+Memphis Grizzlies,,Darrell Arthur,Atlanta Hawks,L,12/08/2012,12:30,2,7,0.286,0,0,0.0,0,0,0.0,1,1,2,1,0,0,1,3,4,2
+Memphis Grizzlies,,Wayne Ellington,Atlanta Hawks,L,12/08/2012,14:01,3,4,0.75,2,3,0.667,0,0,0.0,0,1,1,1,0,0,1,1,8,7
+Memphis Grizzlies,,Jerryd Bayless,Atlanta Hawks,L,12/08/2012,17:55,1,4,0.25,0,1,0.0,0,0,0.0,0,0,0,4,1,1,2,2,2,-11
+Memphis Grizzlies,,Quincy Pondexter,Atlanta Hawks,L,12/08/2012,19:52,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,4,0,-2
+Memphis Grizzlies,,Marreese Speights,Atlanta Hawks,L,12/08/2012,5:21,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-10
+Memphis Grizzlies,,Darrell Arthur,Phoenix Suns,L,12/12/2012,17:07,3,6,0.5,0,1,0.0,2,2,1.0,0,3,3,0,1,0,0,3,8,0
+Memphis Grizzlies,,Wayne Ellington,Phoenix Suns,L,12/12/2012,8:41,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1
+Memphis Grizzlies,,Marreese Speights,Phoenix Suns,L,12/12/2012,6:17,2,3,0.667,0,0,0.0,0,0,0.0,1,3,4,0,0,0,0,0,4,-1
+Memphis Grizzlies,,Jerryd Bayless,Phoenix Suns,L,12/12/2012,13:18,1,3,0.333,1,1,1.0,0,0,0.0,0,3,3,3,0,1,4,0,3,-1
+Memphis Grizzlies,,Quincy Pondexter,Phoenix Suns,L,12/12/2012,18:12,0,2,0.0,0,1,0.0,2,2,1.0,1,0,1,1,0,0,0,1,2,-5
+Memphis Grizzlies,,Quincy Pondexter,Denver Nuggets,L,12/14/2012,24:11,3,6,0.5,2,3,0.667,0,0,0.0,1,4,5,0,0,0,2,5,8,-10
+Memphis Grizzlies,,Jerryd Bayless,Denver Nuggets,L,12/14/2012,17:02,0,5,0.0,0,1,0.0,0,0,0.0,0,2,2,11,2,0,1,2,0,6
+Memphis Grizzlies,,Darrell Arthur,Denver Nuggets,L,12/14/2012,1:55,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,1,0,4
+Memphis Grizzlies,,Wayne Ellington,Denver Nuggets,L,12/14/2012,18:29,4,7,0.571,3,5,0.6,0,0,0.0,0,1,1,1,0,0,0,2,11,-2
+Memphis Grizzlies,,Marreese Speights,Denver Nuggets,L,12/14/2012,20:00,7,11,0.636,0,0,0.0,0,0,0.0,1,3,4,0,0,1,0,1,14,-3
+Memphis Grizzlies,,Hamed Haddadi,Utah Jazz,W,12/15/2012,12:05,1,5,0.2,0,0,0.0,0,0,0.0,4,4,8,1,0,0,1,4,2,-3
+Memphis Grizzlies,,Wayne Ellington,Utah Jazz,W,12/15/2012,15:04,3,6,0.5,0,0,0.0,0,0,0.0,0,1,1,1,1,0,0,0,6,-7
+Memphis Grizzlies,,Quincy Pondexter,Utah Jazz,W,12/15/2012,16:34,1,2,0.5,1,2,0.5,2,2,1.0,0,0,0,2,0,0,0,3,5,-1
+Memphis Grizzlies,,Jerryd Bayless,Utah Jazz,W,12/15/2012,10:28,2,7,0.286,0,1,0.0,0,0,0.0,2,0,2,1,0,0,1,0,4,-6
+Memphis Grizzlies,,Marreese Speights,Utah Jazz,W,12/15/2012,13:49,4,8,0.5,0,0,0.0,0,0,0.0,2,2,4,0,0,1,2,0,8,-6
+Memphis Grizzlies,,Marreese Speights,Chicago Bulls,W,12/17/2012,16:34,2,7,0.286,0,0,0.0,0,0,0.0,4,1,5,0,0,1,2,3,4,9
+Memphis Grizzlies,,Jerryd Bayless,Chicago Bulls,W,12/17/2012,16:03,2,4,0.5,1,1,1.0,0,0,0.0,0,2,2,3,0,0,2,2,5,10
+Memphis Grizzlies,,Quincy Pondexter,Chicago Bulls,W,12/17/2012,20:43,2,6,0.333,1,1,1.0,1,2,0.5,3,3,6,0,1,1,2,2,6,14
+Memphis Grizzlies,,Wayne Ellington,Chicago Bulls,W,12/17/2012,20:28,4,7,0.571,3,4,0.75,0,0,0.0,0,2,2,2,0,0,2,2,11,13
+Memphis Grizzlies,,Darrell Arthur,Chicago Bulls,W,12/17/2012,9:53,2,4,0.5,0,0,0.0,1,2,0.5,1,0,1,1,0,1,0,2,5,5
+Memphis Grizzlies,,Marreese Speights,Milwaukee Bucks,W,12/19/2012,16:25,4,8,0.5,1,1,1.0,1,2,0.5,4,2,6,1,0,2,2,3,10,-1
+Memphis Grizzlies,,Darrell Arthur,Milwaukee Bucks,W,12/19/2012,16:39,1,4,0.25,0,0,0.0,2,2,1.0,2,1,3,2,1,0,2,2,4,-1
+Memphis Grizzlies,,Jerryd Bayless,Milwaukee Bucks,W,12/19/2012,19:10,4,7,0.571,0,1,0.0,0,0,0.0,0,5,5,5,0,0,2,2,8,5
+Memphis Grizzlies,,Wayne Ellington,Milwaukee Bucks,W,12/19/2012,19:02,1,5,0.2,0,0,0.0,0,0,0.0,0,0,0,2,1,0,1,0,2,12
+Memphis Grizzlies,,Quincy Pondexter,Milwaukee Bucks,W,12/19/2012,17:35,2,4,0.5,1,2,0.5,2,2,1.0,0,2,2,0,0,0,1,0,7,11
+Memphis Grizzlies,,Darrell Arthur,Dallas Mavericks,W,12/21/2012,18:29,3,6,0.5,0,0,0.0,0,0,0.0,1,5,6,1,1,0,1,1,6,-3
+Memphis Grizzlies,,Jerryd Bayless,Dallas Mavericks,W,12/21/2012,10:36,2,5,0.4,1,2,0.5,0,0,0.0,0,2,2,1,0,0,1,2,5,-9
+Memphis Grizzlies,,Quincy Pondexter,Dallas Mavericks,W,12/21/2012,14:53,1,4,0.25,0,1,0.0,0,0,0.0,0,0,0,4,1,0,2,0,2,-11
+Memphis Grizzlies,,Wayne Ellington,Dallas Mavericks,W,12/21/2012,8:35,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-4
+Memphis Grizzlies,,Marreese Speights,Dallas Mavericks,W,12/21/2012,13:29,3,7,0.429,0,1,0.0,0,1,0.0,0,3,3,0,0,0,0,3,6,-4
+Memphis Grizzlies,,Quincy Pondexter,Houston Rockets,L,12/22/2012,27:45,6,13,0.462,2,6,0.333,0,0,0.0,1,1,2,1,1,0,3,2,14,-12
+Memphis Grizzlies,,Marreese Speights,Houston Rockets,L,12/22/2012,15:40,3,4,0.75,0,0,0.0,0,0,0.0,2,1,3,0,1,1,1,1,6,5
+Memphis Grizzlies,,Jerryd Bayless,Houston Rockets,L,12/22/2012,21:21,2,6,0.333,0,2,0.0,1,2,0.5,1,3,4,5,0,0,3,2,5,-18
+Memphis Grizzlies,,Wayne Ellington,Houston Rockets,L,12/22/2012,5:38,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,2,-2
+Memphis Grizzlies,,Darrell Arthur,Houston Rockets,L,12/22/2012,22:44,4,8,0.5,0,0,0.0,0,0,0.0,1,3,4,0,0,1,1,2,8,-17
+Memphis Grizzlies,,Josh Selby,Houston Rockets,L,12/22/2012,13:46,1,4,0.25,0,2,0.0,3,4,0.75,0,1,1,0,0,0,2,0,5,-10
+Memphis Grizzlies,,Hamed Haddadi,Houston Rockets,L,12/22/2012,4:08,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,1,1,0,1,1,2,-1
+Memphis Grizzlies,,Wayne Ellington,Philadelphia 76ers,L,12/26/2012,29:35,1,6,0.167,0,1,0.0,0,0,0.0,0,1,1,3,1,0,0,3,2,-14
+Memphis Grizzlies,,Darrell Arthur,Philadelphia 76ers,L,12/26/2012,15:27,3,6,0.5,0,1,0.0,2,2,1.0,0,3,3,1,0,1,1,2,8,-9
+Memphis Grizzlies,,Marreese Speights,Philadelphia 76ers,L,12/26/2012,9:45,2,4,0.5,0,0,0.0,3,6,0.5,1,2,3,1,0,1,0,3,7,0
+Memphis Grizzlies,,Jerryd Bayless,Philadelphia 76ers,L,12/26/2012,12:14,1,6,0.167,0,1,0.0,0,0,0.0,0,2,2,2,0,0,1,0,2,0
+Memphis Grizzlies,,Quincy Pondexter,Denver Nuggets,W,12/29/2012,15:59,1,5,0.2,1,3,0.333,0,0,0.0,0,1,1,0,0,0,0,1,3,-2
+Memphis Grizzlies,,Jerryd Bayless,Denver Nuggets,W,12/29/2012,24:12,3,6,0.5,0,2,0.0,0,0,0.0,0,2,2,5,0,0,1,3,6,8
+Memphis Grizzlies,,Marreese Speights,Denver Nuggets,W,12/29/2012,16:00,3,9,0.333,0,0,0.0,2,4,0.5,6,4,10,0,1,2,1,2,8,1
+Memphis Grizzlies,,Darrell Arthur,Denver Nuggets,W,12/29/2012,17:49,3,7,0.429,0,1,0.0,0,0,0.0,1,1,2,2,1,1,0,3,6,-1
+Memphis Grizzlies,,Wayne Ellington,Denver Nuggets,W,12/29/2012,15:28,2,4,0.5,2,3,0.667,0,0,0.0,0,4,4,0,0,0,0,0,6,11
+Memphis Grizzlies,,Hamed Haddadi,Denver Nuggets,W,12/29/2012,6:45,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,0,2,6
+Memphis Grizzlies,,Jerryd Bayless,Indiana Pacers,L,12/31/2012,18:57,0,4,0.0,0,1,0.0,1,1,1.0,0,0,0,2,1,0,1,1,1,-11
+Memphis Grizzlies,,Marreese Speights,Indiana Pacers,L,12/31/2012,14:35,2,6,0.333,0,0,0.0,1,2,0.5,4,3,7,0,0,0,0,2,5,0
+Memphis Grizzlies,,Wayne Ellington,Indiana Pacers,L,12/31/2012,17:56,2,4,0.5,2,4,0.5,0,0,0.0,0,1,1,1,0,0,1,1,6,3
+Memphis Grizzlies,,Darrell Arthur,Indiana Pacers,L,12/31/2012,17:54,3,6,0.5,0,0,0.0,0,0,0.0,1,3,4,0,0,2,4,4,6,-13
+Memphis Grizzlies,,Marreese Speights,Boston Celtics,W,01/02/2013,13:55,4,6,0.667,0,0,0.0,2,2,1.0,2,4,6,0,0,0,1,0,10,5
+Memphis Grizzlies,,Jerryd Bayless,Boston Celtics,W,01/02/2013,1:57,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,2,0,0,-2
+Memphis Grizzlies,,Darrell Arthur,Boston Celtics,W,01/02/2013,22:34,4,7,0.571,2,3,0.667,0,0,0.0,1,2,3,0,0,1,0,1,10,6
+Memphis Grizzlies,,Wayne Ellington,Boston Celtics,W,01/02/2013,19:10,2,5,0.4,1,2,0.5,0,0,0.0,0,1,1,0,1,0,2,1,5,7
+Memphis Grizzlies,,Tony Wroten,Boston Celtics,W,01/02/2013,2:28,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-3
+Memphis Grizzlies,,Hamed Haddadi,Boston Celtics,W,01/02/2013,0:40,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,0
+Memphis Grizzlies,,Darrell Arthur,Portland Trail Blazers,L,01/04/2013,21:18,5,10,0.5,0,0,0.0,0,0,0.0,2,3,5,0,1,0,1,1,10,-4
+Memphis Grizzlies,,Jerryd Bayless,Portland Trail Blazers,L,01/04/2013,15:13,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,2,1,0,1,0,0,0
+Memphis Grizzlies,,Wayne Ellington,Portland Trail Blazers,L,01/04/2013,20:50,2,5,0.4,1,2,0.5,4,4,1.0,1,3,4,2,1,0,1,2,9,9
+Memphis Grizzlies,,Hamed Haddadi,Portland Trail Blazers,L,01/04/2013,5:17,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,0,0,1,0,0,2,1
+Memphis Grizzlies,,Hamed Haddadi,Phoenix Suns,W,01/06/2013,9:57,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,3,0,-5
+Memphis Grizzlies,,Jerryd Bayless,Phoenix Suns,W,01/06/2013,25:20,2,2,1.0,1,1,1.0,4,4,1.0,1,6,7,6,1,0,0,1,9,4
+Memphis Grizzlies,,Wayne Ellington,Phoenix Suns,W,01/06/2013,12:14,1,2,0.5,0,1,0.0,0,0,0.0,0,1,1,0,0,0,1,0,2,0
+Memphis Grizzlies,,Darrell Arthur,Phoenix Suns,W,01/06/2013,10:00,2,3,0.667,1,1,1.0,1,2,0.5,1,1,2,0,0,0,0,1,6,0
+Memphis Grizzlies,,Marreese Speights,Phoenix Suns,W,01/06/2013,12:11,3,5,0.6,0,0,0.0,0,0,0.0,0,3,3,0,0,1,3,2,6,-4
+Memphis Grizzlies,,Tony Wroten,Phoenix Suns,W,01/06/2013,0:16,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0
+Memphis Grizzlies,,Josh Selby,Phoenix Suns,W,01/06/2013,0:16,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Memphis Grizzlies,,Marreese Speights,Sacramento Kings,W,01/07/2013,20:17,4,10,0.4,0,0,0.0,2,2,1.0,1,4,5,1,0,0,0,3,10,17
+Memphis Grizzlies,,Jerryd Bayless,Sacramento Kings,W,01/07/2013,20:23,2,6,0.333,1,3,0.333,2,2,1.0,0,5,5,2,0,0,2,3,7,18
+Memphis Grizzlies,,Wayne Ellington,Sacramento Kings,W,01/07/2013,25:31,10,11,0.909,6,7,0.857,0,0,0.0,0,1,1,4,1,0,0,1,26,25
+Memphis Grizzlies,,Darrell Arthur,Sacramento Kings,W,01/07/2013,17:46,2,4,0.5,0,1,0.0,1,2,0.5,2,4,6,0,0,0,0,3,5,11
+Memphis Grizzlies,,Tony Wroten,Sacramento Kings,W,01/07/2013,3:24,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,2,-1
+Memphis Grizzlies,,Jerryd Bayless,Golden State Warriors,W,01/09/2013,33:04,2,10,0.2,1,7,0.143,0,1,0.0,1,3,4,6,2,1,1,3,5,12
+Memphis Grizzlies,,Marreese Speights,Golden State Warriors,W,01/09/2013,8:24,3,5,0.6,0,0,0.0,0,0,0.0,3,3,6,2,1,0,0,3,6,-9
+Memphis Grizzlies,,Wayne Ellington,Golden State Warriors,W,01/09/2013,5:11,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-7
+Memphis Grizzlies,,Darrell Arthur,Golden State Warriors,W,01/09/2013,13:32,4,5,0.8,0,0,0.0,0,0,0.0,0,1,1,2,1,0,0,0,8,2
+Memphis Grizzlies,,Marreese Speights,San Antonio Spurs,W,01/11/2013,3:06,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-8
+Memphis Grizzlies,,Jerryd Bayless,San Antonio Spurs,W,01/11/2013,24:05,1,5,0.2,1,2,0.5,0,0,0.0,0,1,1,3,1,0,4,2,3,-3
+Memphis Grizzlies,,Wayne Ellington,San Antonio Spurs,W,01/11/2013,12:28,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-1
+Memphis Grizzlies,,Darrell Arthur,San Antonio Spurs,W,01/11/2013,22:41,6,9,0.667,0,0,0.0,2,2,1.0,0,5,5,3,2,0,0,2,14,11
+Memphis Grizzlies,,Marreese Speights,Dallas Mavericks,L,01/12/2013,13:04,3,7,0.429,0,0,0.0,1,2,0.5,0,2,2,0,0,0,0,1,7,-20
+Memphis Grizzlies,,Jerryd Bayless,Dallas Mavericks,L,01/12/2013,29:03,2,4,0.5,1,1,1.0,4,5,0.8,0,1,1,5,0,0,1,1,9,-17
+Memphis Grizzlies,,Darrell Arthur,Dallas Mavericks,L,01/12/2013,27:54,5,13,0.385,0,1,0.0,1,4,0.25,4,5,9,0,0,0,1,4,11,2
+Memphis Grizzlies,,Wayne Ellington,Dallas Mavericks,L,01/12/2013,21:04,1,9,0.111,0,3,0.0,0,0,0.0,0,1,1,2,1,0,0,2,2,3
+Memphis Grizzlies,,Hamed Haddadi,Dallas Mavericks,L,01/12/2013,15:59,1,5,0.2,0,0,0.0,0,0,0.0,2,5,7,0,0,3,0,1,2,12
+Memphis Grizzlies,,Josh Selby,Dallas Mavericks,L,01/12/2013,16:08,3,6,0.5,0,0,0.0,4,7,0.571,0,3,3,2,1,0,0,1,10,6
+Memphis Grizzlies,,Darrell Arthur,Los Angeles Clippers,L,01/14/2013,22:44,4,10,0.4,0,1,0.0,2,2,1.0,1,2,3,1,0,0,1,2,10,-17
+Memphis Grizzlies,,Jerryd Bayless,Los Angeles Clippers,L,01/14/2013,16:22,1,4,0.25,1,3,0.333,0,0,0.0,0,1,1,1,2,0,3,4,3,-22
+Memphis Grizzlies,,Marreese Speights,Los Angeles Clippers,L,01/14/2013,11:17,1,5,0.2,0,0,0.0,0,0,0.0,3,2,5,0,0,1,0,4,2,-8
+Memphis Grizzlies,,Josh Selby,Los Angeles Clippers,L,01/14/2013,9:07,1,5,0.2,1,2,0.5,0,0,0.0,0,0,0,0,0,0,2,1,3,-13
+Memphis Grizzlies,,Hamed Haddadi,Los Angeles Clippers,L,01/14/2013,3:42,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Memphis Grizzlies,,Tony Wroten,Los Angeles Clippers,L,01/14/2013,14:19,2,7,0.286,0,1,0.0,4,4,1.0,2,3,5,3,0,0,0,0,8,-2
+Memphis Grizzlies,,Jerryd Bayless,San Antonio Spurs,L,01/16/2013,16:09,2,7,0.286,0,1,0.0,0,0,0.0,1,0,1,1,0,0,0,2,4,-1
+Memphis Grizzlies,,Darrell Arthur,San Antonio Spurs,L,01/16/2013,22:32,1,4,0.25,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,1,2,-11
+Memphis Grizzlies,,Wayne Ellington,San Antonio Spurs,L,01/16/2013,17:49,0,5,0.0,0,2,0.0,4,4,1.0,0,1,1,1,0,0,0,0,4,-13
+Memphis Grizzlies,,Marreese Speights,San Antonio Spurs,L,01/16/2013,12:50,2,4,0.5,0,0,0.0,1,2,0.5,0,3,3,0,0,2,1,0,5,-10
+Memphis Grizzlies,,Tony Wroten,San Antonio Spurs,L,01/16/2013,6:48,0,1,0.0,0,0,0.0,1,2,0.5,0,1,1,0,0,0,0,1,1,-2
+Memphis Grizzlies,,Josh Selby,San Antonio Spurs,L,01/16/2013,4:12,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-2
+Memphis Grizzlies,,Hamed Haddadi,San Antonio Spurs,L,01/16/2013,2:47,1,2,0.5,0,0,0.0,1,2,0.5,1,0,1,0,0,0,0,0,3,0
+Memphis Grizzlies,,Wayne Ellington,Sacramento Kings,W,01/18/2013,16:25,1,6,0.167,1,2,0.5,0,0,0.0,0,2,2,1,0,0,1,1,3,0
+Memphis Grizzlies,,Darrell Arthur,Sacramento Kings,W,01/18/2013,25:01,3,7,0.429,0,0,0.0,1,2,0.5,1,6,7,0,1,3,1,3,7,5
+Memphis Grizzlies,,Jerryd Bayless,Sacramento Kings,W,01/18/2013,20:47,0,1,0.0,0,0,0.0,1,2,0.5,0,1,1,3,1,0,1,1,1,10
+Memphis Grizzlies,,Jerryd Bayless,Chicago Bulls,W,01/19/2013,13:39,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-8
+Memphis Grizzlies,,Marreese Speights,Chicago Bulls,W,01/19/2013,11:27,2,7,0.286,0,1,0.0,1,1,1.0,0,2,2,0,0,0,0,3,5,-8
+Memphis Grizzlies,,Darrell Arthur,Chicago Bulls,W,01/19/2013,19:41,4,7,0.571,0,0,0.0,0,0,0.0,1,1,2,1,1,2,3,4,8,-12
+Memphis Grizzlies,,Wayne Ellington,Chicago Bulls,W,01/19/2013,15:36,0,1,0.0,0,1,0.0,0,0,0.0,0,3,3,0,0,0,2,1,0,-3
+Memphis Grizzlies,,Jerryd Bayless,Indiana Pacers,L,01/21/2013,19:44,2,3,0.667,0,0,0.0,0,0,0.0,0,4,4,5,0,0,3,0,4,-12
+Memphis Grizzlies,,Wayne Ellington,Indiana Pacers,L,01/21/2013,25:34,7,9,0.778,3,3,1.0,0,0,0.0,0,0,0,0,0,0,3,0,17,3
+Memphis Grizzlies,,Marreese Speights,Indiana Pacers,L,01/21/2013,10:51,1,4,0.25,0,0,0.0,2,2,1.0,1,1,2,1,1,0,1,2,4,1
+Memphis Grizzlies,,Darrell Arthur,Indiana Pacers,L,01/21/2013,16:37,2,7,0.286,0,0,0.0,0,0,0.0,1,0,1,1,0,1,0,2,4,-9
+Memphis Grizzlies,,Hamed Haddadi,Los Angeles Lakers,W,01/23/2013,14:31,0,1,0.0,0,0,0.0,0,0,0.0,1,1,2,1,0,2,1,4,0,6
+Memphis Grizzlies,,Darrell Arthur,Los Angeles Lakers,W,01/23/2013,27:47,9,15,0.6,0,1,0.0,2,2,1.0,4,5,9,3,1,1,0,1,20,22
+Memphis Grizzlies,,Jerryd Bayless,Los Angeles Lakers,W,01/23/2013,14:00,4,7,0.571,1,2,0.5,1,2,0.5,0,0,0,1,0,0,0,3,10,5
+Memphis Grizzlies,,Tony Wroten,Los Angeles Lakers,W,01/23/2013,18:09,4,13,0.308,0,3,0.0,1,1,1.0,3,2,5,2,1,1,0,1,9,16
+Memphis Grizzlies,,Chris Johnson,Los Angeles Lakers,W,01/23/2013,7:12,2,4,0.5,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,0,4,7
+Memphis Grizzlies,,Jerryd Bayless,Brooklyn Nets,W,01/25/2013,30:23,5,8,0.625,0,1,0.0,1,1,1.0,1,6,7,8,1,0,2,3,11,15
+Memphis Grizzlies,,Darrell Arthur,Brooklyn Nets,W,01/25/2013,19:31,3,9,0.333,0,0,0.0,0,0,0.0,1,4,5,1,0,1,0,3,6,4
+Memphis Grizzlies,,Tony Wroten,Brooklyn Nets,W,01/25/2013,23:01,5,9,0.556,0,0,0.0,1,2,0.5,3,1,4,2,0,0,3,1,11,17
+Memphis Grizzlies,,Chris Johnson,Brooklyn Nets,W,01/25/2013,21:31,4,6,0.667,2,4,0.5,0,0,0.0,3,1,4,0,0,0,1,1,10,21
+Memphis Grizzlies,,Jon Leuer,Brooklyn Nets,W,01/25/2013,2:01,0,1,0.0,0,0,0.0,0,2,0.0,0,0,0,0,1,0,0,0,0,0
+Memphis Grizzlies,,Hamed Haddadi,Brooklyn Nets,W,01/25/2013,1:08,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Memphis Grizzlies,,Tony Wroten,New Orleans Hornets,L,01/27/2013,25:34,1,7,0.143,0,0,0.0,0,0,0.0,0,1,1,4,1,2,2,1,2,-3
+Memphis Grizzlies,,Jerryd Bayless,New Orleans Hornets,L,01/27/2013,36:30,6,12,0.5,0,3,0.0,2,2,1.0,1,1,2,5,3,0,1,4,14,-7
+Memphis Grizzlies,,Darrell Arthur,New Orleans Hornets,L,01/27/2013,20:54,3,7,0.429,0,0,0.0,2,2,1.0,4,3,7,0,0,1,3,4,8,-5
+Memphis Grizzlies,,Chris Johnson,New Orleans Hornets,L,01/27/2013,16:21,2,5,0.4,2,5,0.4,0,0,0.0,0,3,3,1,1,0,1,0,6,8
+Memphis Grizzlies,,Darrell Arthur,Philadelphia 76ers,W,01/28/2013,20:27,3,7,0.429,0,0,0.0,0,2,0.0,2,0,2,1,0,0,1,2,6,0
+Memphis Grizzlies,,Tony Wroten,Philadelphia 76ers,W,01/28/2013,12:54,2,2,1.0,0,0,0.0,2,3,0.667,0,2,2,1,1,0,2,2,6,-4
+Memphis Grizzlies,,Chris Johnson,Philadelphia 76ers,W,01/28/2013,25:53,3,4,0.75,2,2,1.0,0,0,0.0,0,0,0,1,1,0,0,1,8,19
+Memphis Grizzlies,,Tony Wroten,Oklahoma City Thunder,L,01/31/2013,9:12,1,2,0.5,0,1,0.0,4,4,1.0,0,0,0,4,2,0,0,2,6,-4
+Memphis Grizzlies,,Darrell Arthur,Oklahoma City Thunder,L,01/31/2013,24:04,4,10,0.4,1,3,0.333,0,0,0.0,2,2,4,0,1,1,1,2,9,-8
+Memphis Grizzlies,,Chris Johnson,Oklahoma City Thunder,L,01/31/2013,21:04,0,6,0.0,0,5,0.0,1,2,0.5,2,0,2,0,2,0,1,3,1,-16
+Memphis Grizzlies,,Jon Leuer,Oklahoma City Thunder,L,01/31/2013,4:30,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-1
+Memphis Grizzlies,,Tayshaun Prince,Washington Wizards,W,02/01/2013,31:45,7,11,0.636,0,0,0.0,0,0,0.0,0,1,1,3,0,1,0,0,14,12
+Memphis Grizzlies,,Darrell Arthur,Washington Wizards,W,02/01/2013,17:14,4,5,0.8,0,0,0.0,0,0,0.0,0,0,0,0,1,1,0,2,8,6
+Memphis Grizzlies,,Tony Wroten,Washington Wizards,W,02/01/2013,2:43,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,2,0,0,-4
+Memphis Grizzlies,,Ed Davis,Washington Wizards,W,02/01/2013,5:10,0,1,0.0,0,0,0.0,2,2,1.0,0,1,1,0,0,0,1,1,2,5
+Memphis Grizzlies,,Austin Daye,Washington Wizards,W,02/01/2013,4:45,0,2,0.0,0,1,0.0,1,1,1.0,1,1,2,0,0,0,0,0,1,2
+Memphis Grizzlies,,Jerryd Bayless,Phoenix Suns,L,02/05/2013,28:60,11,15,0.733,3,4,0.75,4,4,1.0,0,2,2,2,1,0,4,3,29,-3
+Memphis Grizzlies,,Darrell Arthur,Phoenix Suns,L,02/05/2013,24:40,1,10,0.1,0,1,0.0,2,2,1.0,4,3,7,0,0,0,1,2,4,-5
+Memphis Grizzlies,,Austin Daye,Phoenix Suns,L,02/05/2013,7:05,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-13
+Memphis Grizzlies,,Ed Davis,Phoenix Suns,L,02/05/2013,9:36,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,2
+Memphis Grizzlies,,Chris Johnson,Phoenix Suns,L,02/05/2013,3:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Memphis Grizzlies,,Jerryd Bayless,Atlanta Hawks,L,02/06/2013,24:39,6,9,0.667,1,1,1.0,2,2,1.0,0,4,4,5,0,0,1,4,15,-4
+Memphis Grizzlies,,Austin Daye,Atlanta Hawks,L,02/06/2013,14:20,1,4,0.25,1,3,0.333,0,0,0.0,0,1,1,2,1,0,0,1,3,-3
+Memphis Grizzlies,,Chris Johnson,Atlanta Hawks,L,02/06/2013,5:29,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,-1
+Memphis Grizzlies,,Darrell Arthur,Atlanta Hawks,L,02/06/2013,15:35,1,6,0.167,0,0,0.0,0,0,0.0,0,0,0,1,1,1,0,1,2,-4
+Memphis Grizzlies,,Ed Davis,Atlanta Hawks,L,02/06/2013,9:28,1,1,1.0,0,0,0.0,0,0,0.0,1,5,6,0,0,1,1,3,2,4
+Memphis Grizzlies,,Tony Wroten,Atlanta Hawks,L,02/06/2013,8:37,2,5,0.4,1,2,0.5,0,0,0.0,0,0,0,3,0,1,1,1,5,3
+Memphis Grizzlies,,Jon Leuer,Atlanta Hawks,L,02/06/2013,0:22,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,2
+Memphis Grizzlies,,Jerryd Bayless,Golden State Warriors,W,02/08/2013,27:02,4,13,0.308,3,9,0.333,3,4,0.75,0,2,2,3,0,0,1,3,14,-2
+Memphis Grizzlies,,Darrell Arthur,Golden State Warriors,W,02/08/2013,16:24,2,4,0.5,0,0,0.0,0,0,0.0,0,2,2,0,0,1,0,1,4,4
+Memphis Grizzlies,,Ed Davis,Golden State Warriors,W,02/08/2013,6:24,1,2,0.5,0,0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,3,0
+Memphis Grizzlies,,Austin Daye,Golden State Warriors,W,02/08/2013,16:49,4,6,0.667,3,4,0.75,1,1,1.0,0,4,4,2,0,0,0,4,12,2
+Memphis Grizzlies,,Darrell Arthur,Minnesota Timberwolves,W,02/10/2013,17:08,2,6,0.333,0,0,0.0,0,0,0.0,1,2,3,0,1,0,1,2,4,6
+Memphis Grizzlies,,Jerryd Bayless,Minnesota Timberwolves,W,02/10/2013,18:32,3,7,0.429,1,1,1.0,0,0,0.0,1,0,1,3,1,0,2,4,7,7
+Memphis Grizzlies,,Austin Daye,Minnesota Timberwolves,W,02/10/2013,24:39,6,9,0.667,2,4,0.5,2,2,1.0,1,3,4,1,0,1,3,2,16,1
+Memphis Grizzlies,,Quincy Pondexter,Minnesota Timberwolves,W,02/10/2013,4:07,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-2
+Memphis Grizzlies,,Tony Wroten,Minnesota Timberwolves,W,02/10/2013,10:37,2,4,0.5,0,1,0.0,3,4,0.75,0,0,0,3,0,0,0,2,7,-2
+Memphis Grizzlies,,Ed Davis,Minnesota Timberwolves,W,02/10/2013,11:05,2,3,0.667,0,0,0.0,0,0,0.0,0,0,0,1,0,1,0,0,4,2
+Memphis Grizzlies,,Jon Leuer,Minnesota Timberwolves,W,02/10/2013,1:08,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-1
+Memphis Grizzlies,,Chris Johnson,Minnesota Timberwolves,W,02/10/2013,1:08,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Memphis Grizzlies,,Darrell Arthur,Sacramento Kings,W,02/12/2013,13:42,3,4,0.75,0,0,0.0,0,0,0.0,2,1,3,1,1,0,0,4,6,4
+Memphis Grizzlies,,Jerryd Bayless,Sacramento Kings,W,02/12/2013,24:04,2,7,0.286,1,4,0.25,1,2,0.5,0,1,1,3,0,0,3,1,6,8
+Memphis Grizzlies,,Ed Davis,Sacramento Kings,W,02/12/2013,5:56,2,4,0.5,0,0,0.0,0,0,0.0,1,0,1,0,0,1,0,0,4,-5
+Memphis Grizzlies,,Austin Daye,Sacramento Kings,W,02/12/2013,12:36,3,5,0.6,1,2,0.5,0,0,0.0,0,1,1,0,1,0,0,2,7,-9
+Memphis Grizzlies,,Tony Wroten,Sacramento Kings,W,02/12/2013,4:11,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-5
+Memphis Grizzlies,,Jerryd Bayless,Detroit Pistons,W,02/19/2013,30:45,4,8,0.5,0,2,0.0,0,0,0.0,0,5,5,10,3,0,3,1,8,14
+Memphis Grizzlies,,Darrell Arthur,Detroit Pistons,W,02/19/2013,16:07,4,10,0.4,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,2,8,-8
+Memphis Grizzlies,,Austin Daye,Detroit Pistons,W,02/19/2013,14:27,3,5,0.6,0,2,0.0,0,2,0.0,0,3,3,2,1,0,0,2,6,-11
+Memphis Grizzlies,,Quincy Pondexter,Detroit Pistons,W,02/19/2013,21:54,4,6,0.667,1,1,1.0,1,1,1.0,1,2,3,1,3,1,1,0,10,23
+Memphis Grizzlies,,Ed Davis,Detroit Pistons,W,02/19/2013,21:26,6,7,0.857,0,0,0.0,2,6,0.333,1,3,4,1,1,4,0,2,14,11
+Memphis Grizzlies,,Tony Wroten,Detroit Pistons,W,02/19/2013,6:29,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-14
+Memphis Grizzlies,,Jon Leuer,Detroit Pistons,W,02/19/2013,5:09,1,1,1.0,0,0,0.0,1,2,0.5,1,1,2,0,0,0,1,2,3,-11
+Memphis Grizzlies,,Quincy Pondexter,Toronto Raptors,W,02/20/2013,16:25,2,3,0.667,0,1,0.0,0,0,0.0,2,1,3,0,1,0,0,1,4,-3
+Memphis Grizzlies,,Darrell Arthur,Toronto Raptors,W,02/20/2013,13:09,4,7,0.571,0,0,0.0,0,0,0.0,2,1,3,1,0,0,1,3,8,-8
+Memphis Grizzlies,,Jerryd Bayless,Toronto Raptors,W,02/20/2013,15:41,3,9,0.333,1,3,0.333,0,0,0.0,0,1,1,3,0,0,1,1,7,8
+Memphis Grizzlies,,Ed Davis,Toronto Raptors,W,02/20/2013,14:13,1,3,0.333,0,0,0.0,2,2,1.0,1,3,4,0,0,1,1,2,4,2
+Memphis Grizzlies,,Tony Wroten,Toronto Raptors,W,02/20/2013,5:21,1,1,1.0,1,1,1.0,0,0,0.0,0,1,1,1,0,0,0,1,3,3
+Memphis Grizzlies,,Jerryd Bayless,Orlando Magic,W,02/22/2013,21:30,4,9,0.444,0,3,0.0,0,0,0.0,1,1,2,2,1,0,2,1,8,-7
+Memphis Grizzlies,,Quincy Pondexter,Orlando Magic,W,02/22/2013,17:00,2,6,0.333,1,4,0.25,0,0,0.0,2,2,4,0,0,0,1,0,5,-10
+Memphis Grizzlies,,Darrell Arthur,Orlando Magic,W,02/22/2013,7:19,0,3,0.0,0,0,0.0,1,2,0.5,2,0,2,0,0,0,0,1,1,-10
+Memphis Grizzlies,,Ed Davis,Orlando Magic,W,02/22/2013,14:23,4,4,1.0,0,0,0.0,2,4,0.5,0,1,1,0,0,2,0,2,10,-11
+Memphis Grizzlies,,Austin Daye,Orlando Magic,W,02/22/2013,2:18,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,1,0,0,0,2
+Memphis Grizzlies,,Tony Wroten,Orlando Magic,W,02/22/2013,5:56,0,0,0.0,0,0,0.0,0,2,0.0,0,0,0,1,0,0,1,2,0,-3
+Memphis Grizzlies,,Ed Davis,Brooklyn Nets,W,02/24/2013,5:33,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,2,1,2,0,-10
+Memphis Grizzlies,,Jerryd Bayless,Brooklyn Nets,W,02/24/2013,14:42,0,6,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,2,0,-9
+Memphis Grizzlies,,Quincy Pondexter,Brooklyn Nets,W,02/24/2013,18:15,2,3,0.667,0,0,0.0,2,2,1.0,1,1,2,1,0,0,0,1,6,-5
+Memphis Grizzlies,,Tony Wroten,Brooklyn Nets,W,02/24/2013,2:52,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-5
+Memphis Grizzlies,,Darrell Arthur,Brooklyn Nets,W,02/24/2013,11:40,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,1,0,1,1,3,2,-2
+Memphis Grizzlies,,Austin Daye,Brooklyn Nets,W,02/24/2013,10:38,2,4,0.5,1,2,0.5,0,0,0.0,0,1,1,0,0,1,1,0,5,2
+Memphis Grizzlies,,Jon Leuer,Brooklyn Nets,W,02/24/2013,0:33,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Memphis Grizzlies,,Quincy Pondexter,Dallas Mavericks,W,02/27/2013,26:18,3,4,0.75,2,3,0.667,4,4,1.0,0,1,1,2,0,0,0,1,12,-6
+Memphis Grizzlies,,Darrell Arthur,Dallas Mavericks,W,02/27/2013,14:11,2,5,0.4,0,0,0.0,0,0,0.0,0,1,1,0,1,1,1,1,4,2
+Memphis Grizzlies,,Jerryd Bayless,Dallas Mavericks,W,02/27/2013,13:50,1,3,0.333,1,1,1.0,0,0,0.0,0,2,2,2,1,0,1,2,3,2
+Memphis Grizzlies,,Austin Daye,Dallas Mavericks,W,02/27/2013,15:51,4,8,0.5,2,4,0.5,0,0,0.0,1,3,4,1,0,1,0,3,10,-8
+Memphis Grizzlies,,Ed Davis,Dallas Mavericks,W,02/27/2013,4:57,0,0,0.0,0,0,0.0,0,2,0.0,0,1,1,0,0,0,0,1,0,-6
+Memphis Grizzlies,,Ed Davis,Miami Heat,L,03/01/2013,10:21,1,2,0.5,0,0,0.0,1,4,0.25,0,3,3,0,0,0,1,3,3,-3
+Memphis Grizzlies,,Jerryd Bayless,Miami Heat,L,03/01/2013,16:40,2,4,0.5,0,1,0.0,0,0,0.0,1,3,4,3,0,0,0,0,4,-4
+Memphis Grizzlies,,Quincy Pondexter,Miami Heat,L,03/01/2013,20:46,2,3,0.667,1,2,0.5,5,5,1.0,0,1,1,3,1,0,1,1,10,-9
+Memphis Grizzlies,,Austin Daye,Miami Heat,L,03/01/2013,10:25,2,7,0.286,1,4,0.25,0,0,0.0,1,2,3,0,0,1,1,3,5,-9
+Memphis Grizzlies,,Darrell Arthur,Miami Heat,L,03/01/2013,12:03,2,6,0.333,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,2,4,-8
+Memphis Grizzlies,,Ed Davis,Orlando Magic,W,03/03/2013,24:27,5,6,0.833,0,0,0.0,0,4,0.0,2,8,10,0,2,3,2,1,10,17
+Memphis Grizzlies,,Jerryd Bayless,Orlando Magic,W,03/03/2013,25:01,2,6,0.333,1,3,0.333,1,1,1.0,1,3,4,3,2,0,1,0,6,6
+Memphis Grizzlies,,Quincy Pondexter,Orlando Magic,W,03/03/2013,21:46,4,9,0.444,3,6,0.5,1,2,0.5,1,0,1,3,0,0,0,1,12,21
+Memphis Grizzlies,,Tony Wroten,Orlando Magic,W,03/03/2013,17:13,3,6,0.5,2,3,0.667,0,0,0.0,0,0,0,5,0,0,4,4,8,4
+Memphis Grizzlies,,Jon Leuer,Orlando Magic,W,03/03/2013,16:54,3,4,0.75,0,0,0.0,0,0,0.0,3,1,4,1,1,0,1,2,6,2
+Memphis Grizzlies,,Dexter Pittman,Orlando Magic,W,03/03/2013,9:58,1,4,0.25,0,0,0.0,0,1,0.0,2,1,3,0,0,0,0,1,2,-5
+Memphis Grizzlies,,Austin Daye,Orlando Magic,W,03/03/2013,5:14,2,4,0.5,1,2,0.5,0,0,0.0,0,2,2,0,0,0,1,2,5,-3
+Memphis Grizzlies,,Quincy Pondexter,Portland Trail Blazers,W,03/06/2013,22:18,2,6,0.333,0,2,0.0,0,0,0.0,1,3,4,1,0,0,0,1,4,6
+Memphis Grizzlies,,Jon Leuer,Portland Trail Blazers,W,03/06/2013,10:00,1,4,0.25,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,2,2,-9
+Memphis Grizzlies,,Tony Wroten,Portland Trail Blazers,W,03/06/2013,14:10,3,5,0.6,0,1,0.0,0,0,0.0,2,2,4,4,0,0,1,1,6,-3
+Memphis Grizzlies,,Jerryd Bayless,Portland Trail Blazers,W,03/06/2013,25:24,5,12,0.417,3,5,0.6,0,0,0.0,0,2,2,1,1,0,1,3,13,19
+Memphis Grizzlies,,Austin Daye,Portland Trail Blazers,W,03/06/2013,7:21,2,3,0.667,0,0,0.0,0,0,0.0,1,1,2,0,0,0,1,2,4,0
+Memphis Grizzlies,,Dexter Pittman,Portland Trail Blazers,W,03/06/2013,3:28,0,0,0.0,0,0,0.0,0,2,0.0,0,0,0,0,0,0,0,0,0,0
+Memphis Grizzlies,,Jerryd Bayless,Cleveland Cavaliers,W,03/08/2013,23:18,8,16,0.5,1,3,0.333,0,0,0.0,1,1,2,3,1,0,0,2,17,0
+Memphis Grizzlies,,Jon Leuer,Cleveland Cavaliers,W,03/08/2013,12:24,2,2,1.0,0,0,0.0,0,0,0.0,0,3,3,0,0,0,0,0,4,-7
+Memphis Grizzlies,,Tony Wroten,Cleveland Cavaliers,W,03/08/2013,7:07,2,3,0.667,0,0,0.0,1,1,1.0,1,0,1,1,1,0,1,0,5,0
+Memphis Grizzlies,,Quincy Pondexter,Cleveland Cavaliers,W,03/08/2013,16:07,1,3,0.333,1,2,0.5,1,2,0.5,0,3,3,0,0,0,0,1,4,-12
+Memphis Grizzlies,,Austin Daye,Cleveland Cavaliers,W,03/08/2013,11:05,1,4,0.25,1,3,0.333,0,0,0.0,0,0,0,0,0,2,1,1,3,-5
+Memphis Grizzlies,,Tony Wroten,New Orleans Hornets,W,03/09/2013,7:06,1,5,0.2,0,1,0.0,0,0,0.0,1,0,1,0,0,0,0,0,2,-9
+Memphis Grizzlies,,Quincy Pondexter,New Orleans Hornets,W,03/09/2013,32:24,4,8,0.5,2,6,0.333,3,4,0.75,0,3,3,2,0,0,2,1,13,2
+Memphis Grizzlies,,Jerryd Bayless,New Orleans Hornets,W,03/09/2013,24:32,4,9,0.444,1,2,0.5,1,1,1.0,0,3,3,1,0,2,1,1,10,-5
+Memphis Grizzlies,,Austin Daye,New Orleans Hornets,W,03/09/2013,4:38,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-8
+Memphis Grizzlies,,Jon Leuer,New Orleans Hornets,W,03/09/2013,4:33,0,1,0.0,0,0,0.0,0,0,0.0,1,0,1,0,1,0,0,0,0,-4
+Memphis Grizzlies,,Dexter Pittman,New Orleans Hornets,W,03/09/2013,1:21,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,0,0,-4
+Memphis Grizzlies,,Ed Davis,Portland Trail Blazers,W,03/12/2013,25:25,6,9,0.667,0,0,0.0,2,3,0.667,2,7,9,1,1,2,0,2,14,2
+Memphis Grizzlies,,Jerryd Bayless,Portland Trail Blazers,W,03/12/2013,27:34,1,7,0.143,1,3,0.333,2,2,1.0,0,1,1,6,1,0,1,5,5,-1
+Memphis Grizzlies,,Quincy Pondexter,Portland Trail Blazers,W,03/12/2013,23:03,3,5,0.6,1,3,0.333,1,2,0.5,1,2,3,0,1,0,0,2,8,1
+Memphis Grizzlies,,Tony Wroten,Portland Trail Blazers,W,03/12/2013,12:38,0,1,0.0,0,0,0.0,1,2,0.5,0,0,0,2,0,0,1,2,1,7
+Memphis Grizzlies,,Jerryd Bayless,Los Angeles Clippers,W,03/13/2013,17:04,2,5,0.4,1,2,0.5,2,2,1.0,0,1,1,3,0,0,0,1,7,7
+Memphis Grizzlies,,Ed Davis,Los Angeles Clippers,W,03/13/2013,13:49,1,2,0.5,0,0,0.0,0,1,0.0,0,1,1,0,0,1,0,4,2,1
+Memphis Grizzlies,,Quincy Pondexter,Los Angeles Clippers,W,03/13/2013,15:26,3,3,1.0,3,3,1.0,2,3,0.667,0,2,2,1,0,0,0,2,11,2
+Memphis Grizzlies,,Tony Wroten,Los Angeles Clippers,W,03/13/2013,4:57,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,2,4,0,2
+Memphis Grizzlies,,Quincy Pondexter,Denver Nuggets,L,03/15/2013,19:31,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-13
+Memphis Grizzlies,,Jerryd Bayless,Denver Nuggets,L,03/15/2013,23:05,3,9,0.333,2,3,0.667,2,2,1.0,0,2,2,0,0,0,2,2,10,-11
+Memphis Grizzlies,,Ed Davis,Denver Nuggets,L,03/15/2013,10:40,1,5,0.2,0,0,0.0,2,3,0.667,2,1,3,0,1,1,0,0,4,-4
+Memphis Grizzlies,,Tony Wroten,Denver Nuggets,L,03/15/2013,7:49,2,4,0.5,0,0,0.0,0,0,0.0,0,0,0,2,0,0,0,0,4,-4
+Memphis Grizzlies,,Ed Davis,Utah Jazz,L,03/16/2013,15:43,2,4,0.5,0,0,0.0,0,0,0.0,3,2,5,0,0,1,0,2,4,-4
+Memphis Grizzlies,,Jerryd Bayless,Utah Jazz,L,03/16/2013,24:17,9,14,0.643,4,7,0.571,2,2,1.0,0,2,2,2,0,0,2,2,24,2
+Memphis Grizzlies,,Quincy Pondexter,Utah Jazz,L,03/16/2013,14:51,0,2,0.0,0,1,0.0,0,2,0.0,0,0,0,0,0,1,0,1,0,-3
+Memphis Grizzlies,,Austin Daye,Utah Jazz,L,03/16/2013,4:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-7
+Memphis Grizzlies,,Jon Leuer,Utah Jazz,L,03/16/2013,0:04,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Memphis Grizzlies,,Jerryd Bayless,Minnesota Timberwolves,W,03/18/2013,25:00,7,12,0.583,1,4,0.25,0,0,0.0,0,0,0,2,0,0,2,3,15,4
+Memphis Grizzlies,,Quincy Pondexter,Minnesota Timberwolves,W,03/18/2013,23:14,2,6,0.333,1,3,0.333,0,0,0.0,0,0,0,1,1,0,2,3,5,-5
+Memphis Grizzlies,,Ed Davis,Minnesota Timberwolves,W,03/18/2013,17:03,1,4,0.25,0,0,0.0,0,0,0.0,2,4,6,0,0,2,0,3,2,-4
+Memphis Grizzlies,,Tony Wroten,Minnesota Timberwolves,W,03/18/2013,6:13,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-3
+Memphis Grizzlies,,Austin Daye,Minnesota Timberwolves,W,03/18/2013,13:11,0,2,0.0,0,2,0.0,1,2,0.5,0,4,4,1,1,1,1,1,1,-8
+Memphis Grizzlies,,Jerryd Bayless,Oklahoma City Thunder,W,03/20/2013,28:06,5,10,0.5,4,6,0.667,6,6,1.0,1,1,2,1,1,0,3,5,20,-3
+Memphis Grizzlies,,Ed Davis,Oklahoma City Thunder,W,03/20/2013,6:14,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,3,0,-3
+Memphis Grizzlies,,Tony Wroten,Oklahoma City Thunder,W,03/20/2013,5:12,0,0,0.0,0,0,0.0,2,2,1.0,0,0,0,1,0,0,2,2,2,-3
+Memphis Grizzlies,,Quincy Pondexter,Oklahoma City Thunder,W,03/20/2013,14:56,0,2,0.0,0,2,0.0,0,0,0.0,1,2,3,0,0,0,1,2,0,1
+Memphis Grizzlies,,Austin Daye,Oklahoma City Thunder,W,03/20/2013,0:07,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,5
+Memphis Grizzlies,,Ed Davis,New Orleans Hornets,L,03/22/2013,13:02,0,2,0.0,0,0,0.0,2,2,1.0,2,2,4,0,1,2,0,1,2,-9
+Memphis Grizzlies,,Jerryd Bayless,New Orleans Hornets,L,03/22/2013,28:59,5,12,0.417,0,1,0.0,2,3,0.667,0,2,2,1,0,0,2,1,12,-16
+Memphis Grizzlies,,Tony Wroten,New Orleans Hornets,L,03/22/2013,4:21,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-3
+Memphis Grizzlies,,Quincy Pondexter,New Orleans Hornets,L,03/22/2013,16:39,0,3,0.0,0,0,0.0,4,4,1.0,0,1,1,0,0,0,1,1,4,-9
+Memphis Grizzlies,,Darrell Arthur,New Orleans Hornets,L,03/22/2013,11:27,0,3,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,3,0,-12
+Memphis Grizzlies,,Austin Daye,New Orleans Hornets,L,03/22/2013,3:26,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-5
+Memphis Grizzlies,,Dexter Pittman,New Orleans Hornets,L,03/22/2013,0:22,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Memphis Grizzlies,,Jon Leuer,New Orleans Hornets,L,03/22/2013,0:22,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0
+Memphis Grizzlies,,Zach Randolph,Boston Celtics,W,03/23/2013,31:13,5,13,0.385,0,1,0.0,5,6,0.833,5,6,11,2,0,0,0,3,15,2
+Memphis Grizzlies,,Jerryd Bayless,Boston Celtics,W,03/23/2013,38:06,11,20,0.55,4,6,0.667,4,5,0.8,0,4,4,3,0,0,2,2,30,7
+Memphis Grizzlies,,Quincy Pondexter,Boston Celtics,W,03/23/2013,17:24,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,2,1,0,0,0,2,9
+Memphis Grizzlies,,Jerryd Bayless,Washington Wizards,L,03/25/2013,27:32,5,17,0.294,0,4,0.0,4,4,1.0,1,5,6,7,0,0,1,2,14,14
+Memphis Grizzlies,,Ed Davis,Washington Wizards,L,03/25/2013,23:02,3,4,0.75,0,0,0.0,3,4,0.75,2,5,7,0,0,0,0,5,9,27
+Memphis Grizzlies,,Austin Daye,Washington Wizards,L,03/25/2013,15:34,2,3,0.667,1,2,0.5,0,0,0.0,0,2,2,1,0,1,0,3,5,4
+Memphis Grizzlies,,Quincy Pondexter,Washington Wizards,L,03/25/2013,27:22,5,9,0.556,4,5,0.8,0,0,0.0,1,4,5,0,1,0,1,2,14,3
+Memphis Grizzlies,,Jon Leuer,Washington Wizards,L,03/25/2013,6:53,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,0,2,-4
+Memphis Grizzlies,,Dexter Pittman,Washington Wizards,L,03/25/2013,0:38,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Memphis Grizzlies,,Jerryd Bayless,New York Knicks,L,03/27/2013,31:32,8,17,0.471,4,7,0.571,4,4,1.0,1,0,1,0,1,1,4,6,24,-3
+Memphis Grizzlies,,Quincy Pondexter,New York Knicks,L,03/27/2013,26:01,4,7,0.571,0,2,0.0,2,2,1.0,4,1,5,1,0,0,1,4,10,1
+Memphis Grizzlies,,Darrell Arthur,New York Knicks,L,03/27/2013,7:53,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-11
+Memphis Grizzlies,,Austin Daye,New York Knicks,L,03/27/2013,9:36,1,4,0.25,0,3,0.0,0,0,0.0,0,0,0,0,0,0,1,1,2,-2
+Memphis Grizzlies,,Quincy Pondexter,Houston Rockets,W,03/29/2013,15:50,0,5,0.0,0,2,0.0,0,0,0.0,2,1,3,0,1,0,1,3,0,-12
+Memphis Grizzlies,,Darrell Arthur,Houston Rockets,W,03/29/2013,8:47,1,3,0.333,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,0,2,-3
+Memphis Grizzlies,,Jerryd Bayless,Houston Rockets,W,03/29/2013,25:17,6,11,0.545,2,6,0.333,0,0,0.0,0,2,2,4,1,1,4,3,14,-4
+Memphis Grizzlies,,Ed Davis,Houston Rockets,W,03/29/2013,14:17,2,4,0.5,0,0,0.0,0,0,0.0,3,1,4,1,0,1,0,2,4,-9
+Memphis Grizzlies,,Jerryd Bayless,Minnesota Timberwolves,W,03/30/2013,29:23,0,5,0.0,0,2,0.0,4,6,0.667,0,3,3,7,2,0,0,2,4,16
+Memphis Grizzlies,,Ed Davis,Minnesota Timberwolves,W,03/30/2013,14:25,0,2,0.0,0,0,0.0,3,4,0.75,1,3,4,0,0,0,0,3,3,7
+Memphis Grizzlies,,Quincy Pondexter,Minnesota Timberwolves,W,03/30/2013,18:46,3,6,0.5,1,2,0.5,0,0,0.0,0,1,1,1,0,0,0,5,7,8
+Memphis Grizzlies,,Darrell Arthur,Minnesota Timberwolves,W,03/30/2013,16:01,6,9,0.667,1,2,0.5,2,3,0.667,2,2,4,0,0,0,0,3,15,12
+Memphis Grizzlies,,Austin Daye,Minnesota Timberwolves,W,03/30/2013,13:27,2,4,0.5,1,1,1.0,0,0,0.0,0,3,3,1,1,1,0,0,5,16
+Memphis Grizzlies,,Tony Wroten,Minnesota Timberwolves,W,03/30/2013,0:58,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Memphis Grizzlies,,Jon Leuer,Minnesota Timberwolves,W,03/30/2013,0:58,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Memphis Grizzlies,,Darrell Arthur,San Antonio Spurs,W,04/01/2013,15:15,0,1,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,1,0,-7
+Memphis Grizzlies,,Jerryd Bayless,San Antonio Spurs,W,04/01/2013,28:15,7,12,0.583,0,1,0.0,3,5,0.6,0,2,2,3,0,0,1,3,17,-2
+Memphis Grizzlies,,Tony Wroten,San Antonio Spurs,W,04/01/2013,6:00,0,2,0.0,0,0,0.0,1,2,0.5,0,0,0,0,1,0,0,1,1,-9
+Memphis Grizzlies,,Quincy Pondexter,San Antonio Spurs,W,04/01/2013,15:08,0,3,0.0,0,1,0.0,1,2,0.5,0,1,1,0,0,0,0,0,1,-8
+Memphis Grizzlies,,Ed Davis,San Antonio Spurs,W,04/01/2013,14:26,1,1,1.0,0,0,0.0,2,2,1.0,0,2,2,0,1,1,1,2,4,-2
+Memphis Grizzlies,,Austin Daye,San Antonio Spurs,W,04/01/2013,12:45,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,2,4
+Memphis Grizzlies,,Ed Davis,Portland Trail Blazers,W,04/03/2013,18:28,5,6,0.833,0,0,0.0,2,2,1.0,4,6,10,1,1,0,0,1,12,10
+Memphis Grizzlies,,Jerryd Bayless,Portland Trail Blazers,W,04/03/2013,28:07,0,8,0.0,0,3,0.0,2,2,1.0,0,0,0,7,0,0,2,1,2,3
+Memphis Grizzlies,,Darrell Arthur,Portland Trail Blazers,W,04/03/2013,15:08,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,3,1,4,2,3
+Memphis Grizzlies,,Quincy Pondexter,Portland Trail Blazers,W,04/03/2013,24:11,3,4,0.75,0,1,0.0,4,4,1.0,0,4,4,1,0,0,1,2,10,17
+Memphis Grizzlies,,Austin Daye,Portland Trail Blazers,W,04/03/2013,10:47,1,2,0.5,1,2,0.5,0,0,0.0,0,3,3,1,0,0,1,1,3,-1
+Memphis Grizzlies,,Jon Leuer,Portland Trail Blazers,W,04/03/2013,2:43,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,2,-1
+Memphis Grizzlies,,Keyon Dooling,Portland Trail Blazers,W,04/03/2013,1:55,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Memphis Grizzlies,,Dexter Pittman,Portland Trail Blazers,W,04/03/2013,1:55,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-1
+Memphis Grizzlies,,Darrell Arthur,Los Angeles Lakers,L,04/05/2013,8:21,0,1,0.0,0,0,0.0,0,0,0.0,2,1,3,0,0,0,0,2,0,-11
+Memphis Grizzlies,,Jerryd Bayless,Los Angeles Lakers,L,04/05/2013,31:16,7,15,0.467,0,4,0.0,0,0,0.0,1,3,4,6,1,0,1,2,14,1
+Memphis Grizzlies,,Austin Daye,Los Angeles Lakers,L,04/05/2013,21:26,2,5,0.4,1,3,0.333,0,0,0.0,0,4,4,1,1,0,0,0,5,3
+Memphis Grizzlies,,Quincy Pondexter,Los Angeles Lakers,L,04/05/2013,19:53,1,7,0.143,1,4,0.25,0,0,0.0,0,0,0,1,2,0,0,1,3,6
+Memphis Grizzlies,,Ed Davis,Los Angeles Lakers,L,04/05/2013,12:14,1,2,0.5,0,0,0.0,1,2,0.5,1,2,3,0,1,0,0,2,3,4
+Memphis Grizzlies,,Jon Leuer,Los Angeles Lakers,L,04/05/2013,4:45,1,1,1.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,0,2,4
+Memphis Grizzlies,,Quincy Pondexter,Sacramento Kings,W,04/07/2013,22:33,7,13,0.538,1,3,0.333,2,2,1.0,1,4,5,1,2,0,1,3,17,7
+Memphis Grizzlies,,Ed Davis,Sacramento Kings,W,04/07/2013,17:45,0,4,0.0,0,0,0.0,2,2,1.0,2,5,7,0,1,2,1,4,2,7
+Memphis Grizzlies,,Keyon Dooling,Sacramento Kings,W,04/07/2013,10:34,1,3,0.333,0,1,0.0,2,2,1.0,0,0,0,2,0,0,1,1,4,4
+Memphis Grizzlies,,Tony Wroten,Sacramento Kings,W,04/07/2013,5:20,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,1,2,2,0
+Memphis Grizzlies,,Jon Leuer,Sacramento Kings,W,04/07/2013,6:35,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-2
+Memphis Grizzlies,,Austin Daye,Sacramento Kings,W,04/07/2013,4:33,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,1,0,1,0,-9
+Memphis Grizzlies,,Quincy Pondexter,Charlotte Bobcats,W,04/09/2013,23:29,3,8,0.375,2,4,0.5,0,0,0.0,1,1,2,2,0,0,0,1,8,22
+Memphis Grizzlies,,Ed Davis,Charlotte Bobcats,W,04/09/2013,23:16,3,5,0.6,0,0,0.0,2,3,0.667,2,4,6,1,0,1,1,2,8,22
+Memphis Grizzlies,,Keyon Dooling,Charlotte Bobcats,W,04/09/2013,12:12,1,4,0.25,0,1,0.0,0,0,0.0,0,0,0,0,1,0,1,1,2,-6
+Memphis Grizzlies,,Austin Daye,Charlotte Bobcats,W,04/09/2013,16:25,4,6,0.667,1,3,0.333,1,2,0.5,1,6,7,1,0,1,0,3,10,8
+Memphis Grizzlies,,Jon Leuer,Charlotte Bobcats,W,04/09/2013,12:40,4,4,1.0,0,0,0.0,3,3,1.0,0,5,5,2,1,0,0,0,11,13
+Memphis Grizzlies,,Tony Wroten,Charlotte Bobcats,W,04/09/2013,2:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-6
+Memphis Grizzlies,,Dexter Pittman,Charlotte Bobcats,W,04/09/2013,2:27,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-6
+Memphis Grizzlies,,Quincy Pondexter,Houston Rockets,W,04/12/2013,11:34,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,0,0,0
+Memphis Grizzlies,,Jerryd Bayless,Houston Rockets,W,04/12/2013,30:14,5,14,0.357,2,4,0.5,1,1,1.0,2,3,5,2,1,0,1,2,13,1
+Memphis Grizzlies,,Keyon Dooling,Houston Rockets,W,04/12/2013,11:40,1,3,0.333,1,3,0.333,0,0,0.0,0,0,0,1,0,0,0,2,3,-13
+Memphis Grizzlies,,Ed Davis,Houston Rockets,W,04/12/2013,6:19,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,1,0,2,0,-6
+Memphis Grizzlies,,Austin Daye,Houston Rockets,W,04/12/2013,9:17,1,4,0.25,1,3,0.333,0,0,0.0,0,1,1,2,0,0,1,0,3,5
+Memphis Grizzlies,,Darrell Arthur,Houston Rockets,W,04/12/2013,10:27,1,3,0.333,0,0,0.0,0,0,0.0,1,1,2,0,1,1,1,2,2,-5
+Memphis Grizzlies,,Darrell Arthur,Los Angeles Clippers,L,04/13/2013,16:28,2,5,0.4,0,0,0.0,0,0,0.0,1,3,4,2,2,1,0,1,4,-6
+Memphis Grizzlies,,Jerryd Bayless,Los Angeles Clippers,L,04/13/2013,21:35,3,10,0.3,1,3,0.333,1,1,1.0,0,1,1,1,1,0,0,2,8,-6
+Memphis Grizzlies,,Keyon Dooling,Los Angeles Clippers,L,04/13/2013,4:26,1,2,0.5,0,0,0.0,1,1,1.0,0,0,0,0,0,0,1,2,3,-2
+Memphis Grizzlies,,Ed Davis,Los Angeles Clippers,L,04/13/2013,2:22,0,1,0.0,0,0,0.0,1,2,0.5,2,0,2,0,0,0,0,2,1,-5
+Memphis Grizzlies,,Quincy Pondexter,Los Angeles Clippers,L,04/13/2013,18:39,1,2,0.5,1,2,0.5,0,0,0.0,1,1,2,1,2,1,3,1,3,-8
+Memphis Grizzlies,,Austin Daye,Los Angeles Clippers,L,04/13/2013,6:35,1,4,0.25,0,1,0.0,0,0,0.0,0,0,0,1,0,1,0,1,2,-7
+Memphis Grizzlies,,Quincy Pondexter,Dallas Mavericks,W,04/15/2013,24:13,3,8,0.375,0,4,0.0,1,1,1.0,2,3,5,1,0,0,0,1,7,6
+Memphis Grizzlies,,Darrell Arthur,Dallas Mavericks,W,04/15/2013,13:14,4,8,0.5,0,0,0.0,0,0,0.0,2,0,2,1,0,1,1,4,8,-1
+Memphis Grizzlies,,Ed Davis,Dallas Mavericks,W,04/15/2013,27:51,5,10,0.5,0,0,0.0,1,1,1.0,7,4,11,1,1,0,2,3,11,-2
+Memphis Grizzlies,,Jerryd Bayless,Dallas Mavericks,W,04/15/2013,28:50,6,13,0.462,2,6,0.333,5,6,0.833,0,4,4,4,4,1,2,1,19,1
+Memphis Grizzlies,,Keyon Dooling,Dallas Mavericks,W,04/15/2013,24:31,4,5,0.8,4,5,0.8,1,2,0.5,0,1,1,3,0,0,1,1,13,0
+Memphis Grizzlies,,Austin Daye,Dallas Mavericks,W,04/15/2013,15:55,1,6,0.167,0,3,0.0,4,4,1.0,0,3,3,1,2,0,3,3,6,0
+Memphis Grizzlies,,Jon Leuer,Dallas Mavericks,W,04/15/2013,2:58,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,-5
+Memphis Grizzlies,,Ed Davis,Utah Jazz,W,04/17/2013,22:24,2,7,0.286,0,0,0.0,0,0,0.0,3,6,9,0,0,4,2,5,4,13
+Memphis Grizzlies,,Jerryd Bayless,Utah Jazz,W,04/17/2013,26:50,1,6,0.167,1,4,0.25,0,0,0.0,0,2,2,3,2,0,0,3,3,10
+Memphis Grizzlies,,Keyon Dooling,Utah Jazz,W,04/17/2013,16:24,2,3,0.667,0,1,0.0,2,2,1.0,0,0,0,2,0,0,1,1,6,-2
+Memphis Grizzlies,,Quincy Pondexter,Utah Jazz,W,04/17/2013,8:49,2,3,0.667,1,2,0.5,0,0,0.0,0,1,1,0,1,0,1,2,5,3
+Memphis Grizzlies,,Darrell Arthur,Utah Jazz,W,04/17/2013,15:53,5,9,0.556,0,0,0.0,1,2,0.5,2,1,3,0,0,0,0,1,11,-2
+Memphis Grizzlies,,Austin Daye,Utah Jazz,W,04/17/2013,8:16,1,3,0.333,1,3,0.333,1,2,0.5,0,2,2,2,1,1,0,1,4,-3

@@ -1,0 +1,432 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Toronto Raptors,,Terrence Ross,Indiana Pacers,L,10/31/2012,6:24,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,4
+Toronto Raptors,,Ed Davis,Indiana Pacers,L,10/31/2012,13:38,2,4,0.5,0,0,0.0,1,2,0.5,1,1,2,0,0,2,2,1,5,1
+Toronto Raptors,,Jose Calderon,Indiana Pacers,L,10/31/2012,25:43,6,12,0.5,3,6,0.5,0,0,0.0,0,1,1,3,1,0,1,1,15,-8
+Toronto Raptors,,Amir Johnson,Indiana Pacers,L,10/31/2012,17:05,2,6,0.333,0,0,0.0,1,2,0.5,3,4,7,0,2,1,0,3,5,4
+Toronto Raptors,,Alan Anderson,Indiana Pacers,L,10/31/2012,18:50,0,3,0.0,0,1,0.0,0,0,0.0,1,1,2,4,3,0,1,0,0,1
+Toronto Raptors,,Aaron Gray,Indiana Pacers,L,10/31/2012,7:48,2,2,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,4,1
+Toronto Raptors,,John Lucas III,Indiana Pacers,L,10/31/2012,5:19,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-3
+Toronto Raptors,,Amir Johnson,Brooklyn Nets,L,11/03/2012,16:50,5,8,0.625,0,0,0.0,1,2,0.5,3,1,4,0,1,0,1,5,11,-7
+Toronto Raptors,,Jose Calderon,Brooklyn Nets,L,11/03/2012,21:06,1,5,0.2,0,2,0.0,0,0,0.0,0,0,0,3,0,0,1,2,2,-7
+Toronto Raptors,,Alan Anderson,Brooklyn Nets,L,11/03/2012,12:37,1,4,0.25,1,2,0.5,0,0,0.0,0,0,0,0,0,0,2,2,3,-5
+Toronto Raptors,,Ed Davis,Brooklyn Nets,L,11/03/2012,13:39,4,7,0.571,0,0,0.0,3,4,0.75,1,2,3,0,1,1,0,0,11,-2
+Toronto Raptors,,Dominic McGuire,Brooklyn Nets,L,11/03/2012,9:18,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,1,0,2,0,-8
+Toronto Raptors,,Aaron Gray,Brooklyn Nets,L,11/03/2012,18:30,1,2,0.5,0,0,0.0,1,2,0.5,0,4,4,1,1,0,0,4,3,0
+Toronto Raptors,,John Lucas III,Brooklyn Nets,L,11/03/2012,6:01,0,4,0.0,0,1,0.0,0,0,0.0,0,2,2,1,1,0,0,0,0,6
+Toronto Raptors,,Terrence Ross,Minnesota Timberwolves,W,11/04/2012,7:13,1,4,0.25,0,1,0.0,0,0,0.0,0,1,1,1,0,0,2,3,2,-3
+Toronto Raptors,,Amir Johnson,Minnesota Timberwolves,W,11/04/2012,23:19,3,7,0.429,0,0,0.0,3,4,0.75,2,3,5,3,2,1,1,2,9,16
+Toronto Raptors,,Ed Davis,Minnesota Timberwolves,W,11/04/2012,23:59,3,7,0.429,0,0,0.0,0,0,0.0,2,5,7,1,0,0,1,2,6,14
+Toronto Raptors,,Jose Calderon,Minnesota Timberwolves,W,11/04/2012,14:15,3,5,0.6,1,2,0.5,0,0,0.0,1,0,1,3,0,0,0,1,7,8
+Toronto Raptors,,Alan Anderson,Minnesota Timberwolves,W,11/04/2012,30:51,6,14,0.429,4,8,0.5,2,2,1.0,1,2,3,1,0,0,0,4,18,20
+Toronto Raptors,,John Lucas III,Minnesota Timberwolves,W,11/04/2012,6:09,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+Toronto Raptors,,Dominic McGuire,Minnesota Timberwolves,W,11/04/2012,1:59,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,1,0,1
+Toronto Raptors,,Alan Anderson,Oklahoma City Thunder,L,11/06/2012,18:39,1,6,0.167,0,5,0.0,1,2,0.5,0,0,0,1,0,1,0,3,3,-9
+Toronto Raptors,,Dominic McGuire,Oklahoma City Thunder,L,11/06/2012,14:34,3,4,0.75,0,0,0.0,0,0,0.0,1,3,4,0,1,0,2,1,6,-4
+Toronto Raptors,,Jose Calderon,Oklahoma City Thunder,L,11/06/2012,19:32,2,7,0.286,1,4,0.25,3,3,1.0,0,0,0,2,4,0,3,0,8,-7
+Toronto Raptors,,Amir Johnson,Oklahoma City Thunder,L,11/06/2012,8:19,1,4,0.25,0,0,0.0,0,0,0.0,2,0,2,0,1,0,1,4,2,-4
+Toronto Raptors,,Ed Davis,Oklahoma City Thunder,L,11/06/2012,20:33,2,4,0.5,0,0,0.0,2,3,0.667,2,7,9,0,1,0,0,5,6,0
+Toronto Raptors,,John Lucas III,Oklahoma City Thunder,L,11/06/2012,15:48,1,9,0.111,1,6,0.167,0,0,0.0,0,2,2,4,0,0,2,1,3,4
+Toronto Raptors,,Terrence Ross,Oklahoma City Thunder,L,11/06/2012,13:54,4,7,0.571,2,3,0.667,0,0,0.0,0,2,2,1,1,0,1,2,10,7
+Toronto Raptors,,Aaron Gray,Oklahoma City Thunder,L,11/06/2012,7:29,1,1,1.0,0,0,0.0,1,2,0.5,0,2,2,1,0,0,0,2,3,-4
+Toronto Raptors,,Alan Anderson,Dallas Mavericks,L,11/07/2012,16:05,3,9,0.333,2,6,0.333,5,5,1.0,0,0,0,0,1,0,0,2,13,-7
+Toronto Raptors,,Amir Johnson,Dallas Mavericks,L,11/07/2012,28:51,6,7,0.857,0,0,0.0,6,7,0.857,6,5,11,3,1,1,1,5,18,4
+Toronto Raptors,,Ed Davis,Dallas Mavericks,L,11/07/2012,5:09,0,0,0.0,0,0,0.0,1,2,0.5,0,1,1,0,0,0,0,0,1,-6
+Toronto Raptors,,John Lucas III,Dallas Mavericks,L,11/07/2012,14:50,0,3,0.0,0,1,0.0,0,0,0.0,0,2,2,1,0,0,0,1,0,-4
+Toronto Raptors,,Terrence Ross,Dallas Mavericks,L,11/07/2012,7:47,1,3,0.333,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,2,2,1
+Toronto Raptors,,Aaron Gray,Dallas Mavericks,L,11/07/2012,8:40,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,1,0,2,2,2,4
+Toronto Raptors,,Quincy Acy,Dallas Mavericks,L,11/07/2012,4:09,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-6
+Toronto Raptors,,Dominic McGuire,Dallas Mavericks,L,11/07/2012,12:35,1,1,1.0,0,0,0.0,0,0,0.0,0,2,2,0,1,0,1,4,2,3
+Toronto Raptors,,Amir Johnson,Philadelphia 76ers,L,11/10/2012,18:41,1,2,0.5,0,0,0.0,0,0,0.0,0,4,4,1,0,2,2,5,2,-9
+Toronto Raptors,,Terrence Ross,Philadelphia 76ers,L,11/10/2012,12:38,2,5,0.4,2,5,0.4,0,0,0.0,0,1,1,1,1,0,1,2,6,-6
+Toronto Raptors,,John Lucas III,Philadelphia 76ers,L,11/10/2012,16:00,1,7,0.143,1,1,1.0,1,2,0.5,0,1,1,1,1,0,0,1,4,-11
+Toronto Raptors,,Ed Davis,Philadelphia 76ers,L,11/10/2012,3:45,0,1,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,1,2,0,-9
+Toronto Raptors,,Linas Kleiza,Philadelphia 76ers,L,11/10/2012,12:00,0,1,0.0,0,1,0.0,0,0,0.0,1,1,2,0,0,0,0,0,0,-20
+Toronto Raptors,,Dominic McGuire,Philadelphia 76ers,L,11/10/2012,6:01,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-6
+Toronto Raptors,,John Lucas III,Utah Jazz,L,11/12/2012,13:54,3,6,0.5,1,3,0.333,0,0,0.0,0,0,0,2,0,0,0,0,7,7
+Toronto Raptors,,Ed Davis,Utah Jazz,L,11/12/2012,17:47,2,4,0.5,0,0,0.0,0,0,0.0,6,3,9,0,2,1,1,2,4,-6
+Toronto Raptors,,Amir Johnson,Utah Jazz,L,11/12/2012,38:16,5,8,0.625,0,0,0.0,1,3,0.333,7,7,14,2,3,1,2,6,11,-5
+Toronto Raptors,,Linas Kleiza,Utah Jazz,L,11/12/2012,30:18,7,16,0.438,3,7,0.429,3,3,1.0,2,5,7,1,1,0,0,6,20,0
+Toronto Raptors,,Terrence Ross,Utah Jazz,L,11/12/2012,3:02,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,3
+Toronto Raptors,,Aaron Gray,Utah Jazz,L,11/12/2012,4:24,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-8
+Toronto Raptors,,Amir Johnson,Indiana Pacers,W,11/13/2012,29:03,2,9,0.222,0,1,0.0,3,4,0.75,3,4,7,0,0,0,1,4,7,-4
+Toronto Raptors,,Linas Kleiza,Indiana Pacers,W,11/13/2012,24:31,2,9,0.222,0,1,0.0,6,6,1.0,0,4,4,0,0,0,2,2,10,-1
+Toronto Raptors,,John Lucas III,Indiana Pacers,W,11/13/2012,8:53,1,3,0.333,1,1,1.0,0,0,0.0,0,0,0,0,1,0,0,1,3,-3
+Toronto Raptors,,Ed Davis,Indiana Pacers,W,11/13/2012,15:04,0,1,0.0,0,0,0.0,0,0,0.0,0,5,5,0,0,0,1,5,0,-1
+Toronto Raptors,,Terrence Ross,Indiana Pacers,W,11/13/2012,12:55,3,5,0.6,1,1,1.0,0,0,0.0,0,0,0,0,1,0,0,1,7,5
+Toronto Raptors,,Amir Johnson,Boston Celtics,L,11/17/2012,15:56,0,1,0.0,0,0,0.0,1,2,0.5,1,2,3,1,0,0,0,4,1,-5
+Toronto Raptors,,Terrence Ross,Boston Celtics,L,11/17/2012,23:56,4,6,0.667,2,4,0.5,0,1,0.0,0,4,4,1,1,1,3,2,10,-13
+Toronto Raptors,,Linas Kleiza,Boston Celtics,L,11/17/2012,24:29,3,9,0.333,0,2,0.0,4,7,0.571,0,1,1,2,0,0,1,2,10,-9
+Toronto Raptors,,John Lucas III,Boston Celtics,L,11/17/2012,25:52,5,11,0.455,3,7,0.429,2,2,1.0,0,0,0,3,1,0,2,2,15,-4
+Toronto Raptors,,Ed Davis,Boston Celtics,L,11/17/2012,20:36,2,3,0.667,0,0,0.0,3,6,0.5,4,5,9,3,1,1,0,2,7,-11
+Toronto Raptors,,Quincy Acy,Boston Celtics,L,11/17/2012,12:06,1,1,1.0,0,0,0.0,4,4,1.0,2,2,4,0,2,1,0,0,6,5
+Toronto Raptors,,Aaron Gray,Boston Celtics,L,11/17/2012,1:45,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,4
+Toronto Raptors,,Amir Johnson,Orlando Magic,W,11/18/2012,25:18,5,6,0.833,1,1,1.0,4,5,0.8,1,4,5,1,2,0,1,1,15,3
+Toronto Raptors,,John Lucas III,Orlando Magic,W,11/18/2012,10:54,1,4,0.25,0,1,0.0,0,0,0.0,0,2,2,0,1,0,0,1,2,1
+Toronto Raptors,,Linas Kleiza,Orlando Magic,W,11/18/2012,26:24,5,9,0.556,2,5,0.4,0,0,0.0,1,4,5,0,0,0,2,3,12,7
+Toronto Raptors,,Ed Davis,Orlando Magic,W,11/18/2012,7:41,2,3,0.667,0,0,0.0,1,2,0.5,0,1,1,0,0,1,0,2,5,0
+Toronto Raptors,,Terrence Ross,Orlando Magic,W,11/18/2012,4:15,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-2
+Toronto Raptors,,Kyle Lowry,Philadelphia 76ers,L,11/20/2012,29:51,5,14,0.357,0,4,0.0,3,8,0.375,1,6,7,7,0,0,2,5,13,-9
+Toronto Raptors,,Amir Johnson,Philadelphia 76ers,L,11/20/2012,20:57,2,5,0.4,0,1,0.0,0,0,0.0,2,1,3,1,0,1,2,6,4,-10
+Toronto Raptors,,Linas Kleiza,Philadelphia 76ers,L,11/20/2012,16:39,1,3,0.333,0,2,0.0,3,3,1.0,1,2,3,0,0,0,0,0,5,-6
+Toronto Raptors,,Ed Davis,Philadelphia 76ers,L,11/20/2012,5:27,1,2,0.5,0,0,0.0,0,0,0.0,1,2,3,1,0,0,0,1,2,0
+Toronto Raptors,,John Lucas III,Philadelphia 76ers,L,11/20/2012,2:37,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,1,1,0,2
+Toronto Raptors,,Amir Johnson,Charlotte Bobcats,L,11/21/2012,10:54,0,1,0.0,0,0,0.0,1,2,0.5,0,1,1,1,0,0,0,0,1,-2
+Toronto Raptors,,Jose Calderon,Charlotte Bobcats,L,11/21/2012,23:57,2,8,0.25,2,6,0.333,1,1,1.0,1,2,3,4,1,1,2,1,7,4
+Toronto Raptors,,Terrence Ross,Charlotte Bobcats,L,11/21/2012,14:57,5,9,0.556,1,4,0.25,0,0,0.0,1,2,3,1,1,1,0,4,11,-7
+Toronto Raptors,,Ed Davis,Charlotte Bobcats,L,11/21/2012,12:03,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,0,1,0,0,2,2,-7
+Toronto Raptors,,Linas Kleiza,Charlotte Bobcats,L,11/21/2012,12:18,0,3,0.0,0,3,0.0,0,0,0.0,0,1,1,0,0,0,2,0,0,-7
+Toronto Raptors,,Amir Johnson,Detroit Pistons,L,11/23/2012,16:41,2,4,0.5,0,0,0.0,1,1,1.0,1,4,5,1,0,0,0,4,5,6
+Toronto Raptors,,Jose Calderon,Detroit Pistons,L,11/23/2012,15:41,1,2,0.5,1,1,1.0,2,2,1.0,0,1,1,3,0,0,1,0,5,5
+Toronto Raptors,,Terrence Ross,Detroit Pistons,L,11/23/2012,16:58,0,5,0.0,0,2,0.0,0,0,0.0,0,2,2,0,1,0,1,2,0,7
+Toronto Raptors,,Linas Kleiza,Detroit Pistons,L,11/23/2012,24:05,2,8,0.25,0,3,0.0,0,0,0.0,1,2,3,3,0,1,0,1,4,0
+Toronto Raptors,,Ed Davis,Detroit Pistons,L,11/23/2012,10:21,3,5,0.6,0,0,0.0,3,3,1.0,2,2,4,1,0,2,0,1,9,2
+Toronto Raptors,,Jose Calderon,San Antonio Spurs,L,11/25/2012,41:10,3,14,0.214,1,5,0.2,2,2,1.0,1,1,2,9,0,0,2,3,9,-7
+Toronto Raptors,,Terrence Ross,San Antonio Spurs,L,11/25/2012,20:43,1,4,0.25,1,2,0.5,0,0,0.0,1,2,3,1,0,0,0,1,3,6
+Toronto Raptors,,Amir Johnson,San Antonio Spurs,L,11/25/2012,18:10,1,5,0.2,0,0,0.0,2,2,1.0,3,2,5,0,0,2,2,4,4,-2
+Toronto Raptors,,Ed Davis,San Antonio Spurs,L,11/25/2012,21:39,7,11,0.636,0,0,0.0,1,2,0.5,8,6,14,0,0,0,0,1,15,-5
+Toronto Raptors,,Terrence Ross,Houston Rockets,L,11/27/2012,35:44,9,17,0.529,1,4,0.25,0,0,0.0,2,3,5,1,0,0,1,2,19,-12
+Toronto Raptors,,Jose Calderon,Houston Rockets,L,11/27/2012,24:29,4,9,0.444,4,8,0.5,0,0,0.0,0,0,0,7,0,0,0,0,12,-4
+Toronto Raptors,,Ed Davis,Houston Rockets,L,11/27/2012,20:42,5,6,0.833,0,0,0.0,2,2,1.0,1,3,4,0,1,1,2,3,12,0
+Toronto Raptors,,Linas Kleiza,Houston Rockets,L,11/27/2012,5:18,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,2,0,1
+Toronto Raptors,,Amir Johnson,Houston Rockets,L,11/27/2012,11:37,2,5,0.4,0,2,0.0,0,1,0.0,3,2,5,3,1,0,0,2,4,7
+Toronto Raptors,,John Lucas III,Houston Rockets,L,11/27/2012,14:01,1,5,0.2,0,2,0.0,0,0,0.0,0,2,2,5,0,0,0,0,2,11
+Toronto Raptors,,Aaron Gray,Houston Rockets,L,11/27/2012,1:03,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,0,0,1
+Toronto Raptors,,Terrence Ross,Memphis Grizzlies,L,11/28/2012,30:17,4,13,0.308,0,6,0.0,0,2,0.0,1,1,2,2,3,0,2,4,8,-10
+Toronto Raptors,,Amir Johnson,Memphis Grizzlies,L,11/28/2012,17:24,1,4,0.25,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,5,2,7
+Toronto Raptors,,Jose Calderon,Memphis Grizzlies,L,11/28/2012,17:49,4,6,0.667,1,2,0.5,3,3,1.0,0,2,2,0,0,0,2,0,12,-11
+Toronto Raptors,,Aaron Gray,Memphis Grizzlies,L,11/28/2012,18:20,1,1,1.0,0,0,0.0,0,0,0.0,0,3,3,1,1,0,3,4,2,-13
+Toronto Raptors,,John Lucas III,Memphis Grizzlies,L,11/28/2012,8:32,2,5,0.4,1,2,0.5,1,1,1.0,0,0,0,0,0,0,0,1,6,-1
+Toronto Raptors,,Quincy Acy,Memphis Grizzlies,L,11/28/2012,4:20,0,1,0.0,0,0,0.0,1,2,0.5,0,2,2,0,0,0,0,1,1,-2
+Toronto Raptors,,Dominic McGuire,Memphis Grizzlies,L,11/28/2012,3:20,0,1,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,1,0,0,0,3
+Toronto Raptors,,Amir Johnson,Phoenix Suns,W,11/30/2012,30:42,7,12,0.583,0,0,0.0,2,3,0.667,3,3,6,3,1,1,0,3,16,11
+Toronto Raptors,,Mickael Pietrus,Phoenix Suns,W,11/30/2012,31:30,2,7,0.286,2,5,0.4,0,0,0.0,0,2,2,0,1,1,0,0,6,12
+Toronto Raptors,,Jose Calderon,Phoenix Suns,W,11/30/2012,24:23,5,7,0.714,3,3,1.0,0,0,0.0,0,0,0,9,0,0,2,1,13,11
+Toronto Raptors,,Ed Davis,Phoenix Suns,W,11/30/2012,20:55,2,4,0.5,0,0,0.0,0,2,0.0,1,7,8,3,0,1,2,3,4,12
+Toronto Raptors,,Terrence Ross,Phoenix Suns,W,11/30/2012,14:12,3,7,0.429,1,2,0.5,0,0,0.0,0,1,1,0,2,0,0,2,7,2
+Toronto Raptors,,Amir Johnson,Denver Nuggets,L,12/03/2012,15:31,5,7,0.714,1,1,1.0,0,0,0.0,1,3,4,1,1,0,2,4,11,8
+Toronto Raptors,,Jose Calderon,Denver Nuggets,L,12/03/2012,16:22,1,4,0.25,1,3,0.333,1,1,1.0,0,0,0,5,0,0,3,2,4,-7
+Toronto Raptors,,Ed Davis,Denver Nuggets,L,12/03/2012,17:03,3,5,0.6,0,0,0.0,0,0,0.0,3,6,9,3,2,1,1,2,6,-3
+Toronto Raptors,,Terrence Ross,Denver Nuggets,L,12/03/2012,23:60,4,8,0.5,2,5,0.4,2,2,1.0,1,5,6,0,0,0,2,4,12,-4
+Toronto Raptors,,John Lucas III,Denver Nuggets,L,12/03/2012,5:23,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,0,1,0,1,0,2,-2
+Toronto Raptors,,Ed Davis,Sacramento Kings,L,12/05/2012,22:46,5,10,0.5,0,0,0.0,3,4,0.75,4,7,11,0,0,1,0,4,13,8
+Toronto Raptors,,Amir Johnson,Sacramento Kings,L,12/05/2012,30:46,1,1,1.0,0,0,0.0,2,2,1.0,0,4,4,5,2,2,0,4,4,5
+Toronto Raptors,,Jose Calderon,Sacramento Kings,L,12/05/2012,14:16,1,3,0.333,0,1,0.0,1,1,1.0,0,1,1,4,0,0,1,0,3,-3
+Toronto Raptors,,Terrence Ross,Sacramento Kings,L,12/05/2012,12:12,0,3,0.0,0,1,0.0,0,0,0.0,1,1,2,0,0,0,0,0,0,5
+Toronto Raptors,,Amir Johnson,Utah Jazz,L,12/07/2012,19:15,4,8,0.5,0,0,0.0,2,2,1.0,3,1,4,0,1,0,0,3,10,6
+Toronto Raptors,,Terrence Ross,Utah Jazz,L,12/07/2012,19:24,2,7,0.286,0,2,0.0,0,0,0.0,1,2,3,1,0,2,0,2,4,-21
+Toronto Raptors,,Ed Davis,Utah Jazz,L,12/07/2012,9:37,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-12
+Toronto Raptors,,Aaron Gray,Utah Jazz,L,12/07/2012,3:44,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,2,2,0,-3
+Toronto Raptors,,Jose Calderon,Utah Jazz,L,12/07/2012,23:40,1,4,0.25,0,2,0.0,5,6,0.833,1,3,4,3,1,0,1,2,7,-22
+Toronto Raptors,,John Lucas III,Utah Jazz,L,12/07/2012,12:22,4,8,0.5,1,3,0.333,0,0,0.0,1,2,3,1,1,0,0,1,9,-9
+Toronto Raptors,,Linas Kleiza,Utah Jazz,L,12/07/2012,5:52,1,5,0.2,1,3,0.333,0,0,0.0,0,1,1,1,0,0,0,1,3,-2
+Toronto Raptors,,Amir Johnson,Los Angeles Clippers,L,12/09/2012,27:07,4,7,0.571,0,0,0.0,3,4,0.75,6,6,12,0,1,1,1,2,11,-20
+Toronto Raptors,,Jose Calderon,Los Angeles Clippers,L,12/09/2012,16:19,1,5,0.2,1,3,0.333,2,2,1.0,0,3,3,2,0,0,2,0,5,-5
+Toronto Raptors,,Terrence Ross,Los Angeles Clippers,L,12/09/2012,22:59,1,7,0.143,1,6,0.167,0,0,0.0,0,2,2,2,0,1,2,3,3,-14
+Toronto Raptors,,Ed Davis,Los Angeles Clippers,L,12/09/2012,17:01,2,6,0.333,0,0,0.0,2,2,1.0,2,1,3,0,1,1,1,1,6,-9
+Toronto Raptors,,John Lucas III,Los Angeles Clippers,L,12/09/2012,1:09,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Toronto Raptors,,Ed Davis,Portland Trail Blazers,L,12/10/2012,24:29,3,7,0.429,0,0,0.0,8,8,1.0,4,5,9,2,1,1,1,6,14,-19
+Toronto Raptors,,Jose Calderon,Portland Trail Blazers,L,12/10/2012,31:31,4,7,0.571,2,4,0.5,2,2,1.0,0,2,2,6,0,0,1,2,12,-20
+Toronto Raptors,,Amir Johnson,Portland Trail Blazers,L,12/10/2012,10:18,2,6,0.333,0,0,0.0,0,0,0.0,2,2,4,0,0,1,0,3,4,-8
+Toronto Raptors,,Terrence Ross,Portland Trail Blazers,L,12/10/2012,13:23,1,5,0.2,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,1,2,-1
+Toronto Raptors,,John Lucas III,Portland Trail Blazers,L,12/10/2012,12:03,0,4,0.0,0,4,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-16
+Toronto Raptors,,Aaron Gray,Portland Trail Blazers,L,12/10/2012,8:38,1,2,0.5,0,0,0.0,0,0,0.0,0,3,3,0,0,0,0,0,2,2
+Toronto Raptors,,Terrence Ross,Brooklyn Nets,L,12/12/2012,21:24,3,8,0.375,1,3,0.333,0,0,0.0,0,2,2,0,2,0,1,1,7,-6
+Toronto Raptors,,Aaron Gray,Brooklyn Nets,L,12/12/2012,16:59,2,4,0.5,0,0,0.0,3,4,0.75,1,1,2,1,0,0,1,4,7,-7
+Toronto Raptors,,John Lucas III,Brooklyn Nets,L,12/12/2012,19:16,4,10,0.4,0,2,0.0,1,3,0.333,0,1,1,1,1,0,2,2,9,-16
+Toronto Raptors,,Alan Anderson,Dallas Mavericks,W,12/14/2012,21:16,0,8,0.0,0,3,0.0,2,2,1.0,2,3,5,2,1,0,1,2,2,8
+Toronto Raptors,,Amir Johnson,Dallas Mavericks,W,12/14/2012,24:40,1,3,0.333,0,0,0.0,2,2,1.0,2,5,7,1,3,0,1,3,4,13
+Toronto Raptors,,Linas Kleiza,Dallas Mavericks,W,12/14/2012,29:42,7,13,0.538,5,11,0.455,1,2,0.5,0,5,5,0,0,0,0,3,20,22
+Toronto Raptors,,John Lucas III,Dallas Mavericks,W,12/14/2012,22:49,3,8,0.375,1,3,0.333,0,0,0.0,0,1,1,6,1,0,1,1,7,19
+Toronto Raptors,,Terrence Ross,Dallas Mavericks,W,12/14/2012,22:41,6,14,0.429,2,7,0.286,4,4,1.0,4,1,5,2,1,0,1,3,18,15
+Toronto Raptors,,Quincy Acy,Dallas Mavericks,W,12/14/2012,2:11,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,1
+Toronto Raptors,,Amir Johnson,Houston Rockets,W,12/16/2012,28:34,4,6,0.667,0,0,0.0,0,0,0.0,2,6,8,1,0,5,0,5,8,-3
+Toronto Raptors,,Linas Kleiza,Houston Rockets,W,12/16/2012,19:16,1,6,0.167,0,4,0.0,0,0,0.0,0,3,3,3,0,0,0,2,2,-8
+Toronto Raptors,,Alan Anderson,Houston Rockets,W,12/16/2012,25:15,6,12,0.5,3,7,0.429,9,9,1.0,0,2,2,2,0,0,0,5,24,0
+Toronto Raptors,,Terrence Ross,Houston Rockets,W,12/16/2012,23:00,4,10,0.4,1,5,0.2,0,2,0.0,1,1,2,1,1,1,2,2,9,-4
+Toronto Raptors,,John Lucas III,Houston Rockets,W,12/16/2012,11:40,2,6,0.333,2,4,0.5,0,0,0.0,0,1,1,1,1,0,0,1,6,11
+Toronto Raptors,,Amir Johnson,Cleveland Cavaliers,W,12/18/2012,29:00,6,7,0.857,0,0,0.0,5,5,1.0,2,4,6,4,1,1,2,5,17,16
+Toronto Raptors,,Linas Kleiza,Cleveland Cavaliers,W,12/18/2012,20:46,2,6,0.333,0,3,0.0,6,7,0.857,0,1,1,0,1,0,1,3,10,5
+Toronto Raptors,,Alan Anderson,Cleveland Cavaliers,W,12/18/2012,31:35,6,12,0.5,5,7,0.714,1,2,0.5,4,2,6,2,1,0,1,4,18,20
+Toronto Raptors,,Terrence Ross,Cleveland Cavaliers,W,12/18/2012,14:34,1,2,0.5,1,1,1.0,0,0,0.0,0,1,1,0,0,0,0,0,3,9
+Toronto Raptors,,John Lucas III,Cleveland Cavaliers,W,12/18/2012,15:07,4,7,0.571,2,3,0.667,1,1,1.0,1,0,1,5,0,0,2,2,11,7
+Toronto Raptors,,Alan Anderson,Detroit Pistons,W,12/19/2012,26:14,4,11,0.364,3,8,0.375,5,7,0.714,0,3,3,1,2,0,0,3,16,5
+Toronto Raptors,,Amir Johnson,Detroit Pistons,W,12/19/2012,21:10,1,1,1.0,0,0,0.0,3,4,0.75,3,6,9,0,2,1,1,4,5,5
+Toronto Raptors,,Linas Kleiza,Detroit Pistons,W,12/19/2012,20:21,1,6,0.167,1,6,0.167,2,2,1.0,1,0,1,1,0,0,0,4,5,-1
+Toronto Raptors,,John Lucas III,Detroit Pistons,W,12/19/2012,12:07,1,5,0.2,0,3,0.0,0,0,0.0,0,0,0,4,0,0,0,0,2,3
+Toronto Raptors,,Terrence Ross,Detroit Pistons,W,12/19/2012,10:45,4,6,0.667,1,1,1.0,0,0,0.0,0,0,0,1,0,0,0,2,9,5
+Toronto Raptors,,Amir Johnson,Orlando Magic,W,12/21/2012,34:46,4,9,0.444,0,0,0.0,2,2,1.0,1,6,7,1,2,2,1,4,10,11
+Toronto Raptors,,Alan Anderson,Orlando Magic,W,12/21/2012,26:25,2,9,0.222,1,3,0.333,5,5,1.0,0,1,1,2,2,0,2,5,10,-4
+Toronto Raptors,,Terrence Ross,Orlando Magic,W,12/21/2012,22:58,5,8,0.625,3,5,0.6,0,0,0.0,1,0,1,0,2,1,0,0,13,-4
+Toronto Raptors,,John Lucas III,Orlando Magic,W,12/21/2012,14:25,3,6,0.5,1,2,0.5,1,2,0.5,0,0,0,4,1,0,1,1,8,2
+Toronto Raptors,,Linas Kleiza,Orlando Magic,W,12/21/2012,12:47,3,9,0.333,1,4,0.25,2,2,1.0,1,2,3,1,0,0,0,4,9,1
+Toronto Raptors,,Alan Anderson,San Antonio Spurs,L,12/26/2012,19:49,5,10,0.5,2,4,0.5,0,0,0.0,0,1,1,1,1,0,1,3,12,-15
+Toronto Raptors,,Amir Johnson,San Antonio Spurs,L,12/26/2012,23:56,6,8,0.75,0,0,0.0,0,0,0.0,2,4,6,1,1,1,0,4,12,-11
+Toronto Raptors,,Linas Kleiza,San Antonio Spurs,L,12/26/2012,15:42,1,8,0.125,1,3,0.333,2,2,1.0,0,2,2,0,0,0,1,3,5,-9
+Toronto Raptors,,Terrence Ross,San Antonio Spurs,L,12/26/2012,26:01,5,10,0.5,1,3,0.333,0,0,0.0,0,1,1,1,1,0,2,1,11,-8
+Toronto Raptors,,Landry Fields,San Antonio Spurs,L,12/26/2012,18:39,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,1,0,0,2,1,2,-1
+Toronto Raptors,,John Lucas III,San Antonio Spurs,L,12/26/2012,20:55,4,10,0.4,2,4,0.5,1,2,0.5,0,2,2,6,2,0,0,0,11,-13
+Toronto Raptors,,Quincy Acy,San Antonio Spurs,L,12/26/2012,2:57,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,0,0,-3
+Toronto Raptors,,Alan Anderson,New Orleans Hornets,W,12/28/2012,36:10,5,14,0.357,2,9,0.222,4,5,0.8,1,1,2,3,3,0,1,1,16,14
+Toronto Raptors,,Amir Johnson,New Orleans Hornets,W,12/28/2012,37:39,6,9,0.667,0,0,0.0,0,2,0.0,3,5,8,2,1,3,2,4,12,18
+Toronto Raptors,,Kyle Lowry,New Orleans Hornets,W,12/28/2012,27:31,5,7,0.714,1,2,0.5,6,6,1.0,0,3,3,8,1,2,0,4,17,15
+Toronto Raptors,,Linas Kleiza,New Orleans Hornets,W,12/28/2012,4:59,0,1,0.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,0,0,5
+Toronto Raptors,,Terrence Ross,New Orleans Hornets,W,12/28/2012,23:36,1,8,0.125,0,6,0.0,2,2,1.0,1,4,5,0,1,0,0,1,4,12
+Toronto Raptors,,Amir Johnson,Orlando Magic,W,12/29/2012,23:16,2,4,0.5,0,0,0.0,2,4,0.5,2,4,6,1,0,0,1,3,6,17
+Toronto Raptors,,Kyle Lowry,Orlando Magic,W,12/29/2012,22:46,6,12,0.5,2,5,0.4,2,2,1.0,0,4,4,6,1,0,1,3,16,21
+Toronto Raptors,,Terrence Ross,Orlando Magic,W,12/29/2012,22:15,6,10,0.6,4,5,0.8,0,0,0.0,1,2,3,1,0,1,0,2,16,20
+Toronto Raptors,,Alan Anderson,Orlando Magic,W,12/29/2012,19:58,4,8,0.5,3,6,0.5,0,0,0.0,0,0,0,2,0,0,2,4,11,13
+Toronto Raptors,,Landry Fields,Orlando Magic,W,12/29/2012,21:18,3,3,1.0,0,0,0.0,0,0,0.0,3,6,9,2,0,0,0,1,6,20
+Toronto Raptors,,Quincy Acy,Orlando Magic,W,12/29/2012,3:09,1,1,1.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,0,2,9
+Toronto Raptors,,John Lucas III,Orlando Magic,W,12/29/2012,3:09,1,1,1.0,1,1,1.0,0,0,0.0,0,1,1,3,0,0,0,0,3,9
+Toronto Raptors,,Amir Johnson,Portland Trail Blazers,W,01/02/2013,30:36,7,12,0.583,0,0,0.0,3,3,1.0,3,4,7,4,1,1,2,1,17,7
+Toronto Raptors,,Alan Anderson,Portland Trail Blazers,W,01/02/2013,20:23,2,9,0.222,0,2,0.0,0,0,0.0,1,1,2,2,1,0,2,3,4,8
+Toronto Raptors,,Kyle Lowry,Portland Trail Blazers,W,01/02/2013,22:07,0,2,0.0,0,2,0.0,0,0,0.0,1,1,2,9,2,0,2,2,0,5
+Toronto Raptors,,Landry Fields,Portland Trail Blazers,W,01/02/2013,20:14,3,4,0.75,0,0,0.0,1,1,1.0,0,7,7,1,1,0,2,3,7,13
+Toronto Raptors,,Terrence Ross,Portland Trail Blazers,W,01/02/2013,24:53,8,14,0.571,6,9,0.667,4,6,0.667,1,4,5,2,2,0,0,2,26,11
+Toronto Raptors,,Quincy Acy,Portland Trail Blazers,W,01/02/2013,4:54,0,0,0.0,0,0,0.0,2,2,1.0,0,0,0,0,0,1,0,2,2,1
+Toronto Raptors,,John Lucas III,Portland Trail Blazers,W,01/02/2013,3:05,1,2,0.5,1,2,0.5,0,0,0.0,1,0,1,1,0,0,0,0,3,3
+Toronto Raptors,,Amir Johnson,Sacramento Kings,L,01/04/2013,9:26,0,0,0.0,0,0,0.0,0,2,0.0,0,1,1,0,1,0,0,6,0,-5
+Toronto Raptors,,Alan Anderson,Sacramento Kings,L,01/04/2013,25:38,7,17,0.412,2,9,0.222,4,4,1.0,1,1,2,2,2,1,1,3,20,5
+Toronto Raptors,,Landry Fields,Sacramento Kings,L,01/04/2013,21:41,3,5,0.6,0,0,0.0,0,1,0.0,1,4,5,2,0,0,1,1,6,8
+Toronto Raptors,,Kyle Lowry,Sacramento Kings,L,01/04/2013,27:37,5,10,0.5,4,7,0.571,10,12,0.833,0,3,3,4,2,0,2,2,24,15
+Toronto Raptors,,Terrence Ross,Sacramento Kings,L,01/04/2013,18:07,1,7,0.143,1,6,0.167,0,0,0.0,0,1,1,2,0,1,0,2,3,3
+Toronto Raptors,,Quincy Acy,Sacramento Kings,L,01/04/2013,11:35,0,2,0.0,0,0,0.0,0,0,0.0,4,1,5,0,0,0,1,3,0,9
+Toronto Raptors,,John Lucas III,Sacramento Kings,L,01/04/2013,6:42,1,3,0.333,0,1,0.0,0,0,0.0,1,1,2,1,0,0,0,0,2,6
+Toronto Raptors,,Alan Anderson,Oklahoma City Thunder,L,01/06/2013,33:13,10,14,0.714,4,8,0.5,3,3,1.0,1,3,4,3,1,0,3,2,27,0
+Toronto Raptors,,Landry Fields,Oklahoma City Thunder,L,01/06/2013,15:22,1,3,0.333,0,0,0.0,0,0,0.0,1,2,3,1,0,0,1,2,2,0
+Toronto Raptors,,Terrence Ross,Oklahoma City Thunder,L,01/06/2013,11:32,0,2,0.0,0,1,0.0,0,2,0.0,0,1,1,2,1,0,0,2,0,12
+Toronto Raptors,,Kyle Lowry,Oklahoma City Thunder,L,01/06/2013,22:41,3,8,0.375,2,4,0.5,2,3,0.667,0,2,2,8,1,0,4,4,10,-7
+Toronto Raptors,,Quincy Acy,Oklahoma City Thunder,L,01/06/2013,2:54,1,1,1.0,0,0,0.0,4,4,1.0,0,1,1,0,1,0,0,0,6,6
+Toronto Raptors,,John Lucas III,Oklahoma City Thunder,L,01/06/2013,2:54,0,2,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,6
+Toronto Raptors,,Alan Anderson,Philadelphia 76ers,W,01/09/2013,25:21,4,13,0.308,1,4,0.25,0,0,0.0,0,1,1,2,1,1,3,3,9,-1
+Toronto Raptors,,Kyle Lowry,Philadelphia 76ers,W,01/09/2013,16:49,1,2,0.5,0,1,0.0,0,0,0.0,1,1,2,4,1,0,0,1,2,-2
+Toronto Raptors,,Mickael Pietrus,Philadelphia 76ers,W,01/09/2013,8:15,0,3,0.0,0,2,0.0,0,0,0.0,0,4,4,0,1,0,0,1,0,-2
+Toronto Raptors,,Alan Anderson,Charlotte Bobcats,W,01/11/2013,25:50,6,17,0.353,4,9,0.444,0,0,0.0,1,2,3,2,1,0,1,2,16,14
+Toronto Raptors,,Kyle Lowry,Charlotte Bobcats,W,01/11/2013,25:14,3,6,0.5,3,6,0.5,0,0,0.0,0,2,2,6,0,0,2,1,9,5
+Toronto Raptors,,Quincy Acy,Charlotte Bobcats,W,01/11/2013,18:02,3,7,0.429,0,0,0.0,0,0,0.0,5,1,6,0,0,2,2,4,6,7
+Toronto Raptors,,Terrence Ross,Charlotte Bobcats,W,01/11/2013,14:36,3,6,0.5,1,4,0.25,0,0,0.0,1,1,2,2,2,0,0,2,7,6
+Toronto Raptors,,Aaron Gray,Charlotte Bobcats,W,01/11/2013,7:22,0,0,0.0,0,0,0.0,0,0,0.0,1,3,4,1,0,1,2,2,0,-1
+Toronto Raptors,,John Lucas III,Charlotte Bobcats,W,01/11/2013,4:27,3,4,0.75,1,1,1.0,0,0,0.0,1,1,2,0,0,0,0,0,7,-1
+Toronto Raptors,,Alan Anderson,Milwaukee Bucks,L,01/13/2013,28:33,2,10,0.2,0,5,0.0,1,2,0.5,1,1,2,1,1,0,3,2,5,-14
+Toronto Raptors,,Quincy Acy,Milwaukee Bucks,L,01/13/2013,13:12,0,3,0.0,0,0,0.0,2,2,1.0,1,1,2,0,0,0,1,1,2,-20
+Toronto Raptors,,Kyle Lowry,Milwaukee Bucks,L,01/13/2013,16:54,0,4,0.0,0,1,0.0,0,0,0.0,0,2,2,6,1,0,1,0,0,-13
+Toronto Raptors,,Terrence Ross,Milwaukee Bucks,L,01/13/2013,3:23,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,3,0,0,-9
+Toronto Raptors,,Amir Johnson,Brooklyn Nets,L,01/15/2013,26:00,6,7,0.857,0,0,0.0,3,6,0.5,4,2,6,1,1,1,2,4,15,5
+Toronto Raptors,,Kyle Lowry,Brooklyn Nets,L,01/15/2013,14:49,5,7,0.714,4,5,0.8,7,7,1.0,0,1,1,2,0,0,0,5,21,16
+Toronto Raptors,,Alan Anderson,Brooklyn Nets,L,01/15/2013,8:40,0,4,0.0,0,1,0.0,2,3,0.667,0,0,0,0,0,0,1,0,2,-5
+Toronto Raptors,,Terrence Ross,Brooklyn Nets,L,01/15/2013,22:59,2,9,0.222,0,3,0.0,0,0,0.0,3,6,9,1,0,0,1,2,4,5
+Toronto Raptors,,Quincy Acy,Brooklyn Nets,L,01/15/2013,6:08,2,2,1.0,0,0,0.0,2,2,1.0,0,0,0,0,0,0,1,0,6,6
+Toronto Raptors,,John Lucas III,Brooklyn Nets,L,01/15/2013,12:00,2,6,0.333,0,0,0.0,1,1,1.0,0,0,0,1,0,0,0,0,5,0
+Toronto Raptors,,Amir Johnson,Chicago Bulls,L,01/16/2013,44:03,2,9,0.222,0,0,0.0,1,4,0.25,5,5,10,2,2,1,4,5,5,1
+Toronto Raptors,,Alan Anderson,Chicago Bulls,L,01/16/2013,35:01,10,18,0.556,4,9,0.444,3,4,0.75,1,4,5,1,1,0,1,6,27,21
+Toronto Raptors,,Kyle Lowry,Chicago Bulls,L,01/16/2013,34:29,8,15,0.533,2,4,0.5,8,11,0.727,2,3,5,7,2,0,0,2,26,16
+Toronto Raptors,,Quincy Acy,Chicago Bulls,L,01/16/2013,14:50,4,4,1.0,0,0,0.0,0,0,0.0,1,5,6,2,1,1,0,4,8,14
+Toronto Raptors,,Terrence Ross,Chicago Bulls,L,01/16/2013,14:13,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,1,0,0
+Toronto Raptors,,Alan Anderson,Philadelphia 76ers,L,01/18/2013,34:20,6,17,0.353,2,5,0.4,4,5,0.8,1,4,5,2,1,0,1,0,18,-3
+Toronto Raptors,,Quincy Acy,Philadelphia 76ers,L,01/18/2013,14:50,2,3,0.667,0,0,0.0,0,0,0.0,2,1,3,0,0,1,1,5,4,11
+Toronto Raptors,,Kyle Lowry,Philadelphia 76ers,L,01/18/2013,35:46,3,11,0.273,2,7,0.286,3,3,1.0,1,4,5,11,0,0,5,6,11,-5
+Toronto Raptors,,Terrence Ross,Philadelphia 76ers,L,01/18/2013,25:24,7,14,0.5,4,5,0.8,0,0,0.0,1,6,7,1,1,0,0,3,18,5
+Toronto Raptors,,Alan Anderson,Los Angeles Lakers,W,01/20/2013,28:29,5,13,0.385,3,7,0.429,1,2,0.5,0,2,2,8,3,0,3,0,14,-15
+Toronto Raptors,,Amir Johnson,Los Angeles Lakers,W,01/20/2013,21:39,4,6,0.667,0,0,0.0,1,2,0.5,3,5,8,3,0,1,1,5,9,2
+Toronto Raptors,,Kyle Lowry,Los Angeles Lakers,W,01/20/2013,17:55,2,3,0.667,2,3,0.667,2,3,0.667,1,3,4,2,3,0,0,2,8,-2
+Toronto Raptors,,Terrence Ross,Los Angeles Lakers,W,01/20/2013,18:26,2,7,0.286,0,4,0.0,0,0,0.0,0,1,1,1,0,0,0,1,4,-5
+Toronto Raptors,,Quincy Acy,Los Angeles Lakers,W,01/20/2013,8:20,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,1,2,1
+Toronto Raptors,,Alan Anderson,Miami Heat,L,01/23/2013,35:47,7,18,0.389,4,12,0.333,2,2,1.0,0,1,1,2,0,0,1,1,20,-11
+Toronto Raptors,,Terrence Ross,Miami Heat,L,01/23/2013,25:34,7,16,0.438,2,7,0.286,0,0,0.0,0,2,2,2,2,0,1,3,16,-3
+Toronto Raptors,,Kyle Lowry,Miami Heat,L,01/23/2013,28:00,4,11,0.364,2,4,0.5,3,3,1.0,1,3,4,1,1,0,2,5,13,-2
+Toronto Raptors,,Quincy Acy,Miami Heat,L,01/23/2013,4:15,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,2,0,3
+Toronto Raptors,,John Lucas III,Miami Heat,L,01/23/2013,10:46,1,2,0.5,1,1,1.0,0,0,0.0,0,1,1,3,0,0,0,1,3,2
+Toronto Raptors,,Aaron Gray,Miami Heat,L,01/23/2013,6:57,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,1,0,-1
+Toronto Raptors,,Kyle Lowry,Orlando Magic,W,01/24/2013,21:24,1,3,0.333,1,3,0.333,0,0,0.0,0,4,4,6,0,0,4,1,3,0
+Toronto Raptors,,Alan Anderson,Orlando Magic,W,01/24/2013,28:09,4,9,0.444,0,4,0.0,5,5,1.0,0,4,4,3,0,0,0,1,13,4
+Toronto Raptors,,Aaron Gray,Orlando Magic,W,01/24/2013,6:44,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,3
+Toronto Raptors,,Terrence Ross,Orlando Magic,W,01/24/2013,23:32,4,8,0.5,2,4,0.5,0,0,0.0,0,2,2,0,1,0,0,4,10,-3
+Toronto Raptors,,Alan Anderson,Cleveland Cavaliers,L,01/26/2013,31:20,7,14,0.5,0,2,0.0,3,4,0.75,1,1,2,3,2,0,1,4,17,-10
+Toronto Raptors,,Quincy Acy,Cleveland Cavaliers,L,01/26/2013,11:51,2,4,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,2,1,3,4,-1
+Toronto Raptors,,Kyle Lowry,Cleveland Cavaliers,L,01/26/2013,21:42,1,7,0.143,1,4,0.25,3,4,0.75,1,4,5,7,0,0,1,3,6,-8
+Toronto Raptors,,Terrence Ross,Cleveland Cavaliers,L,01/26/2013,18:47,3,4,0.75,2,3,0.667,0,0,0.0,0,1,1,0,0,0,1,1,8,-12
+Toronto Raptors,,Alan Anderson,Golden State Warriors,L,01/28/2013,26:25,2,11,0.182,1,4,0.25,6,7,0.857,0,4,4,2,3,0,0,2,11,-6
+Toronto Raptors,,Amir Johnson,Golden State Warriors,L,01/28/2013,23:45,4,6,0.667,0,0,0.0,1,1,1.0,2,3,5,1,1,1,2,3,9,1
+Toronto Raptors,,John Lucas III,Golden State Warriors,L,01/28/2013,14:07,1,5,0.2,1,2,0.5,0,0,0.0,1,0,1,3,0,0,0,1,3,-9
+Toronto Raptors,,Terrence Ross,Golden State Warriors,L,01/28/2013,22:30,5,9,0.556,1,3,0.333,0,0,0.0,1,1,2,2,0,0,1,2,11,-13
+Toronto Raptors,,Quincy Acy,Atlanta Hawks,L,01/30/2013,6:43,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,1,1,2,3
+Toronto Raptors,,Terrence Ross,Atlanta Hawks,L,01/30/2013,20:55,0,4,0.0,0,3,0.0,2,2,1.0,1,2,3,1,2,0,2,2,2,10
+Toronto Raptors,,John Lucas III,Atlanta Hawks,L,01/30/2013,24:02,8,16,0.5,3,7,0.429,0,0,0.0,0,0,0,2,0,0,2,1,19,4
+Toronto Raptors,,Landry Fields,Atlanta Hawks,L,01/30/2013,14:48,1,5,0.2,0,0,0.0,1,2,0.5,0,4,4,2,0,0,0,0,3,3
+Toronto Raptors,,Rudy Gay,Los Angeles Clippers,W,02/01/2013,32:45,8,16,0.5,3,6,0.5,1,2,0.5,0,3,3,1,1,1,2,3,20,20
+Toronto Raptors,,John Lucas III,Los Angeles Clippers,W,02/01/2013,18:44,6,9,0.667,5,7,0.714,0,0,0.0,0,1,1,1,0,0,2,1,17,3
+Toronto Raptors,,Alan Anderson,Los Angeles Clippers,W,02/01/2013,13:23,0,4,0.0,0,3,0.0,0,0,0.0,0,1,1,3,1,0,0,2,0,-5
+Toronto Raptors,,Terrence Ross,Los Angeles Clippers,W,02/01/2013,15:25,2,8,0.25,0,2,0.0,0,0,0.0,0,0,0,3,0,0,1,3,4,-6
+Toronto Raptors,,Jonas Valanciunas,Los Angeles Clippers,W,02/01/2013,12:57,0,1,0.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,2,5,0,14
+Toronto Raptors,,Quincy Acy,Los Angeles Clippers,W,02/01/2013,2:15,0,1,0.0,0,0,0.0,1,2,0.5,0,1,1,0,0,0,0,1,1,-2
+Toronto Raptors,,Alan Anderson,Miami Heat,L,02/03/2013,33:11,1,7,0.143,0,3,0.0,2,3,0.667,1,2,3,3,0,0,3,3,4,-1
+Toronto Raptors,,Terrence Ross,Miami Heat,L,02/03/2013,13:43,1,4,0.25,1,3,0.333,0,0,0.0,0,3,3,1,0,0,0,2,3,-1
+Toronto Raptors,,John Lucas III,Miami Heat,L,02/03/2013,17:03,1,6,0.167,0,2,0.0,0,0,0.0,0,1,1,1,2,0,0,1,2,1
+Toronto Raptors,,Jonas Valanciunas,Miami Heat,L,02/03/2013,5:17,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,2,-3
+Toronto Raptors,,Andrea Bargnani,Boston Celtics,L,02/06/2013,23:51,5,10,0.5,0,3,0.0,3,3,1.0,1,2,3,2,2,0,1,2,13,2
+Toronto Raptors,,Alan Anderson,Boston Celtics,L,02/06/2013,27:49,2,7,0.286,0,1,0.0,1,1,1.0,0,2,2,0,0,0,0,3,5,-10
+Toronto Raptors,,John Lucas III,Boston Celtics,L,02/06/2013,10:08,0,0,0.0,0,0,0.0,2,2,1.0,0,2,2,1,0,0,1,1,2,-12
+Toronto Raptors,,Terrence Ross,Boston Celtics,L,02/06/2013,4:37,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,1,1,1,0,0
+Toronto Raptors,,Jonas Valanciunas,Boston Celtics,L,02/06/2013,1:58,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+Toronto Raptors,,Jonas Valanciunas,Indiana Pacers,W,02/08/2013,26:22,6,10,0.6,0,0,0.0,2,2,1.0,5,8,13,0,1,2,1,4,14,2
+Toronto Raptors,,Alan Anderson,Indiana Pacers,W,02/08/2013,4:08,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,1,0,0,1,2,0,5
+Toronto Raptors,,Andrea Bargnani,Indiana Pacers,W,02/08/2013,29:20,7,10,0.7,0,1,0.0,0,0,0.0,1,1,2,1,2,0,4,5,14,6
+Toronto Raptors,,Terrence Ross,Indiana Pacers,W,02/08/2013,17:53,1,5,0.2,1,2,0.5,0,0,0.0,0,1,1,1,0,1,0,2,3,5
+Toronto Raptors,,John Lucas III,Indiana Pacers,W,02/08/2013,18:34,3,10,0.3,0,2,0.0,0,0,0.0,0,1,1,2,0,0,0,0,6,6
+Toronto Raptors,,Aaron Gray,New Orleans Hornets,W,02/10/2013,2:00,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,2,1
+Toronto Raptors,,Terrence Ross,New Orleans Hornets,W,02/10/2013,7:55,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-9
+Toronto Raptors,,Alan Anderson,New Orleans Hornets,W,02/10/2013,30:24,4,12,0.333,1,2,0.5,2,2,1.0,0,3,3,3,3,0,1,3,11,4
+Toronto Raptors,,John Lucas III,New Orleans Hornets,W,02/10/2013,19:30,7,11,0.636,5,5,1.0,0,0,0.0,0,0,0,2,0,0,0,2,19,-2
+Toronto Raptors,,Landry Fields,New Orleans Hornets,W,02/10/2013,18:01,2,3,0.667,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,0,4,7
+Toronto Raptors,,Andrea Bargnani,Denver Nuggets,W,02/12/2013,17:57,2,7,0.286,0,3,0.0,0,0,0.0,0,1,1,0,0,0,2,0,4,-8
+Toronto Raptors,,John Lucas III,Denver Nuggets,W,02/12/2013,13:60,5,9,0.556,4,6,0.667,0,0,0.0,1,0,1,2,0,0,0,2,14,1
+Toronto Raptors,,Alan Anderson,Denver Nuggets,W,02/12/2013,12:37,4,7,0.571,2,3,0.667,0,0,0.0,1,0,1,0,0,0,0,0,10,-7
+Toronto Raptors,,Terrence Ross,Denver Nuggets,W,02/12/2013,13:39,3,6,0.5,1,2,0.5,0,0,0.0,1,1,2,0,0,0,2,3,7,-5
+Toronto Raptors,,Landry Fields,Denver Nuggets,W,02/12/2013,14:59,2,3,0.667,0,0,0.0,4,5,0.8,0,2,2,0,1,0,1,0,8,0
+Toronto Raptors,,Amir Johnson,New York Knicks,W,02/13/2013,29:06,2,4,0.5,0,0,0.0,1,2,0.5,2,3,5,0,0,4,0,4,5,7
+Toronto Raptors,,Andrea Bargnani,New York Knicks,W,02/13/2013,11:50,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,1,0,2,2
+Toronto Raptors,,John Lucas III,New York Knicks,W,02/13/2013,22:09,4,5,0.8,2,3,0.667,2,2,1.0,0,1,1,1,0,0,0,1,12,-1
+Toronto Raptors,,Alan Anderson,New York Knicks,W,02/13/2013,29:46,10,16,0.625,6,8,0.75,0,0,0.0,1,0,1,3,0,0,2,2,26,6
+Toronto Raptors,,Terrence Ross,New York Knicks,W,02/13/2013,3:53,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-11
+Toronto Raptors,,Andrea Bargnani,Washington Wizards,W,02/19/2013,25:36,4,7,0.571,1,3,0.333,0,0,0.0,1,3,4,1,1,1,1,1,9,-4
+Toronto Raptors,,Alan Anderson,Washington Wizards,W,02/19/2013,23:37,1,9,0.111,1,5,0.2,2,2,1.0,0,5,5,1,0,1,0,3,5,7
+Toronto Raptors,,John Lucas III,Washington Wizards,W,02/19/2013,16:20,4,7,0.571,2,3,0.667,0,0,0.0,0,1,1,1,0,0,0,0,10,-4
+Toronto Raptors,,Aaron Gray,Washington Wizards,W,02/19/2013,5:25,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,1,1,0,-5
+Toronto Raptors,,Terrence Ross,Washington Wizards,W,02/19/2013,3:22,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+Toronto Raptors,,Andrea Bargnani,Memphis Grizzlies,L,02/20/2013,21:30,0,4,0.0,0,1,0.0,0,0,0.0,1,1,2,0,1,1,1,4,0,-9
+Toronto Raptors,,Alan Anderson,Memphis Grizzlies,L,02/20/2013,19:26,6,7,0.857,4,5,0.8,3,3,1.0,0,2,2,0,0,0,1,5,19,1
+Toronto Raptors,,Landry Fields,Memphis Grizzlies,L,02/20/2013,5:23,1,3,0.333,0,0,0.0,1,2,0.5,0,1,1,0,0,0,0,1,3,-5
+Toronto Raptors,,John Lucas III,Memphis Grizzlies,L,02/20/2013,11:36,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,2,0,0,0,1,2,-3
+Toronto Raptors,,Aaron Gray,Memphis Grizzlies,L,02/20/2013,13:30,1,2,0.5,0,0,0.0,0,0,0.0,1,5,6,0,0,0,0,1,2,5
+Toronto Raptors,,Terrence Ross,Memphis Grizzlies,L,02/20/2013,14:27,1,5,0.2,0,3,0.0,0,0,0.0,0,1,1,0,0,1,0,0,2,10
+Toronto Raptors,,Alan Anderson,New York Knicks,W,02/22/2013,22:20,1,8,0.125,0,1,0.0,2,2,1.0,1,0,1,2,0,0,1,2,4,-14
+Toronto Raptors,,Amir Johnson,New York Knicks,W,02/22/2013,31:37,5,6,0.833,0,0,0.0,2,2,1.0,1,5,6,1,1,0,1,3,12,-9
+Toronto Raptors,,Andrea Bargnani,New York Knicks,W,02/22/2013,12:52,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-2
+Toronto Raptors,,John Lucas III,New York Knicks,W,02/22/2013,14:23,4,9,0.444,2,6,0.333,0,1,0.0,0,2,2,0,1,0,1,1,10,-13
+Toronto Raptors,,Andrea Bargnani,Washington Wizards,L,02/25/2013,21:02,4,11,0.364,0,2,0.0,0,0,0.0,2,1,3,0,1,0,1,1,8,-2
+Toronto Raptors,,John Lucas III,Washington Wizards,L,02/25/2013,16:16,4,5,0.8,1,2,0.5,0,0,0.0,0,1,1,3,0,0,0,2,9,-3
+Toronto Raptors,,Alan Anderson,Washington Wizards,L,02/25/2013,23:54,0,4,0.0,0,2,0.0,4,4,1.0,0,3,3,0,0,0,2,4,4,-2
+Toronto Raptors,,Landry Fields,Washington Wizards,L,02/25/2013,5:04,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-2
+Toronto Raptors,,Terrence Ross,Washington Wizards,L,02/25/2013,6:15,1,2,0.5,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,0,3,-2
+Toronto Raptors,,Andrea Bargnani,Cleveland Cavaliers,L,02/27/2013,15:46,0,4,0.0,0,2,0.0,0,0,0.0,0,1,1,1,0,1,1,0,0,-12
+Toronto Raptors,,Landry Fields,Cleveland Cavaliers,L,02/27/2013,7:57,2,3,0.667,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,2,4,-16
+Toronto Raptors,,Alan Anderson,Cleveland Cavaliers,L,02/27/2013,13:35,2,5,0.4,0,2,0.0,0,0,0.0,0,0,0,1,0,0,1,2,4,-27
+Toronto Raptors,,John Lucas III,Cleveland Cavaliers,L,02/27/2013,6:51,0,2,0.0,0,2,0.0,0,0,0.0,0,0,0,2,0,0,0,1,0,-14
+Toronto Raptors,,Sebastian Telfair,Cleveland Cavaliers,L,02/27/2013,7:28,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,4,0,-9
+Toronto Raptors,,Aaron Gray,Cleveland Cavaliers,L,02/27/2013,3:33,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-7
+Toronto Raptors,,Andrea Bargnani,Indiana Pacers,L,03/01/2013,32:46,3,7,0.429,0,1,0.0,2,2,1.0,0,0,0,0,1,1,2,2,8,-14
+Toronto Raptors,,Terrence Ross,Indiana Pacers,L,03/01/2013,12:37,0,4,0.0,0,1,0.0,0,0,0.0,0,1,1,1,1,0,0,0,0,-3
+Toronto Raptors,,John Lucas III,Indiana Pacers,L,03/01/2013,23:40,4,9,0.444,2,3,0.667,0,0,0.0,0,2,2,2,1,0,0,0,10,-9
+Toronto Raptors,,Alan Anderson,Indiana Pacers,L,03/01/2013,21:45,6,12,0.5,0,4,0.0,2,2,1.0,0,2,2,1,2,1,2,3,14,0
+Toronto Raptors,,Landry Fields,Indiana Pacers,L,03/01/2013,1:59,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+Toronto Raptors,,Aaron Gray,Indiana Pacers,L,03/01/2013,7:22,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,3,2,-7
+Toronto Raptors,,Quincy Acy,Indiana Pacers,L,03/01/2013,5:21,2,2,1.0,0,0,0.0,2,2,1.0,1,0,1,0,1,1,0,4,6,6
+Toronto Raptors,,John Lucas III,Milwaukee Bucks,L,03/02/2013,17:39,6,9,0.667,4,5,0.8,0,0,0.0,0,0,0,0,0,0,0,1,16,3
+Toronto Raptors,,Jonas Valanciunas,Milwaukee Bucks,L,03/02/2013,11:04,2,5,0.4,0,0,0.0,0,0,0.0,3,2,5,0,0,0,2,1,4,-4
+Toronto Raptors,,Alan Anderson,Milwaukee Bucks,L,03/02/2013,29:03,8,20,0.4,1,8,0.125,4,5,0.8,1,0,1,1,0,0,2,0,21,-3
+Toronto Raptors,,Terrence Ross,Milwaukee Bucks,L,03/02/2013,5:00,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-6
+Toronto Raptors,,Amir Johnson,Golden State Warriors,L,03/04/2013,31:47,10,10,1.0,0,0,0.0,3,7,0.429,12,3,15,0,0,2,1,4,23,-13
+Toronto Raptors,,Terrence Ross,Golden State Warriors,L,03/04/2013,8:24,0,4,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-7
+Toronto Raptors,,John Lucas III,Golden State Warriors,L,03/04/2013,15:13,1,4,0.25,0,3,0.0,2,2,1.0,0,1,1,1,0,0,1,1,4,-16
+Toronto Raptors,,Landry Fields,Golden State Warriors,L,03/04/2013,6:41,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,1,0,-13
+Toronto Raptors,,Alan Anderson,Golden State Warriors,L,03/04/2013,13:27,3,6,0.5,2,2,1.0,1,1,1.0,0,1,1,0,0,0,0,1,9,-10
+Toronto Raptors,,Aaron Gray,Golden State Warriors,L,03/04/2013,3:57,0,0,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,-5
+Toronto Raptors,,Amir Johnson,Phoenix Suns,W,03/06/2013,28:02,5,8,0.625,0,0,0.0,4,4,1.0,3,3,6,1,1,0,2,3,14,25
+Toronto Raptors,,Alan Anderson,Phoenix Suns,W,03/06/2013,25:15,3,6,0.5,3,3,1.0,1,1,1.0,1,3,4,0,0,0,4,0,10,16
+Toronto Raptors,,Sebastian Telfair,Phoenix Suns,W,03/06/2013,26:38,5,12,0.417,3,9,0.333,0,0,0.0,0,2,2,7,4,0,2,3,13,22
+Toronto Raptors,,Landry Fields,Phoenix Suns,W,03/06/2013,14:33,2,5,0.4,0,1,0.0,0,0,0.0,0,2,2,2,1,0,0,0,4,13
+Toronto Raptors,,Terrence Ross,Phoenix Suns,W,03/06/2013,21:27,3,7,0.429,2,3,0.667,2,2,1.0,1,3,4,2,0,0,4,2,10,17
+Toronto Raptors,,John Lucas III,Phoenix Suns,W,03/06/2013,5:47,1,1,1.0,1,1,1.0,0,0,0.0,0,1,1,1,0,0,0,0,3,0
+Toronto Raptors,,Amir Johnson,Los Angeles Lakers,L,03/08/2013,27:35,4,4,1.0,0,0,0.0,0,0,0.0,0,2,2,1,1,2,2,6,8,5
+Toronto Raptors,,Alan Anderson,Los Angeles Lakers,L,03/08/2013,29:27,6,14,0.429,2,5,0.4,3,5,0.6,1,4,5,1,2,0,1,4,17,-3
+Toronto Raptors,,John Lucas III,Los Angeles Lakers,L,03/08/2013,18:15,5,7,0.714,1,3,0.333,0,0,0.0,0,2,2,3,0,0,2,2,11,-6
+Toronto Raptors,,Landry Fields,Los Angeles Lakers,L,03/08/2013,24:28,2,4,0.5,0,0,0.0,2,2,1.0,1,2,3,4,1,0,0,0,6,-3
+Toronto Raptors,,Sebastian Telfair,Los Angeles Lakers,L,03/08/2013,5:07,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,1,0,0,1,0,0,-4
+Toronto Raptors,,Aaron Gray,Los Angeles Lakers,L,03/08/2013,14:41,0,1,0.0,0,0,0.0,0,0,0.0,3,3,6,3,0,0,0,2,0,-8
+Toronto Raptors,,Landry Fields,Cleveland Cavaliers,W,03/10/2013,22:32,4,8,0.5,0,0,0.0,1,4,0.25,0,3,3,1,1,0,1,3,9,0
+Toronto Raptors,,Alan Anderson,Cleveland Cavaliers,W,03/10/2013,25:53,6,11,0.545,3,6,0.5,3,4,0.75,0,3,3,2,1,0,1,0,18,1
+Toronto Raptors,,John Lucas III,Cleveland Cavaliers,W,03/10/2013,5:20,1,2,0.5,0,0,0.0,1,2,0.5,0,1,1,1,1,0,0,1,3,-5
+Toronto Raptors,,Sebastian Telfair,Cleveland Cavaliers,W,03/10/2013,13:09,0,3,0.0,0,2,0.0,0,0,0.0,0,0,0,1,0,0,0,2,0,-2
+Toronto Raptors,,Landry Fields,Boston Celtics,L,03/13/2013,15:58,3,5,0.6,0,0,0.0,1,1,1.0,0,2,2,0,0,1,0,0,7,-4
+Toronto Raptors,,Terrence Ross,Boston Celtics,L,03/13/2013,24:28,6,10,0.6,1,4,0.25,0,0,0.0,0,2,2,2,3,1,1,2,13,-17
+Toronto Raptors,,Sebastian Telfair,Boston Celtics,L,03/13/2013,14:19,2,6,0.333,1,3,0.333,0,0,0.0,0,2,2,3,1,0,1,2,5,-11
+Toronto Raptors,,Alan Anderson,Boston Celtics,L,03/13/2013,23:49,2,3,0.667,0,1,0.0,0,0,0.0,0,2,2,0,0,0,4,1,4,-29
+Toronto Raptors,,John Lucas III,Boston Celtics,L,03/13/2013,10:31,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,2,2,1,0,2,0,-7
+Toronto Raptors,,Sebastian Telfair,Charlotte Bobcats,W,03/15/2013,21:14,2,6,0.333,0,1,0.0,7,8,0.875,1,1,2,5,0,0,1,3,11,14
+Toronto Raptors,,Landry Fields,Charlotte Bobcats,W,03/15/2013,13:58,0,4,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,4
+Toronto Raptors,,Terrence Ross,Charlotte Bobcats,W,03/15/2013,23:54,4,5,0.8,1,1,1.0,0,0,0.0,0,2,2,1,1,0,1,2,9,20
+Toronto Raptors,,Alan Anderson,Charlotte Bobcats,W,03/15/2013,23:10,2,5,0.4,0,0,0.0,2,3,0.667,0,1,1,0,0,1,1,2,6,10
+Toronto Raptors,,Terrence Ross,Miami Heat,L,03/17/2013,26:43,5,10,0.5,0,2,0.0,2,2,1.0,3,1,4,1,0,0,0,4,12,-10
+Toronto Raptors,,Sebastian Telfair,Miami Heat,L,03/17/2013,7:29,0,3,0.0,0,2,0.0,0,0,0.0,0,0,0,3,0,1,0,1,0,-8
+Toronto Raptors,,Alan Anderson,Miami Heat,L,03/17/2013,13:34,0,6,0.0,0,3,0.0,0,0,0.0,1,0,1,0,1,0,0,1,0,-7
+Toronto Raptors,,Landry Fields,Miami Heat,L,03/17/2013,11:19,2,2,1.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,1,4,-1
+Toronto Raptors,,John Lucas III,Miami Heat,L,03/17/2013,11:25,0,3,0.0,0,1,0.0,0,0,0.0,0,1,1,1,1,0,0,1,0,6
+Toronto Raptors,,Terrence Ross,Charlotte Bobcats,L,03/20/2013,17:05,2,5,0.4,0,1,0.0,0,0,0.0,2,0,2,0,1,0,0,1,4,-3
+Toronto Raptors,,John Lucas III,Charlotte Bobcats,L,03/20/2013,5:45,0,3,0.0,0,3,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-9
+Toronto Raptors,,Alan Anderson,Charlotte Bobcats,L,03/20/2013,12:19,1,3,0.333,0,1,0.0,2,2,1.0,0,1,1,3,0,0,1,1,4,-11
+Toronto Raptors,,Mickael Pietrus,Charlotte Bobcats,L,03/20/2013,3:14,0,1,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,3,0,-2
+Toronto Raptors,,Landry Fields,Charlotte Bobcats,L,03/20/2013,12:06,1,5,0.2,0,0,0.0,0,0,0.0,2,2,4,1,1,0,1,2,2,-6
+Toronto Raptors,,Sebastian Telfair,Charlotte Bobcats,L,03/20/2013,5:07,1,4,0.25,1,3,0.333,0,0,0.0,0,0,0,0,0,0,0,0,3,-1
+Toronto Raptors,,Amir Johnson,New York Knicks,L,03/22/2013,17:23,2,5,0.4,0,0,0.0,0,0,0.0,2,4,6,0,0,0,0,2,4,0
+Toronto Raptors,,Alan Anderson,New York Knicks,L,03/22/2013,36:26,11,18,0.611,6,11,0.545,7,8,0.875,1,5,6,3,1,1,3,4,35,5
+Toronto Raptors,,John Lucas III,New York Knicks,L,03/22/2013,12:49,0,5,0.0,0,5,0.0,0,0,0.0,0,2,2,0,0,0,0,1,0,-8
+Toronto Raptors,,Terrence Ross,New York Knicks,L,03/22/2013,18:47,2,10,0.2,0,5,0.0,1,2,0.5,1,0,1,0,0,0,1,4,5,1
+Toronto Raptors,,Alan Anderson,New York Knicks,L,03/23/2013,30:54,5,14,0.357,1,5,0.2,3,3,1.0,2,2,4,2,0,0,3,4,14,-16
+Toronto Raptors,,John Lucas III,New York Knicks,L,03/23/2013,21:50,2,11,0.182,0,7,0.0,0,0,0.0,0,2,2,0,0,0,1,1,4,-17
+Toronto Raptors,,Amir Johnson,New York Knicks,L,03/23/2013,18:00,2,3,0.667,0,0,0.0,0,0,0.0,2,2,4,2,2,0,1,2,4,2
+Toronto Raptors,,Landry Fields,Atlanta Hawks,L,03/27/2013,7:17,1,2,0.5,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,0,2,-7
+Toronto Raptors,,Alan Anderson,Atlanta Hawks,L,03/27/2013,30:53,5,13,0.385,2,6,0.333,0,1,0.0,0,1,1,2,2,0,3,0,12,-21
+Toronto Raptors,,Terrence Ross,Atlanta Hawks,L,03/27/2013,23:30,5,9,0.556,1,2,0.5,2,2,1.0,2,3,5,0,1,0,1,0,13,-5
+Toronto Raptors,,John Lucas III,Atlanta Hawks,L,03/27/2013,13:41,1,3,0.333,1,1,1.0,0,0,0.0,0,1,1,3,1,0,0,1,3,1
+Toronto Raptors,,Aaron Gray,Atlanta Hawks,L,03/27/2013,6:26,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,2,0,-2
+Toronto Raptors,,Alan Anderson,Detroit Pistons,W,03/29/2013,21:48,3,8,0.375,1,6,0.167,0,0,0.0,0,2,2,1,1,0,0,2,7,0
+Toronto Raptors,,Landry Fields,Detroit Pistons,W,03/29/2013,19:35,3,7,0.429,0,0,0.0,0,0,0.0,3,3,6,0,1,0,1,0,6,7
+Toronto Raptors,,Terrence Ross,Detroit Pistons,W,03/29/2013,15:03,3,5,0.6,0,1,0.0,0,0,0.0,0,0,0,1,0,0,1,1,6,-4
+Toronto Raptors,,John Lucas III,Detroit Pistons,W,03/29/2013,18:29,0,2,0.0,0,0,0.0,0,0,0.0,0,3,3,1,0,0,0,2,0,2
+Toronto Raptors,,Landry Fields,Washington Wizards,L,03/31/2013,26:15,4,7,0.571,0,0,0.0,0,1,0.0,3,2,5,2,1,1,2,1,8,-6
+Toronto Raptors,,Alan Anderson,Washington Wizards,L,03/31/2013,25:11,3,9,0.333,1,5,0.2,0,0,0.0,1,1,2,1,0,0,1,2,7,-11
+Toronto Raptors,,Aaron Gray,Washington Wizards,L,03/31/2013,4:49,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,1,0,-6
+Toronto Raptors,,Terrence Ross,Washington Wizards,L,03/31/2013,11:54,0,5,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,3,0,6
+Toronto Raptors,,Sebastian Telfair,Washington Wizards,L,03/31/2013,15:32,4,6,0.667,2,4,0.5,0,0,0.0,0,2,2,3,0,0,0,0,10,9
+Toronto Raptors,,Alan Anderson,Detroit Pistons,L,04/01/2013,16:26,3,8,0.375,1,4,0.25,0,0,0.0,0,2,2,1,0,0,0,0,7,-4
+Toronto Raptors,,Sebastian Telfair,Detroit Pistons,L,04/01/2013,17:35,2,6,0.333,2,5,0.4,0,0,0.0,0,1,1,4,1,0,1,2,6,-12
+Toronto Raptors,,Terrence Ross,Detroit Pistons,L,04/01/2013,12:47,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,1,2,0,-11
+Toronto Raptors,,Quincy Acy,Detroit Pistons,L,04/01/2013,7:44,2,3,0.667,0,0,0.0,0,0,0.0,1,2,3,1,1,0,0,2,4,1
+Toronto Raptors,,Alan Anderson,Washington Wizards,W,04/03/2013,7:52,0,1,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,-8
+Toronto Raptors,,Quincy Acy,Washington Wizards,W,04/03/2013,19:54,4,5,0.8,0,0,0.0,0,0,0.0,1,2,3,0,0,1,2,5,8,-4
+Toronto Raptors,,Sebastian Telfair,Washington Wizards,W,04/03/2013,11:07,1,5,0.2,0,1,0.0,0,0,0.0,0,2,2,3,0,0,0,1,2,-3
+Toronto Raptors,,Terrence Ross,Washington Wizards,W,04/03/2013,7:54,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-10
+Toronto Raptors,,Landry Fields,Washington Wizards,W,04/03/2013,17:28,1,1,1.0,0,0,0.0,1,2,0.5,1,2,3,0,0,0,0,2,3,12
+Toronto Raptors,,Aaron Gray,Minnesota Timberwolves,W,04/05/2013,15:21,2,3,0.667,0,0,0.0,0,2,0.0,2,2,4,1,0,1,0,5,4,3
+Toronto Raptors,,Alan Anderson,Minnesota Timberwolves,W,04/05/2013,8:35,1,5,0.2,0,2,0.0,0,0,0.0,0,2,2,1,1,0,1,0,2,1
+Toronto Raptors,,Sebastian Telfair,Minnesota Timberwolves,W,04/05/2013,15:22,1,4,0.25,1,3,0.333,0,0,0.0,0,2,2,2,0,0,2,2,3,9
+Toronto Raptors,,Quincy Acy,Minnesota Timberwolves,W,04/05/2013,7:23,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,1,0,1,0,0,6
+Toronto Raptors,,Terrence Ross,Minnesota Timberwolves,W,04/05/2013,16:28,3,5,0.6,1,2,0.5,0,0,0.0,0,1,1,0,0,0,0,2,7,6
+Toronto Raptors,,Landry Fields,Minnesota Timberwolves,W,04/05/2013,18:32,1,4,0.25,0,0,0.0,0,0,0.0,3,4,7,1,0,0,0,0,2,11
+Toronto Raptors,,Landry Fields,Milwaukee Bucks,L,04/06/2013,23:21,2,4,0.5,0,0,0.0,1,1,1.0,0,5,5,1,0,1,2,1,5,-17
+Toronto Raptors,,Terrence Ross,Milwaukee Bucks,L,04/06/2013,27:52,4,8,0.5,0,0,0.0,3,4,0.75,0,1,1,0,2,0,0,2,11,0
+Toronto Raptors,,Sebastian Telfair,Milwaukee Bucks,L,04/06/2013,24:58,0,5,0.0,0,2,0.0,3,4,0.75,0,2,2,7,3,0,3,0,3,2
+Toronto Raptors,,Aaron Gray,Milwaukee Bucks,L,04/06/2013,0:30,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Toronto Raptors,,Quincy Acy,Milwaukee Bucks,L,04/06/2013,21:00,4,7,0.571,1,1,1.0,4,4,1.0,0,2,2,2,2,0,1,3,13,8
+Toronto Raptors,,Alan Anderson,Milwaukee Bucks,L,04/06/2013,21:49,6,10,0.6,1,3,0.333,1,1,1.0,0,2,2,1,0,0,1,1,14,10
+Toronto Raptors,,Terrence Ross,Chicago Bulls,W,04/09/2013,18:26,5,9,0.556,2,3,0.667,1,1,1.0,0,2,2,0,0,0,0,1,13,-3
+Toronto Raptors,,Quincy Acy,Chicago Bulls,W,04/09/2013,27:12,2,5,0.4,0,0,0.0,4,4,1.0,1,5,6,1,1,1,1,3,8,1
+Toronto Raptors,,John Lucas III,Chicago Bulls,W,04/09/2013,13:38,2,6,0.333,0,1,0.0,0,0,0.0,0,0,0,2,1,0,1,0,4,-4
+Toronto Raptors,,Alan Anderson,Chicago Bulls,W,04/09/2013,6:18,1,3,0.333,1,2,0.5,0,0,0.0,0,0,0,1,0,0,1,1,3,-1
+Toronto Raptors,,Landry Fields,Chicago Bulls,W,04/09/2013,0:04,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Toronto Raptors,,Quincy Acy,Chicago Bulls,W,04/12/2013,34:57,3,5,0.6,0,0,0.0,4,6,0.667,4,5,9,0,1,3,0,2,10,21
+Toronto Raptors,,Alan Anderson,Chicago Bulls,W,04/12/2013,14:12,1,4,0.25,0,0,0.0,0,0,0.0,1,0,1,3,0,0,0,1,2,4
+Toronto Raptors,,John Lucas III,Chicago Bulls,W,04/12/2013,12:26,0,4,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+Toronto Raptors,,Quincy Acy,Brooklyn Nets,W,04/14/2013,22:43,2,4,0.5,0,0,0.0,0,0,0.0,2,2,4,2,0,0,2,1,4,-2
+Toronto Raptors,,Alan Anderson,Brooklyn Nets,W,04/14/2013,12:09,2,7,0.286,0,2,0.0,0,0,0.0,1,0,1,1,1,0,0,0,4,7
+Toronto Raptors,,John Lucas III,Brooklyn Nets,W,04/14/2013,11:23,1,4,0.25,0,0,0.0,0,0,0.0,0,1,1,2,0,0,0,1,2,-1
+Toronto Raptors,,Quincy Acy,Atlanta Hawks,W,04/16/2013,22:00,2,5,0.4,0,1,0.0,1,2,0.5,2,5,7,1,0,1,1,2,5,7
+Toronto Raptors,,Terrence Ross,Atlanta Hawks,W,04/16/2013,17:37,3,7,0.429,0,1,0.0,2,2,1.0,0,2,2,0,3,0,0,2,8,5
+Toronto Raptors,,John Lucas III,Atlanta Hawks,W,04/16/2013,20:50,4,8,0.5,1,2,0.5,2,2,1.0,0,3,3,4,0,0,1,2,11,0
+Toronto Raptors,,Alan Anderson,Atlanta Hawks,W,04/16/2013,18:56,1,9,0.111,0,4,0.0,2,2,1.0,2,4,6,1,0,0,1,0,4,2
+Toronto Raptors,,Landry Fields,Atlanta Hawks,W,04/16/2013,8:39,0,2,0.0,0,0,0.0,1,2,0.5,3,0,3,0,0,0,1,0,1,-3
+Toronto Raptors,,John Lucas III,Boston Celtics,W,04/17/2013,25:38,3,7,0.429,1,3,0.333,0,0,0.0,0,1,1,4,0,0,0,0,7,7
+Toronto Raptors,,Alan Anderson,Boston Celtics,W,04/17/2013,18:55,5,10,0.5,2,5,0.4,4,4,1.0,1,3,4,2,0,0,0,1,16,1
+Toronto Raptors,,Quincy Acy,Boston Celtics,W,04/17/2013,25:26,2,4,0.5,0,0,0.0,0,2,0.0,0,6,6,1,0,0,1,2,4,9
+Toronto Raptors,,Landry Fields,Boston Celtics,W,04/17/2013,27:32,4,8,0.5,0,0,0.0,0,0,0.0,3,8,11,3,0,0,1,2,8,10
+Toronto Raptors,,Aaron Gray,Boston Celtics,W,04/17/2013,13:38,1,1,1.0,0,0,0.0,1,2,0.5,0,1,1,2,0,0,1,2,3,0

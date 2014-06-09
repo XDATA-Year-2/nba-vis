@@ -1,0 +1,61 @@
+{
+	"team": "Utah Jazz",
+	"players": [
+		{
+			"name": "Marvin Williams",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Paul Millsap",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Al Jefferson",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Gordon Hayward",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Mo Williams",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jamaal Tinsley",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Derrick Favors",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Randy Foye",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "DeMarre Carroll",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Enes Kanter",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Earl Watson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Kevin Murphy",
+			"positions": [""]
+		},
+		{
+			"name": "Alec Burks",
+			"positions": [""]
+		},
+		{
+			"name": "Jeremy Evans",
+			"positions": [""]
+		}
+	]
+}

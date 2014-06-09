@@ -1,0 +1,81 @@
+{
+	"team": "Houston Rockets",
+	"players": [
+		{
+			"name": "Chandler Parsons",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Marcus Morris",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Omer Asik",
+			"positions": ["Center"]
+		},
+		{
+			"name": "James Harden",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jeremy Lin",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Patrick Patterson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Daequan Cook",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Carlos Delfino",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Donatas Motiejunas",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Greg Smith",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "James Anderson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Francisco Garcia",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Toney Douglas",
+			"positions": [""]
+		},
+		{
+			"name": "Cole Aldrich",
+			"positions": [""]
+		},
+		{
+			"name": "Terrence Jones",
+			"positions": [""]
+		},
+		{
+			"name": "Scott Machado",
+			"positions": [""]
+		},
+		{
+			"name": "Thomas Robinson",
+			"positions": [""]
+		},
+		{
+			"name": "Tim Ohlbrecht",
+			"positions": [""]
+		},
+		{
+			"name": "Aaron Brooks",
+			"positions": [""]
+		}
+	]
+}

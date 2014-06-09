@@ -1,0 +1,69 @@
+{
+	"team": "San Antonio Spurs",
+	"players": [
+		{
+			"name": "Kawhi Leonard",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Tim Duncan",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Boris Diaw",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Danny Green",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Tony Parker",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "DeJuan Blair",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Patty Mills",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Tiago Splitter",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Stephen Jackson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Gary Neal",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Matt Bonner",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Nando De Colo",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Cory Joseph",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Manu Ginobili",
+			"positions": [""]
+		},
+		{
+			"name": "James Anderson",
+			"positions": [""]
+		},
+		{
+			"name": "Aron Baynes",
+			"positions": [""]
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"team": "Portland Trail Blazers",
+	"players": [
+		{
+			"name": "Nicolas Batum",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "LaMarcus Aldridge",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "JJ Hickson",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Wesley Matthews",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Damian Lillard",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Meyers Leonard",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Victor Claver",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Sasha Pavlovic",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Joel Freeland",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Will Barton",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Nolan Smith",
+			"positions": [""]
+		},
+		{
+			"name": "Jared Jeffries",
+			"positions": [""]
+		},
+		{
+			"name": "Luke Babbitt",
+			"positions": [""]
+		},
+		{
+			"name": "Ronnie Price",
+			"positions": [""]
+		},
+		{
+			"name": "Eric Maynor",
+			"positions": [""]
+		}
+	]
+}

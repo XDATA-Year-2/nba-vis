@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Detroit Pistons,F,Tayshaun Prince,Houston Rockets,L,10/31/2012,32:22,4,9,0.444,0,1,0.0,4,4,1.0,0,4,4,1,1,0,1,0,12,-8
+Detroit Pistons,F,Jason Maxiell,Houston Rockets,L,10/31/2012,24:00,4,7,0.571,0,0,0.0,2,2,1.0,4,4,8,0,0,2,2,2,10,4
+Detroit Pistons,C,Greg Monroe,Houston Rockets,L,10/31/2012,35:07,7,13,0.538,0,0,0.0,0,3,0.0,2,6,8,4,3,0,4,4,14,-9
+Detroit Pistons,G,Rodney Stuckey,Houston Rockets,L,10/31/2012,36:47,1,10,0.1,0,3,0.0,7,8,0.875,0,2,2,6,1,0,0,0,9,-19
+Detroit Pistons,G,Brandon Knight,Houston Rockets,L,10/31/2012,36:45,5,15,0.333,1,4,0.25,4,6,0.667,0,4,4,4,1,0,2,0,15,-12
+Detroit Pistons,F,Tayshaun Prince,Phoenix Suns,L,11/02/2012,34:21,7,15,0.467,1,1,1.0,3,5,0.6,1,2,3,2,0,0,1,1,18,0
+Detroit Pistons,F,Jason Maxiell,Phoenix Suns,L,11/02/2012,31:23,7,12,0.583,0,0,0.0,2,3,0.667,4,2,6,0,0,1,1,2,16,-9
+Detroit Pistons,C,Greg Monroe,Phoenix Suns,L,11/02/2012,29:10,5,17,0.294,0,0,0.0,0,2,0.0,1,5,6,0,0,0,1,4,10,-6
+Detroit Pistons,G,Rodney Stuckey,Phoenix Suns,L,11/02/2012,22:07,0,7,0.0,0,3,0.0,1,1,1.0,0,4,4,4,0,2,2,1,1,-7
+Detroit Pistons,G,Brandon Knight,Phoenix Suns,L,11/02/2012,31:21,5,12,0.417,2,4,0.5,1,2,0.5,0,5,5,10,0,0,2,3,13,-7
+Detroit Pistons,F,Tayshaun Prince,Los Angeles Lakers,L,11/04/2012,24:07,3,8,0.375,0,0,0.0,3,4,0.75,0,2,2,0,0,1,1,1,9,-40
+Detroit Pistons,F,Jason Maxiell,Los Angeles Lakers,L,11/04/2012,19:11,3,7,0.429,0,0,0.0,2,2,1.0,3,3,6,0,0,0,2,2,8,-26
+Detroit Pistons,C,Greg Monroe,Los Angeles Lakers,L,11/04/2012,26:18,4,10,0.4,0,0,0.0,0,0,0.0,2,5,7,1,4,1,1,2,8,-31
+Detroit Pistons,G,Rodney Stuckey,Los Angeles Lakers,L,11/04/2012,25:11,0,6,0.0,0,1,0.0,0,0,0.0,0,1,1,3,0,0,0,2,0,-23
+Detroit Pistons,G,Brandon Knight,Los Angeles Lakers,L,11/04/2012,23:05,1,8,0.125,0,1,0.0,0,0,0.0,0,1,1,6,0,0,5,0,2,-30
+Detroit Pistons,F,Tayshaun Prince,Denver Nuggets,L,11/06/2012,28:47,2,8,0.25,0,0,0.0,0,0,0.0,1,2,3,1,0,0,0,0,4,-10
+Detroit Pistons,F,Jason Maxiell,Denver Nuggets,L,11/06/2012,22:36,4,4,1.0,0,0,0.0,1,2,0.5,1,1,2,0,1,2,0,2,9,-8
+Detroit Pistons,C,Greg Monroe,Denver Nuggets,L,11/06/2012,35:21,10,20,0.5,0,0,0.0,7,7,1.0,3,7,10,2,1,3,2,4,27,-1
+Detroit Pistons,G,Rodney Stuckey,Denver Nuggets,L,11/06/2012,39:04,5,17,0.294,2,6,0.333,5,7,0.714,1,3,4,4,0,1,2,2,17,-9
+Detroit Pistons,G,Brandon Knight,Denver Nuggets,L,11/06/2012,32:60,1,6,0.167,0,1,0.0,0,0,0.0,0,4,4,9,1,1,4,3,2,-1
+Detroit Pistons,F,Tayshaun Prince,Sacramento Kings,L,11/07/2012,26:52,4,10,0.4,0,0,0.0,2,2,1.0,0,3,3,1,1,1,2,0,10,-8
+Detroit Pistons,F,Jason Maxiell,Sacramento Kings,L,11/07/2012,33:50,5,9,0.556,0,0,0.0,1,2,0.5,1,5,6,1,0,1,2,2,11,1
+Detroit Pistons,C,Greg Monroe,Sacramento Kings,L,11/07/2012,40:22,8,15,0.533,0,0,0.0,5,7,0.714,5,7,12,11,1,0,2,4,21,7
+Detroit Pistons,G,Rodney Stuckey,Sacramento Kings,L,11/07/2012,34:10,2,6,0.333,1,3,0.333,0,0,0.0,0,0,0,4,1,0,3,4,5,8
+Detroit Pistons,G,Brandon Knight,Sacramento Kings,L,11/07/2012,32:46,6,10,0.6,5,9,0.556,4,5,0.8,0,2,2,4,0,0,2,3,21,0
+Detroit Pistons,F,Tayshaun Prince,Oklahoma City Thunder,L,11/09/2012,36:13,6,16,0.375,2,4,0.5,2,2,1.0,1,5,6,3,2,0,2,1,16,-2
+Detroit Pistons,F,Jason Maxiell,Oklahoma City Thunder,L,11/09/2012,20:18,0,3,0.0,0,0,0.0,1,2,0.5,2,4,6,0,0,0,0,2,1,-4
+Detroit Pistons,C,Greg Monroe,Oklahoma City Thunder,L,11/09/2012,35:01,6,15,0.4,0,0,0.0,2,4,0.5,2,8,10,6,0,3,4,2,14,-9
+Detroit Pistons,G,Rodney Stuckey,Oklahoma City Thunder,L,11/09/2012,36:04,5,14,0.357,2,4,0.5,3,3,1.0,1,1,2,6,0,0,0,1,15,-1
+Detroit Pistons,G,Brandon Knight,Oklahoma City Thunder,L,11/09/2012,35:52,4,10,0.4,1,5,0.2,2,2,1.0,2,4,6,6,0,0,3,4,11,1
+Detroit Pistons,F,Tayshaun Prince,Houston Rockets,L,11/10/2012,29:49,6,9,0.667,1,1,1.0,0,0,0.0,1,5,6,3,1,1,4,1,13,-6
+Detroit Pistons,F,Jason Maxiell,Houston Rockets,L,11/10/2012,19:29,3,6,0.5,0,0,0.0,0,0,0.0,1,3,4,0,0,1,0,4,6,0
+Detroit Pistons,C,Greg Monroe,Houston Rockets,L,11/10/2012,31:36,4,10,0.4,0,0,0.0,4,4,1.0,3,8,11,1,2,2,4,1,12,-8
+Detroit Pistons,G,Rodney Stuckey,Houston Rockets,L,11/10/2012,29:14,4,12,0.333,0,2,0.0,0,0,0.0,1,1,2,2,0,0,1,1,8,-17
+Detroit Pistons,G,Brandon Knight,Houston Rockets,L,11/10/2012,34:36,6,10,0.6,2,4,0.5,2,2,1.0,0,4,4,7,0,0,5,1,16,3
+Detroit Pistons,F,Tayshaun Prince,Oklahoma City Thunder,L,11/12/2012,39:40,4,12,0.333,1,1,1.0,3,5,0.6,3,3,6,3,0,1,0,3,12,3
+Detroit Pistons,F,Jason Maxiell,Oklahoma City Thunder,L,11/12/2012,29:54,5,10,0.5,0,0,0.0,3,6,0.5,3,4,7,1,0,3,1,3,13,7
+Detroit Pistons,C,Greg Monroe,Oklahoma City Thunder,L,11/12/2012,33:53,7,14,0.5,0,0,0.0,3,4,0.75,0,6,6,2,4,1,2,2,17,-2
+Detroit Pistons,G,Rodney Stuckey,Oklahoma City Thunder,L,11/12/2012,40:30,7,13,0.538,1,3,0.333,4,6,0.667,0,3,3,5,1,0,2,3,19,-4
+Detroit Pistons,G,Brandon Knight,Oklahoma City Thunder,L,11/12/2012,31:39,2,13,0.154,2,8,0.25,2,2,1.0,1,3,4,6,1,1,3,3,8,-1
+Detroit Pistons,F,Tayshaun Prince,Philadelphia 76ers,W,11/14/2012,34:09,7,13,0.538,0,0,0.0,1,2,0.5,1,4,5,6,1,0,1,1,15,20
+Detroit Pistons,F,Jason Maxiell,Philadelphia 76ers,W,11/14/2012,28:06,2,3,0.667,0,0,0.0,4,6,0.667,2,10,12,3,0,3,1,2,8,11
+Detroit Pistons,C,Greg Monroe,Philadelphia 76ers,W,11/14/2012,39:49,7,16,0.438,0,0,0.0,5,6,0.833,5,13,18,6,0,1,6,2,19,17
+Detroit Pistons,G,Kyle Singler,Philadelphia 76ers,W,11/14/2012,39:56,7,14,0.5,1,3,0.333,1,2,0.5,1,3,4,1,0,1,0,4,16,15
+Detroit Pistons,G,Brandon Knight,Philadelphia 76ers,W,11/14/2012,35:08,5,9,0.556,1,2,0.5,4,6,0.667,0,7,7,7,0,0,2,3,15,13
+Detroit Pistons,F,Tayshaun Prince,Orlando Magic,L,11/16/2012,34:01,7,11,0.636,0,0,0.0,4,4,1.0,0,3,3,3,0,1,1,1,18,0
+Detroit Pistons,F,Jason Maxiell,Orlando Magic,L,11/16/2012,31:30,5,10,0.5,0,0,0.0,1,1,1.0,0,5,5,0,2,1,1,2,11,3
+Detroit Pistons,C,Greg Monroe,Orlando Magic,L,11/16/2012,36:22,9,12,0.75,0,0,0.0,5,5,1.0,2,5,7,1,1,0,2,2,23,0
+Detroit Pistons,G,Kyle Singler,Orlando Magic,L,11/16/2012,28:57,5,10,0.5,1,1,1.0,3,4,0.75,1,1,2,1,1,0,1,3,14,17
+Detroit Pistons,G,Brandon Knight,Orlando Magic,L,11/16/2012,34:36,4,12,0.333,1,4,0.25,1,2,0.5,0,6,6,12,1,0,3,2,10,-2
+Detroit Pistons,F,Tayshaun Prince,Boston Celtics,W,11/18/2012,32:51,5,11,0.455,0,1,0.0,0,0,0.0,0,4,4,2,1,0,1,0,10,16
+Detroit Pistons,F,Jason Maxiell,Boston Celtics,W,11/18/2012,29:51,5,10,0.5,0,0,0.0,5,6,0.833,2,4,6,1,1,1,3,2,15,12
+Detroit Pistons,C,Greg Monroe,Boston Celtics,W,11/18/2012,31:34,8,11,0.727,0,0,0.0,4,5,0.8,1,12,13,3,2,0,3,2,20,11
+Detroit Pistons,G,Kyle Singler,Boston Celtics,W,11/18/2012,24:26,6,9,0.667,1,1,1.0,1,2,0.5,0,2,2,2,0,0,2,5,14,8
+Detroit Pistons,G,Brandon Knight,Boston Celtics,W,11/18/2012,24:25,2,3,0.667,1,2,0.5,1,2,0.5,0,1,1,1,1,0,5,2,6,7
+Detroit Pistons,F,Tayshaun Prince,Orlando Magic,L,11/21/2012,27:26,5,12,0.417,0,2,0.0,0,0,0.0,2,6,8,1,0,0,1,0,10,-9
+Detroit Pistons,F,Jason Maxiell,Orlando Magic,L,11/21/2012,25:52,2,7,0.286,0,0,0.0,0,1,0.0,1,6,7,0,0,0,2,2,4,-8
+Detroit Pistons,C,Greg Monroe,Orlando Magic,L,11/21/2012,30:24,5,11,0.455,0,0,0.0,9,11,0.818,2,6,8,3,2,0,4,3,19,-18
+Detroit Pistons,G,Kyle Singler,Orlando Magic,L,11/21/2012,31:04,1,6,0.167,0,3,0.0,0,0,0.0,2,2,4,0,0,0,0,3,2,-14
+Detroit Pistons,G,Brandon Knight,Orlando Magic,L,11/21/2012,28:49,3,11,0.273,1,1,1.0,1,3,0.333,0,2,2,5,0,0,2,1,8,-11
+Detroit Pistons,F,Tayshaun Prince,Toronto Raptors,W,11/23/2012,38:17,8,11,0.727,0,1,0.0,0,0,0.0,0,7,7,3,0,0,1,1,16,3
+Detroit Pistons,F,Jason Maxiell,Toronto Raptors,W,11/23/2012,20:10,1,3,0.333,0,0,0.0,4,4,1.0,2,4,6,1,0,0,0,2,6,2
+Detroit Pistons,C,Greg Monroe,Toronto Raptors,W,11/23/2012,38:24,8,20,0.4,0,0,0.0,3,6,0.5,3,8,11,5,1,1,4,3,19,10
+Detroit Pistons,G,Kyle Singler,Toronto Raptors,W,11/23/2012,28:45,2,5,0.4,0,1,0.0,2,2,1.0,0,1,1,2,0,0,2,3,6,7
+Detroit Pistons,G,Brandon Knight,Toronto Raptors,W,11/23/2012,26:07,6,8,0.75,3,5,0.6,1,2,0.5,0,0,0,3,0,0,5,3,16,3
+Detroit Pistons,F,Jason Maxiell,New York Knicks,L,11/25/2012,23:32,2,2,1.0,0,0,0.0,0,0,0.0,2,2,4,0,0,1,2,3,4,-7
+Detroit Pistons,F,Tayshaun Prince,New York Knicks,L,11/25/2012,32:49,3,11,0.273,0,1,0.0,0,0,0.0,0,5,5,3,1,0,3,0,6,-22
+Detroit Pistons,C,Greg Monroe,New York Knicks,L,11/25/2012,29:58,4,8,0.5,0,0,0.0,4,5,0.8,2,3,5,7,3,0,4,2,12,-15
+Detroit Pistons,G,Brandon Knight,New York Knicks,L,11/25/2012,33:37,8,13,0.615,3,5,0.6,2,2,1.0,1,1,2,5,0,0,2,2,21,-16
+Detroit Pistons,G,Kyle Singler,New York Knicks,L,11/25/2012,28:30,5,7,0.714,2,4,0.5,4,5,0.8,0,3,3,1,0,0,2,5,16,-6
+Detroit Pistons,F,Tayshaun Prince,Portland Trail Blazers,W,11/26/2012,31:03,4,9,0.444,0,0,0.0,2,2,1.0,1,3,4,4,0,0,0,1,10,11
+Detroit Pistons,F,Jason Maxiell,Portland Trail Blazers,W,11/26/2012,33:42,5,9,0.556,0,0,0.0,1,2,0.5,2,3,5,3,1,0,3,4,11,7
+Detroit Pistons,C,Greg Monroe,Portland Trail Blazers,W,11/26/2012,32:56,8,16,0.5,0,0,0.0,4,8,0.5,3,7,10,3,1,1,3,2,20,-1
+Detroit Pistons,G,Kyle Singler,Portland Trail Blazers,W,11/26/2012,35:52,6,7,0.857,3,3,1.0,1,1,1.0,2,8,10,5,2,1,0,3,16,13
+Detroit Pistons,G,Brandon Knight,Portland Trail Blazers,W,11/26/2012,32:33,9,17,0.529,3,6,0.5,5,5,1.0,1,5,6,2,0,0,5,4,26,13
+Detroit Pistons,F,Tayshaun Prince,Phoenix Suns,W,11/28/2012,30:03,3,5,0.6,1,2,0.5,5,6,0.833,0,2,2,3,1,0,0,0,12,23
+Detroit Pistons,F,Jason Maxiell,Phoenix Suns,W,11/28/2012,22:10,4,6,0.667,0,0,0.0,1,2,0.5,1,5,6,2,0,1,2,2,9,12
+Detroit Pistons,C,Greg Monroe,Phoenix Suns,W,11/28/2012,28:13,4,7,0.571,0,0,0.0,1,2,0.5,2,6,8,3,2,0,4,2,9,15
+Detroit Pistons,G,Kyle Singler,Phoenix Suns,W,11/28/2012,31:40,5,12,0.417,1,3,0.333,1,2,0.5,0,4,4,1,2,0,0,4,12,19
+Detroit Pistons,G,Brandon Knight,Phoenix Suns,W,11/28/2012,24:01,5,11,0.455,3,3,1.0,6,7,0.857,0,1,1,6,2,0,3,5,19,24
+Detroit Pistons,F,Tayshaun Prince,Memphis Grizzlies,L,11/30/2012,34:38,6,13,0.462,1,2,0.5,2,2,1.0,1,1,2,4,0,0,0,1,15,-11
+Detroit Pistons,F,Jason Maxiell,Memphis Grizzlies,L,11/30/2012,30:59,2,4,0.5,0,0,0.0,1,2,0.5,1,8,9,1,0,3,1,3,5,-2
+Detroit Pistons,C,Greg Monroe,Memphis Grizzlies,L,11/30/2012,31:02,7,15,0.467,0,0,0.0,3,3,1.0,1,8,9,2,2,0,7,4,17,-10
+Detroit Pistons,G,Kyle Singler,Memphis Grizzlies,L,11/30/2012,38:50,3,7,0.429,1,3,0.333,2,2,1.0,0,6,6,2,2,0,1,4,9,-7
+Detroit Pistons,G,Brandon Knight,Memphis Grizzlies,L,11/30/2012,27:29,3,9,0.333,0,2,0.0,4,5,0.8,0,5,5,0,0,0,6,1,10,-3
+Detroit Pistons,F,Tayshaun Prince,Dallas Mavericks,L,12/01/2012,36:41,5,14,0.357,1,2,0.5,1,2,0.5,3,2,5,1,0,1,1,2,12,-10
+Detroit Pistons,F,Jason Maxiell,Dallas Mavericks,L,12/01/2012,36:31,4,11,0.364,0,0,0.0,2,2,1.0,1,11,12,0,2,5,2,2,10,-6
+Detroit Pistons,C,Greg Monroe,Dallas Mavericks,L,12/01/2012,32:05,4,17,0.235,0,0,0.0,0,1,0.0,7,8,15,2,1,0,3,0,8,-17
+Detroit Pistons,G,Kyle Singler,Dallas Mavericks,L,12/01/2012,33:06,3,6,0.5,1,3,0.333,5,6,0.833,1,3,4,1,1,0,4,5,12,-21
+Detroit Pistons,G,Brandon Knight,Dallas Mavericks,L,12/01/2012,34:36,6,14,0.429,2,6,0.333,6,7,0.857,1,3,4,2,3,0,3,2,20,-10
+Detroit Pistons,F,Tayshaun Prince,Cleveland Cavaliers,W,12/03/2012,33:55,6,10,0.6,1,2,0.5,2,2,1.0,0,2,2,2,0,0,0,1,15,6
+Detroit Pistons,F,Jason Maxiell,Cleveland Cavaliers,W,12/03/2012,28:10,6,12,0.5,0,0,0.0,0,0,0.0,0,6,6,0,0,5,1,2,12,10
+Detroit Pistons,C,Greg Monroe,Cleveland Cavaliers,W,12/03/2012,35:38,4,10,0.4,0,0,0.0,1,3,0.333,4,10,14,5,2,2,3,4,9,9
+Detroit Pistons,G,Kyle Singler,Cleveland Cavaliers,W,12/03/2012,33:08,6,14,0.429,3,6,0.5,0,0,0.0,2,4,6,1,0,1,2,2,15,14
+Detroit Pistons,G,Brandon Knight,Cleveland Cavaliers,W,12/03/2012,33:45,5,13,0.385,0,4,0.0,7,7,1.0,0,5,5,5,0,0,3,1,17,9
+Detroit Pistons,F,Tayshaun Prince,Golden State Warriors,L,12/05/2012,34:48,10,18,0.556,2,3,0.667,2,2,1.0,0,2,2,5,0,0,1,1,24,-5
+Detroit Pistons,F,Jason Maxiell,Golden State Warriors,L,12/05/2012,24:07,1,4,0.25,0,0,0.0,2,2,1.0,2,5,7,1,0,1,1,3,4,-22
+Detroit Pistons,C,Greg Monroe,Golden State Warriors,L,12/05/2012,21:47,3,6,0.5,0,0,0.0,3,4,0.75,2,3,5,3,0,1,4,4,9,-24
+Detroit Pistons,G,Kyle Singler,Golden State Warriors,L,12/05/2012,32:05,1,6,0.167,1,2,0.5,0,0,0.0,1,2,3,0,0,0,2,4,3,-10
+Detroit Pistons,G,Brandon Knight,Golden State Warriors,L,12/05/2012,23:43,1,9,0.111,1,7,0.143,1,3,0.333,2,2,4,3,0,0,4,2,4,3
+Detroit Pistons,F,Tayshaun Prince,Chicago Bulls,L,12/07/2012,34:29,4,9,0.444,0,0,0.0,5,6,0.833,0,2,2,1,0,0,0,0,13,-11
+Detroit Pistons,F,Jason Maxiell,Chicago Bulls,L,12/07/2012,27:02,2,5,0.4,0,0,0.0,2,4,0.5,1,8,9,0,1,0,0,2,6,-6
+Detroit Pistons,C,Greg Monroe,Chicago Bulls,L,12/07/2012,25:19,6,13,0.462,0,0,0.0,1,2,0.5,3,2,5,2,1,0,1,1,13,-7
+Detroit Pistons,G,Kyle Singler,Chicago Bulls,L,12/07/2012,23:38,1,6,0.167,0,2,0.0,0,0,0.0,0,3,3,0,0,0,1,3,2,-7
+Detroit Pistons,G,Brandon Knight,Chicago Bulls,L,12/07/2012,34:50,6,11,0.545,3,3,1.0,6,7,0.857,0,1,1,2,0,0,3,4,21,-10
+Detroit Pistons,F,Tayshaun Prince,Cleveland Cavaliers,W,12/08/2012,34:23,5,11,0.455,0,0,0.0,4,4,1.0,0,8,8,1,0,0,1,1,14,3
+Detroit Pistons,F,Jason Maxiell,Cleveland Cavaliers,W,12/08/2012,30:00,4,7,0.571,0,0,0.0,2,4,0.5,2,2,4,0,0,1,1,4,10,13
+Detroit Pistons,C,Greg Monroe,Cleveland Cavaliers,W,12/08/2012,29:05,2,8,0.25,0,0,0.0,7,9,0.778,1,3,4,3,1,0,3,2,11,-1
+Detroit Pistons,G,Kyle Singler,Cleveland Cavaliers,W,12/08/2012,35:05,2,4,0.5,0,1,0.0,5,5,1.0,2,0,2,1,1,0,2,4,9,1
+Detroit Pistons,G,Brandon Knight,Cleveland Cavaliers,W,12/08/2012,38:25,10,20,0.5,5,6,0.833,5,6,0.833,2,5,7,5,1,1,1,3,30,13
+Detroit Pistons,F,Tayshaun Prince,Philadelphia 76ers,L,12/10/2012,37:12,6,12,0.5,0,1,0.0,4,4,1.0,4,4,8,2,1,1,1,0,16,-12
+Detroit Pistons,F,Jason Maxiell,Philadelphia 76ers,L,12/10/2012,26:00,1,10,0.1,0,0,0.0,0,0,0.0,4,7,11,0,1,2,4,3,2,-6
+Detroit Pistons,C,Greg Monroe,Philadelphia 76ers,L,12/10/2012,34:30,7,13,0.538,0,0,0.0,8,10,0.8,1,6,7,3,1,0,2,3,22,-8
+Detroit Pistons,G,Kyle Singler,Philadelphia 76ers,L,12/10/2012,29:08,2,4,0.5,1,1,1.0,0,0,0.0,0,2,2,2,0,0,0,2,5,-5
+Detroit Pistons,G,Brandon Knight,Philadelphia 76ers,L,12/10/2012,37:58,8,18,0.444,2,6,0.333,4,6,0.667,2,1,3,4,2,0,2,4,22,-6
+Detroit Pistons,F,Tayshaun Prince,Denver Nuggets,L,12/11/2012,31:59,4,9,0.444,0,1,0.0,0,0,0.0,0,6,6,2,0,1,1,1,8,-1
+Detroit Pistons,F,Jason Maxiell,Denver Nuggets,L,12/11/2012,32:07,6,11,0.545,0,0,0.0,6,10,0.6,3,3,6,0,1,6,1,4,18,-7
+Detroit Pistons,C,Greg Monroe,Denver Nuggets,L,12/11/2012,26:36,1,9,0.111,0,0,0.0,4,6,0.667,5,7,12,3,3,0,5,5,6,1
+Detroit Pistons,G,Kyle Singler,Denver Nuggets,L,12/11/2012,28:03,4,12,0.333,0,2,0.0,1,2,0.5,0,3,3,2,0,1,0,2,9,3
+Detroit Pistons,G,Brandon Knight,Denver Nuggets,L,12/11/2012,37:51,8,16,0.5,2,5,0.4,2,2,1.0,0,4,4,5,1,0,1,4,20,-3
+Detroit Pistons,F,Tayshaun Prince,Brooklyn Nets,L,12/14/2012,44:20,6,12,0.5,0,0,0.0,0,0,0.0,0,10,10,6,1,0,2,3,12,6
+Detroit Pistons,F,Jason Maxiell,Brooklyn Nets,L,12/14/2012,38:03,3,8,0.375,0,0,0.0,7,8,0.875,2,0,2,1,0,0,1,3,13,-5
+Detroit Pistons,C,Greg Monroe,Brooklyn Nets,L,12/14/2012,42:59,7,15,0.467,0,0,0.0,3,6,0.5,3,5,8,2,1,0,3,4,17,8
+Detroit Pistons,G,Kyle Singler,Brooklyn Nets,L,12/14/2012,31:54,4,12,0.333,0,3,0.0,0,0,0.0,2,6,8,3,1,0,0,3,8,-1
+Detroit Pistons,G,Brandon Knight,Brooklyn Nets,L,12/14/2012,47:19,8,18,0.444,5,6,0.833,1,2,0.5,1,4,5,5,1,0,3,3,22,9
+Detroit Pistons,F,Tayshaun Prince,Indiana Pacers,L,12/15/2012,31:37,2,7,0.286,0,0,0.0,0,1,0.0,0,1,1,0,0,0,3,1,4,-19
+Detroit Pistons,F,Jason Maxiell,Indiana Pacers,L,12/15/2012,25:10,0,3,0.0,0,0,0.0,0,0,0.0,1,2,3,1,2,0,0,2,0,-14
+Detroit Pistons,C,Greg Monroe,Indiana Pacers,L,12/15/2012,33:07,8,15,0.533,0,0,0.0,2,3,0.667,4,4,8,4,0,1,2,1,18,-15
+Detroit Pistons,G,Kyle Singler,Indiana Pacers,L,12/15/2012,30:29,3,9,0.333,1,3,0.333,0,0,0.0,2,3,5,1,1,0,2,2,7,-10
+Detroit Pistons,G,Brandon Knight,Indiana Pacers,L,12/15/2012,33:24,6,17,0.353,2,5,0.4,0,0,0.0,2,2,4,3,0,0,2,4,14,-15
+Detroit Pistons,F,Tayshaun Prince,Los Angeles Clippers,L,12/17/2012,36:03,6,12,0.5,1,3,0.333,2,2,1.0,2,5,7,0,2,1,1,0,15,-8
+Detroit Pistons,F,Jason Maxiell,Los Angeles Clippers,L,12/17/2012,25:32,1,6,0.167,0,0,0.0,0,2,0.0,0,2,2,0,1,1,1,5,2,-9
+Detroit Pistons,C,Greg Monroe,Los Angeles Clippers,L,12/17/2012,38:46,4,7,0.571,0,0,0.0,3,6,0.5,0,7,7,6,0,1,3,1,11,-10
+Detroit Pistons,G,Kyle Singler,Los Angeles Clippers,L,12/17/2012,38:56,5,10,0.5,1,3,0.333,0,0,0.0,1,2,3,0,0,1,1,3,11,1
+Detroit Pistons,G,Brandon Knight,Los Angeles Clippers,L,12/17/2012,35:30,5,16,0.313,3,10,0.3,3,5,0.6,2,3,5,5,0,0,5,4,16,-8
+Detroit Pistons,F,Tayshaun Prince,Toronto Raptors,L,12/19/2012,32:57,3,6,0.5,0,0,0.0,3,4,0.75,2,4,6,2,1,0,0,5,9,-2
+Detroit Pistons,F,Jason Maxiell,Toronto Raptors,L,12/19/2012,21:12,2,6,0.333,0,0,0.0,2,4,0.5,3,1,4,0,0,0,1,0,6,-7
+Detroit Pistons,C,Greg Monroe,Toronto Raptors,L,12/19/2012,34:36,14,22,0.636,0,0,0.0,7,8,0.875,6,4,10,2,2,0,1,2,35,5
+Detroit Pistons,G,Kyle Singler,Toronto Raptors,L,12/19/2012,30:37,3,9,0.333,1,2,0.5,2,2,1.0,4,2,6,0,0,0,0,6,9,-16
+Detroit Pistons,G,Brandon Knight,Toronto Raptors,L,12/19/2012,36:11,1,10,0.1,0,1,0.0,0,0,0.0,2,2,4,6,0,0,2,0,2,3
+Detroit Pistons,F,Tayshaun Prince,Washington Wizards,W,12/21/2012,26:00,3,13,0.231,1,2,0.5,1,1,1.0,3,3,6,4,0,1,2,1,8,12
+Detroit Pistons,F,Jason Maxiell,Washington Wizards,W,12/21/2012,19:49,2,4,0.5,0,0,0.0,0,0,0.0,1,4,5,1,0,3,0,2,4,14
+Detroit Pistons,C,Greg Monroe,Washington Wizards,W,12/21/2012,25:49,5,12,0.417,0,0,0.0,5,6,0.833,0,9,9,3,1,1,1,2,15,18
+Detroit Pistons,G,Kyle Singler,Washington Wizards,W,12/21/2012,28:10,4,10,0.4,1,4,0.25,1,1,1.0,5,0,5,1,0,1,1,1,10,13
+Detroit Pistons,G,Brandon Knight,Washington Wizards,W,12/21/2012,30:26,4,11,0.364,2,6,0.333,5,7,0.714,0,2,2,4,0,0,2,1,15,26
+Detroit Pistons,F,Tayshaun Prince,Washington Wizards,W,12/22/2012,14:09,3,6,0.5,0,0,0.0,1,2,0.5,3,4,7,2,0,0,1,0,7,12
+Detroit Pistons,F,Jason Maxiell,Washington Wizards,W,12/22/2012,21:20,5,10,0.5,0,0,0.0,2,2,1.0,1,4,5,0,1,2,2,5,12,10
+Detroit Pistons,C,Greg Monroe,Washington Wizards,W,12/22/2012,29:08,6,11,0.545,0,0,0.0,1,3,0.333,3,5,8,0,1,0,2,4,13,3
+Detroit Pistons,G,Kyle Singler,Washington Wizards,W,12/22/2012,29:31,1,6,0.167,0,3,0.0,0,0,0.0,1,6,7,0,2,0,2,3,2,14
+Detroit Pistons,G,Brandon Knight,Washington Wizards,W,12/22/2012,30:35,3,12,0.25,1,4,0.25,3,3,1.0,1,4,5,4,1,0,2,4,10,-2
+Detroit Pistons,F,Tayshaun Prince,Atlanta Hawks,L,12/26/2012,24:53,6,12,0.5,2,2,1.0,0,0,0.0,2,5,7,0,0,0,0,0,14,-21
+Detroit Pistons,F,Jason Maxiell,Atlanta Hawks,L,12/26/2012,21:50,0,3,0.0,0,0,0.0,1,2,0.5,4,2,6,0,0,0,0,4,1,-16
+Detroit Pistons,C,Greg Monroe,Atlanta Hawks,L,12/26/2012,26:24,4,11,0.364,0,0,0.0,2,2,1.0,2,2,4,2,1,0,3,1,10,-21
+Detroit Pistons,G,Kyle Singler,Atlanta Hawks,L,12/26/2012,14:02,0,3,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,1,2,0,0,-11
+Detroit Pistons,G,Brandon Knight,Atlanta Hawks,L,12/26/2012,23:08,3,8,0.375,1,3,0.333,2,2,1.0,1,3,4,2,0,1,4,1,9,-13
+Detroit Pistons,F,Tayshaun Prince,Miami Heat,W,12/28/2012,36:00,4,9,0.444,1,2,0.5,2,2,1.0,0,0,0,4,0,0,0,2,11,-11
+Detroit Pistons,F,Jason Maxiell,Miami Heat,W,12/28/2012,19:03,4,7,0.571,0,0,0.0,1,2,0.5,0,1,1,1,0,0,0,0,9,-7
+Detroit Pistons,C,Greg Monroe,Miami Heat,W,12/28/2012,27:48,3,6,0.5,0,0,0.0,0,1,0.0,1,6,7,3,0,0,5,1,6,-6
+Detroit Pistons,G,Kyle Singler,Miami Heat,W,12/28/2012,31:03,5,11,0.455,1,3,0.333,1,1,1.0,2,3,5,2,1,0,1,2,12,14
+Detroit Pistons,G,Brandon Knight,Miami Heat,W,12/28/2012,20:25,1,3,0.333,1,3,0.333,4,6,0.667,0,3,3,2,1,0,2,3,7,-7
+Detroit Pistons,F,Tayshaun Prince,Milwaukee Bucks,W,12/30/2012,34:40,8,16,0.5,0,2,0.0,4,4,1.0,0,2,2,2,0,0,0,0,20,-2
+Detroit Pistons,F,Jason Maxiell,Milwaukee Bucks,W,12/30/2012,26:20,5,8,0.625,0,0,0.0,0,0,0.0,3,7,10,3,0,0,2,1,10,5
+Detroit Pistons,C,Greg Monroe,Milwaukee Bucks,W,12/30/2012,28:32,6,12,0.5,0,0,0.0,2,3,0.667,4,6,10,2,0,0,3,2,14,-1
+Detroit Pistons,G,Kyle Singler,Milwaukee Bucks,W,12/30/2012,31:27,2,11,0.182,0,2,0.0,4,4,1.0,5,1,6,0,3,1,1,0,8,5
+Detroit Pistons,G,Brandon Knight,Milwaukee Bucks,W,12/30/2012,34:52,4,12,0.333,2,5,0.4,1,2,0.5,2,1,3,3,0,0,4,3,11,-5
+Detroit Pistons,F,Tayshaun Prince,Sacramento Kings,W,01/01/2013,34:41,5,8,0.625,0,2,0.0,0,0,0.0,1,5,6,3,1,1,4,2,10,-2
+Detroit Pistons,F,Jason Maxiell,Sacramento Kings,W,01/01/2013,24:55,3,6,0.5,0,0,0.0,1,2,0.5,3,2,5,0,1,1,4,3,7,-16
+Detroit Pistons,C,Greg Monroe,Sacramento Kings,W,01/01/2013,37:56,6,13,0.462,0,0,0.0,6,8,0.75,4,7,11,3,1,2,4,1,18,4
+Detroit Pistons,G,Kyle Singler,Sacramento Kings,W,01/01/2013,33:12,2,5,0.4,0,2,0.0,0,0,0.0,0,4,4,2,1,0,1,1,4,1
+Detroit Pistons,G,Brandon Knight,Sacramento Kings,W,01/01/2013,34:44,8,13,0.615,2,6,0.333,2,3,0.667,0,2,2,4,0,0,2,0,20,5
+Detroit Pistons,F,Tayshaun Prince,Atlanta Hawks,W,01/04/2013,28:41,2,12,0.167,1,1,1.0,1,2,0.5,3,3,6,2,0,1,1,1,6,-4
+Detroit Pistons,F,Jason Maxiell,Atlanta Hawks,W,01/04/2013,29:28,4,6,0.667,0,0,0.0,2,5,0.4,4,6,10,2,0,3,1,1,10,6
+Detroit Pistons,C,Greg Monroe,Atlanta Hawks,W,01/04/2013,33:47,5,14,0.357,0,0,0.0,8,10,0.8,5,4,9,1,3,0,2,3,18,-5
+Detroit Pistons,G,Kyle Singler,Atlanta Hawks,W,01/04/2013,15:37,1,3,0.333,0,0,0.0,0,0,0.0,1,1,2,1,1,0,0,1,2,-4
+Detroit Pistons,G,Brandon Knight,Atlanta Hawks,W,01/04/2013,36:27,4,11,0.364,0,5,0.0,0,0,0.0,0,3,3,4,2,0,2,1,8,-8
+Detroit Pistons,F,Tayshaun Prince,Charlotte Bobcats,L,01/06/2013,41:40,9,15,0.6,1,3,0.333,2,2,1.0,2,5,7,3,1,1,4,3,21,-4
+Detroit Pistons,F,Jason Maxiell,Charlotte Bobcats,L,01/06/2013,20:16,1,3,0.333,0,0,0.0,2,2,1.0,1,2,3,0,0,3,2,4,4,7
+Detroit Pistons,C,Greg Monroe,Charlotte Bobcats,L,01/06/2013,37:12,7,10,0.7,0,0,0.0,4,5,0.8,4,10,14,6,0,1,1,1,18,3
+Detroit Pistons,G,Kyle Singler,Charlotte Bobcats,L,01/06/2013,16:41,2,6,0.333,0,1,0.0,0,0,0.0,2,3,5,1,0,1,3,5,4,5
+Detroit Pistons,G,Brandon Knight,Charlotte Bobcats,L,01/06/2013,32:57,5,11,0.455,0,3,0.0,2,4,0.5,3,1,4,1,0,1,4,3,12,-6
+Detroit Pistons,F,Tayshaun Prince,Milwaukee Bucks,W,01/11/2013,28:00,3,12,0.25,0,0,0.0,0,0,0.0,0,5,5,4,0,0,0,2,6,20
+Detroit Pistons,F,Jason Maxiell,Milwaukee Bucks,W,01/11/2013,26:54,5,6,0.833,0,0,0.0,0,2,0.0,2,5,7,0,1,0,1,0,10,14
+Detroit Pistons,C,Greg Monroe,Milwaukee Bucks,W,01/11/2013,34:33,11,19,0.579,0,0,0.0,4,8,0.5,3,8,11,2,0,0,1,1,26,35
+Detroit Pistons,G,Kyle Singler,Milwaukee Bucks,W,01/11/2013,22:58,3,5,0.6,1,3,0.333,3,3,1.0,3,1,4,3,0,1,3,1,10,14
+Detroit Pistons,G,Brandon Knight,Milwaukee Bucks,W,01/11/2013,34:22,7,16,0.438,3,7,0.429,3,3,1.0,0,4,4,5,2,0,0,2,20,28
+Detroit Pistons,F,Tayshaun Prince,Utah Jazz,L,01/12/2013,33:11,3,8,0.375,0,0,0.0,2,2,1.0,0,3,3,3,0,0,1,1,8,1
+Detroit Pistons,F,Jason Maxiell,Utah Jazz,L,01/12/2013,26:17,2,5,0.4,0,0,0.0,3,4,0.75,1,5,6,3,0,3,1,3,7,10
+Detroit Pistons,C,Greg Monroe,Utah Jazz,L,01/12/2013,32:17,6,9,0.667,0,0,0.0,0,0,0.0,2,9,11,3,2,0,7,2,12,0
+Detroit Pistons,G,Kyle Singler,Utah Jazz,L,01/12/2013,19:43,2,2,1.0,0,0,0.0,0,0,0.0,0,1,1,2,0,0,1,2,4,2
+Detroit Pistons,G,Brandon Knight,Utah Jazz,L,01/12/2013,35:11,7,16,0.438,2,7,0.286,0,0,0.0,0,3,3,1,1,0,2,1,16,-1
+Detroit Pistons,F,Tayshaun Prince,New York Knicks,L,01/17/2013,34:42,5,10,0.5,0,0,0.0,2,6,0.333,1,2,3,3,2,0,2,2,12,-15
+Detroit Pistons,F,Jason Maxiell,New York Knicks,L,01/17/2013,19:26,1,4,0.25,0,0,0.0,0,0,0.0,2,2,4,0,1,1,1,2,2,-9
+Detroit Pistons,C,Greg Monroe,New York Knicks,L,01/17/2013,35:31,4,12,0.333,0,0,0.0,3,4,0.75,4,6,10,5,1,0,4,1,11,-3
+Detroit Pistons,G,Kyle Singler,New York Knicks,L,01/17/2013,35:07,5,10,0.5,3,6,0.5,2,4,0.5,0,3,3,4,0,1,2,2,15,-11
+Detroit Pistons,G,Brandon Knight,New York Knicks,L,01/17/2013,18:59,0,4,0.0,0,3,0.0,1,2,0.5,0,1,1,1,0,0,1,2,1,-9
+Detroit Pistons,F,Tayshaun Prince,Boston Celtics,W,01/20/2013,37:32,6,13,0.462,2,2,1.0,0,0,0.0,0,4,4,1,0,0,2,1,14,16
+Detroit Pistons,F,Jason Maxiell,Boston Celtics,W,01/20/2013,23:50,2,4,0.5,0,0,0.0,2,2,1.0,1,4,5,1,1,4,1,2,6,7
+Detroit Pistons,C,Greg Monroe,Boston Celtics,W,01/20/2013,38:09,6,12,0.5,0,0,0.0,3,4,0.75,4,7,11,5,1,0,2,1,15,22
+Detroit Pistons,G,Kyle Singler,Boston Celtics,W,01/20/2013,35:22,4,11,0.364,2,5,0.4,3,3,1.0,4,4,8,5,3,1,3,4,13,14
+Detroit Pistons,G,Brandon Knight,Boston Celtics,W,01/20/2013,30:43,5,12,0.417,2,6,0.333,3,6,0.5,0,6,6,5,1,0,7,1,15,14
+Detroit Pistons,F,Tayshaun Prince,Orlando Magic,W,01/22/2013,25:17,2,6,0.333,0,1,0.0,2,3,0.667,0,3,3,5,0,0,0,0,6,18
+Detroit Pistons,F,Jason Maxiell,Orlando Magic,W,01/22/2013,22:50,3,8,0.375,0,0,0.0,5,5,1.0,5,6,11,1,0,1,1,0,11,12
+Detroit Pistons,C,Greg Monroe,Orlando Magic,W,01/22/2013,28:51,6,12,0.5,0,0,0.0,4,6,0.667,1,5,6,2,1,0,0,1,16,6
+Detroit Pistons,G,Kyle Singler,Orlando Magic,W,01/22/2013,32:53,3,4,0.75,0,1,0.0,0,0,0.0,3,4,7,1,1,0,0,3,6,0
+Detroit Pistons,G,Brandon Knight,Orlando Magic,W,01/22/2013,33:01,7,17,0.412,3,7,0.429,1,2,0.5,1,3,4,5,3,0,4,2,18,8
+Detroit Pistons,F,Tayshaun Prince,Chicago Bulls,L,01/23/2013,34:10,5,12,0.417,1,2,0.5,0,0,0.0,0,3,3,1,1,0,0,1,11,4
+Detroit Pistons,F,Jason Maxiell,Chicago Bulls,L,01/23/2013,31:30,3,6,0.5,0,0,0.0,0,0,0.0,3,8,11,1,1,2,2,3,6,2
+Detroit Pistons,C,Greg Monroe,Chicago Bulls,L,01/23/2013,37:15,4,13,0.308,0,0,0.0,1,3,0.333,3,5,8,6,1,0,2,2,9,-4
+Detroit Pistons,G,Kyle Singler,Chicago Bulls,L,01/23/2013,24:46,5,7,0.714,2,2,1.0,0,1,0.0,1,1,2,0,1,0,0,3,12,-5
+Detroit Pistons,G,Brandon Knight,Chicago Bulls,L,01/23/2013,34:03,4,9,0.444,0,3,0.0,5,5,1.0,1,1,2,7,0,1,2,1,13,2
+Detroit Pistons,F,Tayshaun Prince,Miami Heat,L,01/25/2013,28:33,3,7,0.429,2,3,0.667,0,0,0.0,2,4,6,2,0,0,3,1,8,-15
+Detroit Pistons,F,Jason Maxiell,Miami Heat,L,01/25/2013,18:43,1,4,0.25,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,1,2,-4
+Detroit Pistons,C,Greg Monroe,Miami Heat,L,01/25/2013,34:02,12,17,0.706,0,0,0.0,7,8,0.875,6,6,12,0,1,0,3,3,31,-10
+Detroit Pistons,G,Kyle Singler,Miami Heat,L,01/25/2013,20:36,1,6,0.167,0,0,0.0,0,0,0.0,0,0,0,1,3,0,2,1,2,-15
+Detroit Pistons,G,Brandon Knight,Miami Heat,L,01/25/2013,27:33,4,7,0.571,0,3,0.0,1,3,0.333,0,0,0,5,1,0,3,3,9,-16
+Detroit Pistons,F,Tayshaun Prince,Orlando Magic,W,01/27/2013,34:53,3,13,0.231,0,2,0.0,1,2,0.5,2,3,5,4,2,0,3,0,7,-8
+Detroit Pistons,F,Jason Maxiell,Orlando Magic,W,01/27/2013,20:09,2,5,0.4,0,0,0.0,0,1,0.0,0,3,3,0,0,1,0,2,4,3
+Detroit Pistons,C,Greg Monroe,Orlando Magic,W,01/27/2013,33:23,7,11,0.636,0,0,0.0,3,4,0.75,2,5,7,6,1,2,2,1,17,-2
+Detroit Pistons,G,Kyle Singler,Orlando Magic,W,01/27/2013,19:23,3,5,0.6,2,2,1.0,2,2,1.0,0,3,3,2,2,0,0,4,10,14
+Detroit Pistons,G,Brandon Knight,Orlando Magic,W,01/27/2013,36:48,12,16,0.75,5,8,0.625,2,2,1.0,0,4,4,0,1,0,3,0,31,-5
+Detroit Pistons,F,Tayshaun Prince,Milwaukee Bucks,L,01/29/2013,24:18,4,9,0.444,0,0,0.0,2,2,1.0,1,5,6,3,0,0,1,1,10,-12
+Detroit Pistons,F,Jason Maxiell,Milwaukee Bucks,L,01/29/2013,19:30,1,5,0.2,0,0,0.0,1,1,1.0,1,2,3,1,0,1,0,2,3,-3
+Detroit Pistons,C,Greg Monroe,Milwaukee Bucks,L,01/29/2013,23:33,6,8,0.75,0,0,0.0,2,3,0.667,4,4,8,4,2,1,5,3,14,-11
+Detroit Pistons,G,Kyle Singler,Milwaukee Bucks,L,01/29/2013,28:01,4,11,0.364,1,4,0.25,3,3,1.0,1,1,2,0,1,0,3,2,12,-14
+Detroit Pistons,G,Brandon Knight,Milwaukee Bucks,L,01/29/2013,23:22,3,8,0.375,0,1,0.0,4,4,1.0,0,0,0,3,1,0,4,1,10,-12
+Detroit Pistons,F,Kyle Singler,Indiana Pacers,L,01/30/2013,30:13,2,6,0.333,1,1,1.0,0,0,0.0,1,3,4,0,2,2,0,0,5,-19
+Detroit Pistons,F,Jason Maxiell,Indiana Pacers,L,01/30/2013,17:10,1,5,0.2,0,0,0.0,0,0,0.0,2,3,5,0,0,2,0,0,2,-7
+Detroit Pistons,C,Greg Monroe,Indiana Pacers,L,01/30/2013,32:47,8,17,0.471,0,0,0.0,2,6,0.333,3,6,9,0,0,2,4,3,18,-15
+Detroit Pistons,G,Rodney Stuckey,Indiana Pacers,L,01/30/2013,34:04,6,16,0.375,1,6,0.167,1,2,0.5,1,2,3,2,2,0,2,2,14,-17
+Detroit Pistons,G,Brandon Knight,Indiana Pacers,L,01/30/2013,28:19,3,12,0.25,0,2,0.0,1,1,1.0,1,0,1,4,0,0,1,0,7,-9
+Detroit Pistons,F,Kyle Singler,Cleveland Cavaliers,W,02/01/2013,36:41,9,17,0.529,1,4,0.25,1,2,0.5,4,4,8,1,2,3,2,5,20,16
+Detroit Pistons,F,Jason Maxiell,Cleveland Cavaliers,W,02/01/2013,23:21,4,8,0.5,0,0,0.0,1,2,0.5,3,2,5,1,2,0,0,2,9,16
+Detroit Pistons,C,Greg Monroe,Cleveland Cavaliers,W,02/01/2013,35:39,7,16,0.438,0,0,0.0,4,8,0.5,4,12,16,4,1,2,1,2,18,21
+Detroit Pistons,G,Rodney Stuckey,Cleveland Cavaliers,W,02/01/2013,35:06,5,8,0.625,0,1,0.0,4,4,1.0,0,2,2,0,1,0,2,2,14,19
+Detroit Pistons,G,Brandon Knight,Cleveland Cavaliers,W,02/01/2013,31:55,7,14,0.5,2,4,0.5,4,6,0.667,0,6,6,10,2,1,1,3,20,29
+Detroit Pistons,F,Kyle Singler,Los Angeles Lakers,L,02/03/2013,40:08,4,12,0.333,2,4,0.5,1,2,0.5,1,5,6,1,0,0,2,4,11,12
+Detroit Pistons,F,Jason Maxiell,Los Angeles Lakers,L,02/03/2013,24:38,3,7,0.429,0,0,0.0,2,2,1.0,3,2,5,0,2,2,1,2,8,-12
+Detroit Pistons,C,Greg Monroe,Los Angeles Lakers,L,02/03/2013,32:28,9,14,0.643,0,0,0.0,2,2,1.0,1,11,12,2,0,2,4,1,20,-4
+Detroit Pistons,G,Rodney Stuckey,Los Angeles Lakers,L,02/03/2013,23:00,3,6,0.5,0,1,0.0,0,0,0.0,0,0,0,5,0,0,1,3,6,-3
+Detroit Pistons,G,Brandon Knight,Los Angeles Lakers,L,02/03/2013,33:37,3,13,0.231,0,3,0.0,4,4,1.0,1,4,5,7,3,0,3,2,10,-10
+Detroit Pistons,F,Jason Maxiell,New York Knicks,L,02/04/2013,22:24,1,4,0.25,0,0,0.0,0,0,0.0,1,2,3,0,1,1,0,2,2,3
+Detroit Pistons,F,Kyle Singler,New York Knicks,L,02/04/2013,25:21,2,5,0.4,1,1,1.0,0,0,0.0,1,1,2,1,0,0,0,3,5,-9
+Detroit Pistons,C,Greg Monroe,New York Knicks,L,02/04/2013,35:11,6,13,0.462,0,0,0.0,1,2,0.5,3,7,10,2,1,3,5,1,13,-12
+Detroit Pistons,G,Jose Calderon,New York Knicks,L,02/04/2013,26:39,7,12,0.583,1,4,0.25,0,0,0.0,0,1,1,3,0,0,0,0,15,-9
+Detroit Pistons,G,Brandon Knight,New York Knicks,L,02/04/2013,28:26,2,10,0.2,1,6,0.167,0,0,0.0,0,1,1,2,0,0,0,0,5,-12
+Detroit Pistons,F,Kyle Singler,Brooklyn Nets,L,02/06/2013,33:53,5,7,0.714,1,2,0.5,1,2,0.5,1,4,5,3,0,1,1,2,12,2
+Detroit Pistons,F,Jason Maxiell,Brooklyn Nets,L,02/06/2013,19:37,3,8,0.375,0,0,0.0,0,0,0.0,4,5,9,0,0,2,2,5,6,6
+Detroit Pistons,C,Greg Monroe,Brooklyn Nets,L,02/06/2013,34:47,10,16,0.625,0,0,0.0,3,6,0.5,3,7,10,2,0,1,2,5,23,5
+Detroit Pistons,G,Brandon Knight,Brooklyn Nets,L,02/06/2013,26:03,4,10,0.4,0,3,0.0,4,6,0.667,0,2,2,4,2,0,2,4,12,-3
+Detroit Pistons,G,Jose Calderon,Brooklyn Nets,L,02/06/2013,30:31,3,7,0.429,2,3,0.667,0,0,0.0,0,1,1,9,1,0,3,0,8,-7
+Detroit Pistons,F,Kyle Singler,San Antonio Spurs,W,02/08/2013,35:30,6,11,0.545,1,3,0.333,1,1,1.0,2,5,7,2,0,0,1,5,14,12
+Detroit Pistons,F,Jason Maxiell,San Antonio Spurs,W,02/08/2013,22:55,3,7,0.429,0,0,0.0,1,1,1.0,1,2,3,0,0,1,0,5,7,-3
+Detroit Pistons,C,Greg Monroe,San Antonio Spurs,W,02/08/2013,40:03,9,16,0.563,0,0,0.0,8,10,0.8,5,11,16,5,2,1,5,2,26,13
+Detroit Pistons,G,Brandon Knight,San Antonio Spurs,W,02/08/2013,36:09,10,21,0.476,2,5,0.4,2,3,0.667,2,3,5,2,0,0,1,2,24,5
+Detroit Pistons,G,Jose Calderon,San Antonio Spurs,W,02/08/2013,30:59,3,6,0.5,1,3,0.333,0,0,0.0,0,2,2,8,1,0,0,2,7,13
+Detroit Pistons,F,Kyle Singler,Milwaukee Bucks,W,02/09/2013,28:46,5,11,0.455,0,1,0.0,1,2,0.5,2,3,5,0,0,0,1,1,11,-3
+Detroit Pistons,F,Jason Maxiell,Milwaukee Bucks,W,02/09/2013,31:31,2,4,0.5,0,0,0.0,0,0,0.0,0,1,1,1,0,1,1,4,4,-3
+Detroit Pistons,C,Greg Monroe,Milwaukee Bucks,W,02/09/2013,34:55,6,12,0.5,0,0,0.0,2,3,0.667,3,10,13,4,4,0,4,3,14,12
+Detroit Pistons,G,Brandon Knight,Milwaukee Bucks,W,02/09/2013,25:26,2,13,0.154,0,3,0.0,0,0,0.0,0,3,3,4,2,0,1,1,4,0
+Detroit Pistons,G,Jose Calderon,Milwaukee Bucks,W,02/09/2013,35:24,10,13,0.769,3,4,0.75,0,0,0.0,1,4,5,10,3,0,3,4,23,15
+Detroit Pistons,F,Kyle Singler,New Orleans Hornets,L,02/11/2013,28:40,4,10,0.4,1,2,0.5,5,5,1.0,3,2,5,1,1,0,1,1,14,-22
+Detroit Pistons,F,Jason Maxiell,New Orleans Hornets,L,02/11/2013,24:00,2,7,0.286,0,0,0.0,1,2,0.5,1,1,2,0,0,1,3,3,5,-23
+Detroit Pistons,C,Greg Monroe,New Orleans Hornets,L,02/11/2013,38:33,8,15,0.533,0,0,0.0,1,7,0.143,5,6,11,4,2,2,2,2,17,-10
+Detroit Pistons,G,Brandon Knight,New Orleans Hornets,L,02/11/2013,25:17,3,10,0.3,1,3,0.333,0,0,0.0,1,2,3,3,1,0,3,2,7,-24
+Detroit Pistons,G,Jose Calderon,New Orleans Hornets,L,02/11/2013,33:54,5,10,0.5,3,6,0.5,0,0,0.0,1,3,4,9,4,0,1,3,13,-17
+Detroit Pistons,F,Kyle Singler,Washington Wizards,W,02/13/2013,37:39,5,10,0.5,0,1,0.0,2,2,1.0,3,4,7,0,1,0,1,1,12,15
+Detroit Pistons,F,Jason Maxiell,Washington Wizards,W,02/13/2013,19:20,0,5,0.0,0,0,0.0,1,4,0.25,2,2,4,1,1,0,2,3,1,0
+Detroit Pistons,C,Greg Monroe,Washington Wizards,W,02/13/2013,34:22,5,12,0.417,0,0,0.0,6,8,0.75,5,13,18,4,2,0,1,3,16,11
+Detroit Pistons,G,Brandon Knight,Washington Wizards,W,02/13/2013,28:38,3,8,0.375,0,3,0.0,0,0,0.0,1,2,3,3,1,0,2,2,6,0
+Detroit Pistons,G,Jose Calderon,Washington Wizards,W,02/13/2013,36:40,9,17,0.529,6,9,0.667,0,0,0.0,0,5,5,3,1,1,4,3,24,8
+Detroit Pistons,F,Kyle Singler,Memphis Grizzlies,L,02/19/2013,22:10,3,7,0.429,1,2,0.5,0,0,0.0,0,2,2,1,0,0,3,2,7,-9
+Detroit Pistons,F,Jason Maxiell,Memphis Grizzlies,L,02/19/2013,20:25,2,7,0.286,0,0,0.0,0,0,0.0,1,1,2,1,0,0,1,1,4,-9
+Detroit Pistons,C,Greg Monroe,Memphis Grizzlies,L,02/19/2013,23:08,4,9,0.444,0,0,0.0,1,1,1.0,2,4,6,2,1,1,1,3,9,-9
+Detroit Pistons,G,Brandon Knight,Memphis Grizzlies,L,02/19/2013,26:14,5,11,0.455,3,4,0.75,0,0,0.0,2,3,5,1,1,0,2,1,13,-20
+Detroit Pistons,G,Jose Calderon,Memphis Grizzlies,L,02/19/2013,29:58,4,9,0.444,2,3,0.667,0,0,0.0,0,1,1,7,1,0,3,1,10,-10
+Detroit Pistons,F,Kyle Singler,Charlotte Bobcats,W,02/20/2013,23:01,4,6,0.667,0,2,0.0,0,0,0.0,1,2,3,0,0,2,3,6,8,10
+Detroit Pistons,F,Jason Maxiell,Charlotte Bobcats,W,02/20/2013,17:24,2,6,0.333,0,0,0.0,1,2,0.5,0,1,1,0,0,1,0,1,5,2
+Detroit Pistons,C,Greg Monroe,Charlotte Bobcats,W,02/20/2013,35:01,7,13,0.538,0,0,0.0,5,5,1.0,1,6,7,7,1,3,1,2,19,1
+Detroit Pistons,G,Brandon Knight,Charlotte Bobcats,W,02/20/2013,29:58,7,11,0.636,3,4,0.75,4,4,1.0,0,3,3,5,1,0,1,2,21,4
+Detroit Pistons,G,Jose Calderon,Charlotte Bobcats,W,02/20/2013,29:10,4,8,0.5,4,4,1.0,5,6,0.833,1,1,2,2,0,0,0,1,17,13
+Detroit Pistons,F,Kyle Singler,Indiana Pacers,L,02/22/2013,13:57,1,7,0.143,0,1,0.0,0,0,0.0,2,1,3,0,0,0,1,2,2,-21
+Detroit Pistons,F,Jason Maxiell,Indiana Pacers,L,02/22/2013,20:29,2,6,0.333,0,0,0.0,0,0,0.0,3,4,7,1,0,2,3,3,4,-21
+Detroit Pistons,C,Greg Monroe,Indiana Pacers,L,02/22/2013,22:06,2,9,0.222,0,0,0.0,1,2,0.5,0,4,4,2,0,1,2,1,5,-32
+Detroit Pistons,G,Rodney Stuckey,Indiana Pacers,L,02/22/2013,27:59,5,12,0.417,0,2,0.0,1,2,0.5,1,0,1,2,1,0,2,0,11,-34
+Detroit Pistons,G,Jose Calderon,Indiana Pacers,L,02/22/2013,26:26,1,6,0.167,0,3,0.0,3,3,1.0,0,1,1,3,3,0,0,2,5,-35
+Detroit Pistons,F,Kyle Singler,Indiana Pacers,L,02/23/2013,28:37,1,6,0.167,0,3,0.0,0,0,0.0,0,3,3,0,1,0,1,2,2,-19
+Detroit Pistons,F,Jason Maxiell,Indiana Pacers,L,02/23/2013,23:01,2,6,0.333,0,0,0.0,0,2,0.0,3,3,6,0,0,1,2,2,4,-17
+Detroit Pistons,C,Greg Monroe,Indiana Pacers,L,02/23/2013,33:39,4,16,0.25,0,0,0.0,4,7,0.571,5,7,12,4,3,0,5,5,12,-11
+Detroit Pistons,G,Rodney Stuckey,Indiana Pacers,L,02/23/2013,32:48,3,8,0.375,0,1,0.0,5,5,1.0,0,2,2,1,1,0,2,0,11,-20
+Detroit Pistons,G,Jose Calderon,Indiana Pacers,L,02/23/2013,32:39,5,7,0.714,0,0,0.0,3,3,1.0,0,5,5,5,1,0,2,0,13,-9
+Detroit Pistons,F,Kyle Singler,Atlanta Hawks,L,02/25/2013,29:21,5,11,0.455,1,3,0.333,2,2,1.0,0,4,4,1,1,0,2,4,13,-9
+Detroit Pistons,F,Jason Maxiell,Atlanta Hawks,L,02/25/2013,17:09,3,7,0.429,0,0,0.0,1,2,0.5,1,5,6,0,1,0,0,2,7,-6
+Detroit Pistons,C,Greg Monroe,Atlanta Hawks,L,02/25/2013,31:26,5,9,0.556,0,0,0.0,5,8,0.625,3,5,8,5,2,1,2,0,15,-11
+Detroit Pistons,G,Rodney Stuckey,Atlanta Hawks,L,02/25/2013,35:54,10,17,0.588,0,0,0.0,2,2,1.0,1,4,5,2,1,0,2,4,22,-18
+Detroit Pistons,G,Jose Calderon,Atlanta Hawks,L,02/25/2013,32:56,3,11,0.273,1,5,0.2,0,0,0.0,0,5,5,9,0,0,4,2,7,-10
+Detroit Pistons,F,Kyle Singler,Washington Wizards,W,02/27/2013,27:00,4,7,0.571,1,1,1.0,0,0,0.0,0,2,2,1,1,0,0,2,9,12
+Detroit Pistons,F,Jason Maxiell,Washington Wizards,W,02/27/2013,25:38,2,4,0.5,0,0,0.0,0,0,0.0,1,7,8,3,1,4,0,1,4,21
+Detroit Pistons,C,Greg Monroe,Washington Wizards,W,02/27/2013,39:10,12,17,0.706,0,0,0.0,2,3,0.667,3,8,11,1,4,0,5,4,26,9
+Detroit Pistons,G,Brandon Knight,Washington Wizards,W,02/27/2013,36:20,11,18,0.611,5,6,0.833,5,9,0.556,0,3,3,4,1,0,4,1,32,3
+Detroit Pistons,G,Jose Calderon,Washington Wizards,W,02/27/2013,36:03,2,6,0.333,0,1,0.0,2,2,1.0,0,4,4,18,1,0,2,1,6,8
+Detroit Pistons,F,Kyle Singler,New Orleans Hornets,L,03/01/2013,28:38,3,7,0.429,2,3,0.667,2,2,1.0,1,3,4,0,1,0,1,2,10,-2
+Detroit Pistons,F,Jason Maxiell,New Orleans Hornets,L,03/01/2013,30:35,5,6,0.833,0,0,0.0,0,1,0.0,3,3,6,3,1,2,1,2,10,-2
+Detroit Pistons,C,Greg Monroe,New Orleans Hornets,L,03/01/2013,35:19,11,22,0.5,0,0,0.0,5,8,0.625,3,7,10,3,1,0,4,4,27,3
+Detroit Pistons,G,Brandon Knight,New Orleans Hornets,L,03/01/2013,37:28,10,18,0.556,2,7,0.286,0,0,0.0,1,3,4,3,2,0,2,1,22,11
+Detroit Pistons,G,Jose Calderon,New Orleans Hornets,L,03/01/2013,34:21,2,5,0.4,2,3,0.667,1,1,1.0,0,4,4,11,0,0,2,2,7,4
+Detroit Pistons,F,Kyle Singler,San Antonio Spurs,L,03/03/2013,23:30,2,10,0.2,1,2,0.5,0,0,0.0,1,1,2,0,0,0,2,3,5,-21
+Detroit Pistons,F,Jason Maxiell,San Antonio Spurs,L,03/03/2013,15:41,0,2,0.0,0,0,0.0,1,2,0.5,1,1,2,1,0,1,0,4,1,-11
+Detroit Pistons,C,Greg Monroe,San Antonio Spurs,L,03/03/2013,30:28,6,13,0.462,0,0,0.0,4,4,1.0,1,7,8,4,0,0,4,1,16,-33
+Detroit Pistons,G,Brandon Knight,San Antonio Spurs,L,03/03/2013,36:28,3,14,0.214,1,6,0.167,1,3,0.333,3,3,6,6,2,0,3,3,8,-25
+Detroit Pistons,G,Jose Calderon,San Antonio Spurs,L,03/03/2013,27:51,6,10,0.6,2,3,0.667,0,0,0.0,0,3,3,2,0,0,0,2,14,-30
+Detroit Pistons,F,Kyle Singler,New York Knicks,L,03/06/2013,41:46,6,12,0.5,1,3,0.333,0,0,0.0,2,6,8,0,2,1,2,3,13,-1
+Detroit Pistons,F,Jonas Jerebko,New York Knicks,L,03/06/2013,26:40,5,8,0.625,1,1,1.0,1,3,0.333,1,3,4,2,1,0,1,2,12,-1
+Detroit Pistons,C,Jason Maxiell,New York Knicks,L,03/06/2013,37:21,7,12,0.583,0,0,0.0,0,0,0.0,3,6,9,1,0,2,2,3,14,-8
+Detroit Pistons,G,Brandon Knight,New York Knicks,L,03/06/2013,39:07,6,17,0.353,4,8,0.5,1,2,0.5,1,4,5,1,0,1,5,1,17,0
+Detroit Pistons,G,Jose Calderon,New York Knicks,L,03/06/2013,39:58,4,10,0.4,1,4,0.25,1,1,1.0,0,3,3,16,2,0,3,0,10,-3
+Detroit Pistons,F,Kyle Singler,Dallas Mavericks,L,03/08/2013,27:40,3,11,0.273,1,6,0.167,2,3,0.667,1,3,4,0,3,1,1,3,9,-4
+Detroit Pistons,F,Jason Maxiell,Dallas Mavericks,L,03/08/2013,34:05,4,10,0.4,0,0,0.0,4,6,0.667,6,7,13,0,1,1,0,3,12,-1
+Detroit Pistons,C,Greg Monroe,Dallas Mavericks,L,03/08/2013,33:56,5,13,0.385,0,1,0.0,4,5,0.8,0,10,10,4,1,0,2,0,14,0
+Detroit Pistons,G,Brandon Knight,Dallas Mavericks,L,03/08/2013,31:43,9,17,0.529,2,6,0.333,1,1,1.0,1,2,3,3,0,0,1,3,21,-1
+Detroit Pistons,G,Jose Calderon,Dallas Mavericks,L,03/08/2013,35:19,3,8,0.375,1,5,0.2,0,0,0.0,1,5,6,7,0,0,0,2,7,5
+Detroit Pistons,F,Kyle Singler,Los Angeles Clippers,L,03/10/2013,28:57,2,4,0.5,0,1,0.0,2,2,1.0,0,4,4,1,0,0,1,2,6,-18
+Detroit Pistons,F,Jason Maxiell,Los Angeles Clippers,L,03/10/2013,18:34,1,4,0.25,0,0,0.0,1,2,0.5,2,1,3,1,1,0,1,2,3,-22
+Detroit Pistons,C,Greg Monroe,Los Angeles Clippers,L,03/10/2013,32:49,2,8,0.25,0,0,0.0,6,10,0.6,3,2,5,4,0,0,3,3,10,-26
+Detroit Pistons,G,Brandon Knight,Los Angeles Clippers,L,03/10/2013,19:24,3,9,0.333,2,6,0.333,2,2,1.0,0,0,0,3,0,0,2,3,10,-28
+Detroit Pistons,G,Jose Calderon,Los Angeles Clippers,L,03/10/2013,28:57,6,8,0.75,4,5,0.8,2,3,0.667,0,2,2,4,1,0,3,1,18,-18
+Detroit Pistons,F,Kyle Singler,Utah Jazz,L,03/11/2013,23:19,1,6,0.167,0,0,0.0,3,4,0.75,2,0,2,0,0,2,0,2,5,-1
+Detroit Pistons,F,Jonas Jerebko,Utah Jazz,L,03/11/2013,29:12,5,14,0.357,1,4,0.25,4,4,1.0,2,5,7,0,1,0,1,2,15,-10
+Detroit Pistons,C,Greg Monroe,Utah Jazz,L,03/11/2013,41:26,7,15,0.467,0,0,0.0,1,1,1.0,1,12,13,3,0,1,0,2,15,-2
+Detroit Pistons,G,Brandon Knight,Utah Jazz,L,03/11/2013,3:32,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-2
+Detroit Pistons,G,Jose Calderon,Utah Jazz,L,03/11/2013,37:11,6,8,0.75,1,2,0.5,1,1,1.0,0,2,2,7,2,1,2,0,14,-2
+Detroit Pistons,F,Kyle Singler,Golden State Warriors,L,03/13/2013,29:06,8,16,0.5,1,3,0.333,0,0,0.0,2,2,4,1,0,0,1,5,17,-19
+Detroit Pistons,F,Jason Maxiell,Golden State Warriors,L,03/13/2013,31:56,4,7,0.571,0,0,0.0,0,0,0.0,6,8,14,3,0,0,1,3,8,-15
+Detroit Pistons,C,Greg Monroe,Golden State Warriors,L,03/13/2013,39:18,4,16,0.25,0,0,0.0,5,6,0.833,2,5,7,4,1,0,2,4,13,-12
+Detroit Pistons,G,Rodney Stuckey,Golden State Warriors,L,03/13/2013,37:55,8,18,0.444,1,4,0.25,5,6,0.833,1,2,3,5,1,0,3,4,22,-14
+Detroit Pistons,G,Jose Calderon,Golden State Warriors,L,03/13/2013,29:36,2,5,0.4,2,4,0.5,0,0,0.0,0,1,1,6,1,0,1,1,6,-8
+Detroit Pistons,F,Kyle Singler,Portland Trail Blazers,L,03/16/2013,40:01,2,10,0.2,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,1,4,-4
+Detroit Pistons,F,Jason Maxiell,Portland Trail Blazers,L,03/16/2013,37:46,4,6,0.667,0,0,0.0,2,4,0.5,2,3,5,3,2,1,3,5,10,-6
+Detroit Pistons,C,Greg Monroe,Portland Trail Blazers,L,03/16/2013,36:07,5,9,0.556,0,0,0.0,4,8,0.5,2,7,9,6,0,0,1,5,14,-6
+Detroit Pistons,G,Rodney Stuckey,Portland Trail Blazers,L,03/16/2013,39:55,12,23,0.522,2,6,0.333,6,7,0.857,0,3,3,0,0,0,1,2,32,-12
+Detroit Pistons,G,Jose Calderon,Portland Trail Blazers,L,03/16/2013,24:00,5,8,0.625,3,5,0.6,0,0,0.0,0,4,4,5,2,0,1,3,13,-1
+Detroit Pistons,F,Kyle Singler,Brooklyn Nets,L,03/18/2013,29:11,3,8,0.375,0,4,0.0,0,0,0.0,4,2,6,0,1,1,2,3,6,-25
+Detroit Pistons,F,Jason Maxiell,Brooklyn Nets,L,03/18/2013,22:44,2,3,0.667,0,0,0.0,0,0,0.0,0,5,5,1,0,0,0,1,4,-14
+Detroit Pistons,C,Greg Monroe,Brooklyn Nets,L,03/18/2013,32:19,8,10,0.8,0,0,0.0,1,2,0.5,2,5,7,3,1,2,6,4,17,-28
+Detroit Pistons,G,Rodney Stuckey,Brooklyn Nets,L,03/18/2013,34:24,3,8,0.375,0,0,0.0,4,4,1.0,0,1,1,4,2,0,3,2,10,-21
+Detroit Pistons,G,Jose Calderon,Brooklyn Nets,L,03/18/2013,8:03,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,2,0,0,0,2,2,-11
+Detroit Pistons,F,Kyle Singler,Miami Heat,L,03/22/2013,36:36,8,14,0.571,2,5,0.4,0,0,0.0,5,3,8,1,1,1,2,3,18,-9
+Detroit Pistons,F,Jason Maxiell,Miami Heat,L,03/22/2013,18:39,2,6,0.333,0,0,0.0,2,4,0.5,1,5,6,1,0,1,2,3,6,-5
+Detroit Pistons,C,Greg Monroe,Miami Heat,L,03/22/2013,40:59,10,19,0.526,0,0,0.0,3,5,0.6,6,9,15,6,1,1,3,3,23,-14
+Detroit Pistons,G,Rodney Stuckey,Miami Heat,L,03/22/2013,40:45,4,15,0.267,1,5,0.2,2,2,1.0,3,2,5,3,2,0,4,2,11,-4
+Detroit Pistons,G,Jose Calderon,Miami Heat,L,03/22/2013,43:23,7,11,0.636,3,6,0.5,1,1,1.0,1,2,3,7,2,0,7,3,18,-12
+Detroit Pistons,F,Kyle Singler,Charlotte Bobcats,W,03/23/2013,27:45,2,6,0.333,0,4,0.0,2,2,1.0,2,5,7,2,1,1,2,5,6,-6
+Detroit Pistons,F,Jason Maxiell,Charlotte Bobcats,W,03/23/2013,21:33,7,13,0.538,0,0,0.0,0,0,0.0,0,4,4,0,0,1,0,2,14,-3
+Detroit Pistons,C,Greg Monroe,Charlotte Bobcats,W,03/23/2013,29:20,2,11,0.182,0,0,0.0,2,2,1.0,3,6,9,8,2,0,1,2,6,0
+Detroit Pistons,G,Brandon Knight,Charlotte Bobcats,W,03/23/2013,37:03,4,10,0.4,1,6,0.167,1,2,0.5,2,4,6,4,0,0,5,1,10,0
+Detroit Pistons,G,Jose Calderon,Charlotte Bobcats,W,03/23/2013,29:35,4,8,0.5,3,5,0.6,0,0,0.0,0,1,1,6,0,0,1,0,11,-8
+Detroit Pistons,F,Kyle Singler,Minnesota Timberwolves,L,03/26/2013,29:07,2,7,0.286,2,5,0.4,2,2,1.0,1,3,4,1,0,0,3,2,8,-10
+Detroit Pistons,F,Jason Maxiell,Minnesota Timberwolves,L,03/26/2013,25:32,3,5,0.6,0,0,0.0,0,0,0.0,2,3,5,2,0,2,1,2,6,-9
+Detroit Pistons,C,Greg Monroe,Minnesota Timberwolves,L,03/26/2013,28:56,5,13,0.385,0,1,0.0,1,2,0.5,5,7,12,1,4,0,2,2,11,-28
+Detroit Pistons,G,Brandon Knight,Minnesota Timberwolves,L,03/26/2013,26:29,3,10,0.3,1,3,0.333,0,0,0.0,0,1,1,3,1,0,4,0,7,-16
+Detroit Pistons,G,Jose Calderon,Minnesota Timberwolves,L,03/26/2013,32:17,5,9,0.556,2,2,1.0,2,2,1.0,0,1,1,1,0,0,1,1,14,-26
+Detroit Pistons,F,Kyle Singler,Toronto Raptors,L,03/29/2013,33:24,5,12,0.417,1,4,0.25,2,4,0.5,1,5,6,2,2,0,1,1,13,-15
+Detroit Pistons,F,Greg Monroe,Toronto Raptors,L,03/29/2013,30:03,3,11,0.273,0,0,0.0,5,6,0.833,6,7,13,5,0,2,3,1,11,-16
+Detroit Pistons,C,Andre Drummond,Toronto Raptors,L,03/29/2013,18:44,8,10,0.8,0,0,0.0,1,4,0.25,1,3,4,0,2,2,2,3,17,-6
+Detroit Pistons,G,Brandon Knight,Toronto Raptors,L,03/29/2013,25:55,1,4,0.25,0,1,0.0,2,3,0.667,0,0,0,3,0,0,1,2,4,-25
+Detroit Pistons,G,Jose Calderon,Toronto Raptors,L,03/29/2013,30:56,3,7,0.429,2,4,0.5,0,0,0.0,0,1,1,7,0,0,3,2,8,-16
+Detroit Pistons,F,Kyle Singler,Chicago Bulls,L,03/31/2013,27:02,3,4,0.75,1,1,1.0,1,1,1.0,1,5,6,1,0,0,1,6,8,-2
+Detroit Pistons,F,Greg Monroe,Chicago Bulls,L,03/31/2013,31:34,7,12,0.583,0,0,0.0,4,6,0.667,1,9,10,4,2,2,4,3,18,8
+Detroit Pistons,C,Andre Drummond,Chicago Bulls,L,03/31/2013,22:37,4,7,0.571,0,0,0.0,0,3,0.0,4,10,14,2,0,1,0,3,8,11
+Detroit Pistons,G,Brandon Knight,Chicago Bulls,L,03/31/2013,36:31,2,6,0.333,1,2,0.5,0,0,0.0,0,1,1,4,2,0,4,3,5,6
+Detroit Pistons,G,Jose Calderon,Chicago Bulls,L,03/31/2013,33:42,4,8,0.5,1,2,0.5,2,2,1.0,0,0,0,5,0,0,1,0,11,0
+Detroit Pistons,F,Kyle Singler,Toronto Raptors,W,04/01/2013,19:07,1,5,0.2,1,1,1.0,2,2,1.0,1,0,1,0,0,0,0,2,5,-9
+Detroit Pistons,F,Greg Monroe,Toronto Raptors,W,04/01/2013,37:54,10,18,0.556,0,0,0.0,4,4,1.0,2,2,4,4,0,1,0,0,24,10
+Detroit Pistons,C,Andre Drummond,Toronto Raptors,W,04/01/2013,19:43,2,5,0.4,0,0,0.0,0,2,0.0,0,4,4,0,0,0,0,3,4,-9
+Detroit Pistons,G,Brandon Knight,Toronto Raptors,W,04/01/2013,28:33,2,8,0.25,1,4,0.25,0,0,0.0,1,3,4,2,1,0,2,2,5,-5
+Detroit Pistons,G,Jose Calderon,Toronto Raptors,W,04/01/2013,43:11,8,12,0.667,1,2,0.5,2,3,0.667,0,1,1,9,1,0,1,2,19,11
+Detroit Pistons,F,Kyle Singler,Boston Celtics,L,04/03/2013,24:55,3,7,0.429,0,1,0.0,1,2,0.5,2,3,5,1,0,0,2,2,7,-6
+Detroit Pistons,F,Greg Monroe,Boston Celtics,L,04/03/2013,39:09,11,22,0.5,0,1,0.0,2,3,0.667,9,8,17,3,2,0,6,2,24,3
+Detroit Pistons,C,Andre Drummond,Boston Celtics,L,04/03/2013,20:31,4,6,0.667,0,0,0.0,0,3,0.0,7,2,9,1,1,0,2,2,8,-10
+Detroit Pistons,G,Brandon Knight,Boston Celtics,L,04/03/2013,36:50,2,10,0.2,1,3,0.333,2,2,1.0,2,1,3,4,0,0,2,3,7,3
+Detroit Pistons,G,Rodney Stuckey,Boston Celtics,L,04/03/2013,37:12,5,16,0.313,1,6,0.167,11,15,0.733,1,1,2,4,1,1,0,2,22,-13
+Detroit Pistons,F,Kyle Singler,Minnesota Timberwolves,L,04/06/2013,22:33,2,6,0.333,0,2,0.0,2,3,0.667,1,2,3,0,0,0,2,3,6,-8
+Detroit Pistons,F,Greg Monroe,Minnesota Timberwolves,L,04/06/2013,32:19,7,13,0.538,0,1,0.0,2,2,1.0,3,3,6,1,2,1,4,4,16,-8
+Detroit Pistons,C,Andre Drummond,Minnesota Timberwolves,L,04/06/2013,30:50,4,5,0.8,0,0,0.0,1,2,0.5,1,9,10,2,1,3,3,5,9,-17
+Detroit Pistons,G,Brandon Knight,Minnesota Timberwolves,L,04/06/2013,40:51,9,15,0.6,3,4,0.75,4,6,0.667,2,0,2,6,2,0,3,4,25,-1
+Detroit Pistons,G,Jose Calderon,Minnesota Timberwolves,L,04/06/2013,26:57,3,5,0.6,0,0,0.0,0,0,0.0,1,1,2,4,3,0,3,1,6,-16
+Detroit Pistons,F,Kyle Singler,Chicago Bulls,W,04/07/2013,21:02,3,6,0.5,2,3,0.667,0,0,0.0,0,1,1,0,1,1,0,2,8,-2
+Detroit Pistons,F,Greg Monroe,Chicago Bulls,W,04/07/2013,32:17,5,11,0.455,0,0,0.0,1,2,0.5,2,5,7,7,0,0,2,2,11,2
+Detroit Pistons,C,Andre Drummond,Chicago Bulls,W,04/07/2013,20:01,1,2,0.5,0,0,0.0,1,2,0.5,1,9,10,0,1,0,1,5,3,-3
+Detroit Pistons,G,Rodney Stuckey,Chicago Bulls,W,04/07/2013,35:45,5,12,0.417,1,2,0.5,3,3,1.0,1,1,2,5,1,0,2,2,14,7
+Detroit Pistons,G,Brandon Knight,Chicago Bulls,W,04/07/2013,37:19,7,12,0.583,1,4,0.25,5,7,0.714,0,2,2,5,0,0,3,2,20,10
+Detroit Pistons,F,Kyle Singler,Cleveland Cavaliers,W,04/10/2013,26:31,1,7,0.143,0,2,0.0,5,6,0.833,1,4,5,0,1,0,1,1,7,29
+Detroit Pistons,F,Greg Monroe,Cleveland Cavaliers,W,04/10/2013,38:05,10,18,0.556,0,0,0.0,3,5,0.6,0,8,8,4,1,0,0,2,23,19
+Detroit Pistons,C,Andre Drummond,Cleveland Cavaliers,W,04/10/2013,33:56,10,11,0.909,0,0,0.0,9,17,0.529,3,8,11,1,0,0,0,4,29,2
+Detroit Pistons,G,Rodney Stuckey,Cleveland Cavaliers,W,04/10/2013,37:08,5,8,0.625,2,2,1.0,6,9,0.667,0,1,1,7,1,0,1,1,18,19
+Detroit Pistons,G,Brandon Knight,Cleveland Cavaliers,W,04/10/2013,35:29,2,11,0.182,0,3,0.0,3,3,1.0,1,3,4,2,1,0,1,3,7,8
+Detroit Pistons,F,Kyle Singler,Charlotte Bobcats,W,04/12/2013,22:18,4,6,0.667,2,2,1.0,0,0,0.0,2,4,6,0,0,0,2,1,10,-2
+Detroit Pistons,F,Greg Monroe,Charlotte Bobcats,W,04/12/2013,32:02,4,9,0.444,0,0,0.0,4,4,1.0,3,3,6,4,4,0,2,2,12,10
+Detroit Pistons,C,Andre Drummond,Charlotte Bobcats,W,04/12/2013,27:33,7,13,0.538,0,0,0.0,1,4,0.25,5,4,9,0,2,1,5,4,15,4
+Detroit Pistons,G,Rodney Stuckey,Charlotte Bobcats,W,04/12/2013,25:57,1,7,0.143,1,1,1.0,1,1,1.0,0,2,2,9,0,0,2,3,4,8
+Detroit Pistons,G,Brandon Knight,Charlotte Bobcats,W,04/12/2013,33:31,6,9,0.667,3,3,1.0,4,6,0.667,2,5,7,2,1,0,5,2,19,7
+Detroit Pistons,F,Kyle Singler,Philadelphia 76ers,W,04/15/2013,30:44,6,11,0.545,2,6,0.333,2,2,1.0,0,5,5,0,3,0,0,0,16,18
+Detroit Pistons,F,Greg Monroe,Philadelphia 76ers,W,04/15/2013,36:49,10,14,0.714,0,0,0.0,7,7,1.0,6,10,16,4,0,1,2,1,27,17
+Detroit Pistons,C,Andre Drummond,Philadelphia 76ers,W,04/15/2013,32:43,2,4,0.5,0,0,0.0,1,4,0.25,3,5,8,0,2,1,3,6,5,-3
+Detroit Pistons,G,Rodney Stuckey,Philadelphia 76ers,W,04/15/2013,32:36,3,9,0.333,2,5,0.4,0,0,0.0,0,4,4,6,1,0,2,3,8,13
+Detroit Pistons,G,Brandon Knight,Philadelphia 76ers,W,04/15/2013,31:02,5,16,0.313,2,6,0.333,0,0,0.0,2,0,2,4,1,0,3,2,12,9
+Detroit Pistons,F,Kyle Singler,Brooklyn Nets,L,04/17/2013,21:39,2,5,0.4,0,2,0.0,0,0,0.0,1,3,4,2,1,1,1,2,4,-14
+Detroit Pistons,F,Greg Monroe,Brooklyn Nets,L,04/17/2013,28:44,5,10,0.5,0,0,0.0,2,4,0.5,3,9,12,3,2,0,5,4,12,-11
+Detroit Pistons,C,Andre Drummond,Brooklyn Nets,L,04/17/2013,30:14,5,7,0.714,0,0,0.0,3,3,1.0,1,2,3,1,3,3,1,4,13,-9
+Detroit Pistons,G,Rodney Stuckey,Brooklyn Nets,L,04/17/2013,26:39,5,8,0.625,1,3,0.333,0,0,0.0,0,0,0,2,1,0,2,1,11,-8
+Detroit Pistons,G,Brandon Knight,Brooklyn Nets,L,04/17/2013,35:23,3,14,0.214,0,3,0.0,1,3,0.333,0,1,1,5,2,0,2,1,7,-3

@@ -1,0 +1,73 @@
+{
+	"team": "Philadelphia 76ers",
+	"players": [
+		{
+			"name": "Evan Turner",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Thaddeus Young",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Lavoy Allen",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Jason Richardson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jrue Holiday",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Dorell Wright",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kwame Brown",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Nick Young",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Maalik Wayns",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Royal Ivey",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Spencer Hawes",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Charles Jenkins",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Damien Wilkins",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Arnett Moultrie",
+			"positions": [""]
+		},
+		{
+			"name": "Shelvin Mack",
+			"positions": [""]
+		},
+		{
+			"name": "Jeremy Pargo",
+			"positions": [""]
+		},
+		{
+			"name": "Justin Holiday",
+			"positions": [""]
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"team": "Charlotte Bobcats",
+	"players": [
+		{
+			"name": "Michael Kidd-Gilchrist",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Byron Mullens",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Brendan Haywood",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Gerald Henderso",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Kemba Walker",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jeff Taylor",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Bismack Biyombo",
+			"positions": ["Center"]
+		},
+		{
+			"name": "DeSagana Diop",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Hakim Warrick",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Tyrus Thomas",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jeff Adrien",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Josh McRoberts",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Ramon Sessions",
+			"positions": [""]
+		},
+		{
+			"name": "Ben Gordon",
+			"positions": [""]
+		},
+		{
+			"name": "Reggie Williams",
+			"positions": [""]
+		},
+		{
+			"name": "Matt Carroll",
+			"positions": [""]
+		},
+		{
+			"name": "Cory Higgins",
+			"positions": [""]
+		},
+		{
+			"name": "Jannero Pargo",
+			"positions": [""]
+		}
+	]
+}

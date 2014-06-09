@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Dallas Mavericks,F,Shawn Marion,Los Angeles Lakers,W,10/30/2012,32:53,5,11,0.455,0,0,0.0,1,1,1.0,2,7,9,4,1,1,2,4,11,-2
+Dallas Mavericks,F,Elton Brand,Los Angeles Lakers,W,10/30/2012,36:12,3,10,0.3,0,0,0.0,2,2,1.0,2,9,11,2,1,1,0,4,8,7
+Dallas Mavericks,C,Brandan Wright,Los Angeles Lakers,W,10/30/2012,19:31,5,5,1.0,0,0,0.0,4,5,0.8,1,4,5,0,0,3,3,3,14,4
+Dallas Mavericks,G,O.J. Mayo,Los Angeles Lakers,W,10/30/2012,31:10,4,13,0.308,2,4,0.5,2,2,1.0,1,0,1,3,1,0,2,0,12,-1
+Dallas Mavericks,G,Darren Collison,Los Angeles Lakers,W,10/30/2012,32:00,8,12,0.667,0,1,0.0,1,2,0.5,0,2,2,4,3,0,2,2,17,0
+Dallas Mavericks,F,Shawn Marion,Utah Jazz,L,10/31/2012,29:27,2,7,0.286,1,2,0.5,0,0,0.0,2,9,11,4,0,0,4,1,5,1
+Dallas Mavericks,F,Elton Brand,Utah Jazz,L,10/31/2012,25:42,2,8,0.25,0,0,0.0,1,2,0.5,3,4,7,2,3,2,2,3,5,-2
+Dallas Mavericks,C,Brandan Wright,Utah Jazz,L,10/31/2012,25:53,7,8,0.875,0,0,0.0,1,2,0.5,0,3,3,1,0,2,1,2,15,1
+Dallas Mavericks,G,O.J. Mayo,Utah Jazz,L,10/31/2012,30:39,3,9,0.333,3,5,0.6,3,4,0.75,0,4,4,3,0,0,2,4,12,-1
+Dallas Mavericks,G,Darren Collison,Utah Jazz,L,10/31/2012,32:41,6,12,0.5,2,2,1.0,3,3,1.0,1,3,4,7,1,0,1,2,17,-3
+Dallas Mavericks,F,Shawn Marion,Charlotte Bobcats,W,11/03/2012,21:48,3,3,1.0,0,0,0.0,2,3,0.667,2,7,9,2,0,2,5,1,8,6
+Dallas Mavericks,F,Elton Brand,Charlotte Bobcats,W,11/03/2012,20:04,1,5,0.2,0,0,0.0,0,0,0.0,1,1,2,3,0,1,2,2,2,10
+Dallas Mavericks,C,Brandan Wright,Charlotte Bobcats,W,11/03/2012,23:15,5,8,0.625,0,0,0.0,0,2,0.0,1,5,6,1,1,1,2,2,10,3
+Dallas Mavericks,G,O.J. Mayo,Charlotte Bobcats,W,11/03/2012,31:38,10,17,0.588,7,10,0.7,3,3,1.0,1,5,6,3,0,0,2,2,30,27
+Dallas Mavericks,G,Darren Collison,Charlotte Bobcats,W,11/03/2012,31:54,8,12,0.667,2,2,1.0,0,0,0.0,0,3,3,10,1,0,2,2,18,21
+Dallas Mavericks,F,Shawn Marion,Portland Trail Blazers,W,11/05/2012,24:15,4,6,0.667,0,0,0.0,0,0,0.0,0,7,7,3,1,2,1,1,8,5
+Dallas Mavericks,F,Elton Brand,Portland Trail Blazers,W,11/05/2012,23:33,4,7,0.571,0,0,0.0,0,0,0.0,1,4,5,2,1,0,1,5,8,12
+Dallas Mavericks,C,Brandan Wright,Portland Trail Blazers,W,11/05/2012,25:09,5,7,0.714,0,0,0.0,0,0,0.0,1,3,4,2,1,1,0,0,10,23
+Dallas Mavericks,G,O.J. Mayo,Portland Trail Blazers,W,11/05/2012,39:27,12,18,0.667,6,8,0.75,2,2,1.0,0,2,2,1,2,1,3,1,32,21
+Dallas Mavericks,G,Darren Collison,Portland Trail Blazers,W,11/05/2012,33:40,5,8,0.625,0,0,0.0,4,5,0.8,0,1,1,13,1,0,1,0,14,17
+Dallas Mavericks,F,Jae Crowder,Toronto Raptors,W,11/07/2012,27:14,3,4,0.75,2,3,0.667,0,0,0.0,0,4,4,1,0,0,0,2,8,1
+Dallas Mavericks,F,Brandan Wright,Toronto Raptors,W,11/07/2012,28:15,5,9,0.556,0,0,0.0,2,3,0.667,3,4,7,0,0,2,1,1,12,0
+Dallas Mavericks,C,Chris Kaman,Toronto Raptors,W,11/07/2012,32:60,8,15,0.533,0,0,0.0,6,8,0.75,2,6,8,3,0,1,2,4,22,1
+Dallas Mavericks,G,O.J. Mayo,Toronto Raptors,W,11/07/2012,38:04,8,17,0.471,3,6,0.5,3,6,0.5,0,5,5,6,1,0,0,1,22,10
+Dallas Mavericks,G,Darren Collison,Toronto Raptors,W,11/07/2012,35:18,5,13,0.385,0,2,0.0,5,6,0.833,0,2,2,2,1,0,0,0,15,-2
+Dallas Mavericks,F,Elton Brand,New York Knicks,L,11/09/2012,23:50,2,5,0.4,0,0,0.0,4,5,0.8,1,6,7,0,1,2,1,3,8,-17
+Dallas Mavericks,F,Jae Crowder,New York Knicks,L,11/09/2012,29:57,3,8,0.375,1,4,0.25,0,0,0.0,0,3,3,1,1,0,4,5,7,-5
+Dallas Mavericks,C,Brandan Wright,New York Knicks,L,11/09/2012,18:46,4,7,0.571,0,0,0.0,3,3,1.0,1,3,4,0,0,0,0,0,11,-4
+Dallas Mavericks,G,Darren Collison,New York Knicks,L,11/09/2012,30:06,1,8,0.125,0,2,0.0,2,2,1.0,1,2,3,8,1,0,4,2,4,-6
+Dallas Mavericks,G,O.J. Mayo,New York Knicks,L,11/09/2012,27:44,7,16,0.438,5,10,0.5,4,4,1.0,1,6,7,3,0,0,8,5,23,-5
+Dallas Mavericks,F,Jae Crowder,Charlotte Bobcats,L,11/10/2012,16:08,2,5,0.4,0,2,0.0,0,0,0.0,0,1,1,1,0,0,1,1,4,-20
+Dallas Mavericks,F,Elton Brand,Charlotte Bobcats,L,11/10/2012,25:54,3,7,0.429,0,0,0.0,4,4,1.0,2,3,5,2,2,2,2,1,10,-11
+Dallas Mavericks,C,Brandan Wright,Charlotte Bobcats,L,11/10/2012,22:34,3,7,0.429,0,0,0.0,2,4,0.5,2,6,8,3,2,0,1,1,8,-6
+Dallas Mavericks,G,O.J. Mayo,Charlotte Bobcats,L,11/10/2012,42:44,6,12,0.5,2,3,0.667,8,8,1.0,0,1,1,2,1,0,2,5,22,-12
+Dallas Mavericks,G,Darren Collison,Charlotte Bobcats,L,11/10/2012,39:10,7,14,0.5,0,0,0.0,0,0,0.0,0,3,3,6,0,0,5,4,14,-13
+Dallas Mavericks,F,Jae Crowder,Minnesota Timberwolves,L,11/12/2012,12:57,1,5,0.2,1,4,0.25,0,0,0.0,0,0,0,1,0,1,0,2,3,-9
+Dallas Mavericks,F,Elton Brand,Minnesota Timberwolves,L,11/12/2012,16:56,2,5,0.4,0,0,0.0,0,0,0.0,0,4,4,1,0,0,0,2,4,-11
+Dallas Mavericks,C,Brandan Wright,Minnesota Timberwolves,L,11/12/2012,9:25,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,0,1,1,0,0,2,-8
+Dallas Mavericks,G,O.J. Mayo,Minnesota Timberwolves,L,11/12/2012,34:02,7,18,0.389,2,4,0.5,2,2,1.0,2,3,5,1,0,0,2,3,18,-14
+Dallas Mavericks,G,Darren Collison,Minnesota Timberwolves,L,11/12/2012,33:23,5,10,0.5,0,0,0.0,11,12,0.917,0,2,2,5,2,0,2,2,21,-14
+Dallas Mavericks,F,Dahntay Jones,Washington Wizards,W,11/14/2012,14:49,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,1,2,1
+Dallas Mavericks,F,Elton Brand,Washington Wizards,W,11/14/2012,29:53,4,10,0.4,0,0,0.0,3,5,0.6,8,4,12,1,0,2,2,4,11,8
+Dallas Mavericks,C,Chris Kaman,Washington Wizards,W,11/14/2012,32:10,10,12,0.833,0,0,0.0,3,3,1.0,1,7,8,3,1,1,2,0,23,8
+Dallas Mavericks,G,O.J. Mayo,Washington Wizards,W,11/14/2012,37:52,9,15,0.6,1,3,0.333,6,8,0.75,2,0,2,4,0,1,2,1,25,0
+Dallas Mavericks,G,Darren Collison,Washington Wizards,W,11/14/2012,32:54,2,10,0.2,0,0,0.0,5,6,0.833,0,3,3,5,1,0,3,0,9,10
+Dallas Mavericks,F,Shawn Marion,Indiana Pacers,L,11/16/2012,25:16,1,5,0.2,0,0,0.0,0,0,0.0,1,6,7,3,0,0,2,1,2,-16
+Dallas Mavericks,F,Elton Brand,Indiana Pacers,L,11/16/2012,21:20,3,8,0.375,0,0,0.0,1,1,1.0,0,4,4,2,0,2,0,2,7,-9
+Dallas Mavericks,C,Chris Kaman,Indiana Pacers,L,11/16/2012,26:55,4,12,0.333,0,0,0.0,0,0,0.0,2,8,10,0,0,1,2,2,8,-12
+Dallas Mavericks,G,O.J. Mayo,Indiana Pacers,L,11/16/2012,32:11,6,13,0.462,2,3,0.667,5,6,0.833,1,2,3,3,0,0,3,2,19,-15
+Dallas Mavericks,G,Darren Collison,Indiana Pacers,L,11/16/2012,32:07,3,10,0.3,0,3,0.0,4,4,1.0,0,2,2,4,0,0,0,2,10,-19
+Dallas Mavericks,F,Elton Brand,Cleveland Cavaliers,W,11/17/2012,10:56,0,2,0.0,0,0,0.0,0,0,0.0,1,3,4,0,0,2,1,2,0,-5
+Dallas Mavericks,F,Shawn Marion,Cleveland Cavaliers,W,11/17/2012,32:36,4,7,0.571,0,1,0.0,2,2,1.0,2,8,10,4,1,0,2,2,10,10
+Dallas Mavericks,C,Chris Kaman,Cleveland Cavaliers,W,11/17/2012,32:16,6,12,0.5,0,0,0.0,3,4,0.75,1,7,8,1,1,6,3,2,15,7
+Dallas Mavericks,G,O.J. Mayo,Cleveland Cavaliers,W,11/17/2012,33:10,5,9,0.556,3,5,0.6,6,6,1.0,0,1,1,3,1,0,4,2,19,1
+Dallas Mavericks,G,Darren Collison,Cleveland Cavaliers,W,11/17/2012,30:53,5,8,0.625,0,1,0.0,4,5,0.8,1,1,2,8,1,0,2,0,14,3
+Dallas Mavericks,F,Shawn Marion,Golden State Warriors,L,11/19/2012,33:33,3,9,0.333,1,2,0.5,0,0,0.0,1,0,1,3,1,0,2,1,7,-16
+Dallas Mavericks,F,Elton Brand,Golden State Warriors,L,11/19/2012,14:06,2,6,0.333,0,1,0.0,1,2,0.5,1,2,3,1,0,2,2,0,5,-5
+Dallas Mavericks,C,Chris Kaman,Golden State Warriors,L,11/19/2012,35:24,5,11,0.455,0,0,0.0,8,9,0.889,3,14,17,1,1,2,0,2,18,-7
+Dallas Mavericks,G,O.J. Mayo,Golden State Warriors,L,11/19/2012,40:34,11,21,0.524,3,6,0.5,2,2,1.0,0,5,5,4,2,0,1,2,27,-11
+Dallas Mavericks,G,Darren Collison,Golden State Warriors,L,11/19/2012,38:19,2,11,0.182,1,1,1.0,2,2,1.0,0,0,0,5,3,0,5,5,7,-9
+Dallas Mavericks,F,Shawn Marion,New York Knicks,W,11/21/2012,33:52,3,6,0.5,1,2,0.5,0,0,0.0,3,4,7,3,2,0,3,1,7,3
+Dallas Mavericks,F,Troy Murphy,New York Knicks,W,11/21/2012,17:46,0,3,0.0,0,3,0.0,2,2,1.0,0,5,5,0,0,0,0,0,2,-10
+Dallas Mavericks,C,Chris Kaman,New York Knicks,W,11/21/2012,27:31,5,10,0.5,0,0,0.0,0,1,0.0,1,4,5,1,0,1,3,4,10,-14
+Dallas Mavericks,G,O.J. Mayo,New York Knicks,W,11/21/2012,35:50,10,17,0.588,3,7,0.429,4,5,0.8,0,0,0,2,1,0,1,1,27,-2
+Dallas Mavericks,G,Darren Collison,New York Knicks,W,11/21/2012,33:30,7,11,0.636,1,2,0.5,4,4,1.0,0,2,2,7,1,0,3,0,19,-4
+Dallas Mavericks,F,Shawn Marion,Los Angeles Lakers,L,11/24/2012,27:42,4,8,0.5,1,2,0.5,1,1,1.0,1,7,8,2,2,0,3,1,10,-27
+Dallas Mavericks,F,Elton Brand,Los Angeles Lakers,L,11/24/2012,17:15,0,3,0.0,0,0,0.0,0,0,0.0,1,3,4,1,0,1,1,5,0,-17
+Dallas Mavericks,C,Brandan Wright,Los Angeles Lakers,L,11/24/2012,13:27,3,6,0.5,0,0,0.0,0,0,0.0,1,0,1,1,0,0,0,0,6,-11
+Dallas Mavericks,G,O.J. Mayo,Los Angeles Lakers,L,11/24/2012,28:50,5,15,0.333,0,5,0.0,3,3,1.0,1,2,3,1,0,1,2,4,13,-30
+Dallas Mavericks,G,Darren Collison,Los Angeles Lakers,L,11/24/2012,24:22,1,10,0.1,0,2,0.0,0,0,0.0,0,2,2,4,1,0,4,2,2,-18
+Dallas Mavericks,F,Shawn Marion,Philadelphia 76ers,L,11/27/2012,32:24,6,12,0.5,1,3,0.333,4,4,1.0,0,8,8,1,0,0,0,3,17,-5
+Dallas Mavericks,F,Jae Crowder,Philadelphia 76ers,L,11/27/2012,24:02,1,5,0.2,0,3,0.0,0,0,0.0,1,3,4,2,1,0,0,4,2,-14
+Dallas Mavericks,C,Chris Kaman,Philadelphia 76ers,L,11/27/2012,28:58,9,13,0.692,0,0,0.0,2,2,1.0,1,3,4,0,0,0,3,3,20,-10
+Dallas Mavericks,G,O.J. Mayo,Philadelphia 76ers,L,11/27/2012,34:46,4,10,0.4,1,3,0.333,2,4,0.5,1,4,5,7,0,0,3,1,11,-4
+Dallas Mavericks,G,Dominique Jones,Philadelphia 76ers,L,11/27/2012,17:41,0,5,0.0,0,1,0.0,2,2,1.0,0,1,1,3,1,0,4,2,2,-11
+Dallas Mavericks,F,Shawn Marion,Chicago Bulls,L,11/28/2012,22:41,7,11,0.636,0,1,0.0,4,4,1.0,2,1,3,0,0,2,2,0,18,-7
+Dallas Mavericks,F,Jae Crowder,Chicago Bulls,L,11/28/2012,26:01,1,7,0.143,0,4,0.0,0,0,0.0,0,3,3,1,2,1,1,3,2,-7
+Dallas Mavericks,C,Chris Kaman,Chicago Bulls,L,11/28/2012,21:05,4,14,0.286,0,1,0.0,2,2,1.0,3,1,4,1,0,0,4,1,10,-19
+Dallas Mavericks,G,O.J. Mayo,Chicago Bulls,L,11/28/2012,34:35,2,9,0.222,0,2,0.0,0,0,0.0,0,5,5,4,3,1,2,3,4,-16
+Dallas Mavericks,G,Dominique Jones,Chicago Bulls,L,11/28/2012,24:23,4,9,0.444,0,1,0.0,2,2,1.0,0,1,1,5,1,0,1,3,10,-10
+Dallas Mavericks,F,Shawn Marion,Detroit Pistons,W,12/01/2012,30:55,3,8,0.375,0,0,0.0,1,2,0.5,1,8,9,4,2,1,1,1,7,4
+Dallas Mavericks,F,Jae Crowder,Detroit Pistons,W,12/01/2012,30:25,1,8,0.125,0,4,0.0,2,3,0.667,0,4,4,1,3,1,3,2,4,0
+Dallas Mavericks,C,Chris Kaman,Detroit Pistons,W,12/01/2012,18:44,5,11,0.455,0,0,0.0,0,0,0.0,5,4,9,1,0,3,4,4,10,11
+Dallas Mavericks,G,O.J. Mayo,Detroit Pistons,W,12/01/2012,35:09,10,21,0.476,6,9,0.667,1,1,1.0,2,3,5,4,0,0,1,2,27,13
+Dallas Mavericks,G,Derek Fisher,Detroit Pistons,W,12/01/2012,24:22,1,8,0.125,0,1,0.0,0,0,0.0,0,2,2,2,2,0,3,2,2,12
+Dallas Mavericks,F,Shawn Marion,Los Angeles Clippers,L,12/05/2012,28:56,7,13,0.538,0,0,0.0,0,0,0.0,4,1,5,2,0,0,0,2,14,-16
+Dallas Mavericks,F,Jae Crowder,Los Angeles Clippers,L,12/05/2012,17:33,0,6,0.0,0,3,0.0,2,2,1.0,1,0,1,3,2,1,0,2,2,-6
+Dallas Mavericks,C,Chris Kaman,Los Angeles Clippers,L,12/05/2012,28:37,6,13,0.462,0,0,0.0,2,2,1.0,1,5,6,1,1,0,4,2,14,-17
+Dallas Mavericks,G,O.J. Mayo,Los Angeles Clippers,L,12/05/2012,33:31,4,12,0.333,0,4,0.0,3,5,0.6,0,4,4,7,3,1,4,1,11,-17
+Dallas Mavericks,G,Derek Fisher,Los Angeles Clippers,L,12/05/2012,27:23,5,11,0.455,3,5,0.6,2,2,1.0,0,1,1,2,0,0,1,2,15,2
+Dallas Mavericks,F,Dahntay Jones,Phoenix Suns,W,12/06/2012,15:20,0,1,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,3,0,-5
+Dallas Mavericks,F,Shawn Marion,Phoenix Suns,W,12/06/2012,23:19,5,9,0.556,0,0,0.0,0,0,0.0,3,2,5,1,1,0,0,2,10,12
+Dallas Mavericks,C,Elton Brand,Phoenix Suns,W,12/06/2012,27:17,3,7,0.429,0,0,0.0,0,0,0.0,3,4,7,1,1,2,1,4,6,-1
+Dallas Mavericks,G,O.J. Mayo,Phoenix Suns,W,12/06/2012,40:01,9,17,0.529,3,5,0.6,2,2,1.0,0,5,5,5,0,0,6,5,23,4
+Dallas Mavericks,G,Derek Fisher,Phoenix Suns,W,12/06/2012,21:29,0,3,0.0,0,0,0.0,2,4,0.5,0,3,3,3,0,0,3,2,2,6
+Dallas Mavericks,F,Dahntay Jones,Houston Rockets,W,12/08/2012,20:44,3,7,0.429,0,1,0.0,2,2,1.0,0,0,0,0,1,0,0,1,8,4
+Dallas Mavericks,F,Brandan Wright,Houston Rockets,W,12/08/2012,29:55,4,6,0.667,0,0,0.0,0,0,0.0,2,4,6,3,0,2,1,0,8,22
+Dallas Mavericks,C,Chris Kaman,Houston Rockets,W,12/08/2012,18:35,9,13,0.692,0,0,0.0,2,2,1.0,3,4,7,0,0,0,2,2,20,4
+Dallas Mavericks,G,O.J. Mayo,Houston Rockets,W,12/08/2012,42:02,15,26,0.577,6,9,0.667,4,4,1.0,1,7,8,3,2,0,2,2,40,20
+Dallas Mavericks,G,Derek Fisher,Houston Rockets,W,12/08/2012,29:55,1,5,0.2,1,3,0.333,4,4,1.0,0,1,1,5,0,0,1,2,7,18
+Dallas Mavericks,F,Dahntay Jones,Sacramento Kings,W,12/10/2012,29:27,3,6,0.5,0,1,0.0,5,8,0.625,0,3,3,4,0,0,1,1,11,13
+Dallas Mavericks,F,Brandan Wright,Sacramento Kings,W,12/10/2012,24:27,4,9,0.444,0,0,0.0,0,0,0.0,2,2,4,1,0,1,0,2,8,-3
+Dallas Mavericks,C,Chris Kaman,Sacramento Kings,W,12/10/2012,21:28,9,13,0.692,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,1,18,-3
+Dallas Mavericks,G,O.J. Mayo,Sacramento Kings,W,12/10/2012,28:23,6,9,0.667,3,4,0.75,4,5,0.8,1,6,7,4,1,0,2,0,19,8
+Dallas Mavericks,G,Derek Fisher,Sacramento Kings,W,12/10/2012,22:44,3,6,0.5,1,3,0.333,4,4,1.0,0,2,2,6,0,0,0,4,11,-6
+Dallas Mavericks,F,Dahntay Jones,Boston Celtics,L,12/12/2012,31:33,5,10,0.5,0,3,0.0,2,2,1.0,0,4,4,0,0,1,0,5,12,-15
+Dallas Mavericks,F,Shawn Marion,Boston Celtics,L,12/12/2012,44:34,6,14,0.429,0,1,0.0,4,5,0.8,4,7,11,7,0,2,2,2,16,5
+Dallas Mavericks,C,Chris Kaman,Boston Celtics,L,12/12/2012,24:06,5,7,0.714,0,0,0.0,2,2,1.0,0,5,5,1,0,0,1,1,12,-5
+Dallas Mavericks,G,O.J. Mayo,Boston Celtics,L,12/12/2012,51:55,10,19,0.526,3,7,0.429,1,2,0.5,0,6,6,3,2,0,9,4,24,4
+Dallas Mavericks,G,Derek Fisher,Boston Celtics,L,12/12/2012,35:42,4,12,0.333,2,3,0.667,0,0,0.0,0,3,3,4,1,2,3,6,10,-1
+Dallas Mavericks,F,Dahntay Jones,Toronto Raptors,L,12/14/2012,24:28,1,4,0.25,0,1,0.0,0,1,0.0,0,1,1,1,0,0,0,0,2,-10
+Dallas Mavericks,F,Shawn Marion,Toronto Raptors,L,12/14/2012,29:20,4,7,0.571,0,1,0.0,4,4,1.0,1,12,13,3,2,0,1,2,12,-18
+Dallas Mavericks,C,Chris Kaman,Toronto Raptors,L,12/14/2012,26:44,7,18,0.389,0,0,0.0,1,2,0.5,1,4,5,0,0,1,3,2,15,-13
+Dallas Mavericks,G,O.J. Mayo,Toronto Raptors,L,12/14/2012,28:35,2,8,0.25,0,4,0.0,6,6,1.0,0,2,2,3,1,0,6,3,10,-9
+Dallas Mavericks,G,Derek Fisher,Toronto Raptors,L,12/14/2012,33:01,3,9,0.333,0,3,0.0,2,2,1.0,0,3,3,5,0,0,2,0,8,-22
+Dallas Mavericks,F,Dahntay Jones,Minnesota Timberwolves,L,12/15/2012,15:44,1,3,0.333,0,0,0.0,2,2,1.0,0,1,1,2,0,0,1,3,4,6
+Dallas Mavericks,F,Shawn Marion,Minnesota Timberwolves,L,12/15/2012,34:34,7,14,0.5,0,0,0.0,0,0,0.0,5,5,10,5,1,1,1,1,14,-12
+Dallas Mavericks,C,Chris Kaman,Minnesota Timberwolves,L,12/15/2012,25:50,5,12,0.417,0,0,0.0,1,2,0.5,1,5,6,0,2,2,2,3,11,-5
+Dallas Mavericks,G,O.J. Mayo,Minnesota Timberwolves,L,12/15/2012,43:59,7,16,0.438,2,3,0.667,4,4,1.0,2,3,5,6,1,0,2,3,20,-7
+Dallas Mavericks,G,Derek Fisher,Minnesota Timberwolves,L,12/15/2012,28:46,5,8,0.625,3,5,0.6,7,7,1.0,0,0,0,3,2,0,5,6,20,4
+Dallas Mavericks,F,Dahntay Jones,Philadelphia 76ers,W,12/18/2012,26:25,3,7,0.429,0,2,0.0,2,2,1.0,0,4,4,3,0,0,1,2,8,6
+Dallas Mavericks,F,Shawn Marion,Philadelphia 76ers,W,12/18/2012,34:06,7,11,0.636,0,0,0.0,0,0,0.0,4,5,9,1,2,1,3,0,14,6
+Dallas Mavericks,C,Chris Kaman,Philadelphia 76ers,W,12/18/2012,30:04,9,15,0.6,0,0,0.0,2,4,0.5,0,7,7,0,0,1,2,4,20,8
+Dallas Mavericks,G,O.J. Mayo,Philadelphia 76ers,W,12/18/2012,36:12,8,12,0.667,2,2,1.0,8,9,0.889,0,3,3,8,3,0,2,2,26,6
+Dallas Mavericks,G,Derek Fisher,Philadelphia 76ers,W,12/18/2012,5:09,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,2,2
+Dallas Mavericks,F,Dahntay Jones,Miami Heat,L,12/20/2012,16:07,3,6,0.5,1,2,0.5,5,5,1.0,0,0,0,0,0,0,1,1,12,-8
+Dallas Mavericks,F,Shawn Marion,Miami Heat,L,12/20/2012,28:59,5,14,0.357,0,0,0.0,0,0,0.0,4,5,9,0,2,0,0,2,10,-23
+Dallas Mavericks,C,Chris Kaman,Miami Heat,L,12/20/2012,18:57,4,10,0.4,0,0,0.0,0,0,0.0,1,1,2,0,0,0,2,0,8,-27
+Dallas Mavericks,G,O.J. Mayo,Miami Heat,L,12/20/2012,30:05,3,14,0.214,0,5,0.0,2,2,1.0,0,5,5,2,2,2,1,2,8,-24
+Dallas Mavericks,G,Darren Collison,Miami Heat,L,12/20/2012,26:48,4,8,0.5,0,1,0.0,3,4,0.75,0,3,3,5,1,0,2,1,11,-10
+Dallas Mavericks,F,Dahntay Jones,Memphis Grizzlies,L,12/21/2012,25:45,2,2,1.0,1,1,1.0,1,1,1.0,0,0,0,3,1,0,1,4,6,-13
+Dallas Mavericks,F,Shawn Marion,Memphis Grizzlies,L,12/21/2012,37:23,6,11,0.545,0,1,0.0,2,2,1.0,1,10,11,2,0,3,0,0,14,-8
+Dallas Mavericks,C,Chris Kaman,Memphis Grizzlies,L,12/21/2012,17:58,4,12,0.333,0,0,0.0,0,0,0.0,2,4,6,0,0,0,5,0,8,-17
+Dallas Mavericks,G,O.J. Mayo,Memphis Grizzlies,L,12/21/2012,35:21,3,11,0.273,1,4,0.25,3,4,0.75,2,1,3,4,1,1,5,1,10,-18
+Dallas Mavericks,G,Darren Collison,Memphis Grizzlies,L,12/21/2012,10:10,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,2,0,0,1,2,0,-14
+Dallas Mavericks,F,Dahntay Jones,San Antonio Spurs,L,12/23/2012,18:31,2,4,0.5,1,1,1.0,2,4,0.5,1,2,3,1,0,0,0,2,7,-7
+Dallas Mavericks,F,Shawn Marion,San Antonio Spurs,L,12/23/2012,23:24,2,7,0.286,0,1,0.0,0,0,0.0,0,5,5,2,0,0,3,0,4,-26
+Dallas Mavericks,C,Chris Kaman,San Antonio Spurs,L,12/23/2012,20:40,5,9,0.556,0,0,0.0,0,0,0.0,0,3,3,2,1,0,3,0,10,-21
+Dallas Mavericks,G,O.J. Mayo,San Antonio Spurs,L,12/23/2012,28:21,3,8,0.375,0,2,0.0,1,2,0.5,1,1,2,6,2,0,6,2,7,-31
+Dallas Mavericks,G,Dominique Jones,San Antonio Spurs,L,12/23/2012,20:18,1,7,0.143,0,1,0.0,3,6,0.5,1,1,2,4,2,0,2,1,5,-20
+Dallas Mavericks,F,Dahntay Jones,Oklahoma City Thunder,L,12/27/2012,14:60,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,0,1,0,0,3,0,7
+Dallas Mavericks,F,Shawn Marion,Oklahoma City Thunder,L,12/27/2012,34:06,5,12,0.417,0,1,0.0,4,4,1.0,3,6,9,7,0,1,1,3,14,-8
+Dallas Mavericks,C,Chris Kaman,Oklahoma City Thunder,L,12/27/2012,30:07,7,14,0.5,0,0,0.0,3,3,1.0,2,6,8,0,0,2,0,1,17,-9
+Dallas Mavericks,G,O.J. Mayo,Oklahoma City Thunder,L,12/27/2012,35:48,1,7,0.143,1,5,0.2,1,3,0.333,0,3,3,5,1,1,6,4,4,-7
+Dallas Mavericks,G,Darren Collison,Oklahoma City Thunder,L,12/27/2012,40:03,13,22,0.591,4,4,1.0,2,2,1.0,1,4,5,4,4,0,3,0,32,-9
+Dallas Mavericks,F,Dahntay Jones,Denver Nuggets,L,12/28/2012,9:59,0,4,0.0,0,1,0.0,2,4,0.5,1,1,2,0,0,0,0,3,2,-21
+Dallas Mavericks,F,Shawn Marion,Denver Nuggets,L,12/28/2012,27:48,3,8,0.375,0,1,0.0,0,0,0.0,2,5,7,1,1,0,0,1,6,-9
+Dallas Mavericks,C,Chris Kaman,Denver Nuggets,L,12/28/2012,19:06,6,14,0.429,0,0,0.0,0,0,0.0,2,6,8,1,0,0,0,1,12,-9
+Dallas Mavericks,G,O.J. Mayo,Denver Nuggets,L,12/28/2012,37:46,6,13,0.462,1,5,0.2,2,2,1.0,1,1,2,3,5,0,6,1,15,-7
+Dallas Mavericks,G,Darren Collison,Denver Nuggets,L,12/28/2012,32:33,5,11,0.455,0,2,0.0,0,0,0.0,0,3,3,4,1,0,1,3,10,-19
+Dallas Mavericks,F,Vince Carter,San Antonio Spurs,L,12/30/2012,24:39,5,11,0.455,1,4,0.25,2,2,1.0,2,2,4,1,1,0,2,3,13,-28
+Dallas Mavericks,F,Shawn Marion,San Antonio Spurs,L,12/30/2012,25:31,0,4,0.0,0,0,0.0,2,2,1.0,2,5,7,2,1,3,1,3,2,-15
+Dallas Mavericks,C,Chris Kaman,San Antonio Spurs,L,12/30/2012,20:44,6,12,0.5,0,0,0.0,1,2,0.5,4,5,9,2,0,0,0,3,13,-5
+Dallas Mavericks,G,O.J. Mayo,San Antonio Spurs,L,12/30/2012,30:41,4,14,0.286,0,4,0.0,0,0,0.0,0,1,1,2,2,0,2,3,8,-12
+Dallas Mavericks,G,Darren Collison,San Antonio Spurs,L,12/30/2012,32:34,9,13,0.692,0,0,0.0,0,0,0.0,0,5,5,8,1,0,3,0,18,-12
+Dallas Mavericks,F,Vince Carter,Washington Wizards,W,01/01/2013,29:48,9,14,0.643,2,5,0.4,3,4,0.75,1,3,4,2,1,0,2,4,23,0
+Dallas Mavericks,F,Shawn Marion,Washington Wizards,W,01/01/2013,30:28,5,7,0.714,1,1,1.0,0,0,0.0,3,11,14,4,1,0,2,5,11,0
+Dallas Mavericks,C,Chris Kaman,Washington Wizards,W,01/01/2013,26:03,6,11,0.545,0,0,0.0,0,0,0.0,0,7,7,1,1,3,1,4,12,11
+Dallas Mavericks,G,O.J. Mayo,Washington Wizards,W,01/01/2013,35:47,6,10,0.6,3,4,0.75,0,0,0.0,1,0,1,5,2,0,0,3,15,21
+Dallas Mavericks,G,Darren Collison,Washington Wizards,W,01/01/2013,38:54,4,13,0.308,1,4,0.25,6,7,0.857,0,3,3,8,0,0,1,2,15,19
+Dallas Mavericks,F,Vince Carter,Miami Heat,L,01/02/2013,36:04,5,16,0.313,1,8,0.125,4,4,1.0,1,8,9,3,1,1,3,3,15,-1
+Dallas Mavericks,F,Shawn Marion,Miami Heat,L,01/02/2013,32:27,2,8,0.25,0,0,0.0,2,2,1.0,3,6,9,1,1,0,1,1,6,-16
+Dallas Mavericks,C,Chris Kaman,Miami Heat,L,01/02/2013,28:28,6,13,0.462,0,0,0.0,2,2,1.0,3,7,10,2,0,3,0,5,14,-5
+Dallas Mavericks,G,O.J. Mayo,Miami Heat,L,01/02/2013,45:58,12,21,0.571,4,10,0.4,2,2,1.0,0,3,3,6,2,0,6,3,30,-19
+Dallas Mavericks,G,Darren Collison,Miami Heat,L,01/02/2013,40:08,4,9,0.444,1,2,0.5,2,3,0.667,0,4,4,3,1,0,1,2,11,-18
+Dallas Mavericks,F,Dirk Nowitzki,New Orleans Hornets,L,01/05/2013,34:05,7,16,0.438,2,3,0.667,4,6,0.667,0,6,6,2,1,0,2,2,20,-2
+Dallas Mavericks,F,Shawn Marion,New Orleans Hornets,L,01/05/2013,34:38,4,12,0.333,0,2,0.0,0,0,0.0,3,6,9,4,0,0,1,4,8,1
+Dallas Mavericks,C,Chris Kaman,New Orleans Hornets,L,01/05/2013,19:34,2,3,0.667,0,0,0.0,0,0,0.0,0,5,5,1,0,2,2,1,4,-1
+Dallas Mavericks,G,O.J. Mayo,New Orleans Hornets,L,01/05/2013,34:42,5,17,0.294,1,7,0.143,3,3,1.0,1,3,4,0,2,1,1,5,14,-2
+Dallas Mavericks,G,Darren Collison,New Orleans Hornets,L,01/05/2013,38:23,5,7,0.714,0,0,0.0,2,2,1.0,0,5,5,5,1,0,2,2,12,2
+Dallas Mavericks,F,Shawn Marion,Utah Jazz,L,01/07/2013,28:01,3,8,0.375,0,0,0.0,0,0,0.0,1,8,9,1,1,0,0,0,6,-5
+Dallas Mavericks,F,Dirk Nowitzki,Utah Jazz,L,01/07/2013,32:09,7,14,0.5,2,5,0.4,4,4,1.0,0,5,5,5,0,1,3,1,20,-6
+Dallas Mavericks,C,Chris Kaman,Utah Jazz,L,01/07/2013,27:26,5,12,0.417,0,0,0.0,4,4,1.0,2,7,9,0,1,1,0,4,14,-8
+Dallas Mavericks,G,O.J. Mayo,Utah Jazz,L,01/07/2013,37:54,5,14,0.357,1,8,0.125,2,2,1.0,0,1,1,5,0,1,1,4,13,-1
+Dallas Mavericks,G,Darren Collison,Utah Jazz,L,01/07/2013,29:19,3,8,0.375,0,0,0.0,5,5,1.0,0,3,3,2,1,0,2,2,11,-5
+Dallas Mavericks,F,Shawn Marion,Los Angeles Clippers,L,01/09/2013,27:26,5,10,0.5,1,2,0.5,0,0,0.0,1,6,7,2,1,0,2,2,11,8
+Dallas Mavericks,F,Dirk Nowitzki,Los Angeles Clippers,L,01/09/2013,33:02,5,13,0.385,1,3,0.333,4,6,0.667,2,4,6,4,1,1,4,2,15,-10
+Dallas Mavericks,C,Chris Kaman,Los Angeles Clippers,L,01/09/2013,24:18,4,12,0.333,0,0,0.0,1,2,0.5,2,2,4,0,1,0,0,2,9,-5
+Dallas Mavericks,G,O.J. Mayo,Los Angeles Clippers,L,01/09/2013,37:31,6,15,0.4,1,6,0.167,4,4,1.0,0,1,1,3,3,0,1,4,17,6
+Dallas Mavericks,G,Darren Collison,Los Angeles Clippers,L,01/09/2013,37:03,9,15,0.6,2,4,0.5,2,2,1.0,1,3,4,6,0,0,2,1,22,2
+Dallas Mavericks,F,Shawn Marion,Sacramento Kings,W,01/10/2013,27:50,7,12,0.583,1,3,0.333,4,4,1.0,3,7,10,1,2,0,1,2,19,-4
+Dallas Mavericks,F,Dirk Nowitzki,Sacramento Kings,W,01/10/2013,40:24,7,21,0.333,1,5,0.2,2,3,0.667,4,5,9,3,1,0,2,3,17,13
+Dallas Mavericks,C,Chris Kaman,Sacramento Kings,W,01/10/2013,17:23,2,10,0.2,0,0,0.0,2,2,1.0,2,2,4,0,0,1,0,1,6,-4
+Dallas Mavericks,G,O.J. Mayo,Sacramento Kings,W,01/10/2013,41:28,8,15,0.533,1,4,0.25,7,8,0.875,0,10,10,5,1,0,1,1,24,6
+Dallas Mavericks,G,Darren Collison,Sacramento Kings,W,01/10/2013,31:05,4,9,0.444,1,2,0.5,2,2,1.0,0,3,3,4,1,0,4,3,11,-1
+Dallas Mavericks,F,Shawn Marion,Memphis Grizzlies,W,01/12/2013,26:02,9,13,0.692,2,3,0.667,0,0,0.0,0,4,4,1,0,0,1,2,20,17
+Dallas Mavericks,F,Dirk Nowitzki,Memphis Grizzlies,W,01/12/2013,27:45,5,8,0.625,3,3,1.0,4,7,0.571,0,6,6,3,0,1,0,1,17,16
+Dallas Mavericks,C,Chris Kaman,Memphis Grizzlies,W,01/12/2013,23:22,7,13,0.538,0,0,0.0,0,0,0.0,3,4,7,1,0,1,1,3,14,15
+Dallas Mavericks,G,O.J. Mayo,Memphis Grizzlies,W,01/12/2013,28:56,4,7,0.571,2,2,1.0,1,1,1.0,1,2,3,4,1,1,1,2,11,21
+Dallas Mavericks,G,Darren Collison,Memphis Grizzlies,W,01/12/2013,25:05,4,8,0.5,1,1,1.0,1,1,1.0,0,1,1,6,4,0,0,1,10,13
+Dallas Mavericks,F,Shawn Marion,Minnesota Timberwolves,W,01/14/2013,26:30,2,8,0.25,0,1,0.0,1,2,0.5,3,5,8,3,0,0,1,1,5,22
+Dallas Mavericks,F,Dirk Nowitzki,Minnesota Timberwolves,W,01/14/2013,33:18,5,12,0.417,0,3,0.0,0,0,0.0,0,2,2,6,0,0,0,0,10,5
+Dallas Mavericks,C,Chris Kaman,Minnesota Timberwolves,W,01/14/2013,15:12,5,6,0.833,0,0,0.0,0,0,0.0,0,3,3,2,0,0,0,4,10,12
+Dallas Mavericks,G,O.J. Mayo,Minnesota Timberwolves,W,01/14/2013,38:26,8,11,0.727,3,4,0.75,1,1,1.0,0,7,7,9,2,0,1,2,20,30
+Dallas Mavericks,G,Darren Collison,Minnesota Timberwolves,W,01/14/2013,35:53,7,11,0.636,1,1,1.0,8,8,1.0,0,2,2,9,3,0,3,2,23,27
+Dallas Mavericks,F,Shawn Marion,Houston Rockets,W,01/16/2013,33:29,8,13,0.615,0,0,0.0,2,6,0.333,5,4,9,3,0,0,1,1,18,-2
+Dallas Mavericks,F,Dirk Nowitzki,Houston Rockets,W,01/16/2013,33:26,7,14,0.5,1,4,0.25,4,4,1.0,0,8,8,1,0,1,1,3,19,5
+Dallas Mavericks,C,Chris Kaman,Houston Rockets,W,01/16/2013,21:26,3,6,0.5,0,0,0.0,0,0,0.0,1,5,6,1,0,1,2,0,6,5
+Dallas Mavericks,G,O.J. Mayo,Houston Rockets,W,01/16/2013,32:45,3,14,0.214,0,3,0.0,12,13,0.923,2,4,6,8,2,1,2,4,18,-5
+Dallas Mavericks,G,Darren Collison,Houston Rockets,W,01/16/2013,31:14,3,9,0.333,2,4,0.5,2,2,1.0,0,2,2,3,2,0,2,2,10,-12
+Dallas Mavericks,F,Shawn Marion,Oklahoma City Thunder,L,01/18/2013,27:44,4,5,0.8,0,0,0.0,0,0,0.0,2,5,7,2,0,1,4,5,8,-11
+Dallas Mavericks,F,Dirk Nowitzki,Oklahoma City Thunder,L,01/18/2013,40:42,5,19,0.263,0,2,0.0,8,9,0.889,1,8,9,1,1,0,1,0,18,-2
+Dallas Mavericks,C,Chris Kaman,Oklahoma City Thunder,L,01/18/2013,16:23,3,5,0.6,0,0,0.0,0,0,0.0,2,1,3,2,1,0,3,2,6,-2
+Dallas Mavericks,G,O.J. Mayo,Oklahoma City Thunder,L,01/18/2013,44:54,6,16,0.375,1,3,0.333,5,6,0.833,1,2,3,7,2,0,3,2,18,-5
+Dallas Mavericks,G,Darren Collison,Oklahoma City Thunder,L,01/18/2013,30:36,5,8,0.625,0,1,0.0,5,6,0.833,0,4,4,6,3,0,1,2,15,0
+Dallas Mavericks,F,Shawn Marion,Orlando Magic,W,01/20/2013,33:01,10,16,0.625,0,0,0.0,0,0,0.0,3,7,10,4,3,0,1,0,20,-1
+Dallas Mavericks,F,Dirk Nowitzki,Orlando Magic,W,01/20/2013,31:44,4,11,0.364,1,2,0.5,3,4,0.75,1,6,7,4,0,3,1,2,12,-7
+Dallas Mavericks,C,Chris Kaman,Orlando Magic,W,01/20/2013,22:41,5,11,0.455,0,0,0.0,3,4,0.75,1,7,8,0,1,1,1,2,13,-2
+Dallas Mavericks,G,O.J. Mayo,Orlando Magic,W,01/20/2013,34:35,6,10,0.6,1,2,0.5,2,2,1.0,0,3,3,4,0,0,2,2,15,4
+Dallas Mavericks,G,Darren Collison,Orlando Magic,W,01/20/2013,35:07,4,6,0.667,2,3,0.667,1,1,1.0,0,1,1,9,0,0,1,1,11,3
+Dallas Mavericks,F,Shawn Marion,San Antonio Spurs,L,01/25/2013,20:03,1,5,0.2,0,1,0.0,0,0,0.0,1,3,4,1,1,1,1,0,2,-28
+Dallas Mavericks,F,Dirk Nowitzki,San Antonio Spurs,L,01/25/2013,34:20,6,14,0.429,0,2,0.0,3,3,1.0,1,3,4,4,0,0,2,1,15,-14
+Dallas Mavericks,C,Elton Brand,San Antonio Spurs,L,01/25/2013,24:47,4,10,0.4,0,0,0.0,0,0,0.0,5,8,13,0,0,2,1,2,8,-8
+Dallas Mavericks,G,O.J. Mayo,San Antonio Spurs,L,01/25/2013,32:42,7,15,0.467,0,4,0.0,0,0,0.0,0,2,2,7,0,0,2,1,14,-22
+Dallas Mavericks,G,Darren Collison,San Antonio Spurs,L,01/25/2013,28:34,5,10,0.5,1,2,0.5,2,2,1.0,1,2,3,2,2,0,2,2,13,-18
+Dallas Mavericks,F,Shawn Marion,Phoenix Suns,W,01/27/2013,29:50,9,19,0.474,0,2,0.0,0,0,0.0,5,4,9,5,1,0,2,0,18,11
+Dallas Mavericks,F,Dirk Nowitzki,Phoenix Suns,W,01/27/2013,30:20,7,14,0.5,1,3,0.333,3,4,0.75,1,6,7,1,0,0,0,3,18,4
+Dallas Mavericks,C,Bernard James,Phoenix Suns,W,01/27/2013,10:51,1,2,0.5,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,2,2,-8
+Dallas Mavericks,G,O.J. Mayo,Phoenix Suns,W,01/27/2013,34:35,4,9,0.444,0,0,0.0,0,0,0.0,0,3,3,6,2,0,0,3,8,-4
+Dallas Mavericks,G,Darren Collison,Phoenix Suns,W,01/27/2013,22:12,3,7,0.429,0,0,0.0,2,2,1.0,0,2,2,5,2,0,2,5,8,6
+Dallas Mavericks,F,Shawn Marion,Portland Trail Blazers,L,01/29/2013,35:16,6,13,0.462,0,0,0.0,0,0,0.0,4,5,9,4,2,0,3,1,12,-5
+Dallas Mavericks,F,Dirk Nowitzki,Portland Trail Blazers,L,01/29/2013,34:17,11,21,0.524,2,6,0.333,2,2,1.0,0,4,4,4,0,0,2,1,26,16
+Dallas Mavericks,C,Bernard James,Portland Trail Blazers,L,01/29/2013,14:57,5,9,0.556,0,0,0.0,0,0,0.0,1,2,3,0,0,1,1,3,10,3
+Dallas Mavericks,G,O.J. Mayo,Portland Trail Blazers,L,01/29/2013,37:47,5,9,0.556,2,4,0.5,3,5,0.6,0,7,7,9,0,0,5,4,15,-10
+Dallas Mavericks,G,Darren Collison,Portland Trail Blazers,L,01/29/2013,37:42,6,10,0.6,3,3,1.0,2,2,1.0,2,2,4,9,3,0,2,0,17,-3
+Dallas Mavericks,F,Dahntay Jones,Golden State Warriors,L,01/31/2013,13:27,0,3,0.0,0,3,0.0,0,0,0.0,0,1,1,0,0,0,1,2,0,-13
+Dallas Mavericks,F,Shawn Marion,Golden State Warriors,L,01/31/2013,35:21,8,11,0.727,0,0,0.0,2,4,0.5,4,13,17,1,1,0,3,1,18,-5
+Dallas Mavericks,C,Elton Brand,Golden State Warriors,L,01/31/2013,18:45,2,7,0.286,0,0,0.0,0,0,0.0,3,2,5,1,0,1,0,1,4,-13
+Dallas Mavericks,G,O.J. Mayo,Golden State Warriors,L,01/31/2013,39:39,8,13,0.615,3,5,0.6,6,8,0.75,1,4,5,6,1,0,2,3,25,4
+Dallas Mavericks,G,Darren Collison,Golden State Warriors,L,01/31/2013,30:13,3,9,0.333,0,0,0.0,0,0,0.0,0,2,2,7,1,0,2,1,6,-3
+Dallas Mavericks,F,Dahntay Jones,Phoenix Suns,W,02/01/2013,6:38,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,1,0,0,2,0,0,-6
+Dallas Mavericks,F,Shawn Marion,Phoenix Suns,W,02/01/2013,30:18,6,14,0.429,0,2,0.0,2,2,1.0,4,7,11,2,0,4,1,1,14,1
+Dallas Mavericks,C,Elton Brand,Phoenix Suns,W,02/01/2013,30:10,2,8,0.25,0,0,0.0,0,0,0.0,2,8,10,2,2,4,1,3,4,-6
+Dallas Mavericks,G,O.J. Mayo,Phoenix Suns,W,02/01/2013,37:02,7,19,0.368,2,3,0.667,4,5,0.8,2,3,5,4,3,0,3,2,20,6
+Dallas Mavericks,G,Darren Collison,Phoenix Suns,W,02/01/2013,31:10,6,9,0.667,2,3,0.667,5,5,1.0,2,4,6,6,1,2,4,3,19,4
+Dallas Mavericks,F,Shawn Marion,Oklahoma City Thunder,L,02/04/2013,26:18,10,14,0.714,1,2,0.5,2,2,1.0,0,1,1,0,3,2,1,0,23,-19
+Dallas Mavericks,F,Dirk Nowitzki,Oklahoma City Thunder,L,02/04/2013,26:42,3,11,0.273,0,3,0.0,4,4,1.0,0,3,3,3,0,1,1,1,10,-24
+Dallas Mavericks,C,Bernard James,Oklahoma City Thunder,L,02/04/2013,27:29,1,3,0.333,0,0,0.0,0,0,0.0,4,2,6,0,1,4,0,3,2,4
+Dallas Mavericks,G,O.J. Mayo,Oklahoma City Thunder,L,02/04/2013,33:06,4,10,0.4,0,4,0.0,0,0,0.0,0,4,4,6,0,0,5,2,8,-20
+Dallas Mavericks,G,Darren Collison,Oklahoma City Thunder,L,02/04/2013,23:57,3,7,0.429,0,0,0.0,2,2,1.0,0,2,2,4,0,0,2,2,8,-16
+Dallas Mavericks,F,Shawn Marion,Portland Trail Blazers,W,02/06/2013,31:15,6,13,0.462,1,2,0.5,0,0,0.0,2,8,10,1,1,0,0,2,13,-1
+Dallas Mavericks,F,Dirk Nowitzki,Portland Trail Blazers,W,02/06/2013,34:35,7,19,0.368,1,1,1.0,1,2,0.5,1,7,8,2,1,0,0,1,16,-2
+Dallas Mavericks,C,Bernard James,Portland Trail Blazers,W,02/06/2013,17:36,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,1,0,1,0,2,2,9
+Dallas Mavericks,G,O.J. Mayo,Portland Trail Blazers,W,02/06/2013,39:56,11,14,0.786,3,4,0.75,3,3,1.0,0,4,4,5,1,0,4,1,28,15
+Dallas Mavericks,G,Darren Collison,Portland Trail Blazers,W,02/06/2013,29:42,3,8,0.375,0,2,0.0,2,2,1.0,1,2,3,7,0,0,1,1,8,-3
+Dallas Mavericks,F,Shawn Marion,Golden State Warriors,W,02/09/2013,30:04,11,16,0.688,2,3,0.667,2,2,1.0,1,10,11,1,2,1,0,2,26,21
+Dallas Mavericks,F,Dirk Nowitzki,Golden State Warriors,W,02/09/2013,25:48,3,12,0.25,1,2,0.5,8,11,0.727,1,5,6,1,0,1,0,2,15,5
+Dallas Mavericks,C,Bernard James,Golden State Warriors,W,02/09/2013,12:57,1,2,0.5,0,0,0.0,0,3,0.0,2,1,3,0,1,0,1,4,2,-7
+Dallas Mavericks,G,O.J. Mayo,Golden State Warriors,W,02/09/2013,36:06,6,13,0.462,2,4,0.5,5,5,1.0,0,3,3,9,2,1,2,2,19,24
+Dallas Mavericks,G,Darren Collison,Golden State Warriors,W,02/09/2013,32:52,5,9,0.556,3,4,0.75,5,5,1.0,1,3,4,8,0,0,2,1,18,22
+Dallas Mavericks,F,Shawn Marion,Atlanta Hawks,L,02/11/2013,29:24,3,10,0.3,1,1,1.0,3,3,1.0,3,2,5,0,0,0,2,1,10,-13
+Dallas Mavericks,F,Dirk Nowitzki,Atlanta Hawks,L,02/11/2013,35:45,8,14,0.571,3,4,0.75,5,6,0.833,1,6,7,2,2,1,0,2,24,6
+Dallas Mavericks,C,Bernard James,Atlanta Hawks,L,02/11/2013,7:19,0,1,0.0,0,0,0.0,0,2,0.0,0,3,3,1,1,0,0,0,0,-5
+Dallas Mavericks,G,O.J. Mayo,Atlanta Hawks,L,02/11/2013,38:10,9,20,0.45,1,3,0.333,0,0,0.0,0,2,2,1,0,0,4,4,19,-8
+Dallas Mavericks,G,Darren Collison,Atlanta Hawks,L,02/11/2013,33:15,5,13,0.385,0,4,0.0,4,4,1.0,2,3,5,10,1,0,2,4,14,-13
+Dallas Mavericks,F,Shawn Marion,Sacramento Kings,W,02/13/2013,28:19,4,9,0.444,1,3,0.333,0,0,0.0,2,7,9,2,1,0,1,2,9,12
+Dallas Mavericks,F,Dirk Nowitzki,Sacramento Kings,W,02/13/2013,30:26,6,9,0.667,1,1,1.0,4,4,1.0,1,7,8,6,3,1,2,1,17,16
+Dallas Mavericks,C,Bernard James,Sacramento Kings,W,02/13/2013,15:43,2,3,0.667,0,0,0.0,1,2,0.5,3,3,6,0,0,3,1,4,5,0
+Dallas Mavericks,G,O.J. Mayo,Sacramento Kings,W,02/13/2013,29:17,3,11,0.273,0,7,0.0,4,4,1.0,0,2,2,1,3,0,3,3,10,14
+Dallas Mavericks,G,Darren Collison,Sacramento Kings,W,02/13/2013,29:29,7,12,0.583,1,4,0.25,3,3,1.0,1,3,4,9,1,0,2,2,18,15
+Dallas Mavericks,F,Shawn Marion,Orlando Magic,W,02/20/2013,30:57,7,11,0.636,1,2,0.5,2,2,1.0,2,6,8,2,1,2,3,1,17,10
+Dallas Mavericks,F,Dirk Nowitzki,Orlando Magic,W,02/20/2013,30:02,4,13,0.308,0,2,0.0,4,4,1.0,0,9,9,4,1,1,0,1,12,1
+Dallas Mavericks,C,Bernard James,Orlando Magic,W,02/20/2013,13:19,2,5,0.4,0,0,0.0,2,2,1.0,2,2,4,0,0,0,0,2,6,-1
+Dallas Mavericks,G,O.J. Mayo,Orlando Magic,W,02/20/2013,37:02,5,11,0.455,3,7,0.429,0,0,0.0,0,4,4,4,0,2,0,2,13,10
+Dallas Mavericks,G,Darren Collison,Orlando Magic,W,02/20/2013,33:01,3,10,0.3,0,2,0.0,3,3,1.0,0,0,0,9,2,0,3,1,9,4
+Dallas Mavericks,F,Shawn Marion,New Orleans Hornets,W,02/22/2013,33:29,4,11,0.364,0,2,0.0,2,2,1.0,1,2,3,4,1,3,2,3,10,10
+Dallas Mavericks,F,Dirk Nowitzki,New Orleans Hornets,W,02/22/2013,32:47,10,17,0.588,2,3,0.667,3,3,1.0,2,5,7,4,1,0,1,3,25,4
+Dallas Mavericks,C,Bernard James,New Orleans Hornets,W,02/22/2013,15:12,2,2,1.0,0,0,0.0,0,0,0.0,1,5,6,1,1,7,1,1,4,4
+Dallas Mavericks,G,O.J. Mayo,New Orleans Hornets,W,02/22/2013,37:13,4,11,0.364,0,3,0.0,2,5,0.4,0,3,3,9,1,2,1,2,10,14
+Dallas Mavericks,G,Darren Collison,New Orleans Hornets,W,02/22/2013,30:47,3,8,0.375,0,0,0.0,5,5,1.0,1,3,4,3,2,0,2,1,11,3
+Dallas Mavericks,F,Shawn Marion,Los Angeles Lakers,L,02/24/2013,25:07,3,4,0.75,0,1,0.0,0,0,0.0,3,5,8,2,1,0,0,1,6,-7
+Dallas Mavericks,F,Dirk Nowitzki,Los Angeles Lakers,L,02/24/2013,38:47,11,19,0.579,4,4,1.0,4,5,0.8,0,13,13,1,3,0,2,1,30,5
+Dallas Mavericks,C,Bernard James,Los Angeles Lakers,L,02/24/2013,3:06,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,2,0,-4
+Dallas Mavericks,G,O.J. Mayo,Los Angeles Lakers,L,02/24/2013,34:36,2,9,0.222,1,3,0.333,3,6,0.5,0,3,3,2,2,0,3,5,8,-17
+Dallas Mavericks,G,Darren Collison,Los Angeles Lakers,L,02/24/2013,28:43,3,11,0.273,1,2,0.5,0,0,0.0,1,0,1,4,3,0,1,1,7,-4
+Dallas Mavericks,F,Shawn Marion,Milwaukee Bucks,L,02/26/2013,30:17,4,9,0.444,0,2,0.0,2,2,1.0,0,3,3,1,1,1,1,2,10,9
+Dallas Mavericks,F,Dirk Nowitzki,Milwaukee Bucks,L,02/26/2013,35:15,8,16,0.5,1,3,0.333,4,4,1.0,3,17,20,3,2,0,3,1,21,-8
+Dallas Mavericks,C,Bernard James,Milwaukee Bucks,L,02/26/2013,11:31,2,2,1.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,1,4,2
+Dallas Mavericks,G,O.J. Mayo,Milwaukee Bucks,L,02/26/2013,37:28,7,14,0.5,0,3,0.0,4,4,1.0,2,1,3,4,1,0,5,1,18,-2
+Dallas Mavericks,G,Darren Collison,Milwaukee Bucks,L,02/26/2013,37:16,5,15,0.333,0,2,0.0,2,3,0.667,1,6,7,8,0,0,3,2,12,2
+Dallas Mavericks,F,Shawn Marion,Memphis Grizzlies,L,02/27/2013,29:22,8,12,0.667,0,1,0.0,0,0,0.0,3,5,8,0,1,1,4,4,16,-4
+Dallas Mavericks,F,Dirk Nowitzki,Memphis Grizzlies,L,02/27/2013,33:04,4,11,0.364,0,1,0.0,2,2,1.0,0,4,4,2,0,3,1,3,10,-4
+Dallas Mavericks,C,Chris Kaman,Memphis Grizzlies,L,02/27/2013,21:53,3,5,0.6,0,0,0.0,0,0,0.0,0,4,4,3,0,2,0,0,6,4
+Dallas Mavericks,G,O.J. Mayo,Memphis Grizzlies,L,02/27/2013,40:11,5,13,0.385,0,0,0.0,1,2,0.5,0,2,2,2,0,1,5,2,11,-17
+Dallas Mavericks,G,Darren Collison,Memphis Grizzlies,L,02/27/2013,26:32,1,5,0.2,1,2,0.5,5,6,0.833,1,4,5,6,2,0,4,0,8,-8
+Dallas Mavericks,F,Shawn Marion,Brooklyn Nets,W,03/01/2013,30:14,3,7,0.429,0,0,0.0,0,0,0.0,3,3,6,2,2,1,2,1,6,12
+Dallas Mavericks,F,Dirk Nowitzki,Brooklyn Nets,W,03/01/2013,33:37,8,14,0.571,1,3,0.333,3,3,1.0,0,8,8,2,1,1,1,0,20,4
+Dallas Mavericks,C,Chris Kaman,Brooklyn Nets,W,03/01/2013,22:48,4,8,0.5,0,0,0.0,0,0,0.0,1,3,4,1,3,1,1,1,8,7
+Dallas Mavericks,G,O.J. Mayo,Brooklyn Nets,W,03/01/2013,36:56,6,12,0.5,3,4,0.75,2,3,0.667,0,3,3,3,1,0,2,3,17,4
+Dallas Mavericks,G,Darren Collison,Brooklyn Nets,W,03/01/2013,24:47,4,7,0.571,1,4,0.25,0,0,0.0,0,3,3,0,1,0,4,3,9,-4
+Dallas Mavericks,F,Shawn Marion,Houston Rockets,L,03/03/2013,24:50,6,13,0.462,1,3,0.333,1,2,0.5,3,5,8,3,1,0,2,3,14,-35
+Dallas Mavericks,F,Dirk Nowitzki,Houston Rockets,L,03/03/2013,26:35,2,8,0.25,0,0,0.0,4,4,1.0,2,2,4,4,1,1,3,2,8,-14
+Dallas Mavericks,C,Chris Kaman,Houston Rockets,L,03/03/2013,12:45,3,5,0.6,0,0,0.0,0,0,0.0,1,1,2,0,0,1,2,2,6,-15
+Dallas Mavericks,G,O.J. Mayo,Houston Rockets,L,03/03/2013,25:55,6,9,0.667,3,3,1.0,3,4,0.75,0,1,1,4,1,0,0,5,18,-21
+Dallas Mavericks,G,Darren Collison,Houston Rockets,L,03/03/2013,18:13,2,3,0.667,1,2,0.5,0,0,0.0,0,1,1,1,0,0,1,3,5,-14
+Dallas Mavericks,F,Shawn Marion,Houston Rockets,W,03/06/2013,35:54,10,16,0.625,0,2,0.0,2,5,0.4,0,3,3,4,2,0,1,4,22,2
+Dallas Mavericks,F,Dirk Nowitzki,Houston Rockets,W,03/06/2013,32:48,9,16,0.563,1,2,0.5,3,3,1.0,2,3,5,3,0,1,1,5,22,18
+Dallas Mavericks,C,Brandan Wright,Houston Rockets,W,03/06/2013,27:21,6,7,0.857,0,0,0.0,0,0,0.0,1,1,2,1,1,1,2,2,12,-4
+Dallas Mavericks,G,O.J. Mayo,Houston Rockets,W,03/06/2013,32:59,5,10,0.5,3,4,0.75,0,0,0.0,0,6,6,12,0,0,0,2,13,3
+Dallas Mavericks,G,Mike James,Houston Rockets,W,03/06/2013,24:59,3,8,0.375,2,5,0.4,0,0,0.0,1,2,3,6,0,0,1,4,8,3
+Dallas Mavericks,F,Jae Crowder,Detroit Pistons,W,03/08/2013,25:41,1,3,0.333,0,2,0.0,0,2,0.0,0,0,0,5,1,0,0,1,2,-18
+Dallas Mavericks,F,Dirk Nowitzki,Detroit Pistons,W,03/08/2013,31:22,6,14,0.429,0,1,0.0,0,0,0.0,0,7,7,2,0,0,2,2,12,2
+Dallas Mavericks,C,Chris Kaman,Detroit Pistons,W,03/08/2013,14:37,5,7,0.714,0,0,0.0,0,2,0.0,0,6,6,3,1,0,3,4,10,-8
+Dallas Mavericks,G,O.J. Mayo,Detroit Pistons,W,03/08/2013,34:52,7,15,0.467,5,9,0.556,3,4,0.75,1,4,5,3,1,0,0,0,22,-5
+Dallas Mavericks,G,Mike James,Detroit Pistons,W,03/08/2013,28:35,4,8,0.5,4,6,0.667,0,0,0.0,0,1,1,3,0,0,3,3,12,-8
+Dallas Mavericks,F,Jae Crowder,Minnesota Timberwolves,W,03/10/2013,24:48,2,5,0.4,1,3,0.333,2,2,1.0,0,1,1,3,1,1,1,2,7,-1
+Dallas Mavericks,F,Dirk Nowitzki,Minnesota Timberwolves,W,03/10/2013,28:16,7,13,0.538,2,4,0.5,0,0,0.0,0,9,9,0,1,0,4,1,16,17
+Dallas Mavericks,C,Chris Kaman,Minnesota Timberwolves,W,03/10/2013,16:08,4,10,0.4,0,0,0.0,0,0,0.0,5,2,7,0,1,2,0,2,8,1
+Dallas Mavericks,G,O.J. Mayo,Minnesota Timberwolves,W,03/10/2013,34:21,4,9,0.444,0,3,0.0,0,0,0.0,0,8,8,7,0,0,2,2,8,-2
+Dallas Mavericks,G,Mike James,Minnesota Timberwolves,W,03/10/2013,22:31,1,6,0.167,1,4,0.25,0,0,0.0,0,0,0,3,0,0,0,4,3,15
+Dallas Mavericks,F,Jae Crowder,Milwaukee Bucks,W,03/12/2013,36:13,6,9,0.667,2,4,0.5,0,0,0.0,2,6,8,3,1,0,3,3,14,14
+Dallas Mavericks,F,Dirk Nowitzki,Milwaukee Bucks,W,03/12/2013,31:07,7,13,0.538,1,5,0.2,4,5,0.8,0,11,11,3,1,1,1,0,19,0
+Dallas Mavericks,C,Chris Kaman,Milwaukee Bucks,W,03/12/2013,2:14,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+Dallas Mavericks,G,O.J. Mayo,Milwaukee Bucks,W,03/12/2013,36:36,6,12,0.5,2,5,0.4,0,0,0.0,0,1,1,3,1,0,1,1,14,9
+Dallas Mavericks,G,Mike James,Milwaukee Bucks,W,03/12/2013,31:29,5,11,0.455,1,3,0.333,2,2,1.0,0,6,6,7,0,0,2,4,13,16
+Dallas Mavericks,F,Jae Crowder,San Antonio Spurs,L,03/14/2013,23:17,2,3,0.667,1,1,1.0,0,0,0.0,1,3,4,2,1,2,0,2,5,3
+Dallas Mavericks,F,Dirk Nowitzki,San Antonio Spurs,L,03/14/2013,34:35,6,16,0.375,3,5,0.6,6,6,1.0,0,11,11,3,4,1,1,4,21,8
+Dallas Mavericks,C,Chris Kaman,San Antonio Spurs,L,03/14/2013,14:15,3,6,0.5,0,0,0.0,0,0,0.0,1,0,1,1,1,2,3,3,6,-6
+Dallas Mavericks,G,O.J. Mayo,San Antonio Spurs,L,03/14/2013,33:49,4,11,0.364,0,1,0.0,2,2,1.0,0,2,2,2,1,0,1,3,10,-5
+Dallas Mavericks,G,Mike James,San Antonio Spurs,L,03/14/2013,35:28,4,10,0.4,2,4,0.5,0,0,0.0,0,1,1,5,1,0,2,3,10,-1
+Dallas Mavericks,F,Jae Crowder,Cleveland Cavaliers,W,03/15/2013,33:59,1,6,0.167,0,2,0.0,0,0,0.0,1,13,14,1,2,1,1,2,2,21
+Dallas Mavericks,F,Dirk Nowitzki,Cleveland Cavaliers,W,03/15/2013,32:35,6,17,0.353,1,3,0.333,0,0,0.0,2,9,11,4,2,1,2,1,13,6
+Dallas Mavericks,C,Chris Kaman,Cleveland Cavaliers,W,03/15/2013,5:45,2,4,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,1,1,2,4,-7
+Dallas Mavericks,G,O.J. Mayo,Cleveland Cavaliers,W,03/15/2013,28:60,5,10,0.5,0,1,0.0,0,2,0.0,0,3,3,4,0,2,2,1,10,-3
+Dallas Mavericks,G,Mike James,Cleveland Cavaliers,W,03/15/2013,21:10,3,7,0.429,1,5,0.2,0,0,0.0,1,1,2,4,1,0,2,2,7,1
+Dallas Mavericks,F,Jae Crowder,Oklahoma City Thunder,L,03/17/2013,28:45,4,8,0.5,1,5,0.2,2,2,1.0,1,3,4,3,2,0,2,1,11,-9
+Dallas Mavericks,F,Dirk Nowitzki,Oklahoma City Thunder,L,03/17/2013,33:48,8,10,0.8,3,4,0.75,4,4,1.0,1,6,7,1,1,0,1,3,23,8
+Dallas Mavericks,C,Elton Brand,Oklahoma City Thunder,L,03/17/2013,20:42,2,7,0.286,0,0,0.0,0,0,0.0,2,2,4,0,3,1,0,1,4,3
+Dallas Mavericks,G,O.J. Mayo,Oklahoma City Thunder,L,03/17/2013,34:06,4,10,0.4,0,2,0.0,1,1,1.0,0,1,1,3,1,0,2,0,9,-1
+Dallas Mavericks,G,Mike James,Oklahoma City Thunder,L,03/17/2013,32:23,5,11,0.455,2,3,0.667,2,2,1.0,1,2,3,4,0,0,2,3,14,-8
+Dallas Mavericks,F,Jae Crowder,Atlanta Hawks,W,03/18/2013,27:00,2,9,0.222,0,4,0.0,0,0,0.0,1,3,4,3,1,0,2,2,4,5
+Dallas Mavericks,F,Dirk Nowitzki,Atlanta Hawks,W,03/18/2013,30:10,7,11,0.636,2,2,1.0,6,6,1.0,0,6,6,5,0,1,0,1,22,11
+Dallas Mavericks,C,Chris Kaman,Atlanta Hawks,W,03/18/2013,21:13,7,11,0.636,0,0,0.0,0,0,0.0,2,5,7,2,1,1,0,3,14,7
+Dallas Mavericks,G,O.J. Mayo,Atlanta Hawks,W,03/18/2013,31:16,7,11,0.636,3,4,0.75,0,0,0.0,0,3,3,4,0,0,1,2,17,3
+Dallas Mavericks,G,Mike James,Atlanta Hawks,W,03/18/2013,23:31,3,5,0.6,3,4,0.75,0,0,0.0,0,2,2,3,2,0,4,0,9,8
+Dallas Mavericks,F,Jae Crowder,Brooklyn Nets,L,03/20/2013,21:51,4,7,0.571,2,4,0.5,0,0,0.0,0,3,3,0,0,0,0,0,10,-6
+Dallas Mavericks,F,Dirk Nowitzki,Brooklyn Nets,L,03/20/2013,35:48,8,10,0.8,0,1,0.0,0,0,0.0,2,4,6,1,0,1,1,4,16,-9
+Dallas Mavericks,C,Chris Kaman,Brooklyn Nets,L,03/20/2013,21:14,7,12,0.583,0,0,0.0,0,0,0.0,1,3,4,0,1,0,1,2,14,8
+Dallas Mavericks,G,O.J. Mayo,Brooklyn Nets,L,03/20/2013,37:38,4,9,0.444,0,0,0.0,1,2,0.5,1,4,5,6,0,0,4,3,9,-16
+Dallas Mavericks,G,Mike James,Brooklyn Nets,L,03/20/2013,26:54,4,14,0.286,4,8,0.5,0,0,0.0,1,2,3,7,0,0,1,5,12,-6
+Dallas Mavericks,F,Shawn Marion,Boston Celtics,W,03/22/2013,31:25,3,7,0.429,1,2,0.5,4,6,0.667,5,8,13,3,0,0,1,2,11,5
+Dallas Mavericks,F,Dirk Nowitzki,Boston Celtics,W,03/22/2013,32:04,8,15,0.533,1,2,0.5,5,5,1.0,1,6,7,1,0,1,2,2,22,3
+Dallas Mavericks,C,Brandan Wright,Boston Celtics,W,03/22/2013,30:07,11,16,0.688,0,0,0.0,1,2,0.5,5,3,8,0,1,1,0,3,23,17
+Dallas Mavericks,G,O.J. Mayo,Boston Celtics,W,03/22/2013,39:17,4,8,0.5,2,3,0.667,0,0,0.0,0,4,4,9,2,0,2,3,10,17
+Dallas Mavericks,G,Mike James,Boston Celtics,W,03/22/2013,24:36,2,7,0.286,1,5,0.2,2,2,1.0,0,2,2,6,1,1,1,2,7,-2
+Dallas Mavericks,F,Shawn Marion,Utah Jazz,W,03/24/2013,30:19,6,8,0.75,1,2,0.5,2,3,0.667,0,6,6,3,3,0,1,1,15,12
+Dallas Mavericks,F,Dirk Nowitzki,Utah Jazz,W,03/24/2013,26:21,7,13,0.538,2,4,0.5,1,1,1.0,0,6,6,2,1,0,1,1,17,5
+Dallas Mavericks,C,Brandan Wright,Utah Jazz,W,03/24/2013,22:45,3,11,0.273,0,0,0.0,1,2,0.5,2,2,4,1,0,3,2,2,7,-1
+Dallas Mavericks,G,O.J. Mayo,Utah Jazz,W,03/24/2013,35:48,4,7,0.571,2,4,0.5,0,0,0.0,0,1,1,3,1,0,2,1,10,2
+Dallas Mavericks,G,Mike James,Utah Jazz,W,03/24/2013,32:08,7,10,0.7,3,4,0.75,2,2,1.0,1,2,3,5,1,0,3,2,19,-1
+Dallas Mavericks,F,Shawn Marion,Los Angeles Clippers,W,03/26/2013,25:41,2,6,0.333,0,1,0.0,0,0,0.0,2,2,4,3,3,0,4,3,4,-5
+Dallas Mavericks,F,Dirk Nowitzki,Los Angeles Clippers,W,03/26/2013,39:24,12,21,0.571,0,3,0.0,9,10,0.9,1,8,9,1,0,0,1,2,33,9
+Dallas Mavericks,C,Brandan Wright,Los Angeles Clippers,W,03/26/2013,31:08,5,8,0.625,0,0,0.0,1,2,0.5,3,4,7,2,1,2,1,1,11,-9
+Dallas Mavericks,G,O.J. Mayo,Los Angeles Clippers,W,03/26/2013,43:51,5,15,0.333,0,4,0.0,1,2,0.5,0,5,5,4,3,0,1,4,11,7
+Dallas Mavericks,G,Mike James,Los Angeles Clippers,W,03/26/2013,27:27,4,8,0.5,2,4,0.5,0,0,0.0,0,4,4,6,0,0,1,6,10,6
+Dallas Mavericks,F,Shawn Marion,Indiana Pacers,L,03/28/2013,24:08,4,7,0.571,0,0,0.0,0,2,0.0,1,3,4,1,2,0,2,2,8,-17
+Dallas Mavericks,F,Dirk Nowitzki,Indiana Pacers,L,03/28/2013,32:42,10,20,0.5,0,2,0.0,1,2,0.5,0,7,7,1,1,1,3,2,21,-11
+Dallas Mavericks,C,Brandan Wright,Indiana Pacers,L,03/28/2013,21:51,2,5,0.4,0,0,0.0,0,0,0.0,0,3,3,1,0,2,0,1,4,-7
+Dallas Mavericks,G,O.J. Mayo,Indiana Pacers,L,03/28/2013,34:36,3,10,0.3,1,5,0.2,0,0,0.0,0,3,3,1,0,0,2,1,7,-21
+Dallas Mavericks,G,Mike James,Indiana Pacers,L,03/28/2013,19:30,0,4,0.0,0,1,0.0,0,0,0.0,0,0,0,4,1,0,1,4,0,-22
+Dallas Mavericks,F,Shawn Marion,Chicago Bulls,W,03/30/2013,32:57,5,9,0.556,0,0,0.0,0,0,0.0,2,6,8,2,0,4,1,0,10,2
+Dallas Mavericks,F,Dirk Nowitzki,Chicago Bulls,W,03/30/2013,33:44,14,17,0.824,5,6,0.833,2,2,1.0,0,7,7,1,0,1,2,3,35,-5
+Dallas Mavericks,C,Elton Brand,Chicago Bulls,W,03/30/2013,16:21,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,1,1,1,2,-12
+Dallas Mavericks,G,O.J. Mayo,Chicago Bulls,W,03/30/2013,41:51,1,13,0.077,0,3,0.0,2,2,1.0,0,2,2,4,1,0,2,1,4,7
+Dallas Mavericks,G,Mike James,Chicago Bulls,W,03/30/2013,30:45,2,8,0.25,0,3,0.0,1,2,0.5,0,1,1,7,0,0,2,3,5,-8
+Dallas Mavericks,F,Shawn Marion,Los Angeles Lakers,L,04/02/2013,27:35,4,9,0.444,0,0,0.0,1,2,0.5,6,1,7,2,1,1,0,3,9,-9
+Dallas Mavericks,F,Dirk Nowitzki,Los Angeles Lakers,L,04/02/2013,33:17,4,13,0.308,1,3,0.333,2,6,0.333,0,5,5,6,1,1,1,2,11,-13
+Dallas Mavericks,C,Chris Kaman,Los Angeles Lakers,L,04/02/2013,19:49,7,10,0.7,0,0,0.0,0,0,0.0,1,5,6,0,2,0,2,5,14,-2
+Dallas Mavericks,G,O.J. Mayo,Los Angeles Lakers,L,04/02/2013,34:04,5,10,0.5,2,4,0.5,0,0,0.0,0,5,5,4,1,0,3,3,12,-15
+Dallas Mavericks,G,Mike James,Los Angeles Lakers,L,04/02/2013,20:39,0,3,0.0,0,1,0.0,0,0,0.0,0,2,2,4,2,0,1,1,0,-4
+Dallas Mavericks,F,Shawn Marion,Denver Nuggets,L,04/04/2013,28:26,5,11,0.455,0,1,0.0,0,0,0.0,2,4,6,2,2,0,1,3,10,10
+Dallas Mavericks,F,Dirk Nowitzki,Denver Nuggets,L,04/04/2013,35:00,6,10,0.6,1,3,0.333,0,0,0.0,0,6,6,0,1,3,3,0,13,-8
+Dallas Mavericks,C,Chris Kaman,Denver Nuggets,L,04/04/2013,24:04,6,11,0.545,0,0,0.0,1,2,0.5,3,6,9,2,0,1,1,3,13,10
+Dallas Mavericks,G,O.J. Mayo,Denver Nuggets,L,04/04/2013,23:05,2,6,0.333,0,2,0.0,0,0,0.0,0,1,1,6,1,0,1,6,4,-6
+Dallas Mavericks,G,Mike James,Denver Nuggets,L,04/04/2013,24:58,3,7,0.429,0,2,0.0,0,0,0.0,0,4,4,5,0,1,3,3,6,5
+Dallas Mavericks,F,Shawn Marion,Sacramento Kings,W,04/05/2013,33:04,10,17,0.588,1,1,1.0,4,4,1.0,2,10,12,2,0,1,2,2,25,3
+Dallas Mavericks,F,Dirk Nowitzki,Sacramento Kings,W,04/05/2013,28:36,6,14,0.429,1,4,0.25,3,3,1.0,0,6,6,2,1,0,0,2,16,15
+Dallas Mavericks,C,Chris Kaman,Sacramento Kings,W,04/05/2013,22:18,3,7,0.429,0,0,0.0,0,0,0.0,2,7,9,1,0,0,2,3,6,16
+Dallas Mavericks,G,O.J. Mayo,Sacramento Kings,W,04/05/2013,34:48,5,9,0.556,1,3,0.333,2,2,1.0,1,3,4,6,2,0,2,2,13,18
+Dallas Mavericks,G,Mike James,Sacramento Kings,W,04/05/2013,18:18,2,3,0.667,2,3,0.667,2,2,1.0,0,0,0,2,1,0,0,2,8,11
+Dallas Mavericks,F,Shawn Marion,Portland Trail Blazers,W,04/07/2013,34:34,10,14,0.714,0,0,0.0,0,0,0.0,1,6,7,2,0,1,1,2,20,5
+Dallas Mavericks,F,Dirk Nowitzki,Portland Trail Blazers,W,04/07/2013,23:44,2,7,0.286,0,2,0.0,2,2,1.0,1,4,5,3,3,0,1,1,6,21
+Dallas Mavericks,C,Chris Kaman,Portland Trail Blazers,W,04/07/2013,24:45,12,21,0.571,0,0,0.0,2,2,1.0,6,5,11,1,1,2,2,1,26,1
+Dallas Mavericks,G,O.J. Mayo,Portland Trail Blazers,W,04/07/2013,36:06,3,12,0.25,1,3,0.333,0,0,0.0,0,3,3,7,2,1,3,2,7,2
+Dallas Mavericks,G,Mike James,Portland Trail Blazers,W,04/07/2013,24:58,1,4,0.25,0,2,0.0,0,0,0.0,0,2,2,4,1,0,0,2,2,-7
+Dallas Mavericks,F,Shawn Marion,Phoenix Suns,L,04/10/2013,33:56,9,16,0.563,0,2,0.0,4,6,0.667,2,7,9,1,3,1,1,1,22,-18
+Dallas Mavericks,F,Dirk Nowitzki,Phoenix Suns,L,04/10/2013,33:55,6,18,0.333,2,5,0.4,7,7,1.0,3,5,8,3,0,0,1,2,21,21
+Dallas Mavericks,C,Chris Kaman,Phoenix Suns,L,04/10/2013,20:41,1,6,0.167,0,0,0.0,0,0,0.0,2,6,8,1,0,1,0,1,2,-18
+Dallas Mavericks,G,O.J. Mayo,Phoenix Suns,L,04/10/2013,37:45,2,10,0.2,0,2,0.0,2,2,1.0,2,3,5,6,0,0,5,2,6,-12
+Dallas Mavericks,G,Mike James,Phoenix Suns,L,04/10/2013,27:07,4,6,0.667,1,1,1.0,0,0,0.0,0,4,4,3,1,0,2,4,9,-7
+Dallas Mavericks,F,Shawn Marion,Denver Nuggets,W,04/12/2013,30:23,7,14,0.5,1,1,1.0,0,0,0.0,1,7,8,3,1,1,2,2,15,0
+Dallas Mavericks,F,Dirk Nowitzki,Denver Nuggets,W,04/12/2013,40:28,9,17,0.529,2,4,0.5,2,2,1.0,0,10,10,4,0,0,3,2,22,4
+Dallas Mavericks,C,Chris Kaman,Denver Nuggets,W,04/12/2013,9:44,2,6,0.333,0,0,0.0,0,0,0.0,2,1,3,0,0,0,3,0,4,-7
+Dallas Mavericks,G,O.J. Mayo,Denver Nuggets,W,04/12/2013,42:22,7,13,0.538,5,7,0.714,1,2,0.5,0,3,3,6,2,1,2,2,20,6
+Dallas Mavericks,G,Mike James,Denver Nuggets,W,04/12/2013,34:20,2,7,0.286,2,6,0.333,1,2,0.5,0,3,3,5,0,1,2,1,7,9
+Dallas Mavericks,F,Shawn Marion,New Orleans Hornets,W,04/14/2013,31:13,10,16,0.625,0,1,0.0,1,1,1.0,2,5,7,6,2,1,0,1,21,15
+Dallas Mavericks,F,Dirk Nowitzki,New Orleans Hornets,W,04/14/2013,26:32,7,14,0.5,1,2,0.5,4,4,1.0,0,6,6,1,0,2,0,2,19,8
+Dallas Mavericks,C,Chris Kaman,New Orleans Hornets,W,04/14/2013,21:49,5,7,0.714,0,0,0.0,1,1,1.0,3,4,7,1,2,0,2,2,11,5
+Dallas Mavericks,G,O.J. Mayo,New Orleans Hornets,W,04/14/2013,34:37,3,6,0.5,2,3,0.667,0,0,0.0,0,2,2,4,1,0,1,0,8,14
+Dallas Mavericks,G,Mike James,New Orleans Hornets,W,04/14/2013,18:35,2,6,0.333,0,3,0.0,0,0,0.0,0,2,2,3,0,0,1,1,4,-2
+Dallas Mavericks,F,Shawn Marion,Memphis Grizzlies,L,04/15/2013,32:33,3,8,0.375,1,1,1.0,2,2,1.0,1,7,8,3,4,0,2,2,9,-1
+Dallas Mavericks,F,Dirk Nowitzki,Memphis Grizzlies,L,04/15/2013,34:54,8,18,0.444,2,4,0.5,8,9,0.889,1,2,3,3,0,0,2,4,26,-8
+Dallas Mavericks,C,Chris Kaman,Memphis Grizzlies,L,04/15/2013,17:02,1,6,0.167,0,0,0.0,0,0,0.0,1,5,6,0,0,0,0,3,2,-1
+Dallas Mavericks,G,O.J. Mayo,Memphis Grizzlies,L,04/15/2013,28:25,1,6,0.167,0,4,0.0,0,0,0.0,0,3,3,1,0,0,4,3,2,-8
+Dallas Mavericks,G,Mike James,Memphis Grizzlies,L,04/15/2013,26:31,5,10,0.5,2,5,0.4,2,2,1.0,0,2,2,3,2,0,3,2,14,-10
+Dallas Mavericks,F,Shawn Marion,New Orleans Hornets,W,04/17/2013,30:47,7,12,0.583,0,1,0.0,1,1,1.0,1,6,7,3,3,0,2,0,15,14
+Dallas Mavericks,F,Dirk Nowitzki,New Orleans Hornets,W,04/17/2013,28:04,7,15,0.467,0,3,0.0,2,2,1.0,1,8,9,4,0,1,0,2,16,3
+Dallas Mavericks,C,Chris Kaman,New Orleans Hornets,W,04/17/2013,13:01,3,5,0.6,0,0,0.0,0,0,0.0,0,5,5,0,1,0,2,1,6,-3
+Dallas Mavericks,G,O.J. Mayo,New Orleans Hornets,W,04/17/2013,30:21,2,6,0.333,1,3,0.333,0,0,0.0,0,2,2,3,0,0,3,2,5,5
+Dallas Mavericks,G,Mike James,New Orleans Hornets,W,04/17/2013,17:29,3,5,0.6,3,4,0.75,0,0,0.0,0,0,0,2,2,0,1,3,9,1

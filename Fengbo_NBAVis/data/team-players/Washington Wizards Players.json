@@ -1,0 +1,81 @@
+{
+	"team": "Washington Wizards",
+	"players": [
+		{
+			"name": "Trevor Ariza",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Trevor Booker",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Emeka Okafor",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Bradley Beal",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "A.J. Price",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jan Vesely",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jordan Crawford",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Kevin Seraphin",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Shaun Livingston",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Chris Singleton",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Martell Webster",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Earl Barron",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Nene",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Shelvin Mack",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Garrett Temple",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "John Wall",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jason Collins",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Cartier Martin",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jannero Pargo",
+			"positions": [""]
+		}
+	]
+}

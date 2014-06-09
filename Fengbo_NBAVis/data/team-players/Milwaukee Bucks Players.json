@@ -1,0 +1,77 @@
+{
+	"team": "Milwaukee Bucks",
+	"players": [
+		{
+			"name": "Tobias Harris",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Ersan Ilyasova",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Samuel Dalembert",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Monta Ellis",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Brandon Jennings",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Joel Przybilla",
+			"positions": ["Center"]
+		},
+		{
+			"name": "John Henson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Marquis Daniels",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Ekpe Udoh",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Larry Sanders",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Luc Mbah a Moute",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Mike Dunleavy",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "JJ Redick",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Beno Udrih",
+			"positions": [""]
+		},
+		{
+			"name": "Doron Lamb",
+			"positions": [""]
+		},
+		{
+			"name": "Drew Gooden",
+			"positions": [""]
+		},
+		{
+			"name": "Gustavo Ayon",
+			"positions": [""]
+		},
+		{
+			"name": "Ish Smith",
+			"positions": [""]
+		}
+	]
+}

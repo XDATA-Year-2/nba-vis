@@ -1,0 +1,443 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Atlanta Hawks,,DeShawn Stevenson,Houston Rockets,L,11/02/2012,28:59,4,6,0.667,4,6,0.667,0,0,0.0,1,1,2,1,2,0,0,6,12,2
+Atlanta Hawks,,Zaza Pachulia,Houston Rockets,L,11/02/2012,21:51,4,5,0.8,0,0,0.0,5,6,0.833,5,3,8,1,0,0,0,4,13,-3
+Atlanta Hawks,,Louis Williams,Houston Rockets,L,11/02/2012,30:38,7,17,0.412,2,5,0.4,6,7,0.857,0,4,4,5,3,0,3,2,22,4
+Atlanta Hawks,,Anthony Tolliver,Houston Rockets,L,11/02/2012,16:05,0,3,0.0,0,3,0.0,0,0,0.0,0,2,2,0,0,0,0,2,0,1
+Atlanta Hawks,,Ivan Johnson,Oklahoma City Thunder,W,11/04/2012,12:15,5,6,0.833,0,1,0.0,0,2,0.0,0,4,4,0,1,0,2,2,10,5
+Atlanta Hawks,,Devin Harris,Oklahoma City Thunder,W,11/04/2012,22:39,2,5,0.4,1,1,1.0,2,2,1.0,0,0,0,1,0,0,0,3,7,14
+Atlanta Hawks,,Louis Williams,Oklahoma City Thunder,W,11/04/2012,27:33,5,14,0.357,1,6,0.167,8,9,0.889,0,0,0,4,2,0,2,0,19,6
+Atlanta Hawks,,Zaza Pachulia,Oklahoma City Thunder,W,11/04/2012,27:57,3,5,0.6,0,0,0.0,0,0,0.0,2,4,6,6,1,0,2,5,6,5
+Atlanta Hawks,,Anthony Morrow,Oklahoma City Thunder,W,11/04/2012,13:50,2,2,1.0,1,1,1.0,0,0,0.0,0,1,1,0,3,0,0,1,5,5
+Atlanta Hawks,,DeShawn Stevenson,Indiana Pacers,W,11/07/2012,17:11,2,2,1.0,2,2,1.0,2,3,0.667,1,2,3,1,1,0,0,0,8,0
+Atlanta Hawks,,Louis Williams,Indiana Pacers,W,11/07/2012,20:35,4,11,0.364,1,5,0.2,0,0,0.0,1,2,3,3,0,0,2,0,9,2
+Atlanta Hawks,,Devin Harris,Indiana Pacers,W,11/07/2012,14:45,2,6,0.333,0,1,0.0,0,0,0.0,0,1,1,3,0,0,4,4,4,-3
+Atlanta Hawks,,Ivan Johnson,Indiana Pacers,W,11/07/2012,8:34,2,4,0.5,0,0,0.0,1,1,1.0,2,1,3,0,0,0,1,3,5,11
+Atlanta Hawks,,Anthony Tolliver,Indiana Pacers,W,11/07/2012,13:36,1,7,0.143,0,1,0.0,0,0,0.0,1,1,2,1,2,0,0,1,2,-1
+Atlanta Hawks,,Devin Harris,Miami Heat,L,11/09/2012,19:37,1,3,0.333,0,1,0.0,2,2,1.0,0,2,2,3,0,0,2,1,4,-10
+Atlanta Hawks,,Louis Williams,Miami Heat,L,11/09/2012,19:25,0,6,0.0,0,3,0.0,2,2,1.0,0,3,3,3,0,0,2,0,2,-9
+Atlanta Hawks,,Anthony Tolliver,Miami Heat,L,11/09/2012,13:53,2,3,0.667,1,2,0.5,0,0,0.0,0,3,3,0,1,0,2,1,5,-3
+Atlanta Hawks,,Zaza Pachulia,Miami Heat,L,11/09/2012,13:41,1,3,0.333,0,1,0.0,0,0,0.0,0,4,4,1,0,0,1,2,2,-4
+Atlanta Hawks,,Anthony Morrow,Miami Heat,L,11/09/2012,15:29,6,11,0.545,2,2,1.0,3,3,1.0,1,0,1,0,0,0,0,2,17,5
+Atlanta Hawks,,Ivan Johnson,Miami Heat,L,11/09/2012,5:24,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,0,2,0
+Atlanta Hawks,,Devin Harris,Los Angeles Clippers,L,11/11/2012,25:10,2,7,0.286,1,5,0.2,0,2,0.0,0,4,4,3,0,2,2,1,5,-7
+Atlanta Hawks,,Louis Williams,Los Angeles Clippers,L,11/11/2012,18:57,4,9,0.444,3,5,0.6,0,0,0.0,0,1,1,2,1,0,2,0,11,-15
+Atlanta Hawks,,Ivan Johnson,Los Angeles Clippers,L,11/11/2012,14:22,1,1,1.0,0,0,0.0,0,0,0.0,1,2,3,1,0,1,2,3,2,0
+Atlanta Hawks,,Anthony Tolliver,Los Angeles Clippers,L,11/11/2012,15:32,3,6,0.5,0,1,0.0,2,3,0.667,1,2,3,0,0,0,0,0,8,-3
+Atlanta Hawks,,John Jenkins,Los Angeles Clippers,L,11/11/2012,3:48,2,4,0.5,0,0,0.0,2,2,1.0,1,1,2,0,0,0,0,0,6,7
+Atlanta Hawks,,Mike Scott,Los Angeles Clippers,L,11/11/2012,3:48,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,0,0,7
+Atlanta Hawks,,Anthony Tolliver,Portland Trail Blazers,W,11/12/2012,10:00,1,3,0.333,0,2,0.0,2,2,1.0,0,1,1,0,1,0,3,1,4,-4
+Atlanta Hawks,,Louis Williams,Portland Trail Blazers,W,11/12/2012,18:09,3,7,0.429,0,3,0.0,5,6,0.833,1,0,1,1,4,0,1,1,11,-4
+Atlanta Hawks,,Devin Harris,Portland Trail Blazers,W,11/12/2012,8:45,2,3,0.667,0,0,0.0,0,1,0.0,0,1,1,2,0,0,0,1,4,-2
+Atlanta Hawks,,Zaza Pachulia,Portland Trail Blazers,W,11/12/2012,23:10,1,6,0.167,0,0,0.0,0,0,0.0,3,6,9,0,0,2,0,2,2,-14
+Atlanta Hawks,,Anthony Morrow,Portland Trail Blazers,W,11/12/2012,12:54,2,5,0.4,1,2,0.5,0,0,0.0,0,0,0,0,1,1,0,3,5,4
+Atlanta Hawks,,Ivan Johnson,Portland Trail Blazers,W,11/12/2012,5:04,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,-3
+Atlanta Hawks,,Ivan Johnson,Golden State Warriors,L,11/14/2012,21:32,7,8,0.875,0,0,0.0,1,4,0.25,3,1,4,0,2,0,2,5,15,0
+Atlanta Hawks,,Louis Williams,Golden State Warriors,L,11/14/2012,25:23,5,14,0.357,3,8,0.375,5,7,0.714,0,3,3,6,1,0,2,1,18,-4
+Atlanta Hawks,,Anthony Morrow,Golden State Warriors,L,11/14/2012,12:19,1,5,0.2,0,2,0.0,1,1,1.0,0,0,0,0,0,0,0,0,3,-13
+Atlanta Hawks,,Anthony Tolliver,Golden State Warriors,L,11/14/2012,11:45,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-8
+Atlanta Hawks,,Johan Petro,Golden State Warriors,L,11/14/2012,5:02,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-5
+Atlanta Hawks,,Mike Scott,Golden State Warriors,L,11/14/2012,3:33,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-5
+Atlanta Hawks,,Louis Williams,Sacramento Kings,W,11/16/2012,28:38,5,8,0.625,2,5,0.4,9,11,0.818,0,4,4,5,2,0,0,2,21,13
+Atlanta Hawks,,Devin Harris,Sacramento Kings,W,11/16/2012,13:16,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,1,0,0
+Atlanta Hawks,,Ivan Johnson,Sacramento Kings,W,11/16/2012,16:56,3,4,0.75,0,0,0.0,0,0,0.0,0,2,2,1,2,0,0,1,6,-2
+Atlanta Hawks,,Anthony Morrow,Sacramento Kings,W,11/16/2012,4:41,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,2,-3
+Atlanta Hawks,,John Jenkins,Sacramento Kings,W,11/16/2012,1:25,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0
+Atlanta Hawks,,Mike Scott,Sacramento Kings,W,11/16/2012,1:25,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Atlanta Hawks,,DeShawn Stevenson,Orlando Magic,W,11/19/2012,11:51,0,3,0.0,0,3,0.0,0,0,0.0,0,0,0,0,1,0,0,1,0,5
+Atlanta Hawks,,Louis Williams,Orlando Magic,W,11/19/2012,27:43,6,12,0.5,0,3,0.0,2,2,1.0,0,3,3,3,1,1,0,2,14,3
+Atlanta Hawks,,Zaza Pachulia,Orlando Magic,W,11/19/2012,22:12,3,5,0.6,0,0,0.0,2,2,1.0,3,8,11,1,0,0,2,3,8,16
+Atlanta Hawks,,Ivan Johnson,Orlando Magic,W,11/19/2012,17:31,4,8,0.5,0,0,0.0,1,1,1.0,1,7,8,0,1,0,1,3,9,9
+Atlanta Hawks,,Anthony Morrow,Orlando Magic,W,11/19/2012,21:06,3,7,0.429,1,3,0.333,0,0,0.0,0,0,0,1,2,0,0,2,7,5
+Atlanta Hawks,,Mike Scott,Orlando Magic,W,11/19/2012,5:05,0,2,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,1,0,-10
+Atlanta Hawks,,John Jenkins,Orlando Magic,W,11/19/2012,5:05,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-10
+Atlanta Hawks,,Anthony Tolliver,Orlando Magic,W,11/19/2012,3:33,0,2,0.0,0,2,0.0,0,0,0.0,2,1,3,0,0,0,1,0,0,-8
+Atlanta Hawks,,Louis Williams,Washington Wizards,W,11/21/2012,16:56,4,10,0.4,1,4,0.25,0,0,0.0,0,0,0,3,1,0,1,1,9,-19
+Atlanta Hawks,,Zaza Pachulia,Washington Wizards,W,11/21/2012,18:30,2,4,0.5,0,0,0.0,3,3,1.0,3,3,6,2,2,0,1,3,7,-7
+Atlanta Hawks,,DeShawn Stevenson,Washington Wizards,W,11/21/2012,8:35,1,2,0.5,0,1,0.0,0,0,0.0,1,3,4,1,0,0,0,1,2,-2
+Atlanta Hawks,,Anthony Morrow,Washington Wizards,W,11/21/2012,3:56,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-8
+Atlanta Hawks,,Ivan Johnson,Washington Wizards,W,11/21/2012,5:31,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,2,1,0,-13
+Atlanta Hawks,,Louis Williams,Charlotte Bobcats,W,11/23/2012,25:57,3,6,0.5,0,2,0.0,0,0,0.0,0,1,1,1,0,3,2,3,6,-11
+Atlanta Hawks,,Devin Harris,Charlotte Bobcats,W,11/23/2012,17:39,3,6,0.5,1,3,0.333,1,3,0.333,0,0,0,1,1,3,0,1,8,-4
+Atlanta Hawks,,Zaza Pachulia,Charlotte Bobcats,W,11/23/2012,13:41,3,4,0.75,0,0,0.0,3,4,0.75,2,5,7,1,1,1,3,2,9,0
+Atlanta Hawks,,Anthony Morrow,Charlotte Bobcats,W,11/23/2012,5:01,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,2,2,3
+Atlanta Hawks,,Ivan Johnson,Charlotte Bobcats,W,11/23/2012,4:54,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,1,2,-3
+Atlanta Hawks,,Anthony Morrow,Los Angeles Clippers,W,11/24/2012,24:40,3,8,0.375,1,1,1.0,2,2,1.0,0,2,2,0,1,0,1,2,9,-2
+Atlanta Hawks,,Ivan Johnson,Los Angeles Clippers,W,11/24/2012,16:41,2,5,0.4,0,0,0.0,0,0,0.0,1,6,7,0,1,0,0,2,4,11
+Atlanta Hawks,,Louis Williams,Los Angeles Clippers,W,11/24/2012,24:35,5,9,0.556,2,4,0.5,6,6,1.0,0,1,1,5,0,0,3,3,18,5
+Atlanta Hawks,,Mike Scott,Los Angeles Clippers,W,11/24/2012,2:35,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,-8
+Atlanta Hawks,,Johan Petro,Los Angeles Clippers,W,11/24/2012,2:35,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-8
+Atlanta Hawks,,John Jenkins,Los Angeles Clippers,W,11/24/2012,2:35,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-8
+Atlanta Hawks,,Louis Williams,Charlotte Bobcats,W,11/28/2012,29:11,7,16,0.438,3,8,0.375,0,0,0.0,0,1,1,5,1,0,0,1,17,5
+Atlanta Hawks,,Devin Harris,Charlotte Bobcats,W,11/28/2012,23:40,2,7,0.286,2,6,0.333,1,2,0.5,0,1,1,4,2,0,1,0,7,1
+Atlanta Hawks,,Zaza Pachulia,Charlotte Bobcats,W,11/28/2012,20:59,2,7,0.286,0,0,0.0,2,3,0.667,4,2,6,0,0,0,1,2,6,0
+Atlanta Hawks,,Anthony Morrow,Charlotte Bobcats,W,11/28/2012,15:46,3,5,0.6,1,1,1.0,1,2,0.5,1,1,2,0,0,0,1,2,8,-1
+Atlanta Hawks,,Louis Williams,Cleveland Cavaliers,L,11/30/2012,25:50,5,10,0.5,3,5,0.6,5,5,1.0,1,2,3,0,0,0,0,2,18,1
+Atlanta Hawks,,Anthony Morrow,Cleveland Cavaliers,L,11/30/2012,6:08,2,3,0.667,1,2,0.5,0,0,0.0,0,0,0,0,1,0,0,2,5,-7
+Atlanta Hawks,,Zaza Pachulia,Cleveland Cavaliers,L,11/30/2012,21:13,1,5,0.2,0,0,0.0,0,0,0.0,2,0,2,1,0,1,1,1,2,3
+Atlanta Hawks,,Ivan Johnson,Cleveland Cavaliers,L,11/30/2012,8:59,2,3,0.667,1,1,1.0,1,2,0.5,0,2,2,1,1,0,0,0,6,18
+Atlanta Hawks,,Louis Williams,Denver Nuggets,W,12/05/2012,29:41,4,13,0.308,2,6,0.333,6,6,1.0,0,1,1,6,2,1,2,2,16,17
+Atlanta Hawks,,Zaza Pachulia,Denver Nuggets,W,12/05/2012,22:52,3,7,0.429,0,0,0.0,5,6,0.833,4,3,7,2,0,1,1,2,11,8
+Atlanta Hawks,,Anthony Morrow,Denver Nuggets,W,12/05/2012,6:30,2,6,0.333,0,2,0.0,0,0,0.0,2,1,3,0,0,0,0,0,4,7
+Atlanta Hawks,,Ivan Johnson,Denver Nuggets,W,12/05/2012,15:35,3,6,0.5,0,0,0.0,0,0,0.0,2,2,4,1,1,0,0,1,6,6
+Atlanta Hawks,,Louis Williams,Washington Wizards,W,12/07/2012,16:00,4,5,0.8,1,1,1.0,0,0,0.0,0,1,1,0,1,0,4,3,9,-9
+Atlanta Hawks,,Zaza Pachulia,Washington Wizards,W,12/07/2012,27:18,1,2,0.5,0,0,0.0,2,2,1.0,5,4,9,4,1,0,0,2,4,-2
+Atlanta Hawks,,Anthony Morrow,Washington Wizards,W,12/07/2012,11:36,2,3,0.667,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,1,5,-10
+Atlanta Hawks,,John Jenkins,Washington Wizards,W,12/07/2012,1:05,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Atlanta Hawks,,Ivan Johnson,Memphis Grizzlies,W,12/08/2012,10:30,3,5,0.6,0,0,0.0,0,0,0.0,0,0,0,1,1,0,2,0,6,0
+Atlanta Hawks,,Louis Williams,Memphis Grizzlies,W,12/08/2012,31:12,6,16,0.375,4,6,0.667,5,7,0.714,0,3,3,1,2,0,2,2,21,9
+Atlanta Hawks,,Anthony Morrow,Memphis Grizzlies,W,12/08/2012,19:28,1,5,0.2,0,3,0.0,4,5,0.8,1,4,5,3,0,0,1,3,6,-2
+Atlanta Hawks,,Anthony Tolliver,Memphis Grizzlies,W,12/08/2012,3:22,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+Atlanta Hawks,,Louis Williams,Miami Heat,L,12/10/2012,31:02,3,8,0.375,0,3,0.0,5,5,1.0,0,1,1,4,2,0,1,0,11,-5
+Atlanta Hawks,,Zaza Pachulia,Miami Heat,L,12/10/2012,18:35,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,1,0,0,1,2,0,-3
+Atlanta Hawks,,Anthony Morrow,Miami Heat,L,12/10/2012,16:04,3,4,0.75,0,1,0.0,0,0,0.0,0,3,3,0,1,0,1,1,6,2
+Atlanta Hawks,,John Jenkins,Miami Heat,L,12/10/2012,2:41,1,2,0.5,0,1,0.0,0,0,0.0,0,1,1,1,0,0,0,0,2,5
+Atlanta Hawks,,Johan Petro,Miami Heat,L,12/10/2012,2:41,1,1,1.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,1,2,5
+Atlanta Hawks,,Anthony Tolliver,Miami Heat,L,12/10/2012,2:41,0,0,0.0,0,0,0.0,2,2,1.0,0,0,0,0,0,0,1,0,2,5
+Atlanta Hawks,,Louis Williams,Orlando Magic,W,12/12/2012,33:57,4,9,0.444,0,2,0.0,3,3,1.0,0,0,0,2,2,0,1,2,11,-3
+Atlanta Hawks,,Kyle Korver,Orlando Magic,W,12/12/2012,23:16,3,7,0.429,3,5,0.6,0,0,0.0,0,2,2,0,1,0,2,1,9,2
+Atlanta Hawks,,Zaza Pachulia,Orlando Magic,W,12/12/2012,18:40,3,5,0.6,0,0,0.0,1,3,0.333,2,7,9,0,0,0,2,3,7,-15
+Atlanta Hawks,,Anthony Morrow,Charlotte Bobcats,W,12/13/2012,1:25,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-2
+Atlanta Hawks,,Louis Williams,Charlotte Bobcats,W,12/13/2012,25:01,5,10,0.5,3,7,0.429,0,0,0.0,0,3,3,9,2,0,2,1,13,10
+Atlanta Hawks,,Devin Harris,Charlotte Bobcats,W,12/13/2012,24:29,7,11,0.636,4,8,0.5,2,4,0.5,0,1,1,4,0,0,1,1,20,9
+Atlanta Hawks,,Zaza Pachulia,Charlotte Bobcats,W,12/13/2012,17:51,0,0,0.0,0,0,0.0,0,0,0.0,3,4,7,0,0,0,0,2,0,7
+Atlanta Hawks,,Ivan Johnson,Charlotte Bobcats,W,12/13/2012,28:04,5,8,0.625,0,0,0.0,6,8,0.75,1,7,8,0,2,0,1,1,16,14
+Atlanta Hawks,,Anthony Tolliver,Charlotte Bobcats,W,12/13/2012,7:07,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,1
+Atlanta Hawks,,Mike Scott,Charlotte Bobcats,W,12/13/2012,4:24,1,3,0.333,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,1,2,1
+Atlanta Hawks,,John Jenkins,Charlotte Bobcats,W,12/13/2012,4:24,2,3,0.667,1,1,1.0,0,0,0.0,0,1,1,1,0,0,0,0,5,1
+Atlanta Hawks,,Devin Harris,Golden State Warriors,L,12/15/2012,15:33,0,3,0.0,0,1,0.0,0,2,0.0,1,0,1,0,0,0,0,3,0,-11
+Atlanta Hawks,,Louis Williams,Golden State Warriors,L,12/15/2012,26:51,6,13,0.462,1,6,0.167,3,4,0.75,0,0,0,1,0,0,2,2,16,-16
+Atlanta Hawks,,Ivan Johnson,Golden State Warriors,L,12/15/2012,26:38,7,10,0.7,0,0,0.0,1,3,0.333,3,6,9,2,1,0,2,2,15,-12
+Atlanta Hawks,,Zaza Pachulia,Golden State Warriors,L,12/15/2012,3:26,0,1,0.0,0,0,0.0,2,2,1.0,1,0,1,1,0,0,1,1,2,-4
+Atlanta Hawks,,John Jenkins,Golden State Warriors,L,12/15/2012,16:58,3,8,0.375,1,6,0.167,1,1,1.0,0,2,2,1,0,0,1,1,8,-4
+Atlanta Hawks,,Anthony Tolliver,Golden State Warriors,L,12/15/2012,13:35,0,1,0.0,0,0,0.0,4,4,1.0,0,4,4,1,1,0,1,1,4,4
+Atlanta Hawks,,Mike Scott,Golden State Warriors,L,12/15/2012,9:41,1,2,0.5,0,0,0.0,7,8,0.875,1,2,3,1,0,1,0,0,9,0
+Atlanta Hawks,,Johan Petro,Golden State Warriors,L,12/15/2012,6:47,0,1,0.0,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,0,0,-1
+Atlanta Hawks,,Zaza Pachulia,Washington Wizards,W,12/18/2012,14:57,0,2,0.0,0,1,0.0,0,0,0.0,1,4,5,2,2,0,1,2,0,-2
+Atlanta Hawks,,Louis Williams,Washington Wizards,W,12/18/2012,39:56,6,18,0.333,2,7,0.286,10,11,0.909,0,2,2,1,0,1,1,1,24,8
+Atlanta Hawks,,Ivan Johnson,Washington Wizards,W,12/18/2012,16:00,2,5,0.4,0,1,0.0,1,2,0.5,1,1,2,1,1,0,2,0,5,-7
+Atlanta Hawks,,Anthony Tolliver,Washington Wizards,W,12/18/2012,8:34,2,3,0.667,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,4,-7
+Atlanta Hawks,,DeShawn Stevenson,Washington Wizards,W,12/18/2012,12:51,3,3,1.0,1,1,1.0,1,3,0.333,2,3,5,0,0,0,0,0,8,4
+Atlanta Hawks,,Anthony Morrow,Oklahoma City Thunder,L,12/19/2012,10:54,2,6,0.333,1,3,0.333,3,3,1.0,2,0,2,0,0,0,0,2,8,-16
+Atlanta Hawks,,Louis Williams,Oklahoma City Thunder,L,12/19/2012,27:22,5,15,0.333,3,5,0.6,0,0,0.0,0,0,0,1,2,0,0,1,13,-8
+Atlanta Hawks,,Zaza Pachulia,Oklahoma City Thunder,L,12/19/2012,18:29,3,8,0.375,0,0,0.0,0,0,0.0,5,5,10,0,0,0,0,0,6,-6
+Atlanta Hawks,,Ivan Johnson,Oklahoma City Thunder,L,12/19/2012,3:58,0,3,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,1,1,1,-9
+Atlanta Hawks,,John Jenkins,Oklahoma City Thunder,L,12/19/2012,5:56,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-7
+Atlanta Hawks,,Anthony Tolliver,Oklahoma City Thunder,L,12/19/2012,10:17,1,3,0.333,0,1,0.0,4,6,0.667,1,2,3,0,0,0,1,0,6,6
+Atlanta Hawks,,Louis Williams,Philadelphia 76ers,L,12/21/2012,28:10,4,12,0.333,2,7,0.286,3,3,1.0,1,0,1,4,2,0,4,2,13,-8
+Atlanta Hawks,,Anthony Morrow,Philadelphia 76ers,L,12/21/2012,19:13,1,2,0.5,1,1,1.0,0,0,0.0,0,0,0,2,1,0,0,0,3,-5
+Atlanta Hawks,,Zaza Pachulia,Philadelphia 76ers,L,12/21/2012,28:12,4,7,0.571,0,0,0.0,1,1,1.0,4,4,8,2,2,0,4,2,9,-10
+Atlanta Hawks,,Ivan Johnson,Philadelphia 76ers,L,12/21/2012,17:38,2,6,0.333,0,0,0.0,0,0,0.0,0,4,4,0,0,0,0,1,4,-5
+Atlanta Hawks,,Mike Scott,Philadelphia 76ers,L,12/21/2012,6:42,1,4,0.25,0,0,0.0,1,2,0.5,1,1,2,1,0,0,0,0,3,0
+Atlanta Hawks,,Anthony Tolliver,Philadelphia 76ers,L,12/21/2012,6:42,0,2,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,0
+Atlanta Hawks,,John Jenkins,Philadelphia 76ers,L,12/21/2012,4:45,3,3,1.0,2,2,1.0,0,0,0.0,0,2,2,0,0,0,0,0,8,-2
+Atlanta Hawks,,Johan Petro,Philadelphia 76ers,L,12/21/2012,4:45,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-2
+Atlanta Hawks,,Anthony Morrow,Chicago Bulls,W,12/22/2012,20:57,3,7,0.429,0,1,0.0,1,1,1.0,2,0,2,1,0,0,0,1,7,-11
+Atlanta Hawks,,Anthony Tolliver,Chicago Bulls,W,12/22/2012,16:07,0,1,0.0,0,1,0.0,1,2,0.5,0,2,2,0,0,0,0,1,1,-12
+Atlanta Hawks,,Zaza Pachulia,Chicago Bulls,W,12/22/2012,21:07,2,6,0.333,0,0,0.0,2,2,1.0,1,7,8,4,3,0,2,0,6,4
+Atlanta Hawks,,Ivan Johnson,Chicago Bulls,W,12/22/2012,14:46,3,4,0.75,0,0,0.0,0,0,0.0,0,4,4,0,0,0,1,0,6,-3
+Atlanta Hawks,,Mike Scott,Chicago Bulls,W,12/22/2012,6:55,0,1,0.0,0,0,0.0,0,0,0.0,1,0,1,0,1,0,4,1,0,-8
+Atlanta Hawks,,John Jenkins,Chicago Bulls,W,12/22/2012,6:19,0,2,0.0,0,2,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-6
+Atlanta Hawks,,DeShawn Stevenson,Detroit Pistons,W,12/26/2012,26:21,3,7,0.429,2,6,0.333,0,0,0.0,0,1,1,3,0,0,0,0,8,-4
+Atlanta Hawks,,Zaza Pachulia,Detroit Pistons,W,12/26/2012,22:20,1,3,0.333,0,0,0.0,2,2,1.0,1,3,4,0,2,0,1,3,4,-3
+Atlanta Hawks,,Anthony Morrow,Detroit Pistons,W,12/26/2012,17:31,6,10,0.6,3,5,0.6,1,1,1.0,1,0,1,0,1,0,0,0,16,3
+Atlanta Hawks,,Ivan Johnson,Detroit Pistons,W,12/26/2012,9:46,1,3,0.333,0,1,0.0,0,0,0.0,1,3,4,2,0,0,0,1,2,-3
+Atlanta Hawks,,Zaza Pachulia,Cleveland Cavaliers,W,12/28/2012,25:56,2,4,0.5,0,0,0.0,5,6,0.833,3,4,7,2,1,0,0,3,9,17
+Atlanta Hawks,,Anthony Morrow,Cleveland Cavaliers,W,12/28/2012,6:58,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,2,0,8
+Atlanta Hawks,,Anthony Tolliver,Cleveland Cavaliers,W,12/28/2012,20:28,5,7,0.714,2,3,0.667,1,2,0.5,2,2,4,1,0,1,0,1,13,5
+Atlanta Hawks,,Mike Scott,Cleveland Cavaliers,W,12/28/2012,8:56,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,6
+Atlanta Hawks,,John Jenkins,Cleveland Cavaliers,W,12/28/2012,8:03,2,3,0.667,1,2,0.5,0,0,0.0,0,2,2,0,0,0,0,0,5,4
+Atlanta Hawks,,DeShawn Stevenson,Indiana Pacers,W,12/29/2012,15:01,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Atlanta Hawks,,John Jenkins,Indiana Pacers,W,12/29/2012,16:54,4,6,0.667,2,2,1.0,0,0,0.0,0,2,2,1,0,0,3,2,10,-3
+Atlanta Hawks,,Ivan Johnson,Indiana Pacers,W,12/29/2012,15:25,3,6,0.5,0,0,0.0,0,1,0.0,3,3,6,0,3,1,1,6,6,-1
+Atlanta Hawks,,Johan Petro,Indiana Pacers,W,12/29/2012,4:28,2,3,0.667,0,1,0.0,0,0,0.0,0,0,0,0,0,1,1,3,4,-4
+Atlanta Hawks,,Zaza Pachulia,Houston Rockets,L,12/31/2012,15:56,1,3,0.333,0,0,0.0,0,0,0.0,0,2,2,2,0,0,1,3,2,-6
+Atlanta Hawks,,DeShawn Stevenson,Houston Rockets,L,12/31/2012,23:54,3,6,0.5,2,3,0.667,0,0,0.0,0,2,2,2,1,0,0,2,8,-20
+Atlanta Hawks,,John Jenkins,Houston Rockets,L,12/31/2012,24:27,6,9,0.667,2,3,0.667,1,1,1.0,0,1,1,2,1,1,3,3,15,-11
+Atlanta Hawks,,Ivan Johnson,Houston Rockets,L,12/31/2012,10:28,2,4,0.5,0,1,0.0,0,0,0.0,1,2,3,1,0,0,0,0,4,-15
+Atlanta Hawks,,Mike Scott,Houston Rockets,L,12/31/2012,12:00,3,4,0.75,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,6,-4
+Atlanta Hawks,,Anthony Tolliver,Houston Rockets,L,12/31/2012,3:37,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-6
+Atlanta Hawks,,Johan Petro,Houston Rockets,L,12/31/2012,3:37,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-6
+Atlanta Hawks,,Zaza Pachulia,New Orleans Hornets,W,01/01/2013,19:58,5,8,0.625,0,0,0.0,2,2,1.0,6,4,10,0,0,1,0,0,12,8
+Atlanta Hawks,,John Jenkins,New Orleans Hornets,W,01/01/2013,18:45,3,4,0.75,1,1,1.0,0,0,0.0,0,1,1,2,0,0,0,1,7,11
+Atlanta Hawks,,Anthony Tolliver,New Orleans Hornets,W,01/01/2013,14:58,2,5,0.4,2,4,0.5,0,0,0.0,0,3,3,1,1,0,0,2,6,7
+Atlanta Hawks,,John Jenkins,Detroit Pistons,L,01/04/2013,12:12,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-18
+Atlanta Hawks,,Zaza Pachulia,Detroit Pistons,L,01/04/2013,20:13,3,5,0.6,0,0,0.0,3,5,0.6,1,5,6,0,0,0,2,3,9,1
+Atlanta Hawks,,Ivan Johnson,Detroit Pistons,L,01/04/2013,12:14,0,3,0.0,0,0,0.0,5,6,0.833,0,2,2,0,1,1,2,2,5,-10
+Atlanta Hawks,,Anthony Tolliver,Detroit Pistons,L,01/04/2013,9:12,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,1,1,0,0,-3
+Atlanta Hawks,,Zaza Pachulia,Boston Celtics,L,01/05/2013,13:37,0,1,0.0,0,0,0.0,2,2,1.0,1,1,2,0,0,0,2,3,2,-7
+Atlanta Hawks,,DeShawn Stevenson,Boston Celtics,L,01/05/2013,12:52,0,2,0.0,0,2,0.0,0,0,0.0,1,2,3,1,0,0,0,1,0,-8
+Atlanta Hawks,,Anthony Tolliver,Boston Celtics,L,01/05/2013,8:52,1,2,0.5,0,1,0.0,1,1,1.0,0,0,0,1,1,0,1,2,3,-2
+Atlanta Hawks,,John Jenkins,Boston Celtics,L,01/05/2013,3:19,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Atlanta Hawks,,Ivan Johnson,Boston Celtics,L,01/05/2013,6:37,2,2,1.0,0,0,0.0,0,0,0.0,2,2,4,0,0,0,0,0,4,-1
+Atlanta Hawks,,DeShawn Stevenson,Minnesota Timberwolves,L,01/08/2013,5:17,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-7
+Atlanta Hawks,,John Jenkins,Minnesota Timberwolves,L,01/08/2013,25:31,4,6,0.667,2,3,0.667,0,0,0.0,1,1,2,0,0,2,0,3,10,-10
+Atlanta Hawks,,Zaza Pachulia,Minnesota Timberwolves,L,01/08/2013,23:31,3,4,0.75,0,0,0.0,2,2,1.0,0,3,3,1,2,0,3,1,8,-3
+Atlanta Hawks,,Mike Scott,Minnesota Timberwolves,L,01/08/2013,8:49,1,2,0.5,0,0,0.0,2,2,1.0,1,1,2,0,0,0,0,1,4,2
+Atlanta Hawks,,Anthony Tolliver,Minnesota Timberwolves,L,01/08/2013,4:31,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,4
+Atlanta Hawks,,Louis Williams,Cleveland Cavaliers,L,01/09/2013,20:52,2,8,0.25,1,4,0.25,0,0,0.0,0,1,1,0,1,0,1,2,5,-14
+Atlanta Hawks,,John Jenkins,Cleveland Cavaliers,L,01/09/2013,16:10,2,7,0.286,1,3,0.333,0,0,0.0,2,1,3,0,0,0,1,1,5,-14
+Atlanta Hawks,,Mike Scott,Cleveland Cavaliers,L,01/09/2013,8:30,1,2,0.5,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,0,2,0
+Atlanta Hawks,,Devin Harris,Cleveland Cavaliers,L,01/09/2013,12:08,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,1,0,0,2,0,-2
+Atlanta Hawks,,Ivan Johnson,Cleveland Cavaliers,L,01/09/2013,7:29,1,3,0.333,0,0,0.0,1,2,0.5,0,2,2,0,1,0,0,1,3,-9
+Atlanta Hawks,,Johan Petro,Cleveland Cavaliers,L,01/09/2013,3:27,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,-1
+Atlanta Hawks,,Anthony Tolliver,Cleveland Cavaliers,L,01/09/2013,3:27,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,2,0,0,1,0,0,-1
+Atlanta Hawks,,Louis Williams,Utah Jazz,W,01/11/2013,33:41,5,13,0.385,2,6,0.333,2,3,0.667,0,2,2,3,2,1,3,1,14,23
+Atlanta Hawks,,Zaza Pachulia,Utah Jazz,W,01/11/2013,19:46,5,7,0.714,0,0,0.0,2,3,0.667,2,1,3,1,1,0,1,5,12,6
+Atlanta Hawks,,Ivan Johnson,Utah Jazz,W,01/11/2013,26:02,6,10,0.6,0,0,0.0,1,2,0.5,0,7,7,0,1,1,0,2,13,23
+Atlanta Hawks,,John Jenkins,Utah Jazz,W,01/11/2013,10:54,1,1,1.0,1,1,1.0,0,0,0.0,0,1,1,0,0,0,0,2,3,12
+Atlanta Hawks,,Zaza Pachulia,Washington Wizards,L,01/12/2013,17:27,2,4,0.5,0,0,0.0,1,2,0.5,1,5,6,0,0,0,1,2,5,-4
+Atlanta Hawks,,Louis Williams,Washington Wizards,L,01/12/2013,25:53,3,12,0.25,2,6,0.333,0,0,0.0,0,0,0,2,1,0,1,1,8,-12
+Atlanta Hawks,,Ivan Johnson,Washington Wizards,L,01/12/2013,17:17,0,6,0.0,0,2,0.0,6,8,0.75,2,2,4,3,1,0,1,2,6,8
+Atlanta Hawks,,John Jenkins,Washington Wizards,L,01/12/2013,9:32,2,4,0.5,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,1,5,-2
+Atlanta Hawks,,DeShawn Stevenson,Washington Wizards,L,01/12/2013,5:41,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,1,0,0,1,0,-4
+Atlanta Hawks,,Louis Williams,Chicago Bulls,L,01/14/2013,24:45,2,6,0.333,0,2,0.0,0,0,0.0,0,1,1,3,0,0,2,0,4,-22
+Atlanta Hawks,,John Jenkins,Chicago Bulls,L,01/14/2013,30:37,1,9,0.111,1,3,0.333,0,0,0.0,0,2,2,3,0,1,0,1,3,-22
+Atlanta Hawks,,Zaza Pachulia,Chicago Bulls,L,01/14/2013,18:36,2,9,0.222,0,0,0.0,0,0,0.0,3,3,6,1,1,0,0,3,4,-11
+Atlanta Hawks,,Ivan Johnson,Chicago Bulls,L,01/14/2013,5:26,1,5,0.2,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,2,2,-6
+Atlanta Hawks,,Anthony Tolliver,Chicago Bulls,L,01/14/2013,15:18,0,2,0.0,0,1,0.0,0,0,0.0,1,1,2,0,0,1,0,2,0,-6
+Atlanta Hawks,,Mike Scott,Chicago Bulls,L,01/14/2013,15:58,4,5,0.8,0,0,0.0,2,2,1.0,1,2,3,1,0,0,0,2,10,-8
+Atlanta Hawks,,Johan Petro,Chicago Bulls,L,01/14/2013,6:56,2,4,0.5,0,0,0.0,1,1,1.0,1,1,2,0,0,0,1,1,5,-7
+Atlanta Hawks,,Louis Williams,Brooklyn Nets,W,01/16/2013,24:04,5,8,0.625,1,3,0.333,0,0,0.0,1,0,1,4,0,0,3,1,11,-7
+Atlanta Hawks,,Ivan Johnson,Brooklyn Nets,W,01/16/2013,20:25,4,8,0.5,0,0,0.0,0,0,0.0,2,1,3,1,0,0,2,2,8,4
+Atlanta Hawks,,DeShawn Stevenson,Brooklyn Nets,W,01/16/2013,21:18,1,3,0.333,1,3,0.333,0,0,0.0,1,0,1,0,0,0,0,3,3,0
+Atlanta Hawks,,Ivan Johnson,Brooklyn Nets,L,01/18/2013,10:14,2,6,0.333,0,0,0.0,1,3,0.333,0,3,3,0,0,1,3,2,5,-8
+Atlanta Hawks,,Louis Williams,Brooklyn Nets,L,01/18/2013,9:39,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,1,1,0,-1
+Atlanta Hawks,,Johan Petro,Brooklyn Nets,L,01/18/2013,13:17,2,4,0.5,0,0,0.0,0,0,0.0,0,5,5,0,1,0,0,3,4,2
+Atlanta Hawks,,John Jenkins,Brooklyn Nets,L,01/18/2013,13:25,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,2,-7
+Atlanta Hawks,,Mike Scott,Brooklyn Nets,L,01/18/2013,10:06,3,5,0.6,0,0,0.0,2,2,1.0,1,1,2,0,0,0,0,1,8,3
+Atlanta Hawks,,Anthony Tolliver,Brooklyn Nets,L,01/18/2013,13:31,2,3,0.667,1,2,0.5,0,0,0.0,0,4,4,0,0,0,1,3,5,-2
+Atlanta Hawks,,Ivan Johnson,San Antonio Spurs,L,01/19/2013,7:10,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,1,2,-11
+Atlanta Hawks,,Devin Harris,San Antonio Spurs,L,01/19/2013,17:27,4,8,0.5,2,3,0.667,3,6,0.5,0,1,1,1,0,0,1,2,13,2
+Atlanta Hawks,,John Jenkins,San Antonio Spurs,L,01/19/2013,22:52,3,12,0.25,1,6,0.167,2,2,1.0,1,1,2,0,0,0,1,0,9,-1
+Atlanta Hawks,,Mike Scott,San Antonio Spurs,L,01/19/2013,3:57,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,0,0,-8
+Atlanta Hawks,,Anthony Tolliver,San Antonio Spurs,L,01/19/2013,8:43,0,2,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,1,1,0,0,0
+Atlanta Hawks,,Ivan Johnson,Minnesota Timberwolves,W,01/21/2013,7:42,3,3,1.0,0,0,0.0,2,2,1.0,1,2,3,1,1,0,1,5,8,-1
+Atlanta Hawks,,Kyle Korver,Minnesota Timberwolves,W,01/21/2013,35:11,5,8,0.625,3,6,0.5,1,2,0.5,1,2,3,2,2,0,1,3,14,16
+Atlanta Hawks,,Jannero Pargo,Minnesota Timberwolves,W,01/21/2013,25:02,6,11,0.545,4,5,0.8,0,0,0.0,0,1,1,4,1,0,0,0,16,9
+Atlanta Hawks,,Anthony Tolliver,Minnesota Timberwolves,W,01/21/2013,15:26,2,2,1.0,2,2,1.0,0,0,0.0,0,2,2,2,0,0,2,2,6,-7
+Atlanta Hawks,,Mike Scott,Minnesota Timberwolves,W,01/21/2013,21:49,5,8,0.625,0,0,0.0,1,4,0.25,3,4,7,1,2,0,2,2,11,0
+Atlanta Hawks,,John Jenkins,Charlotte Bobcats,W,01/23/2013,19:26,3,7,0.429,2,4,0.5,0,0,0.0,0,1,1,4,0,1,0,2,8,7
+Atlanta Hawks,,Johan Petro,Charlotte Bobcats,W,01/23/2013,16:18,2,6,0.333,0,0,0.0,0,0,0.0,0,2,2,1,0,1,0,1,4,1
+Atlanta Hawks,,Mike Scott,Charlotte Bobcats,W,01/23/2013,13:25,2,3,0.667,0,0,0.0,1,2,0.5,2,3,5,1,0,0,1,3,5,0
+Atlanta Hawks,,Jannero Pargo,Charlotte Bobcats,W,01/23/2013,22:45,3,6,0.5,2,4,0.5,0,0,0.0,0,0,0,3,1,0,2,2,8,2
+Atlanta Hawks,,Anthony Tolliver,Charlotte Bobcats,W,01/23/2013,3:23,1,2,0.5,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,2,3,-3
+Atlanta Hawks,,Devin Harris,Boston Celtics,W,01/25/2013,38:21,4,13,0.308,2,9,0.222,4,4,1.0,0,3,3,2,2,1,2,3,14,26
+Atlanta Hawks,,Zaza Pachulia,Boston Celtics,W,01/25/2013,11:28,1,1,1.0,0,0,0.0,0,0,0.0,1,2,3,1,0,0,0,0,2,-15
+Atlanta Hawks,,Jannero Pargo,Boston Celtics,W,01/25/2013,21:47,1,7,0.143,0,4,0.0,0,0,0.0,1,2,3,5,0,0,0,0,2,0
+Atlanta Hawks,,DeShawn Stevenson,Boston Celtics,W,01/25/2013,8:14,0,2,0.0,0,2,0.0,1,2,0.5,0,1,1,0,0,0,0,1,1,-2
+Atlanta Hawks,,John Jenkins,Boston Celtics,W,01/25/2013,5:40,1,4,0.25,0,2,0.0,0,0,0.0,1,0,1,0,0,0,1,0,2,-7
+Atlanta Hawks,,Mike Scott,Boston Celtics,W,01/25/2013,3:56,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,1,0,2
+Atlanta Hawks,,Zaza Pachulia,New York Knicks,L,01/27/2013,17:14,1,2,0.5,0,0,0.0,0,0,0.0,1,2,3,2,1,0,2,3,2,-9
+Atlanta Hawks,,John Jenkins,New York Knicks,L,01/27/2013,4:30,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,1,0,-6
+Atlanta Hawks,,Ivan Johnson,New York Knicks,L,01/27/2013,10:12,3,5,0.6,0,0,0.0,2,2,1.0,1,0,1,1,0,0,1,0,8,-8
+Atlanta Hawks,,Jannero Pargo,New York Knicks,L,01/27/2013,5:34,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,1,0,-11
+Atlanta Hawks,,DeShawn Stevenson,New York Knicks,L,01/27/2013,29:36,5,7,0.714,4,6,0.667,1,1,1.0,0,1,1,2,0,0,0,4,15,-2
+Atlanta Hawks,,John Jenkins,Toronto Raptors,W,01/30/2013,12:42,2,5,0.4,0,3,0.0,1,1,1.0,0,0,0,0,0,0,0,0,5,-5
+Atlanta Hawks,,DeShawn Stevenson,Toronto Raptors,W,01/30/2013,18:15,2,4,0.5,2,4,0.5,0,2,0.0,0,2,2,0,0,1,2,3,6,2
+Atlanta Hawks,,Ivan Johnson,Toronto Raptors,W,01/30/2013,13:46,3,6,0.5,0,0,0.0,0,1,0.0,1,1,2,2,0,0,1,4,6,-8
+Atlanta Hawks,,Jannero Pargo,Toronto Raptors,W,01/30/2013,4:53,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,1,0,-4
+Atlanta Hawks,,Jannero Pargo,Chicago Bulls,L,02/02/2013,14:02,0,6,0.0,0,4,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-5
+Atlanta Hawks,,John Jenkins,Chicago Bulls,L,02/02/2013,22:35,2,3,0.667,0,0,0.0,1,2,0.5,0,1,1,2,0,0,1,1,5,-6
+Atlanta Hawks,,Ivan Johnson,Chicago Bulls,L,02/02/2013,22:52,3,8,0.375,0,0,0.0,2,5,0.4,3,6,9,0,0,0,3,1,8,-2
+Atlanta Hawks,,Anthony Tolliver,Chicago Bulls,L,02/02/2013,12:29,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,1,2,1
+Atlanta Hawks,,Anthony Morrow,Chicago Bulls,L,02/02/2013,3:44,0,3,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,3
+Atlanta Hawks,,Mike Scott,Chicago Bulls,L,02/02/2013,1:37,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Atlanta Hawks,,Johan Petro,Indiana Pacers,L,02/05/2013,14:59,4,6,0.667,0,0,0.0,2,2,1.0,0,2,2,0,0,0,2,3,10,-3
+Atlanta Hawks,,John Jenkins,Indiana Pacers,L,02/05/2013,20:21,2,5,0.4,1,3,0.333,9,10,0.9,0,2,2,1,0,0,0,0,14,13
+Atlanta Hawks,,Jannero Pargo,Indiana Pacers,L,02/05/2013,19:03,3,7,0.429,1,3,0.333,2,2,1.0,0,2,2,5,1,0,0,4,9,2
+Atlanta Hawks,,Ivan Johnson,Indiana Pacers,L,02/05/2013,11:20,0,3,0.0,0,0,0.0,0,0,0.0,0,1,1,1,1,0,0,3,0,3
+Atlanta Hawks,,Mike Scott,Indiana Pacers,L,02/05/2013,11:56,2,3,0.667,0,0,0.0,2,2,1.0,1,5,6,1,0,0,0,5,6,5
+Atlanta Hawks,,Anthony Tolliver,Indiana Pacers,L,02/05/2013,1:48,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-1
+Atlanta Hawks,,Devin Harris,Memphis Grizzlies,W,02/06/2013,16:43,2,4,0.5,0,2,0.0,4,5,0.8,0,1,1,3,0,0,1,1,8,-4
+Atlanta Hawks,,John Jenkins,Memphis Grizzlies,W,02/06/2013,22:41,3,9,0.333,3,6,0.5,0,0,0.0,1,4,5,1,0,0,0,0,9,3
+Atlanta Hawks,,Johan Petro,Memphis Grizzlies,W,02/06/2013,5:46,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,3,2,1
+Atlanta Hawks,,Ivan Johnson,Memphis Grizzlies,W,02/06/2013,12:05,2,5,0.4,0,1,0.0,2,4,0.5,1,1,2,0,1,0,3,2,6,-7
+Atlanta Hawks,,Mike Scott,Memphis Grizzlies,W,02/06/2013,5:17,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,1,0,-9
+Atlanta Hawks,,Devin Harris,New Orleans Hornets,L,02/08/2013,17:37,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,2,1,0,2,2,2,-6
+Atlanta Hawks,,John Jenkins,New Orleans Hornets,L,02/08/2013,19:39,2,4,0.5,2,3,0.667,2,3,0.667,1,1,2,0,0,1,1,0,8,-4
+Atlanta Hawks,,Zaza Pachulia,New Orleans Hornets,L,02/08/2013,17:20,2,4,0.5,0,0,0.0,2,2,1.0,1,2,3,1,1,1,2,3,6,-5
+Atlanta Hawks,,Ivan Johnson,New Orleans Hornets,L,02/08/2013,11:09,2,5,0.4,0,1,0.0,2,4,0.5,0,4,4,1,1,1,1,2,6,4
+Atlanta Hawks,,Kyle Korver,Dallas Mavericks,W,02/11/2013,30:25,3,6,0.5,2,4,0.5,2,2,1.0,2,2,4,1,1,0,1,2,10,5
+Atlanta Hawks,,John Jenkins,Dallas Mavericks,W,02/11/2013,15:55,2,4,0.5,0,2,0.0,0,0,0.0,0,1,1,0,0,0,2,1,4,-2
+Atlanta Hawks,,Zaza Pachulia,Dallas Mavericks,W,02/11/2013,16:13,3,7,0.429,0,0,0.0,2,4,0.5,3,7,10,1,0,0,2,2,8,-6
+Atlanta Hawks,,DeShawn Stevenson,Dallas Mavericks,W,02/11/2013,5:51,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-6
+Atlanta Hawks,,Ivan Johnson,Dallas Mavericks,W,02/11/2013,4:27,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,1,0,0,-6
+Atlanta Hawks,,Kyle Korver,Orlando Magic,W,02/13/2013,23:27,2,6,0.333,1,5,0.2,2,2,1.0,3,3,6,4,1,0,0,1,7,26
+Atlanta Hawks,,Zaza Pachulia,Orlando Magic,W,02/13/2013,17:16,3,9,0.333,0,0,0.0,2,2,1.0,3,3,6,1,0,0,0,1,8,20
+Atlanta Hawks,,John Jenkins,Orlando Magic,W,02/13/2013,24:01,3,5,0.6,3,5,0.6,0,0,0.0,0,3,3,1,1,0,1,2,9,10
+Atlanta Hawks,,DeShawn Stevenson,Orlando Magic,W,02/13/2013,9:37,2,5,0.4,1,3,0.333,0,0,0.0,0,0,0,0,0,0,0,1,5,8
+Atlanta Hawks,,Mike Scott,Orlando Magic,W,02/13/2013,12:34,1,5,0.2,0,0,0.0,0,0,0.0,3,2,5,0,0,0,2,0,2,-5
+Atlanta Hawks,,Johan Petro,Orlando Magic,W,02/13/2013,6:00,0,3,0.0,0,1,0.0,0,0,0.0,1,3,4,0,0,0,0,1,0,-5
+Atlanta Hawks,,Anthony Morrow,Orlando Magic,W,02/13/2013,6:00,1,3,0.333,1,1,1.0,0,0,0.0,0,2,2,0,0,0,0,1,3,-5
+Atlanta Hawks,,Kyle Korver,Miami Heat,L,02/20/2013,25:43,4,6,0.667,4,5,0.8,0,0,0.0,0,7,7,3,2,0,2,4,12,-13
+Atlanta Hawks,,Anthony Tolliver,Miami Heat,L,02/20/2013,7:40,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-3
+Atlanta Hawks,,Devin Harris,Miami Heat,L,02/20/2013,19:33,2,5,0.4,0,3,0.0,2,3,0.667,0,4,4,3,0,0,0,1,6,1
+Atlanta Hawks,,Ivan Johnson,Miami Heat,L,02/20/2013,14:50,4,7,0.571,0,0,0.0,2,4,0.5,0,2,2,0,0,0,1,3,10,-8
+Atlanta Hawks,,John Jenkins,Miami Heat,L,02/20/2013,7:46,1,4,0.25,0,2,0.0,1,2,0.5,0,0,0,0,0,0,0,0,3,-1
+Atlanta Hawks,,Kyle Korver,Sacramento Kings,W,02/22/2013,31:39,4,11,0.364,2,7,0.286,0,0,0.0,0,5,5,3,1,0,0,1,10,12
+Atlanta Hawks,,Devin Harris,Sacramento Kings,W,02/22/2013,12:58,3,5,0.6,2,2,1.0,2,2,1.0,0,2,2,2,0,0,0,2,10,1
+Atlanta Hawks,,Ivan Johnson,Sacramento Kings,W,02/22/2013,7:59,1,3,0.333,0,1,0.0,0,4,0.0,0,2,2,3,1,0,1,1,2,3
+Atlanta Hawks,,John Jenkins,Sacramento Kings,W,02/22/2013,9:31,2,3,0.667,1,2,0.5,1,2,0.5,0,0,0,1,0,0,0,1,6,-8
+Atlanta Hawks,,Anthony Tolliver,Sacramento Kings,W,02/22/2013,18:06,3,6,0.5,1,3,0.333,0,0,0.0,1,1,2,1,0,3,0,2,7,9
+Atlanta Hawks,,Johan Petro,Sacramento Kings,W,02/22/2013,4:15,0,5,0.0,0,0,0.0,0,0,0.0,3,1,4,0,0,0,0,2,0,-6
+Atlanta Hawks,,Dahntay Jones,Sacramento Kings,W,02/22/2013,2:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+Atlanta Hawks,,Mike Scott,Sacramento Kings,W,02/22/2013,2:27,2,3,0.667,0,0,0.0,0,0,0.0,2,1,3,0,0,0,0,0,4,-3
+Atlanta Hawks,,Kyle Korver,Milwaukee Bucks,W,02/23/2013,32:58,2,10,0.2,2,7,0.286,0,0,0.0,0,2,2,3,1,1,3,1,6,0
+Atlanta Hawks,,Dahntay Jones,Milwaukee Bucks,W,02/23/2013,4:44,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,-9
+Atlanta Hawks,,Zaza Pachulia,Milwaukee Bucks,W,02/23/2013,20:03,1,5,0.2,0,0,0.0,1,2,0.5,8,3,11,2,1,0,0,4,3,-4
+Atlanta Hawks,,John Jenkins,Milwaukee Bucks,W,02/23/2013,19:05,3,7,0.429,3,4,0.75,0,0,0.0,0,0,0,1,0,0,1,3,9,1
+Atlanta Hawks,,John Jenkins,Detroit Pistons,W,02/25/2013,17:21,1,5,0.2,0,4,0.0,4,4,1.0,0,2,2,2,0,0,2,0,6,-5
+Atlanta Hawks,,Ivan Johnson,Detroit Pistons,W,02/25/2013,5:54,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,1,2,9
+Atlanta Hawks,,Dahntay Jones,Detroit Pistons,W,02/25/2013,19:03,1,4,0.25,0,2,0.0,0,0,0.0,0,0,0,2,1,1,1,1,2,-2
+Atlanta Hawks,,Devin Harris,Detroit Pistons,W,02/25/2013,13:19,3,6,0.5,3,5,0.6,2,3,0.667,0,1,1,3,1,0,1,2,11,7
+Atlanta Hawks,,Anthony Tolliver,Detroit Pistons,W,02/25/2013,12:30,2,5,0.4,1,3,0.333,0,0,0.0,0,0,0,1,0,0,0,0,5,-13
+Atlanta Hawks,,Mike Scott,Detroit Pistons,W,02/25/2013,1:44,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-5
+Atlanta Hawks,,Johan Petro,Detroit Pistons,W,02/25/2013,1:44,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-5
+Atlanta Hawks,,John Jenkins,Utah Jazz,W,02/27/2013,13:56,1,2,0.5,0,1,0.0,1,2,0.5,0,1,1,0,0,0,0,0,3,-8
+Atlanta Hawks,,Zaza Pachulia,Utah Jazz,W,02/27/2013,12:20,0,4,0.0,0,0,0.0,2,2,1.0,1,0,1,2,0,0,0,3,2,-8
+Atlanta Hawks,,DeShawn Stevenson,Utah Jazz,W,02/27/2013,13:18,1,3,0.333,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,2,2,-3
+Atlanta Hawks,,Ivan Johnson,Utah Jazz,W,02/27/2013,9:00,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,2,-1
+Atlanta Hawks,,Dahntay Jones,Phoenix Suns,L,03/01/2013,7:04,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-1
+Atlanta Hawks,,Devin Harris,Phoenix Suns,L,03/01/2013,27:09,4,9,0.444,0,2,0.0,4,4,1.0,0,1,1,6,1,0,5,2,12,5
+Atlanta Hawks,,John Jenkins,Phoenix Suns,L,03/01/2013,9:46,0,2,0.0,0,1,0.0,1,2,0.5,0,2,2,0,0,0,0,0,1,-4
+Atlanta Hawks,,Anthony Tolliver,Phoenix Suns,L,03/01/2013,20:51,3,5,0.6,2,4,0.5,3,3,1.0,0,4,4,1,0,0,0,1,11,8
+Atlanta Hawks,,Zaza Pachulia,Phoenix Suns,L,03/01/2013,24:42,2,2,1.0,0,0,0.0,4,4,1.0,2,6,8,2,2,0,2,2,8,-3
+Atlanta Hawks,,Ivan Johnson,Phoenix Suns,L,03/01/2013,3:21,1,4,0.25,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,1,2,-4
+Atlanta Hawks,,Johan Petro,Los Angeles Lakers,L,03/03/2013,24:13,3,5,0.6,0,0,0.0,0,0,0.0,0,8,8,1,4,2,1,1,6,12
+Atlanta Hawks,,Devin Harris,Los Angeles Lakers,L,03/03/2013,24:29,5,9,0.556,3,6,0.5,3,3,1.0,0,3,3,6,3,0,0,1,16,24
+Atlanta Hawks,,Kyle Korver,Los Angeles Lakers,L,03/03/2013,34:45,6,13,0.462,2,6,0.333,2,2,1.0,0,5,5,4,0,2,0,3,16,19
+Atlanta Hawks,,Ivan Johnson,Los Angeles Lakers,L,03/03/2013,2:26,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1
+Atlanta Hawks,,Anthony Tolliver,Los Angeles Lakers,L,03/03/2013,14:03,1,2,0.5,1,1,1.0,0,0,0.0,0,1,1,2,0,0,0,1,3,4
+Atlanta Hawks,,Dahntay Jones,Los Angeles Lakers,L,03/03/2013,0:02,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+Atlanta Hawks,,John Jenkins,Denver Nuggets,L,03/04/2013,23:34,4,12,0.333,1,6,0.167,3,3,1.0,2,0,2,0,0,1,2,0,12,-22
+Atlanta Hawks,,Johan Petro,Denver Nuggets,L,03/04/2013,8:59,2,2,1.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,0,4,-1
+Atlanta Hawks,,Devin Harris,Denver Nuggets,L,03/04/2013,20:56,4,10,0.4,1,6,0.167,2,2,1.0,0,2,2,2,0,2,2,2,11,-6
+Atlanta Hawks,,Ivan Johnson,Denver Nuggets,L,03/04/2013,13:05,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,1,0,-11
+Atlanta Hawks,,Jeremy Tyler,Denver Nuggets,L,03/04/2013,5:23,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,0,0,0,0,0,0,-6
+Atlanta Hawks,,Kyle Korver,Philadelphia 76ers,W,03/06/2013,33:24,4,7,0.571,1,3,0.333,0,0,0.0,0,1,1,2,1,0,0,3,9,19
+Atlanta Hawks,,Dahntay Jones,Philadelphia 76ers,W,03/06/2013,4:03,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,3
+Atlanta Hawks,,Anthony Tolliver,Philadelphia 76ers,W,03/06/2013,26:53,7,10,0.7,5,7,0.714,2,2,1.0,4,4,8,1,0,2,2,2,21,17
+Atlanta Hawks,,John Jenkins,Philadelphia 76ers,W,03/06/2013,13:30,2,5,0.4,1,3,0.333,2,2,1.0,0,1,1,0,0,0,0,1,7,5
+Atlanta Hawks,,Mike Scott,Philadelphia 76ers,W,03/06/2013,1:01,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Atlanta Hawks,,Shelvin Mack,Philadelphia 76ers,W,03/06/2013,1:01,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-1
+Atlanta Hawks,,Anthony Tolliver,Boston Celtics,L,03/08/2013,34:06,1,7,0.143,1,4,0.25,2,2,1.0,1,5,6,5,2,0,2,3,5,2
+Atlanta Hawks,,Kyle Korver,Boston Celtics,L,03/08/2013,38:10,1,5,0.2,1,4,0.25,0,0,0.0,0,4,4,2,1,0,0,3,3,-12
+Atlanta Hawks,,John Jenkins,Boston Celtics,L,03/08/2013,7:14,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-3
+Atlanta Hawks,,Dahntay Jones,Boston Celtics,L,03/08/2013,3:24,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,1,1,0,-2
+Atlanta Hawks,,Ivan Johnson,Brooklyn Nets,L,03/09/2013,19:28,4,9,0.444,0,0,0.0,1,2,0.5,2,5,7,1,1,1,1,3,9,-3
+Atlanta Hawks,,Devin Harris,Brooklyn Nets,L,03/09/2013,26:19,2,5,0.4,0,2,0.0,2,4,0.5,0,2,2,9,0,0,0,4,6,-6
+Atlanta Hawks,,DeShawn Stevenson,Brooklyn Nets,L,03/09/2013,13:13,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,1,0,-13
+Atlanta Hawks,,Anthony Tolliver,Brooklyn Nets,L,03/09/2013,13:57,0,3,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,1,2,0,-16
+Atlanta Hawks,,John Jenkins,Brooklyn Nets,L,03/09/2013,18:53,3,7,0.429,2,4,0.5,2,2,1.0,0,3,3,2,0,1,0,0,10,1
+Atlanta Hawks,,Dahntay Jones,Brooklyn Nets,L,03/09/2013,9:50,0,1,0.0,0,0,0.0,2,2,1.0,0,2,2,1,0,0,1,1,2,8
+Atlanta Hawks,,Mike Scott,Brooklyn Nets,L,03/09/2013,7:56,1,3,0.333,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,2,3
+Atlanta Hawks,,Shelvin Mack,Brooklyn Nets,L,03/09/2013,4:34,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,2,1,0,4
+Atlanta Hawks,,Dahntay Jones,Miami Heat,L,03/12/2013,19:58,2,3,0.667,0,0,0.0,0,0,0.0,1,1,2,2,3,0,3,4,4,7
+Atlanta Hawks,,John Jenkins,Miami Heat,L,03/12/2013,18:48,3,9,0.333,0,3,0.0,0,0,0.0,1,1,2,1,2,0,3,1,6,-2
+Atlanta Hawks,,Devin Harris,Miami Heat,L,03/12/2013,18:49,3,6,0.5,1,4,0.25,0,0,0.0,0,2,2,4,1,0,2,2,7,-9
+Atlanta Hawks,,Kyle Korver,Miami Heat,L,03/12/2013,19:06,1,5,0.2,1,4,0.25,0,0,0.0,1,3,4,1,0,0,2,3,3,-3
+Atlanta Hawks,,Ivan Johnson,Miami Heat,L,03/12/2013,16:10,2,6,0.333,0,0,0.0,5,6,0.833,4,2,6,1,1,0,2,5,9,-11
+Atlanta Hawks,,Mike Scott,Miami Heat,L,03/12/2013,9:17,3,5,0.6,0,0,0.0,1,2,0.5,0,3,3,1,0,0,0,0,7,3
+Atlanta Hawks,,Shelvin Mack,Miami Heat,L,03/12/2013,8:54,0,1,0.0,0,1,0.0,1,2,0.5,0,3,3,1,1,0,2,1,1,5
+Atlanta Hawks,,Ivan Johnson,Los Angeles Lakers,W,03/13/2013,28:37,4,7,0.571,0,0,0.0,4,4,1.0,1,7,8,1,0,0,0,3,12,5
+Atlanta Hawks,,Kyle Korver,Los Angeles Lakers,W,03/13/2013,33:47,5,10,0.5,2,4,0.5,3,4,0.75,0,6,6,2,0,2,0,1,15,5
+Atlanta Hawks,,Shelvin Mack,Los Angeles Lakers,W,03/13/2013,13:34,3,5,0.6,1,2,0.5,0,0,0.0,0,0,0,2,0,0,0,2,7,-6
+Atlanta Hawks,,John Jenkins,Los Angeles Lakers,W,03/13/2013,19:57,4,8,0.5,3,6,0.5,1,2,0.5,0,4,4,2,0,0,1,1,12,11
+Atlanta Hawks,,Jeff Teague,Phoenix Suns,W,03/15/2013,22:33,2,10,0.2,0,4,0.0,4,4,1.0,0,1,1,4,2,0,4,1,8,5
+Atlanta Hawks,,Anthony Tolliver,Phoenix Suns,W,03/15/2013,14:18,1,3,0.333,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,2,4
+Atlanta Hawks,,John Jenkins,Phoenix Suns,W,03/15/2013,14:22,3,3,1.0,2,2,1.0,0,0,0.0,1,0,1,1,1,0,2,1,8,-3
+Atlanta Hawks,,Johan Petro,Phoenix Suns,W,03/15/2013,8:31,2,5,0.4,1,1,1.0,0,0,0.0,0,2,2,2,0,1,1,2,5,-9
+Atlanta Hawks,,Ivan Johnson,Phoenix Suns,W,03/15/2013,15:33,3,5,0.6,0,0,0.0,1,2,0.5,2,4,6,0,2,0,2,2,7,10
+Atlanta Hawks,,Dahntay Jones,Phoenix Suns,W,03/15/2013,4:46,0,1,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,-4
+Atlanta Hawks,,Mike Scott,Phoenix Suns,W,03/15/2013,3:41,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Atlanta Hawks,,Shelvin Mack,Phoenix Suns,W,03/15/2013,1:39,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Atlanta Hawks,,Jeff Teague,Brooklyn Nets,W,03/17/2013,37:12,4,14,0.286,0,3,0.0,3,3,1.0,1,4,5,15,2,2,2,2,11,11
+Atlanta Hawks,,Dahntay Jones,Brooklyn Nets,W,03/17/2013,24:27,6,7,0.857,0,0,0.0,1,1,1.0,2,0,2,0,1,0,0,3,13,7
+Atlanta Hawks,,Johan Petro,Brooklyn Nets,W,03/17/2013,4:32,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,0,1,0,1,0,2,-9
+Atlanta Hawks,,John Jenkins,Brooklyn Nets,W,03/17/2013,21:54,2,4,0.5,1,2,0.5,2,2,1.0,1,4,5,2,2,0,1,0,7,-10
+Atlanta Hawks,,Ivan Johnson,Brooklyn Nets,W,03/17/2013,15:04,3,4,0.75,0,0,0.0,1,1,1.0,1,1,2,0,0,0,1,5,7,5
+Atlanta Hawks,,Mike Scott,Brooklyn Nets,W,03/17/2013,1:36,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+Atlanta Hawks,,Shelvin Mack,Brooklyn Nets,W,03/17/2013,1:36,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-4
+Atlanta Hawks,,Anthony Tolliver,Brooklyn Nets,W,03/17/2013,1:36,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-4
+Atlanta Hawks,,Anthony Tolliver,Dallas Mavericks,L,03/18/2013,25:08,4,4,1.0,2,2,1.0,2,2,1.0,0,3,3,0,0,0,1,2,12,-16
+Atlanta Hawks,,Ivan Johnson,Dallas Mavericks,L,03/18/2013,15:49,3,5,0.6,0,0,0.0,4,5,0.8,1,0,1,2,0,0,1,3,10,-11
+Atlanta Hawks,,Dahntay Jones,Dallas Mavericks,L,03/18/2013,12:21,3,4,0.75,0,0,0.0,1,2,0.5,0,0,0,0,1,0,1,1,7,-6
+Atlanta Hawks,,John Jenkins,Dallas Mavericks,L,03/18/2013,27:06,3,7,0.429,2,3,0.667,2,2,1.0,0,3,3,2,0,0,0,0,10,0
+Atlanta Hawks,,Shelvin Mack,Dallas Mavericks,L,03/18/2013,5:13,1,2,0.5,1,1,1.0,0,0,0.0,0,1,1,2,0,0,1,2,3,4
+Atlanta Hawks,,Mike Scott,Dallas Mavericks,L,03/18/2013,5:13,1,1,1.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,1,2,4
+Atlanta Hawks,,John Jenkins,Milwaukee Bucks,W,03/20/2013,12:19,2,2,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,3,4,-10
+Atlanta Hawks,,DeShawn Stevenson,Milwaukee Bucks,W,03/20/2013,6:17,0,2,0.0,0,2,0.0,1,2,0.5,0,0,0,0,0,0,0,1,1,-4
+Atlanta Hawks,,Ivan Johnson,Milwaukee Bucks,W,03/20/2013,10:34,2,5,0.4,0,0,0.0,0,0,0.0,3,3,6,0,1,0,1,1,4,-7
+Atlanta Hawks,,Dahntay Jones,Milwaukee Bucks,W,03/20/2013,3:00,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-2
+Atlanta Hawks,,Anthony Tolliver,Milwaukee Bucks,W,03/20/2013,3:42,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+Atlanta Hawks,,John Jenkins,Portland Trail Blazers,L,03/22/2013,18:55,3,7,0.429,2,4,0.5,0,0,0.0,0,3,3,1,1,0,1,0,8,-2
+Atlanta Hawks,,Devin Harris,Portland Trail Blazers,L,03/22/2013,14:08,3,8,0.375,2,4,0.5,0,0,0.0,0,1,1,5,1,0,1,0,8,-3
+Atlanta Hawks,,Ivan Johnson,Portland Trail Blazers,L,03/22/2013,14:09,3,4,0.75,0,0,0.0,0,0,0.0,1,3,4,1,0,1,2,1,6,-3
+Atlanta Hawks,,Dahntay Jones,Portland Trail Blazers,L,03/22/2013,15:50,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,2,2,-2
+Atlanta Hawks,,John Jenkins,Milwaukee Bucks,W,03/24/2013,8:58,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,3
+Atlanta Hawks,,Johan Petro,Milwaukee Bucks,W,03/24/2013,18:41,1,2,0.5,0,0,0.0,1,1,1.0,1,4,5,1,0,0,4,2,3,10
+Atlanta Hawks,,Dahntay Jones,Milwaukee Bucks,W,03/24/2013,17:50,3,4,0.75,1,1,1.0,1,5,0.2,1,1,2,0,0,0,0,1,8,10
+Atlanta Hawks,,Anthony Tolliver,Milwaukee Bucks,W,03/24/2013,15:11,2,2,1.0,1,1,1.0,0,0,0.0,2,3,5,0,1,0,0,1,5,8
+Atlanta Hawks,,Shelvin Mack,Milwaukee Bucks,W,03/24/2013,4:14,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,2,0,0,0,0,2,4
+Atlanta Hawks,,Kyle Korver,Indiana Pacers,L,03/25/2013,24:15,2,6,0.333,2,4,0.5,1,1,1.0,0,6,6,2,0,1,1,2,7,-11
+Atlanta Hawks,,Anthony Tolliver,Indiana Pacers,L,03/25/2013,23:06,2,5,0.4,1,3,0.333,1,2,0.5,0,1,1,0,0,0,1,2,6,-9
+Atlanta Hawks,,Ivan Johnson,Indiana Pacers,L,03/25/2013,17:14,3,5,0.6,0,0,0.0,0,0,0.0,0,2,2,1,4,1,4,5,6,14
+Atlanta Hawks,,Shelvin Mack,Indiana Pacers,L,03/25/2013,19:20,4,9,0.444,2,4,0.5,0,0,0.0,0,2,2,4,1,0,0,0,10,12
+Atlanta Hawks,,John Jenkins,Indiana Pacers,L,03/25/2013,12:00,3,4,0.75,0,1,0.0,2,2,1.0,1,2,3,2,0,0,1,1,8,16
+Atlanta Hawks,,Mike Scott,Indiana Pacers,L,03/25/2013,12:00,2,2,1.0,0,0,0.0,1,2,0.5,2,3,5,0,0,1,0,0,5,16
+Atlanta Hawks,,DeShawn Stevenson,Indiana Pacers,L,03/25/2013,12:00,3,6,0.5,0,2,0.0,0,0,0.0,0,2,2,1,1,0,0,1,6,16
+Atlanta Hawks,,Ivan Johnson,Toronto Raptors,W,03/27/2013,33:31,4,5,0.8,0,1,0.0,1,2,0.5,4,2,6,4,1,0,0,4,9,30
+Atlanta Hawks,,DeShawn Stevenson,Toronto Raptors,W,03/27/2013,21:29,0,4,0.0,0,2,0.0,0,0,0.0,0,2,2,0,1,0,1,1,0,23
+Atlanta Hawks,,Johan Petro,Toronto Raptors,W,03/27/2013,7:20,0,1,0.0,0,0,0.0,2,2,1.0,0,3,3,1,1,0,0,1,2,5
+Atlanta Hawks,,John Jenkins,Toronto Raptors,W,03/27/2013,10:32,4,4,1.0,1,1,1.0,0,0,0.0,0,3,3,2,0,0,1,0,9,-2
+Atlanta Hawks,,Shelvin Mack,Toronto Raptors,W,03/27/2013,13:16,1,3,0.333,1,2,0.5,0,0,0.0,0,1,1,3,1,0,3,2,3,2
+Atlanta Hawks,,Dahntay Jones,Toronto Raptors,W,03/27/2013,0:05,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Atlanta Hawks,,Mike Scott,Toronto Raptors,W,03/27/2013,3:32,0,2,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,1,0,1
+Atlanta Hawks,,Anthony Tolliver,Boston Celtics,L,03/29/2013,28:11,4,7,0.571,4,7,0.571,2,2,1.0,1,6,7,2,0,0,2,1,14,-2
+Atlanta Hawks,,Dahntay Jones,Boston Celtics,L,03/29/2013,16:27,3,7,0.429,0,0,0.0,0,0,0.0,1,0,1,2,1,0,0,2,6,3
+Atlanta Hawks,,Kyle Korver,Boston Celtics,L,03/29/2013,26:32,3,6,0.5,1,3,0.333,0,0,0.0,0,3,3,3,1,0,1,1,7,-1
+Atlanta Hawks,,Shelvin Mack,Boston Celtics,L,03/29/2013,27:17,5,9,0.556,1,2,0.5,1,2,0.5,0,3,3,9,1,0,2,2,12,-4
+Atlanta Hawks,,John Jenkins,Boston Celtics,L,03/29/2013,3:22,0,0,0.0,0,0,0.0,2,2,1.0,0,1,1,0,0,0,0,0,2,5
+Atlanta Hawks,,Mike Scott,Boston Celtics,L,03/29/2013,23:17,6,10,0.6,0,0,0.0,7,8,0.875,1,2,3,0,0,0,0,0,19,-3
+Atlanta Hawks,,Dahntay Jones,Orlando Magic,W,03/30/2013,12:43,0,1,0.0,0,0,0.0,1,2,0.5,0,3,3,0,0,0,0,2,1,-6
+Atlanta Hawks,,Ivan Johnson,Orlando Magic,W,03/30/2013,34:28,7,14,0.5,0,0,0.0,7,8,0.875,3,7,10,1,3,1,1,3,21,10
+Atlanta Hawks,,Anthony Tolliver,Orlando Magic,W,03/30/2013,28:31,3,8,0.375,1,5,0.2,1,1,1.0,0,3,3,0,1,0,1,2,8,10
+Atlanta Hawks,,Shelvin Mack,Orlando Magic,W,03/30/2013,20:56,3,6,0.5,2,4,0.5,0,0,0.0,0,1,1,2,0,0,3,2,8,10
+Atlanta Hawks,,Mike Scott,Orlando Magic,W,03/30/2013,0:37,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-5
+Atlanta Hawks,,Ivan Johnson,Cleveland Cavaliers,W,04/01/2013,18:39,3,5,0.6,0,0,0.0,1,3,0.333,1,4,5,0,0,0,0,0,7,-2
+Atlanta Hawks,,DeShawn Stevenson,Cleveland Cavaliers,W,04/01/2013,15:17,1,5,0.2,1,5,0.2,0,0,0.0,1,1,2,1,2,0,0,0,3,-6
+Atlanta Hawks,,Shelvin Mack,Cleveland Cavaliers,W,04/01/2013,8:55,1,2,0.5,0,1,0.0,0,0,0.0,0,1,1,0,0,0,1,0,2,-2
+Atlanta Hawks,,Anthony Tolliver,Cleveland Cavaliers,W,04/01/2013,15:09,0,2,0.0,0,2,0.0,3,3,1.0,1,0,1,0,0,0,0,0,3,-2
+Atlanta Hawks,,Dahntay Jones,New York Knicks,L,04/03/2013,11:08,0,2,0.0,0,1,0.0,0,0,0.0,1,0,1,1,0,0,0,3,0,-11
+Atlanta Hawks,,Anthony Tolliver,New York Knicks,L,04/03/2013,12:28,2,2,1.0,1,1,1.0,0,0,0.0,1,2,3,0,0,0,2,1,5,-13
+Atlanta Hawks,,Ivan Johnson,New York Knicks,L,04/03/2013,16:38,2,4,0.5,0,0,0.0,1,1,1.0,1,0,1,1,1,0,1,1,5,-4
+Atlanta Hawks,,Shelvin Mack,New York Knicks,L,04/03/2013,20:08,3,6,0.5,1,4,0.25,1,2,0.5,0,1,1,0,0,0,1,2,8,-8
+Atlanta Hawks,,Ivan Johnson,Philadelphia 76ers,L,04/05/2013,26:20,6,10,0.6,0,0,0.0,5,8,0.625,0,8,8,0,0,0,0,2,17,2
+Atlanta Hawks,,Dahntay Jones,Philadelphia 76ers,L,04/05/2013,16:36,1,2,0.5,0,1,0.0,3,4,0.75,0,2,2,0,1,0,0,3,5,-3
+Atlanta Hawks,,Shelvin Mack,Philadelphia 76ers,L,04/05/2013,17:09,3,5,0.6,0,1,0.0,0,2,0.0,0,1,1,2,0,0,0,3,6,-4
+Atlanta Hawks,,Anthony Tolliver,Philadelphia 76ers,L,04/05/2013,20:08,0,2,0.0,0,2,0.0,0,0,0.0,0,7,7,1,0,0,0,0,0,6
+Atlanta Hawks,,Mike Scott,Philadelphia 76ers,L,04/05/2013,2:17,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,5
+Atlanta Hawks,,Mike Scott,San Antonio Spurs,L,04/06/2013,36:28,8,15,0.533,0,1,0.0,6,8,0.75,1,5,6,2,0,0,3,4,22,0
+Atlanta Hawks,,Shelvin Mack,San Antonio Spurs,L,04/06/2013,24:36,4,10,0.4,2,4,0.5,2,2,1.0,0,1,1,8,1,0,1,3,12,10
+Atlanta Hawks,,John Jenkins,San Antonio Spurs,L,04/06/2013,27:49,7,9,0.778,3,3,1.0,6,6,1.0,1,3,4,4,0,0,3,0,23,4
+Atlanta Hawks,,DeShawn Stevenson,Philadelphia 76ers,W,04/10/2013,17:09,0,4,0.0,0,3,0.0,0,0,0.0,0,1,1,0,1,0,1,2,0,17
+Atlanta Hawks,,John Jenkins,Philadelphia 76ers,W,04/10/2013,32:53,8,13,0.615,3,4,0.75,2,2,1.0,0,0,0,6,1,0,1,0,21,13
+Atlanta Hawks,,Mike Scott,Philadelphia 76ers,W,04/10/2013,18:13,6,10,0.6,0,0,0.0,5,5,1.0,3,5,8,0,0,0,0,1,17,10
+Atlanta Hawks,,Ivan Johnson,Philadelphia 76ers,W,04/10/2013,17:48,3,5,0.6,0,0,0.0,2,2,1.0,1,4,5,0,1,0,0,3,8,14
+Atlanta Hawks,,Anthony Tolliver,Philadelphia 76ers,W,04/10/2013,12:55,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,1,0,0,0,1,0,0
+Atlanta Hawks,,Shelvin Mack,Philadelphia 76ers,W,04/10/2013,13:35,2,4,0.5,1,2,0.5,0,0,0.0,0,1,1,0,1,0,1,2,5,7
+Atlanta Hawks,,Dahntay Jones,Philadelphia 76ers,W,04/10/2013,4:54,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-2
+Atlanta Hawks,,DeShawn Stevenson,Milwaukee Bucks,W,04/12/2013,14:34,1,1,1.0,1,1,1.0,0,0,0.0,0,3,3,0,0,0,1,1,3,3
+Atlanta Hawks,,John Jenkins,Milwaukee Bucks,W,04/12/2013,16:40,2,4,0.5,0,1,0.0,0,1,0.0,0,1,1,0,0,0,0,1,4,-1
+Atlanta Hawks,,Ivan Johnson,Milwaukee Bucks,W,04/12/2013,25:51,4,6,0.667,0,0,0.0,1,3,0.333,0,6,6,1,3,2,1,1,9,10
+Atlanta Hawks,,Shelvin Mack,Milwaukee Bucks,W,04/12/2013,0:04,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,0
+Atlanta Hawks,,Dahntay Jones,Milwaukee Bucks,W,04/12/2013,3:52,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,1,0,2
+Atlanta Hawks,,Shelvin Mack,Toronto Raptors,L,04/16/2013,26:40,4,6,0.667,2,3,0.667,1,2,0.5,0,3,3,5,1,0,2,3,11,-5
+Atlanta Hawks,,Mike Scott,Toronto Raptors,L,04/16/2013,26:57,5,15,0.333,0,0,0.0,2,4,0.5,6,6,12,0,0,0,1,1,12,-9
+Atlanta Hawks,,John Jenkins,Toronto Raptors,L,04/16/2013,27:36,2,13,0.154,0,6,0.0,4,5,0.8,0,2,2,1,1,1,2,1,8,-6
+Atlanta Hawks,,Dahntay Jones,Toronto Raptors,L,04/16/2013,25:20,3,6,0.5,1,2,0.5,1,2,0.5,0,1,1,1,1,0,0,4,8,-6
+Atlanta Hawks,,Ivan Johnson,Toronto Raptors,L,04/16/2013,19:24,6,13,0.462,0,0,0.0,0,0,0.0,4,6,10,0,1,0,1,0,12,-5
+Atlanta Hawks,,Anthony Tolliver,Toronto Raptors,L,04/16/2013,26:34,2,6,0.333,1,4,0.25,4,4,1.0,1,4,5,1,2,0,0,1,9,-7
+Atlanta Hawks,,Anthony Tolliver,New York Knicks,L,04/17/2013,32:43,2,9,0.222,2,6,0.333,2,2,1.0,3,1,4,0,0,1,1,2,8,4
+Atlanta Hawks,,Dahntay Jones,New York Knicks,L,04/17/2013,31:55,3,9,0.333,0,0,0.0,5,5,1.0,3,3,6,2,0,0,1,2,11,2
+Atlanta Hawks,,Johan Petro,New York Knicks,L,04/17/2013,20:28,1,3,0.333,0,0,0.0,0,0,0.0,0,11,11,2,1,1,2,4,2,4

@@ -1,0 +1,81 @@
+{
+	"team": "Cleveland Cavaliers",
+	"players": [
+		{
+			"name": "Alonzo Gee",
+			"positions": ["Foward"]
+		},
+		{
+			"name": "Tristan Thompson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Anderson Varejao",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Dion Waiters",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Kyrie Irving",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Samardo Samuels",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jeremy Pargo",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Omri Casspi",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Daniel Gibson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "CJ Miles",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Tyler Zeller",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Shaun Livingston",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Marreese Speights",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Wayne Ellington",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Luke Walton",
+			"positions": [""]
+		},
+		{
+			"name": "Donald Sloan",
+			"positions": [""]
+		},
+		{
+			"name": "Jon Leuer",
+			"positions": [""]
+		},
+		{
+			"name": "Kevin Jones",
+			"positions": [""]
+		},
+		{
+			"name": "Chris Quinn",
+			"positions": [""]
+		}
+	]
+}

@@ -1,0 +1,456 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Portland Trail Blazers,,Nolan Smith,Los Angeles Lakers,W,10/31/2012,13:40,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,2,0,0,1,0,2,-4
+Portland Trail Blazers,,Sasha Pavlovic,Los Angeles Lakers,W,10/31/2012,18:14,3,4,0.75,1,1,1.0,0,1,0.0,1,0,1,1,1,0,0,0,7,13
+Portland Trail Blazers,,Meyers Leonard,Los Angeles Lakers,W,10/31/2012,23:20,1,2,0.5,0,0,0.0,2,2,1.0,0,3,3,1,0,0,0,3,4,16
+Portland Trail Blazers,,Jared Jeffries,Los Angeles Lakers,W,10/31/2012,9:18,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,2,0,8
+Portland Trail Blazers,,Meyers Leonard,Oklahoma City Thunder,L,11/02/2012,14:40,0,0,0.0,0,0,0.0,3,4,0.75,0,4,4,0,0,0,1,2,3,-8
+Portland Trail Blazers,,Nolan Smith,Oklahoma City Thunder,L,11/02/2012,10:27,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,2,2,2,-5
+Portland Trail Blazers,,Sasha Pavlovic,Oklahoma City Thunder,L,11/02/2012,22:44,0,2,0.0,0,2,0.0,0,0,0.0,0,2,2,1,1,0,0,5,0,-9
+Portland Trail Blazers,,Joel Freeland,Oklahoma City Thunder,L,11/02/2012,6:07,0,2,0.0,0,0,0.0,2,2,1.0,1,2,3,0,0,0,0,0,2,-3
+Portland Trail Blazers,,Jared Jeffries,Oklahoma City Thunder,L,11/02/2012,4:59,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,0
+Portland Trail Blazers,,Luke Babbitt,Oklahoma City Thunder,L,11/02/2012,8:47,3,5,0.6,2,3,0.667,0,0,0.0,0,1,1,1,0,0,0,1,8,-6
+Portland Trail Blazers,,Will Barton,Oklahoma City Thunder,L,11/02/2012,1:08,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+Portland Trail Blazers,,Ronnie Price,Houston Rockets,W,11/03/2012,5:36,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-3
+Portland Trail Blazers,,Will Barton,Houston Rockets,W,11/03/2012,15:29,2,7,0.286,1,3,0.333,0,0,0.0,1,3,4,1,1,1,2,1,5,-6
+Portland Trail Blazers,,Meyers Leonard,Houston Rockets,W,11/03/2012,16:42,0,0,0.0,0,0,0.0,1,2,0.5,1,1,2,0,0,2,0,2,1,2
+Portland Trail Blazers,,Jared Jeffries,Houston Rockets,W,11/03/2012,7:56,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,2,0,-9
+Portland Trail Blazers,,Luke Babbitt,Houston Rockets,W,11/03/2012,3:19,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,-8
+Portland Trail Blazers,,Victor Claver,Houston Rockets,W,11/03/2012,3:33,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0
+Portland Trail Blazers,,Nolan Smith,Houston Rockets,W,11/03/2012,5:06,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,1,1,0,3
+Portland Trail Blazers,,Ronnie Price,Dallas Mavericks,L,11/05/2012,17:51,2,4,0.5,0,1,0.0,0,0,0.0,1,1,2,1,0,0,1,5,4,-4
+Portland Trail Blazers,,Sasha Pavlovic,Dallas Mavericks,L,11/05/2012,17:44,1,5,0.2,1,3,0.333,0,0,0.0,0,2,2,1,0,0,0,2,3,-6
+Portland Trail Blazers,,Meyers Leonard,Dallas Mavericks,L,11/05/2012,23:00,3,7,0.429,0,0,0.0,0,0,0.0,4,5,9,1,0,1,1,1,6,-9
+Portland Trail Blazers,,Jared Jeffries,Dallas Mavericks,L,11/05/2012,7:05,1,3,0.333,0,0,0.0,0,0,0.0,2,0,2,0,0,0,0,0,2,3
+Portland Trail Blazers,,Joel Freeland,Dallas Mavericks,L,11/05/2012,8:43,1,2,0.5,0,0,0.0,0,0,0.0,3,1,4,0,0,0,1,2,2,-12
+Portland Trail Blazers,,Nolan Smith,Dallas Mavericks,L,11/05/2012,1:51,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-6
+Portland Trail Blazers,,Will Barton,Dallas Mavericks,L,11/05/2012,1:51,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-6
+Portland Trail Blazers,,Ronnie Price,Los Angeles Clippers,L,11/08/2012,14:60,1,1,1.0,0,0,0.0,3,5,0.6,0,1,1,0,0,0,1,6,5,-10
+Portland Trail Blazers,,Sasha Pavlovic,Los Angeles Clippers,L,11/08/2012,5:09,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-4
+Portland Trail Blazers,,Meyers Leonard,Los Angeles Clippers,L,11/08/2012,24:00,3,4,0.75,0,0,0.0,2,2,1.0,3,3,6,1,1,1,0,3,8,-7
+Portland Trail Blazers,,Jared Jeffries,Los Angeles Clippers,L,11/08/2012,4:03,1,1,1.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,1,2,-3
+Portland Trail Blazers,,Luke Babbitt,Los Angeles Clippers,L,11/08/2012,2:23,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,0,0,0,0,1,3,3
+Portland Trail Blazers,,Will Barton,Los Angeles Clippers,L,11/08/2012,1:34,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,1
+Portland Trail Blazers,,Joel Freeland,Los Angeles Clippers,L,11/08/2012,1:34,0,1,0.0,0,0,0.0,2,2,1.0,0,1,1,0,0,0,0,0,2,1
+Portland Trail Blazers,,Nolan Smith,Los Angeles Clippers,L,11/08/2012,1:34,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,1
+Portland Trail Blazers,,Ronnie Price,San Antonio Spurs,L,11/10/2012,10:15,0,3,0.0,0,1,0.0,0,0,0.0,0,0,0,0,1,0,1,1,0,-4
+Portland Trail Blazers,,Meyers Leonard,San Antonio Spurs,L,11/10/2012,13:29,1,3,0.333,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,2,2,-17
+Portland Trail Blazers,,Luke Babbitt,San Antonio Spurs,L,11/10/2012,3:41,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,1,0,0,1,0,-8
+Portland Trail Blazers,,Sasha Pavlovic,San Antonio Spurs,L,11/10/2012,16:41,1,2,0.5,0,0,0.0,0,0,0.0,1,2,3,1,3,0,0,0,2,-4
+Portland Trail Blazers,,Will Barton,San Antonio Spurs,L,11/10/2012,2:59,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-9
+Portland Trail Blazers,,Jared Jeffries,San Antonio Spurs,L,11/10/2012,2:51,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-14
+Portland Trail Blazers,,Meyers Leonard,Atlanta Hawks,L,11/12/2012,14:57,1,4,0.25,0,1,0.0,2,2,1.0,1,1,2,0,1,2,1,2,4,-2
+Portland Trail Blazers,,Ronnie Price,Atlanta Hawks,L,11/12/2012,17:53,1,3,0.333,0,1,0.0,0,0,0.0,1,3,4,2,1,0,1,4,2,5
+Portland Trail Blazers,,Will Barton,Atlanta Hawks,L,11/12/2012,2:57,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,-2
+Portland Trail Blazers,,Joel Freeland,Atlanta Hawks,L,11/12/2012,11:30,0,5,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,1,0,0,0,-4
+Portland Trail Blazers,,Sasha Pavlovic,Atlanta Hawks,L,11/12/2012,6:22,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,1,0,0,0,-3
+Portland Trail Blazers,,Ronnie Price,Sacramento Kings,W,11/13/2012,20:28,3,5,0.6,2,3,0.667,0,0,0.0,1,5,6,2,2,0,2,2,8,-5
+Portland Trail Blazers,,Meyers Leonard,Sacramento Kings,W,11/13/2012,9:14,0,0,0.0,0,0,0.0,2,2,1.0,1,1,2,0,0,0,0,0,2,-13
+Portland Trail Blazers,,Sasha Pavlovic,Sacramento Kings,W,11/13/2012,14:40,2,4,0.5,2,4,0.5,0,0,0.0,0,2,2,0,1,0,0,3,6,-6
+Portland Trail Blazers,,Joel Freeland,Sacramento Kings,W,11/13/2012,5:04,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,1,0,-7
+Portland Trail Blazers,,Jared Jeffries,Sacramento Kings,W,11/13/2012,9:22,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,1,3,0,18
+Portland Trail Blazers,,Nolan Smith,Sacramento Kings,W,11/13/2012,2:31,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,0,0,0,1,0,3,-4
+Portland Trail Blazers,,Luke Babbitt,Sacramento Kings,W,11/13/2012,2:11,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,1,1,0,0,3,0,-4
+Portland Trail Blazers,,Victor Claver,Sacramento Kings,W,11/13/2012,1:39,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-5
+Portland Trail Blazers,,Victor Claver,Houston Rockets,W,11/16/2012,8:58,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-9
+Portland Trail Blazers,,Jared Jeffries,Houston Rockets,W,11/16/2012,9:53,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,2,0,0,0,1,0,8
+Portland Trail Blazers,,Meyers Leonard,Houston Rockets,W,11/16/2012,26:45,3,5,0.6,0,0,0.0,2,2,1.0,4,4,8,0,1,1,0,4,8,12
+Portland Trail Blazers,,Ronnie Price,Houston Rockets,W,11/16/2012,10:45,1,4,0.25,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,4,2,-8
+Portland Trail Blazers,,Sasha Pavlovic,Houston Rockets,W,11/16/2012,7:27,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,3
+Portland Trail Blazers,,Meyers Leonard,Chicago Bulls,W,11/18/2012,8:47,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,4,0,-4
+Portland Trail Blazers,,Jared Jeffries,Chicago Bulls,W,11/18/2012,22:19,1,4,0.25,0,0,0.0,2,4,0.5,3,1,4,0,0,0,2,4,4,7
+Portland Trail Blazers,,Will Barton,Chicago Bulls,W,11/18/2012,9:11,1,4,0.25,0,0,0.0,0,0,0.0,2,1,3,0,0,0,0,1,2,1
+Portland Trail Blazers,,Ronnie Price,Chicago Bulls,W,11/18/2012,19:53,4,8,0.5,1,3,0.333,1,1,1.0,0,1,1,5,1,0,0,2,10,18
+Portland Trail Blazers,,Sasha Pavlovic,Chicago Bulls,W,11/18/2012,6:17,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,2,0,0,0,0,4
+Portland Trail Blazers,,Jared Jeffries,Phoenix Suns,L,11/21/2012,7:11,1,2,0.5,0,0,0.0,0,0,0.0,2,1,3,0,0,0,1,2,2,-2
+Portland Trail Blazers,,Joel Freeland,Phoenix Suns,L,11/21/2012,16:07,0,4,0.0,0,0,0.0,0,2,0.0,2,1,3,0,0,0,0,4,0,-5
+Portland Trail Blazers,,Victor Claver,Phoenix Suns,L,11/21/2012,8:32,0,1,0.0,0,1,0.0,1,2,0.5,1,1,2,0,0,0,1,2,1,-7
+Portland Trail Blazers,,Ronnie Price,Phoenix Suns,L,11/21/2012,17:20,1,4,0.25,1,2,0.5,0,0,0.0,0,0,0,2,1,0,3,2,3,-11
+Portland Trail Blazers,,Sasha Pavlovic,Phoenix Suns,L,11/21/2012,5:39,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,-5
+Portland Trail Blazers,,Will Barton,Phoenix Suns,L,11/21/2012,6:21,0,3,0.0,0,1,0.0,2,2,1.0,0,2,2,0,0,0,0,0,2,-4
+Portland Trail Blazers,,Luke Babbitt,Phoenix Suns,L,11/21/2012,6:21,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-4
+Portland Trail Blazers,,Nolan Smith,Phoenix Suns,L,11/21/2012,6:21,1,4,0.25,0,2,0.0,1,2,0.5,0,0,0,1,0,0,0,0,3,-4
+Portland Trail Blazers,,Meyers Leonard,Minnesota Timberwolves,W,11/23/2012,9:20,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,0,0,1,1,3,2,-1
+Portland Trail Blazers,,Jared Jeffries,Minnesota Timberwolves,W,11/23/2012,19:01,1,1,1.0,0,0,0.0,0,3,0.0,0,2,2,0,1,0,0,4,2,8
+Portland Trail Blazers,,Luke Babbitt,Minnesota Timberwolves,W,11/23/2012,4:28,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,1,0,0,0,1,0,-4
+Portland Trail Blazers,,Ronnie Price,Minnesota Timberwolves,W,11/23/2012,18:16,1,3,0.333,1,1,1.0,0,0,0.0,0,1,1,1,1,0,0,0,3,-1
+Portland Trail Blazers,,Will Barton,Minnesota Timberwolves,W,11/23/2012,5:49,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,1,0,0,1,1,0,-5
+Portland Trail Blazers,,Sasha Pavlovic,Minnesota Timberwolves,W,11/23/2012,11:00,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,2,2,10
+Portland Trail Blazers,,Joel Freeland,Brooklyn Nets,L,11/25/2012,12:35,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,2,2,0,0
+Portland Trail Blazers,,Ronnie Price,Brooklyn Nets,L,11/25/2012,16:45,0,4,0.0,0,0,0.0,0,0,0.0,0,0,0,3,0,0,1,2,0,-3
+Portland Trail Blazers,,Jared Jeffries,Brooklyn Nets,L,11/25/2012,18:60,0,3,0.0,0,0,0.0,2,2,1.0,1,2,3,3,0,0,2,3,2,3
+Portland Trail Blazers,,Will Barton,Brooklyn Nets,L,11/25/2012,9:09,1,3,0.333,0,0,0.0,0,0,0.0,1,1,2,1,1,0,1,0,2,3
+Portland Trail Blazers,,Luke Babbitt,Brooklyn Nets,L,11/25/2012,2:38,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+Portland Trail Blazers,,Sasha Pavlovic,Brooklyn Nets,L,11/25/2012,10:25,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,1,1,2,3,2,-5
+Portland Trail Blazers,,Nolan Smith,Brooklyn Nets,L,11/25/2012,1:32,1,1,1.0,0,0,0.0,1,2,0.5,0,0,0,1,0,0,0,0,3,1
+Portland Trail Blazers,,Meyers Leonard,Detroit Pistons,L,11/26/2012,20:30,3,4,0.75,0,0,0.0,2,2,1.0,2,2,4,0,0,3,1,1,8,8
+Portland Trail Blazers,,Jared Jeffries,Detroit Pistons,L,11/26/2012,6:59,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,2,0,-7
+Portland Trail Blazers,,Will Barton,Detroit Pistons,L,11/26/2012,21:22,5,8,0.625,1,2,0.5,1,2,0.5,0,1,1,0,2,0,0,1,12,-3
+Portland Trail Blazers,,Ronnie Price,Detroit Pistons,L,11/26/2012,11:09,1,2,0.5,0,0,0.0,0,0,0.0,2,1,3,6,0,0,2,2,2,-4
+Portland Trail Blazers,,Jared Jeffries,Washington Wizards,L,11/28/2012,7:14,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,3,0,-10
+Portland Trail Blazers,,Meyers Leonard,Washington Wizards,L,11/28/2012,13:39,1,5,0.2,0,0,0.0,0,0,0.0,3,4,7,0,0,0,1,3,2,-2
+Portland Trail Blazers,,Will Barton,Washington Wizards,L,11/28/2012,8:03,1,4,0.25,0,1,0.0,0,0,0.0,1,1,2,0,0,0,0,0,2,-6
+Portland Trail Blazers,,Ronnie Price,Washington Wizards,L,11/28/2012,5:26,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,1,0,0,2,0,-4
+Portland Trail Blazers,,Sasha Pavlovic,Washington Wizards,L,11/28/2012,8:25,0,1,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,1,0,11
+Portland Trail Blazers,,Nolan Smith,Boston Celtics,L,11/30/2012,17:23,0,5,0.0,0,1,0.0,0,0,0.0,0,2,2,1,0,0,3,2,0,-6
+Portland Trail Blazers,,Meyers Leonard,Boston Celtics,L,11/30/2012,22:28,3,5,0.6,0,0,0.0,5,6,0.833,1,4,5,0,2,1,1,3,11,-1
+Portland Trail Blazers,,Will Barton,Boston Celtics,L,11/30/2012,16:60,1,5,0.2,0,1,0.0,1,2,0.5,1,2,3,4,2,0,3,1,3,-5
+Portland Trail Blazers,,Sasha Pavlovic,Boston Celtics,L,11/30/2012,2:49,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-7
+Portland Trail Blazers,,Jared Jeffries,Boston Celtics,L,11/30/2012,2:34,0,0,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,0,2,1,-6
+Portland Trail Blazers,,Joel Freeland,Boston Celtics,L,11/30/2012,12:27,2,3,0.667,0,0,0.0,0,0,0.0,0,2,2,1,2,1,1,2,4,-2
+Portland Trail Blazers,,Luke Babbitt,Boston Celtics,L,11/30/2012,12:02,1,3,0.333,1,1,1.0,0,0,0.0,1,2,3,0,0,0,0,0,3,-2
+Portland Trail Blazers,,Will Barton,Cleveland Cavaliers,W,12/01/2012,12:47,3,5,0.6,1,3,0.333,0,0,0.0,0,1,1,0,1,1,2,1,7,-14
+Portland Trail Blazers,,Jared Jeffries,Cleveland Cavaliers,W,12/01/2012,5:30,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-4
+Portland Trail Blazers,,Meyers Leonard,Cleveland Cavaliers,W,12/01/2012,19:41,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,0,0,2,2,1,2,-10
+Portland Trail Blazers,,Nolan Smith,Cleveland Cavaliers,W,12/01/2012,12:09,3,6,0.5,0,2,0.0,0,0,0.0,0,0,0,2,0,0,1,0,6,-3
+Portland Trail Blazers,,Luke Babbitt,Cleveland Cavaliers,W,12/01/2012,12:58,2,7,0.286,0,4,0.0,0,0,0.0,1,4,5,0,0,1,0,0,4,-7
+Portland Trail Blazers,,Joel Freeland,Cleveland Cavaliers,W,12/01/2012,12:15,3,4,0.75,0,0,0.0,2,2,1.0,0,2,2,0,0,1,0,3,8,0
+Portland Trail Blazers,,Meyers Leonard,Charlotte Bobcats,W,12/03/2012,17:12,2,4,0.5,0,0,0.0,0,1,0.0,1,2,3,0,0,1,0,2,4,-13
+Portland Trail Blazers,,Will Barton,Charlotte Bobcats,W,12/03/2012,11:31,3,5,0.6,1,2,0.5,0,2,0.0,0,1,1,0,1,0,2,1,7,-8
+Portland Trail Blazers,,Nolan Smith,Charlotte Bobcats,W,12/03/2012,10:08,1,4,0.25,0,1,0.0,0,0,0.0,0,1,1,2,0,0,1,2,2,-4
+Portland Trail Blazers,,Luke Babbitt,Charlotte Bobcats,W,12/03/2012,15:14,3,5,0.6,3,4,0.75,0,0,0.0,1,4,5,1,1,1,1,2,9,19
+Portland Trail Blazers,,Sasha Pavlovic,Charlotte Bobcats,W,12/03/2012,7:16,1,3,0.333,1,2,0.5,0,0,0.0,0,0,0,1,1,0,1,0,3,3
+Portland Trail Blazers,,Joel Freeland,Charlotte Bobcats,W,12/03/2012,13:10,3,4,0.75,0,0,0.0,0,0,0.0,2,0,2,0,1,0,0,1,6,-5
+Portland Trail Blazers,,Meyers Leonard,Indiana Pacers,L,12/05/2012,11:31,2,4,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,1,4,-10
+Portland Trail Blazers,,Will Barton,Indiana Pacers,L,12/05/2012,13:52,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,2,1,0,-5
+Portland Trail Blazers,,Nolan Smith,Indiana Pacers,L,12/05/2012,5:20,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,2,0,0,1,0,2,-4
+Portland Trail Blazers,,Joel Freeland,Indiana Pacers,L,12/05/2012,12:45,0,4,0.0,0,0,0.0,0,0,0.0,1,0,1,2,1,1,0,3,0,3
+Portland Trail Blazers,,Luke Babbitt,Indiana Pacers,L,12/05/2012,14:36,2,3,0.667,1,1,1.0,0,0,0.0,1,4,5,0,0,0,0,2,5,-4
+Portland Trail Blazers,,Jared Jeffries,Indiana Pacers,L,12/05/2012,8:19,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,3
+Portland Trail Blazers,,Joel Freeland,Sacramento Kings,L,12/08/2012,9:28,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,1,3,2,-1
+Portland Trail Blazers,,Luke Babbitt,Sacramento Kings,L,12/08/2012,27:01,3,9,0.333,2,5,0.4,1,2,0.5,0,7,7,2,0,0,1,1,9,-13
+Portland Trail Blazers,,Nolan Smith,Sacramento Kings,L,12/08/2012,14:37,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,1,1,0,-3
+Portland Trail Blazers,,Meyers Leonard,Sacramento Kings,L,12/08/2012,14:08,1,2,0.5,0,0,0.0,2,2,1.0,2,2,4,0,1,1,1,2,4,-6
+Portland Trail Blazers,,Jared Jeffries,Sacramento Kings,L,12/08/2012,3:37,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,5
+Portland Trail Blazers,,Ronnie Price,Sacramento Kings,L,12/08/2012,16:56,0,3,0.0,0,2,0.0,0,0,0.0,2,0,2,1,0,1,0,2,0,3
+Portland Trail Blazers,,Sasha Pavlovic,Sacramento Kings,L,12/08/2012,7:09,1,2,0.5,1,1,1.0,0,0,0.0,1,1,2,0,0,0,1,2,3,-8
+Portland Trail Blazers,,Will Barton,Toronto Raptors,W,12/10/2012,11:36,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-8
+Portland Trail Blazers,,Jared Jeffries,Toronto Raptors,W,12/10/2012,10:17,1,2,0.5,0,0,0.0,0,0,0.0,1,3,4,0,0,1,1,2,2,-2
+Portland Trail Blazers,,Luke Babbitt,Toronto Raptors,W,12/10/2012,21:04,2,9,0.222,0,5,0.0,0,0,0.0,0,3,3,0,1,0,0,4,4,7
+Portland Trail Blazers,,Nolan Smith,Toronto Raptors,W,12/10/2012,21:27,4,10,0.4,0,1,0.0,3,3,1.0,0,0,0,3,1,0,1,1,11,12
+Portland Trail Blazers,,Meyers Leonard,Toronto Raptors,W,12/10/2012,11:13,2,3,0.667,0,1,0.0,2,2,1.0,1,0,1,0,0,0,0,0,6,-5
+Portland Trail Blazers,,Sasha Pavlovic,San Antonio Spurs,W,12/13/2012,32:59,2,7,0.286,2,3,0.667,0,0,0.0,1,3,4,2,4,1,0,3,6,7
+Portland Trail Blazers,,Meyers Leonard,San Antonio Spurs,W,12/13/2012,16:56,1,3,0.333,0,0,0.0,0,0,0.0,3,5,8,0,1,0,1,2,2,9
+Portland Trail Blazers,,Nolan Smith,San Antonio Spurs,W,12/13/2012,7:50,1,5,0.2,0,2,0.0,0,1,0.0,0,0,0,2,0,0,2,2,2,4
+Portland Trail Blazers,,Will Barton,San Antonio Spurs,W,12/13/2012,6:22,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-2
+Portland Trail Blazers,,Luke Babbitt,San Antonio Spurs,W,12/13/2012,20:10,5,10,0.5,2,7,0.286,0,0,0.0,0,0,0,0,1,0,1,1,12,9
+Portland Trail Blazers,,Victor Claver,New Orleans Hornets,W,12/16/2012,12:06,1,2,0.5,1,2,0.5,0,0,0.0,0,1,1,1,0,0,1,1,3,-1
+Portland Trail Blazers,,Luke Babbitt,New Orleans Hornets,W,12/16/2012,26:36,4,7,0.571,2,5,0.4,0,0,0.0,0,2,2,1,0,0,1,0,10,-9
+Portland Trail Blazers,,Will Barton,New Orleans Hornets,W,12/16/2012,7:12,1,6,0.167,0,1,0.0,0,0,0.0,2,0,2,1,0,0,0,0,2,5
+Portland Trail Blazers,,Ronnie Price,New Orleans Hornets,W,12/16/2012,19:34,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,3,1,0,0,0,2,1
+Portland Trail Blazers,,Meyers Leonard,New Orleans Hornets,W,12/16/2012,5:47,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,0
+Portland Trail Blazers,,Sasha Pavlovic,New Orleans Hornets,W,12/16/2012,15:57,2,6,0.333,0,1,0.0,0,0,0.0,1,3,4,1,1,0,0,1,4,2
+Portland Trail Blazers,,Jared Jeffries,New Orleans Hornets,W,12/16/2012,0:22,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Portland Trail Blazers,,Luke Babbitt,Denver Nuggets,W,12/20/2012,26:19,4,10,0.4,4,7,0.571,2,2,1.0,0,8,8,1,0,0,0,6,14,-5
+Portland Trail Blazers,,Meyers Leonard,Denver Nuggets,W,12/20/2012,13:42,2,4,0.5,0,0,0.0,3,3,1.0,1,1,2,1,0,0,1,1,7,4
+Portland Trail Blazers,,Victor Claver,Denver Nuggets,W,12/20/2012,7:13,0,1,0.0,0,1,0.0,0,2,0.0,1,1,2,0,0,0,2,0,0,-3
+Portland Trail Blazers,,Ronnie Price,Denver Nuggets,W,12/20/2012,12:50,1,6,0.167,0,2,0.0,2,2,1.0,0,1,1,3,1,1,2,0,4,3
+Portland Trail Blazers,,Sasha Pavlovic,Denver Nuggets,W,12/20/2012,14:09,1,2,0.5,0,1,0.0,0,0,0.0,0,2,2,3,1,0,1,4,2,-3
+Portland Trail Blazers,,Will Barton,Denver Nuggets,W,12/20/2012,2:54,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1
+Portland Trail Blazers,,Luke Babbitt,Phoenix Suns,W,12/22/2012,15:23,1,3,0.333,1,2,0.5,0,0,0.0,0,3,3,0,1,0,2,1,3,0
+Portland Trail Blazers,,Victor Claver,Phoenix Suns,W,12/22/2012,14:32,3,4,0.75,1,1,1.0,0,0,0.0,1,3,4,0,0,0,1,1,7,1
+Portland Trail Blazers,,Ronnie Price,Phoenix Suns,W,12/22/2012,12:24,2,4,0.5,0,0,0.0,1,2,0.5,1,1,2,1,1,1,2,1,5,-1
+Portland Trail Blazers,,Meyers Leonard,Phoenix Suns,W,12/22/2012,6:12,2,2,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,2,1,4,-6
+Portland Trail Blazers,,Will Barton,Phoenix Suns,W,12/22/2012,2:56,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-10
+Portland Trail Blazers,,Sasha Pavlovic,Phoenix Suns,W,12/22/2012,20:43,1,3,0.333,1,2,0.5,0,0,0.0,1,1,2,2,0,0,2,2,3,10
+Portland Trail Blazers,,Will Barton,Sacramento Kings,L,12/23/2012,20:42,3,6,0.5,1,2,0.5,0,0,0.0,2,3,5,3,1,0,1,2,7,-2
+Portland Trail Blazers,,Meyers Leonard,Sacramento Kings,L,12/23/2012,14:19,3,4,0.75,0,0,0.0,2,2,1.0,0,2,2,0,0,1,1,2,8,-6
+Portland Trail Blazers,,Luke Babbitt,Sacramento Kings,L,12/23/2012,13:18,2,5,0.4,1,2,0.5,0,0,0.0,0,1,1,1,0,0,0,2,5,-8
+Portland Trail Blazers,,Ronnie Price,Sacramento Kings,L,12/23/2012,16:38,0,5,0.0,0,3,0.0,0,0,0.0,0,0,0,3,2,0,3,3,0,-18
+Portland Trail Blazers,,Sasha Pavlovic,Sacramento Kings,L,12/23/2012,6:25,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-19
+Portland Trail Blazers,,Joel Freeland,Sacramento Kings,L,12/23/2012,3:25,3,4,0.75,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,6,5
+Portland Trail Blazers,,Will Barton,Sacramento Kings,W,12/26/2012,25:43,6,9,0.667,0,1,0.0,2,2,1.0,1,0,1,1,0,0,1,1,14,6
+Portland Trail Blazers,,Ronnie Price,Sacramento Kings,W,12/26/2012,13:19,2,3,0.667,1,2,0.5,0,0,0.0,0,1,1,4,2,0,0,3,5,-7
+Portland Trail Blazers,,Meyers Leonard,Sacramento Kings,W,12/26/2012,15:50,3,5,0.6,0,1,0.0,1,1,1.0,2,3,5,0,0,0,1,0,7,-4
+Portland Trail Blazers,,Luke Babbitt,Sacramento Kings,W,12/26/2012,8:01,0,2,0.0,0,2,0.0,1,2,0.5,0,2,2,2,0,0,1,2,1,6
+Portland Trail Blazers,,Sasha Pavlovic,Sacramento Kings,W,12/26/2012,3:27,0,2,0.0,0,1,0.0,0,0,0.0,1,0,1,0,0,0,0,0,0,1
+Portland Trail Blazers,,Joel Freeland,Sacramento Kings,W,12/26/2012,6:31,1,3,0.333,0,0,0.0,0,0,0.0,0,3,3,0,0,0,1,2,2,-7
+Portland Trail Blazers,,Nolan Smith,Sacramento Kings,W,12/26/2012,1:42,0,0,0.0,0,0,0.0,0,2,0.0,0,0,0,1,0,0,0,0,0,0
+Portland Trail Blazers,,Sasha Pavlovic,Los Angeles Lakers,L,12/28/2012,17:53,2,5,0.4,1,3,0.333,0,0,0.0,0,0,0,1,1,0,0,3,5,-6
+Portland Trail Blazers,,Meyers Leonard,Los Angeles Lakers,L,12/28/2012,16:53,0,1,0.0,0,0,0.0,0,0,0.0,1,6,7,0,0,1,0,3,0,1
+Portland Trail Blazers,,Ronnie Price,Los Angeles Lakers,L,12/28/2012,7:24,2,3,0.667,0,1,0.0,0,0,0.0,0,0,0,3,2,0,0,1,4,-3
+Portland Trail Blazers,,Jared Jeffries,Los Angeles Lakers,L,12/28/2012,14:41,1,4,0.25,0,0,0.0,2,4,0.5,1,2,3,2,0,0,0,4,4,-3
+Portland Trail Blazers,,Will Barton,Los Angeles Lakers,L,12/28/2012,23:39,5,10,0.5,0,1,0.0,1,2,0.5,0,6,6,0,1,2,0,4,11,-2
+Portland Trail Blazers,,Luke Babbitt,Los Angeles Lakers,L,12/28/2012,14:53,0,3,0.0,0,2,0.0,0,0,0.0,0,6,6,1,0,0,1,0,0,6
+Portland Trail Blazers,,Joel Freeland,Los Angeles Lakers,L,12/28/2012,12:00,3,4,0.75,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,0,6,5
+Portland Trail Blazers,,Nolan Smith,Los Angeles Lakers,L,12/28/2012,8:28,1,4,0.25,0,2,0.0,3,4,0.75,1,0,1,2,0,0,0,0,5,6
+Portland Trail Blazers,,Will Barton,Philadelphia 76ers,W,12/29/2012,16:54,0,4,0.0,0,1,0.0,0,0,0.0,0,2,2,1,0,0,1,1,0,9
+Portland Trail Blazers,,Meyers Leonard,Philadelphia 76ers,W,12/29/2012,13:52,2,3,0.667,0,0,0.0,0,0,0.0,2,2,4,0,0,1,1,2,4,4
+Portland Trail Blazers,,Ronnie Price,Philadelphia 76ers,W,12/29/2012,19:52,0,2,0.0,0,0,0.0,1,2,0.5,0,1,1,4,3,0,1,2,1,2
+Portland Trail Blazers,,Luke Babbitt,Philadelphia 76ers,W,12/29/2012,10:34,1,4,0.25,0,2,0.0,0,0,0.0,0,4,4,0,1,0,0,1,2,-2
+Portland Trail Blazers,,Jared Jeffries,New York Knicks,W,01/01/2013,15:25,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,4,2,2
+Portland Trail Blazers,,Victor Claver,New York Knicks,W,01/01/2013,11:25,0,2,0.0,0,1,0.0,0,0,0.0,1,2,3,1,1,0,0,0,0,9
+Portland Trail Blazers,,Ronnie Price,New York Knicks,W,01/01/2013,18:49,2,3,0.667,1,2,0.5,0,0,0.0,0,1,1,2,0,0,1,1,5,3
+Portland Trail Blazers,,Luke Babbitt,New York Knicks,W,01/01/2013,17:50,2,6,0.333,2,5,0.4,0,0,0.0,0,6,6,0,0,0,0,2,6,10
+Portland Trail Blazers,,Will Barton,New York Knicks,W,01/01/2013,4:50,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,3
+Portland Trail Blazers,,Joel Freeland,Toronto Raptors,L,01/02/2013,20:53,4,6,0.667,0,0,0.0,3,3,1.0,1,3,4,1,1,0,0,3,11,-5
+Portland Trail Blazers,,Victor Claver,Toronto Raptors,L,01/02/2013,12:46,1,2,0.5,0,1,0.0,0,1,0.0,2,0,2,0,0,0,1,3,2,0
+Portland Trail Blazers,,Ronnie Price,Toronto Raptors,L,01/02/2013,7:48,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-3
+Portland Trail Blazers,,Luke Babbitt,Toronto Raptors,L,01/02/2013,12:31,1,4,0.25,1,4,0.25,1,1,1.0,0,3,3,0,1,0,0,3,4,-16
+Portland Trail Blazers,,Will Barton,Toronto Raptors,L,01/02/2013,8:40,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,2,0,0,-11
+Portland Trail Blazers,,Sasha Pavlovic,Toronto Raptors,L,01/02/2013,9:19,1,3,0.333,0,2,0.0,0,0,0.0,0,0,0,0,0,1,1,2,2,-1
+Portland Trail Blazers,,Nolan Smith,Toronto Raptors,L,01/02/2013,5:42,1,4,0.25,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,2,-3
+Portland Trail Blazers,,Joel Freeland,Memphis Grizzlies,W,01/04/2013,8:01,0,4,0.0,0,0,0.0,0,0,0.0,3,1,4,0,1,0,1,2,0,-8
+Portland Trail Blazers,,Will Barton,Memphis Grizzlies,W,01/04/2013,10:09,2,3,0.667,0,1,0.0,0,0,0.0,1,0,1,1,0,0,0,0,4,-8
+Portland Trail Blazers,,Ronnie Price,Memphis Grizzlies,W,01/04/2013,10:01,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,1,2,0,3
+Portland Trail Blazers,,Luke Babbitt,Memphis Grizzlies,W,01/04/2013,10:57,2,6,0.333,1,5,0.2,0,0,0.0,0,0,0,0,0,0,2,0,5,0
+Portland Trail Blazers,,Sasha Pavlovic,Memphis Grizzlies,W,01/04/2013,9:09,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,1
+Portland Trail Blazers,,Joel Freeland,Minnesota Timberwolves,W,01/05/2013,11:43,0,1,0.0,0,0,0.0,0,0,0.0,0,3,3,0,0,1,0,4,0,2
+Portland Trail Blazers,,Victor Claver,Minnesota Timberwolves,W,01/05/2013,10:55,2,3,0.667,1,2,0.5,0,0,0.0,2,1,3,0,0,1,0,1,5,-5
+Portland Trail Blazers,,Ronnie Price,Minnesota Timberwolves,W,01/05/2013,20:25,1,8,0.125,0,1,0.0,1,2,0.5,0,2,2,2,0,0,1,2,3,-4
+Portland Trail Blazers,,Jared Jeffries,Minnesota Timberwolves,W,01/05/2013,8:46,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,2,3,0,6
+Portland Trail Blazers,,Luke Babbitt,Minnesota Timberwolves,W,01/05/2013,8:40,2,4,0.5,2,3,0.667,0,0,0.0,0,1,1,1,1,0,0,1,6,3
+Portland Trail Blazers,,Joel Freeland,Orlando Magic,W,01/07/2013,6:46,1,1,1.0,0,0,0.0,0,0,0.0,3,2,5,0,0,0,0,2,2,-1
+Portland Trail Blazers,,Victor Claver,Orlando Magic,W,01/07/2013,13:31,2,3,0.667,0,1,0.0,0,0,0.0,1,0,1,0,0,0,0,1,4,0
+Portland Trail Blazers,,Luke Babbitt,Orlando Magic,W,01/07/2013,14:34,2,5,0.4,2,4,0.5,0,0,0.0,0,1,1,0,1,0,1,0,6,-12
+Portland Trail Blazers,,Ronnie Price,Orlando Magic,W,01/07/2013,13:52,3,7,0.429,0,1,0.0,2,2,1.0,0,2,2,3,1,0,0,0,8,-9
+Portland Trail Blazers,,Joel Freeland,Miami Heat,W,01/10/2013,6:54,0,0,0.0,0,0,0.0,0,0,0.0,2,1,3,0,0,0,0,2,0,-6
+Portland Trail Blazers,,Sasha Pavlovic,Miami Heat,W,01/10/2013,10:20,1,3,0.333,1,2,0.5,0,0,0.0,0,1,1,1,0,1,2,2,3,-10
+Portland Trail Blazers,,Luke Babbitt,Miami Heat,W,01/10/2013,2:38,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-5
+Portland Trail Blazers,,Ronnie Price,Miami Heat,W,01/10/2013,10:53,1,1,1.0,0,0,0.0,3,4,0.75,0,0,0,0,2,0,1,0,5,-6
+Portland Trail Blazers,,Jared Jeffries,Miami Heat,W,01/10/2013,9:09,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,0,0,-3
+Portland Trail Blazers,,Victor Claver,Golden State Warriors,L,01/11/2013,8:57,1,3,0.333,1,2,0.5,2,4,0.5,0,0,0,0,0,0,0,1,5,0
+Portland Trail Blazers,,Joel Freeland,Golden State Warriors,L,01/11/2013,5:19,1,2,0.5,0,0,0.0,0,1,0.0,2,0,2,0,0,0,0,0,2,-3
+Portland Trail Blazers,,Luke Babbitt,Golden State Warriors,L,01/11/2013,23:20,4,13,0.308,2,10,0.2,0,0,0.0,1,2,3,1,0,0,0,5,10,-2
+Portland Trail Blazers,,Will Barton,Golden State Warriors,L,01/11/2013,8:18,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-9
+Portland Trail Blazers,,Ronnie Price,Golden State Warriors,L,01/11/2013,5:21,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-12
+Portland Trail Blazers,,Jared Jeffries,Golden State Warriors,L,01/11/2013,12:43,1,1,1.0,0,0,0.0,1,2,0.5,2,3,5,2,0,0,0,1,3,9
+Portland Trail Blazers,,Joel Freeland,Oklahoma City Thunder,L,01/13/2013,8:48,0,1,0.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,1,0,3
+Portland Trail Blazers,,Will Barton,Oklahoma City Thunder,L,01/13/2013,8:55,1,3,0.333,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,1,2,2
+Portland Trail Blazers,,Ronnie Price,Oklahoma City Thunder,L,01/13/2013,7:10,1,4,0.25,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,2,2,-2
+Portland Trail Blazers,,Luke Babbitt,Oklahoma City Thunder,L,01/13/2013,6:59,0,3,0.0,0,2,0.0,0,0,0.0,1,0,1,1,0,0,1,0,0,-4
+Portland Trail Blazers,,Jared Jeffries,Oklahoma City Thunder,L,01/13/2013,6:41,1,2,0.5,0,0,0.0,0,0,0.0,2,1,3,0,0,0,0,0,2,-2
+Portland Trail Blazers,,Sasha Pavlovic,Oklahoma City Thunder,L,01/13/2013,13:49,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,3
+Portland Trail Blazers,,Luke Babbitt,Denver Nuggets,L,01/15/2013,14:22,1,3,0.333,1,3,0.333,0,0,0.0,0,1,1,0,0,0,0,1,3,2
+Portland Trail Blazers,,Will Barton,Denver Nuggets,L,01/15/2013,17:28,3,7,0.429,0,2,0.0,1,2,0.5,1,2,3,1,0,0,1,2,7,-2
+Portland Trail Blazers,,Ronnie Price,Denver Nuggets,L,01/15/2013,10:48,1,3,0.333,0,1,0.0,0,0,0.0,0,1,1,2,0,0,3,2,2,1
+Portland Trail Blazers,,Joel Freeland,Denver Nuggets,L,01/15/2013,2:56,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-2
+Portland Trail Blazers,,Jared Jeffries,Denver Nuggets,L,01/15/2013,9:00,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,2,0,1,0,-3
+Portland Trail Blazers,,Joel Freeland,Cleveland Cavaliers,L,01/16/2013,12:24,1,3,0.333,0,0,0.0,1,2,0.5,0,3,3,0,0,1,0,2,3,7
+Portland Trail Blazers,,Nolan Smith,Cleveland Cavaliers,L,01/16/2013,12:27,1,4,0.25,1,3,0.333,0,0,0.0,1,3,4,1,1,0,1,1,3,-5
+Portland Trail Blazers,,Jared Jeffries,Cleveland Cavaliers,L,01/16/2013,15:32,0,5,0.0,0,1,0.0,0,0,0.0,3,2,5,1,1,1,0,1,0,-2
+Portland Trail Blazers,,Will Barton,Cleveland Cavaliers,L,01/16/2013,15:06,0,4,0.0,0,1,0.0,1,2,0.5,1,1,2,1,1,0,0,1,1,-5
+Portland Trail Blazers,,Sasha Pavlovic,Cleveland Cavaliers,L,01/16/2013,5:55,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+Portland Trail Blazers,,Joel Freeland,Milwaukee Bucks,L,01/19/2013,2:37,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-17
+Portland Trail Blazers,,Nolan Smith,Milwaukee Bucks,L,01/19/2013,2:37,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,3,0,0,-17
+Portland Trail Blazers,,Luke Babbitt,Milwaukee Bucks,L,01/19/2013,24:10,4,9,0.444,3,8,0.375,0,0,0.0,0,4,4,0,1,1,1,5,11,27
+Portland Trail Blazers,,Victor Claver,Milwaukee Bucks,L,01/19/2013,5:06,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-3
+Portland Trail Blazers,,Will Barton,Milwaukee Bucks,L,01/19/2013,6:25,1,1,1.0,0,0,0.0,0,1,0.0,0,0,0,0,0,0,1,1,2,1
+Portland Trail Blazers,,Ronnie Price,Milwaukee Bucks,L,01/19/2013,10:38,0,0,0.0,0,0,0.0,2,2,1.0,0,2,2,1,0,0,1,2,2,3
+Portland Trail Blazers,,Jared Jeffries,Milwaukee Bucks,L,01/19/2013,4:14,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-8
+Portland Trail Blazers,,Meyers Leonard,Washington Wizards,L,01/21/2013,12:28,3,3,1.0,0,0,0.0,0,1,0.0,1,3,4,0,0,0,1,4,6,-8
+Portland Trail Blazers,,Luke Babbitt,Washington Wizards,L,01/21/2013,16:35,1,5,0.2,1,4,0.25,0,0,0.0,0,2,2,0,0,0,0,0,3,-3
+Portland Trail Blazers,,Victor Claver,Washington Wizards,L,01/21/2013,9:19,1,5,0.2,0,1,0.0,1,2,0.5,1,2,3,0,0,0,0,2,3,-4
+Portland Trail Blazers,,Ronnie Price,Washington Wizards,L,01/21/2013,10:27,1,2,0.5,1,2,0.5,0,0,0.0,0,1,1,4,0,0,1,0,3,7
+Portland Trail Blazers,,Will Barton,Washington Wizards,L,01/21/2013,11:16,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,6
+Portland Trail Blazers,,Jared Jeffries,Indiana Pacers,W,01/23/2013,10:16,1,1,1.0,0,0,0.0,1,2,0.5,0,4,4,0,1,0,1,2,3,8
+Portland Trail Blazers,,Meyers Leonard,Indiana Pacers,W,01/23/2013,18:12,4,6,0.667,0,0,0.0,0,0,0.0,3,2,5,1,1,0,0,5,8,14
+Portland Trail Blazers,,Will Barton,Indiana Pacers,W,01/23/2013,20:36,3,7,0.429,0,0,0.0,2,2,1.0,1,3,4,1,0,1,2,0,8,18
+Portland Trail Blazers,,Luke Babbitt,Indiana Pacers,W,01/23/2013,1:57,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,6
+Portland Trail Blazers,,Ronnie Price,Indiana Pacers,W,01/23/2013,7:59,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,2,1,0,0,0,0,7
+Portland Trail Blazers,,Nolan Smith,Indiana Pacers,W,01/23/2013,1:16,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,6
+Portland Trail Blazers,,Meyers Leonard,Los Angeles Clippers,W,01/26/2013,16:19,2,4,0.5,0,0,0.0,2,2,1.0,1,3,4,1,0,0,1,3,6,14
+Portland Trail Blazers,,Jared Jeffries,Los Angeles Clippers,W,01/26/2013,8:13,1,2,0.5,0,0,0.0,0,0,0.0,1,0,1,0,2,0,0,0,2,-5
+Portland Trail Blazers,,Will Barton,Los Angeles Clippers,W,01/26/2013,16:08,2,4,0.5,1,2,0.5,0,0,0.0,0,3,3,0,1,0,1,1,5,3
+Portland Trail Blazers,,Luke Babbitt,Los Angeles Clippers,W,01/26/2013,0:57,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,2
+Portland Trail Blazers,,Ronnie Price,Los Angeles Clippers,W,01/26/2013,10:38,1,3,0.333,1,2,0.5,0,0,0.0,0,0,0,1,1,0,0,3,3,2
+Portland Trail Blazers,,Meyers Leonard,Los Angeles Clippers,L,01/27/2013,8:03,0,1,0.0,0,0,0.0,1,2,0.5,0,1,1,1,0,0,0,1,1,-2
+Portland Trail Blazers,,Luke Babbitt,Los Angeles Clippers,L,01/27/2013,12:13,0,3,0.0,0,2,0.0,0,0,0.0,0,3,3,0,1,0,1,2,0,-11
+Portland Trail Blazers,,Will Barton,Los Angeles Clippers,L,01/27/2013,15:16,2,5,0.4,0,1,0.0,4,4,1.0,1,2,3,0,2,1,2,1,8,-4
+Portland Trail Blazers,,Joel Freeland,Los Angeles Clippers,L,01/27/2013,6:36,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,1,0,3
+Portland Trail Blazers,,Ronnie Price,Los Angeles Clippers,L,01/27/2013,12:29,1,3,0.333,0,1,0.0,1,2,0.5,0,0,0,1,0,0,1,1,3,-3
+Portland Trail Blazers,,Nolan Smith,Los Angeles Clippers,L,01/27/2013,3:36,1,1,1.0,0,0,0.0,2,2,1.0,0,0,0,0,0,0,0,0,4,3
+Portland Trail Blazers,,Victor Claver,Los Angeles Clippers,L,01/27/2013,3:36,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,3
+Portland Trail Blazers,,Jared Jeffries,Dallas Mavericks,W,01/29/2013,6:31,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-11
+Portland Trail Blazers,,Meyers Leonard,Dallas Mavericks,W,01/29/2013,2:44,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+Portland Trail Blazers,,Will Barton,Dallas Mavericks,W,01/29/2013,6:08,1,2,0.5,0,0,0.0,0,0,0.0,2,1,3,0,0,0,2,2,2,-9
+Portland Trail Blazers,,Ronnie Price,Dallas Mavericks,W,01/29/2013,9:40,2,4,0.5,1,2,0.5,0,0,0.0,1,1,2,0,0,0,0,1,5,1
+Portland Trail Blazers,,Luke Babbitt,Dallas Mavericks,W,01/29/2013,9:06,1,4,0.25,1,4,0.25,0,0,0.0,0,1,1,1,0,0,0,0,3,20
+Portland Trail Blazers,,Sasha Pavlovic,Dallas Mavericks,W,01/29/2013,8:59,2,3,0.667,0,1,0.0,0,1,0.0,0,0,0,1,1,0,0,3,4,13
+Portland Trail Blazers,,Meyers Leonard,Utah Jazz,L,02/01/2013,5:38,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,3,0,-8
+Portland Trail Blazers,,Jared Jeffries,Utah Jazz,L,02/01/2013,3:55,0,2,0.0,0,0,0.0,0,0,0.0,2,0,2,0,0,0,1,1,0,-9
+Portland Trail Blazers,,Will Barton,Utah Jazz,L,02/01/2013,6:05,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,1,2,-2
+Portland Trail Blazers,,Luke Babbitt,Utah Jazz,L,02/01/2013,21:05,2,6,0.333,2,4,0.5,0,0,0.0,0,5,5,0,0,0,0,3,6,4
+Portland Trail Blazers,,Ronnie Price,Utah Jazz,L,02/01/2013,14:32,1,4,0.25,0,1,0.0,0,0,0.0,1,0,1,2,0,0,0,1,2,-1
+Portland Trail Blazers,,Victor Claver,Utah Jazz,L,02/01/2013,17:15,0,2,0.0,0,2,0.0,0,0,0.0,0,2,2,0,2,0,0,2,0,4
+Portland Trail Blazers,,Nolan Smith,Utah Jazz,L,02/01/2013,1:12,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,0
+Portland Trail Blazers,,Luke Babbitt,Utah Jazz,W,02/02/2013,24:03,2,5,0.4,2,4,0.5,2,2,1.0,0,5,5,0,0,1,1,3,8,7
+Portland Trail Blazers,,Meyers Leonard,Utah Jazz,W,02/02/2013,6:22,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,2,0,5
+Portland Trail Blazers,,Nolan Smith,Utah Jazz,W,02/02/2013,18:15,5,7,0.714,2,3,0.667,1,2,0.5,1,0,1,2,1,0,1,2,13,7
+Portland Trail Blazers,,Will Barton,Utah Jazz,W,02/02/2013,16:09,3,6,0.5,0,1,0.0,1,2,0.5,0,3,3,2,0,1,0,0,7,3
+Portland Trail Blazers,,Victor Claver,Minnesota Timberwolves,W,02/04/2013,16:35,1,2,0.5,0,1,0.0,0,0,0.0,1,2,3,2,0,0,0,0,2,20
+Portland Trail Blazers,,Meyers Leonard,Minnesota Timberwolves,W,02/04/2013,7:01,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,0,0,1,1,2,2,2
+Portland Trail Blazers,,Nolan Smith,Minnesota Timberwolves,W,02/04/2013,9:57,2,3,0.667,1,1,1.0,2,2,1.0,0,1,1,3,1,0,3,4,7,10
+Portland Trail Blazers,,Luke Babbitt,Minnesota Timberwolves,W,02/04/2013,14:01,2,4,0.5,2,4,0.5,1,2,0.5,0,0,0,0,0,1,1,3,7,-6
+Portland Trail Blazers,,Will Barton,Minnesota Timberwolves,W,02/04/2013,5:38,1,4,0.25,0,1,0.0,0,0,0.0,1,0,1,0,0,0,0,0,2,-5
+Portland Trail Blazers,,Luke Babbitt,Dallas Mavericks,L,02/06/2013,10:54,1,2,0.5,1,2,0.5,0,0,0.0,0,4,4,0,0,0,0,4,3,-3
+Portland Trail Blazers,,Will Barton,Dallas Mavericks,L,02/06/2013,9:24,1,3,0.333,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,-1
+Portland Trail Blazers,,Jared Jeffries,Dallas Mavericks,L,02/06/2013,9:58,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,0,0,4
+Portland Trail Blazers,,Nolan Smith,Dallas Mavericks,L,02/06/2013,9:04,2,5,0.4,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,0,4,-16
+Portland Trail Blazers,,Meyers Leonard,Dallas Mavericks,L,02/06/2013,2:53,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-5
+Portland Trail Blazers,,Victor Claver,Dallas Mavericks,L,02/06/2013,9:10,0,1,0.0,0,1,0.0,0,0,0.0,0,3,3,2,0,0,0,1,0,-9
+Portland Trail Blazers,,Meyers Leonard,Houston Rockets,L,02/08/2013,18:57,0,3,0.0,0,0,0.0,1,2,0.5,2,1,3,1,0,0,0,1,1,1
+Portland Trail Blazers,,Nolan Smith,Houston Rockets,L,02/08/2013,14:35,2,7,0.286,0,0,0.0,2,2,1.0,3,2,5,2,1,0,1,3,6,3
+Portland Trail Blazers,,Victor Claver,Houston Rockets,L,02/08/2013,22:35,2,6,0.333,1,3,0.333,0,0,0.0,3,2,5,1,1,1,2,1,5,-5
+Portland Trail Blazers,,Luke Babbitt,Houston Rockets,L,02/08/2013,7:57,1,3,0.333,1,3,0.333,0,0,0.0,0,3,3,0,0,0,0,0,3,-2
+Portland Trail Blazers,,Will Barton,Houston Rockets,L,02/08/2013,8:23,0,1,0.0,0,1,0.0,1,2,0.5,0,1,1,1,0,0,0,0,1,2
+Portland Trail Blazers,,Joel Freeland,Houston Rockets,L,02/08/2013,3:54,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,4
+Portland Trail Blazers,,Victor Claver,Orlando Magic,L,02/10/2013,14:04,2,3,0.667,0,1,0.0,0,0,0.0,0,1,1,0,0,0,2,2,4,8
+Portland Trail Blazers,,Meyers Leonard,Orlando Magic,L,02/10/2013,8:17,2,2,1.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,2,4,-2
+Portland Trail Blazers,,Nolan Smith,Orlando Magic,L,02/10/2013,7:41,2,2,1.0,0,0,0.0,2,2,1.0,0,0,0,1,0,0,0,0,6,-2
+Portland Trail Blazers,,Will Barton,Orlando Magic,L,02/10/2013,6:59,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,2,-2
+Portland Trail Blazers,,Luke Babbitt,Orlando Magic,L,02/10/2013,9:15,2,3,0.667,2,3,0.667,0,0,0.0,0,1,1,1,0,0,0,3,6,-3
+Portland Trail Blazers,,Joel Freeland,Orlando Magic,L,02/10/2013,9:39,3,4,0.75,0,0,0.0,0,1,0.0,1,5,6,2,1,0,1,0,6,11
+Portland Trail Blazers,,Jared Jeffries,Miami Heat,L,02/12/2013,20:22,2,5,0.4,0,0,0.0,3,4,0.75,1,2,3,1,0,0,0,2,7,24
+Portland Trail Blazers,,Ronnie Price,Miami Heat,L,02/12/2013,10:07,0,1,0.0,0,1,0.0,0,0,0.0,1,1,2,2,1,0,1,0,0,8
+Portland Trail Blazers,,Sasha Pavlovic,Miami Heat,L,02/12/2013,22:05,0,2,0.0,0,2,0.0,0,0,0.0,0,2,2,1,1,0,0,5,0,11
+Portland Trail Blazers,,Luke Babbitt,Miami Heat,L,02/12/2013,16:05,1,4,0.25,1,4,0.25,0,0,0.0,0,3,3,0,0,0,0,0,3,16
+Portland Trail Blazers,,Joel Freeland,Miami Heat,L,02/12/2013,1:55,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,2,0
+Portland Trail Blazers,,Nolan Smith,Miami Heat,L,02/12/2013,1:55,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Portland Trail Blazers,,Victor Claver,Miami Heat,L,02/12/2013,1:55,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Portland Trail Blazers,,Victor Claver,New Orleans Hornets,L,02/13/2013,35:50,5,10,0.5,1,5,0.2,0,0,0.0,2,4,6,2,1,1,2,1,11,-27
+Portland Trail Blazers,,Meyers Leonard,New Orleans Hornets,L,02/13/2013,18:03,1,3,0.333,0,0,0.0,4,4,1.0,0,3,3,0,0,0,0,3,6,-19
+Portland Trail Blazers,,Will Barton,New Orleans Hornets,L,02/13/2013,25:55,4,12,0.333,0,2,0.0,1,1,1.0,0,4,4,1,0,0,3,1,9,-27
+Portland Trail Blazers,,Ronnie Price,New Orleans Hornets,L,02/13/2013,12:39,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,3,0,0,2,0,0,-14
+Portland Trail Blazers,,Luke Babbitt,New Orleans Hornets,L,02/13/2013,10:40,0,1,0.0,0,1,0.0,0,0,0.0,0,4,4,0,0,0,0,0,0,-9
+Portland Trail Blazers,,Joel Freeland,New Orleans Hornets,L,02/13/2013,17:14,3,5,0.6,0,0,0.0,0,0,0.0,1,1,2,0,0,0,2,0,6,-17
+Portland Trail Blazers,,Will Barton,Phoenix Suns,L,02/19/2013,6:59,1,4,0.25,0,1,0.0,0,0,0.0,0,0,0,1,2,0,0,0,2,-4
+Portland Trail Blazers,,Meyers Leonard,Phoenix Suns,L,02/19/2013,5:31,0,0,0.0,0,0,0.0,2,2,1.0,0,0,0,0,0,0,0,2,2,-1
+Portland Trail Blazers,,Sasha Pavlovic,Phoenix Suns,L,02/19/2013,17:01,1,5,0.2,0,2,0.0,0,1,0.0,0,3,3,1,0,0,2,3,2,-8
+Portland Trail Blazers,,Luke Babbitt,Phoenix Suns,L,02/19/2013,7:47,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-2
+Portland Trail Blazers,,Nolan Smith,Phoenix Suns,L,02/19/2013,17:17,0,4,0.0,0,2,0.0,1,2,0.5,0,4,4,0,1,0,1,1,1,11
+Portland Trail Blazers,,Jared Jeffries,Phoenix Suns,L,02/19/2013,3:04,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-4
+Portland Trail Blazers,,Sasha Pavlovic,Los Angeles Lakers,L,02/22/2013,3:05,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,-2
+Portland Trail Blazers,,Meyers Leonard,Los Angeles Lakers,L,02/22/2013,12:49,2,3,0.667,0,0,0.0,0,0,0.0,2,2,4,1,0,1,0,4,4,-1
+Portland Trail Blazers,,Nolan Smith,Los Angeles Lakers,L,02/22/2013,7:47,1,3,0.333,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,3,2,0
+Portland Trail Blazers,,Will Barton,Los Angeles Lakers,L,02/22/2013,19:28,2,7,0.286,0,1,0.0,1,1,1.0,0,5,5,0,0,0,1,0,5,-4
+Portland Trail Blazers,,Victor Claver,Los Angeles Lakers,L,02/22/2013,13:54,1,1,1.0,1,1,1.0,0,2,0.0,0,1,1,0,0,1,1,5,3,-10
+Portland Trail Blazers,,Meyers Leonard,Boston Celtics,W,02/24/2013,16:25,1,3,0.333,0,0,0.0,1,1,1.0,2,4,6,0,0,1,1,2,3,-1
+Portland Trail Blazers,,Victor Claver,Boston Celtics,W,02/24/2013,19:34,2,4,0.5,0,0,0.0,0,0,0.0,1,9,10,0,2,1,1,2,4,14
+Portland Trail Blazers,,Will Barton,Boston Celtics,W,02/24/2013,7:23,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,1,2,-1
+Portland Trail Blazers,,Eric Maynor,Boston Celtics,W,02/24/2013,14:49,1,5,0.2,0,2,0.0,0,0,0.0,0,1,1,3,0,0,1,1,2,4
+Portland Trail Blazers,,Joel Freeland,Boston Celtics,W,02/24/2013,4:08,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-6
+Portland Trail Blazers,,Eric Maynor,Denver Nuggets,L,02/27/2013,14:13,0,4,0.0,0,1,0.0,0,0,0.0,0,0,0,3,1,0,1,2,0,-13
+Portland Trail Blazers,,Victor Claver,Denver Nuggets,L,02/27/2013,23:07,2,6,0.333,0,3,0.0,0,0,0.0,1,3,4,1,0,0,3,2,4,-15
+Portland Trail Blazers,,Meyers Leonard,Denver Nuggets,L,02/27/2013,16:12,4,7,0.571,0,0,0.0,5,5,1.0,2,3,5,1,0,0,0,4,13,-5
+Portland Trail Blazers,,Will Barton,Denver Nuggets,L,02/27/2013,3:55,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,4
+Portland Trail Blazers,,Luke Babbitt,Denver Nuggets,L,02/27/2013,0:09,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,0,0,0,3
+Portland Trail Blazers,,Eric Maynor,Minnesota Timberwolves,W,03/02/2013,31:10,3,7,0.429,1,2,0.5,0,0,0.0,0,1,1,12,0,0,4,3,7,4
+Portland Trail Blazers,,Meyers Leonard,Minnesota Timberwolves,W,03/02/2013,20:59,6,7,0.857,0,0,0.0,0,2,0.0,2,6,8,0,0,0,2,2,12,5
+Portland Trail Blazers,,Victor Claver,Minnesota Timberwolves,W,03/02/2013,13:59,4,6,0.667,1,2,0.5,1,2,0.5,1,2,3,2,1,1,0,3,10,3
+Portland Trail Blazers,,Will Barton,Minnesota Timberwolves,W,03/02/2013,15:41,0,7,0.0,0,2,0.0,0,0,0.0,1,0,1,1,1,0,0,2,0,-4
+Portland Trail Blazers,,Joel Freeland,Minnesota Timberwolves,W,03/02/2013,4:21,0,2,0.0,0,0,0.0,0,0,0.0,2,1,3,0,0,1,1,1,0,-3
+Portland Trail Blazers,,Eric Maynor,Charlotte Bobcats,W,03/04/2013,23:32,5,8,0.625,0,1,0.0,0,0,0.0,0,2,2,3,0,0,1,2,10,2
+Portland Trail Blazers,,Meyers Leonard,Charlotte Bobcats,W,03/04/2013,20:38,6,8,0.75,0,0,0.0,3,4,0.75,1,5,6,1,0,0,1,3,15,8
+Portland Trail Blazers,,Victor Claver,Charlotte Bobcats,W,03/04/2013,17:54,2,5,0.4,1,2,0.5,0,0,0.0,0,2,2,3,0,1,1,2,5,8
+Portland Trail Blazers,,Joel Freeland,Charlotte Bobcats,W,03/04/2013,3:44,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,0,0,5
+Portland Trail Blazers,,Will Barton,Charlotte Bobcats,W,03/04/2013,1:05,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Portland Trail Blazers,,Will Barton,Memphis Grizzlies,L,03/06/2013,5:02,0,0,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,1,0,1,4
+Portland Trail Blazers,,Meyers Leonard,Memphis Grizzlies,L,03/06/2013,16:06,2,4,0.5,0,0,0.0,1,2,0.5,0,4,4,0,0,1,0,3,5,-3
+Portland Trail Blazers,,Victor Claver,Memphis Grizzlies,L,03/06/2013,18:23,2,5,0.4,0,1,0.0,0,0,0.0,0,1,1,0,1,1,0,1,4,-6
+Portland Trail Blazers,,Eric Maynor,Memphis Grizzlies,L,03/06/2013,25:15,3,5,0.6,2,3,0.667,4,6,0.667,0,4,4,4,1,0,2,2,12,-11
+Portland Trail Blazers,,Meyers Leonard,San Antonio Spurs,W,03/08/2013,4:44,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,1,0,1,0,1
+Portland Trail Blazers,,Victor Claver,San Antonio Spurs,W,03/08/2013,6:04,1,1,1.0,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,1,3,-3
+Portland Trail Blazers,,Eric Maynor,San Antonio Spurs,W,03/08/2013,23:21,8,11,0.727,2,3,0.667,2,2,1.0,0,1,1,6,2,0,3,0,20,19
+Portland Trail Blazers,,Jared Jeffries,San Antonio Spurs,W,03/08/2013,8:58,0,0,0.0,0,0,0.0,0,0,0.0,2,0,2,0,0,0,1,1,0,14
+Portland Trail Blazers,,Luke Babbitt,San Antonio Spurs,W,03/08/2013,9:46,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,1,0,0,0,2,3,16
+Portland Trail Blazers,,Joel Freeland,San Antonio Spurs,W,03/08/2013,3:11,3,3,1.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,0,6,8
+Portland Trail Blazers,,Will Barton,San Antonio Spurs,W,03/08/2013,3:11,1,1,1.0,1,1,1.0,0,0,0.0,0,0,0,1,1,0,0,1,3,8
+Portland Trail Blazers,,Nolan Smith,San Antonio Spurs,W,03/08/2013,2:09,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,6
+Portland Trail Blazers,,Eric Maynor,New Orleans Hornets,L,03/10/2013,20:20,3,5,0.6,1,2,0.5,0,0,0.0,0,1,1,4,0,0,3,0,7,-18
+Portland Trail Blazers,,Luke Babbitt,New Orleans Hornets,L,03/10/2013,4:07,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-11
+Portland Trail Blazers,,Jared Jeffries,New Orleans Hornets,L,03/10/2013,14:31,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-8
+Portland Trail Blazers,,Will Barton,New Orleans Hornets,L,03/10/2013,10:13,2,4,0.5,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,4,-7
+Portland Trail Blazers,,Eric Maynor,Memphis Grizzlies,L,03/12/2013,26:19,3,8,0.375,0,2,0.0,5,5,1.0,2,2,4,1,1,0,2,3,11,6
+Portland Trail Blazers,,Meyers Leonard,Memphis Grizzlies,L,03/12/2013,17:16,3,6,0.5,0,0,0.0,0,0,0.0,2,5,7,0,0,0,1,4,6,-2
+Portland Trail Blazers,,Joel Freeland,Memphis Grizzlies,L,03/12/2013,5:44,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-5
+Portland Trail Blazers,,Will Barton,Memphis Grizzlies,L,03/12/2013,10:32,1,3,0.333,0,1,0.0,1,2,0.5,1,0,1,1,0,0,0,1,3,-6
+Portland Trail Blazers,,Meyers Leonard,New York Knicks,W,03/14/2013,12:21,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,1,0,0,0,3,0,-7
+Portland Trail Blazers,,Eric Maynor,New York Knicks,W,03/14/2013,18:57,3,7,0.429,0,2,0.0,2,4,0.5,0,0,0,2,1,0,1,0,8,-5
+Portland Trail Blazers,,Will Barton,New York Knicks,W,03/14/2013,10:07,3,4,0.75,0,1,0.0,1,1,1.0,0,4,4,1,0,0,1,1,7,-7
+Portland Trail Blazers,,Joel Freeland,Detroit Pistons,W,03/16/2013,10:16,4,6,0.667,0,0,0.0,0,0,0.0,1,3,4,1,0,0,0,1,8,0
+Portland Trail Blazers,,Eric Maynor,Detroit Pistons,W,03/16/2013,19:44,1,3,0.333,1,2,0.5,0,0,0.0,0,1,1,2,1,0,2,2,3,3
+Portland Trail Blazers,,Meyers Leonard,Detroit Pistons,W,03/16/2013,14:57,1,3,0.333,0,0,0.0,0,0,0.0,0,1,1,1,0,1,0,3,2,5
+Portland Trail Blazers,,Will Barton,Detroit Pistons,W,03/16/2013,10:10,1,3,0.333,0,0,0.0,0,0,0.0,1,1,2,1,1,0,0,2,2,0
+Portland Trail Blazers,,Meyers Leonard,Philadelphia 76ers,L,03/18/2013,16:45,2,3,0.667,0,0,0.0,2,2,1.0,0,3,3,0,0,1,0,1,6,2
+Portland Trail Blazers,,Eric Maynor,Philadelphia 76ers,L,03/18/2013,17:08,1,4,0.25,1,1,1.0,1,2,0.5,0,2,2,4,0,1,1,1,4,-1
+Portland Trail Blazers,,Will Barton,Philadelphia 76ers,L,03/18/2013,5:24,0,1,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,0,1,0,0,-6
+Portland Trail Blazers,,Joel Freeland,Philadelphia 76ers,L,03/18/2013,12:19,2,4,0.5,0,0,0.0,2,2,1.0,1,3,4,0,1,0,1,2,6,3
+Portland Trail Blazers,,Luke Babbitt,Philadelphia 76ers,L,03/18/2013,11:57,2,4,0.5,2,4,0.5,0,0,0.0,1,0,1,2,0,0,0,1,6,7
+Portland Trail Blazers,,Meyers Leonard,Milwaukee Bucks,L,03/19/2013,6:27,1,2,0.5,0,0,0.0,0,0,0.0,1,0,1,0,0,1,0,2,2,-7
+Portland Trail Blazers,,Eric Maynor,Milwaukee Bucks,L,03/19/2013,9:26,0,3,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-13
+Portland Trail Blazers,,Joel Freeland,Milwaukee Bucks,L,03/19/2013,4:39,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,-10
+Portland Trail Blazers,,Will Barton,Milwaukee Bucks,L,03/19/2013,5:28,0,2,0.0,0,0,0.0,2,2,1.0,0,1,1,0,0,0,1,1,2,-2
+Portland Trail Blazers,,Luke Babbitt,Milwaukee Bucks,L,03/19/2013,12:53,3,4,0.75,3,4,0.75,0,0,0.0,1,1,2,1,0,0,1,2,9,13
+Portland Trail Blazers,,Meyers Leonard,Chicago Bulls,W,03/21/2013,26:19,3,6,0.5,0,0,0.0,2,2,1.0,0,5,5,0,0,1,0,3,8,1
+Portland Trail Blazers,,Eric Maynor,Chicago Bulls,W,03/21/2013,24:29,4,9,0.444,0,2,0.0,0,0,0.0,0,0,0,2,0,0,2,0,8,6
+Portland Trail Blazers,,Nolan Smith,Chicago Bulls,W,03/21/2013,1:29,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-7
+Portland Trail Blazers,,Will Barton,Chicago Bulls,W,03/21/2013,1:29,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-7
+Portland Trail Blazers,,Luke Babbitt,Chicago Bulls,W,03/21/2013,1:29,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-7
+Portland Trail Blazers,,Joel Freeland,Chicago Bulls,W,03/21/2013,1:29,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-7
+Portland Trail Blazers,,Meyers Leonard,Atlanta Hawks,W,03/22/2013,29:10,2,6,0.333,0,0,0.0,0,0,0.0,3,6,9,1,0,0,0,2,4,9
+Portland Trail Blazers,,Eric Maynor,Atlanta Hawks,W,03/22/2013,22:28,4,10,0.4,0,1,0.0,0,0,0.0,1,0,1,5,0,0,1,1,8,-1
+Portland Trail Blazers,,Will Barton,Atlanta Hawks,W,03/22/2013,4:16,1,3,0.333,0,1,0.0,0,0,0.0,1,0,1,0,1,0,0,0,2,-1
+Portland Trail Blazers,,Meyers Leonard,Oklahoma City Thunder,L,03/24/2013,23:51,4,4,1.0,0,0,0.0,1,2,0.5,1,0,1,2,0,0,2,3,9,-8
+Portland Trail Blazers,,Eric Maynor,Oklahoma City Thunder,L,03/24/2013,25:21,4,10,0.4,2,4,0.5,0,0,0.0,0,0,0,4,0,0,3,4,10,-12
+Portland Trail Blazers,,Will Barton,Oklahoma City Thunder,L,03/24/2013,6:45,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,2,-5
+Portland Trail Blazers,,Luke Babbitt,Oklahoma City Thunder,L,03/24/2013,1:55,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Portland Trail Blazers,,Nolan Smith,Oklahoma City Thunder,L,03/24/2013,1:55,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,-2
+Portland Trail Blazers,,Joel Freeland,Oklahoma City Thunder,L,03/24/2013,1:55,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Portland Trail Blazers,,Meyers Leonard,Brooklyn Nets,L,03/27/2013,25:41,5,8,0.625,0,0,0.0,1,5,0.2,5,4,9,1,0,0,1,4,11,5
+Portland Trail Blazers,,Eric Maynor,Brooklyn Nets,L,03/27/2013,23:31,3,7,0.429,1,1,1.0,1,4,0.25,0,1,1,5,0,0,1,1,8,-7
+Portland Trail Blazers,,Victor Claver,Brooklyn Nets,L,03/27/2013,7:32,1,4,0.25,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-9
+Portland Trail Blazers,,Joel Freeland,Brooklyn Nets,L,03/27/2013,12:00,1,5,0.2,0,0,0.0,0,0,0.0,2,2,4,0,0,2,0,2,2,8
+Portland Trail Blazers,,Will Barton,Brooklyn Nets,L,03/27/2013,9:41,1,3,0.333,0,1,0.0,3,3,1.0,1,1,2,0,1,0,1,1,5,5
+Portland Trail Blazers,,Nolan Smith,Brooklyn Nets,L,03/27/2013,8:45,1,4,0.25,0,0,0.0,0,0,0.0,0,1,1,2,0,0,0,1,2,7
+Portland Trail Blazers,,Luke Babbitt,Brooklyn Nets,L,03/27/2013,8:45,1,3,0.333,1,2,0.5,2,2,1.0,1,0,1,0,0,0,1,1,5,7
+Portland Trail Blazers,,Joel Freeland,Utah Jazz,L,03/29/2013,13:39,0,2,0.0,0,0,0.0,0,0,0.0,2,2,4,0,0,0,1,0,0,-10
+Portland Trail Blazers,,Eric Maynor,Utah Jazz,L,03/29/2013,21:17,3,5,0.6,1,1,1.0,0,0,0.0,0,1,1,5,0,0,2,2,7,6
+Portland Trail Blazers,,Victor Claver,Utah Jazz,L,03/29/2013,18:05,3,6,0.5,0,3,0.0,0,1,0.0,1,3,4,1,1,2,0,3,6,-4
+Portland Trail Blazers,,Luke Babbitt,Utah Jazz,L,03/29/2013,0:60,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Portland Trail Blazers,,Eric Maynor,Golden State Warriors,L,03/30/2013,17:39,1,7,0.143,0,2,0.0,3,4,0.75,1,0,1,4,0,0,0,0,5,-26
+Portland Trail Blazers,,Victor Claver,Golden State Warriors,L,03/30/2013,13:46,1,3,0.333,0,0,0.0,1,1,1.0,1,1,2,0,1,0,0,1,3,-14
+Portland Trail Blazers,,Will Barton,Golden State Warriors,L,03/30/2013,11:58,0,5,0.0,0,1,0.0,0,0,0.0,1,0,1,0,1,0,0,0,0,-18
+Portland Trail Blazers,,Joel Freeland,Golden State Warriors,L,03/30/2013,10:07,0,5,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,1,2,0,-17
+Portland Trail Blazers,,Luke Babbitt,Golden State Warriors,L,03/30/2013,9:58,2,4,0.5,1,2,0.5,0,0,0.0,1,4,5,0,0,0,0,1,5,-9
+Portland Trail Blazers,,Nolan Smith,Golden State Warriors,L,03/30/2013,6:55,3,5,0.6,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,6,-4
+Portland Trail Blazers,,Eric Maynor,Utah Jazz,L,04/01/2013,23:51,4,6,0.667,1,1,1.0,1,2,0.5,0,1,1,8,0,0,2,2,10,-1
+Portland Trail Blazers,,Joel Freeland,Utah Jazz,L,04/01/2013,16:23,1,3,0.333,0,0,0.0,0,0,0.0,1,3,4,1,0,0,0,3,2,3
+Portland Trail Blazers,,Victor Claver,Utah Jazz,L,04/01/2013,28:46,4,5,0.8,2,3,0.667,2,4,0.5,0,5,5,2,1,0,2,1,12,13
+Portland Trail Blazers,,Will Barton,Utah Jazz,L,04/01/2013,5:13,1,2,0.5,0,0,0.0,2,2,1.0,0,1,1,0,1,0,0,1,4,6
+Portland Trail Blazers,,Nolan Smith,Utah Jazz,L,04/01/2013,3:00,1,1,1.0,1,1,1.0,2,2,1.0,0,0,0,1,0,0,0,0,5,3
+Portland Trail Blazers,,Joel Freeland,Memphis Grizzlies,L,04/03/2013,17:27,3,4,0.75,0,0,0.0,1,2,0.5,0,3,3,0,2,0,0,4,7,-9
+Portland Trail Blazers,,Will Barton,Memphis Grizzlies,L,04/03/2013,9:56,0,5,0.0,0,2,0.0,2,2,1.0,1,1,2,1,0,0,2,1,2,-7
+Portland Trail Blazers,,Eric Maynor,Memphis Grizzlies,L,04/03/2013,30:36,1,4,0.25,0,2,0.0,0,0,0.0,0,0,0,10,1,0,2,2,2,-3
+Portland Trail Blazers,,Luke Babbitt,Memphis Grizzlies,L,04/03/2013,7:30,0,4,0.0,0,4,0.0,0,0,0.0,1,0,1,0,0,0,1,1,0,2
+Portland Trail Blazers,,Nolan Smith,Memphis Grizzlies,L,04/03/2013,2:43,1,4,0.25,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,1
+Portland Trail Blazers,,Will Barton,Houston Rockets,L,04/05/2013,20:46,4,9,0.444,0,2,0.0,1,1,1.0,1,5,6,4,0,1,1,2,9,1
+Portland Trail Blazers,,Meyers Leonard,Houston Rockets,L,04/05/2013,25:23,2,6,0.333,0,0,0.0,2,2,1.0,2,4,6,2,0,0,1,5,6,-7
+Portland Trail Blazers,,Eric Maynor,Houston Rockets,L,04/05/2013,14:41,0,4,0.0,0,2,0.0,0,0,0.0,0,1,1,1,1,0,3,1,0,-15
+Portland Trail Blazers,,Sasha Pavlovic,Houston Rockets,L,04/05/2013,2:17,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-7
+Portland Trail Blazers,,Joel Freeland,Houston Rockets,L,04/05/2013,4:52,0,2,0.0,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,0,0,1
+Portland Trail Blazers,,Nolan Smith,Houston Rockets,L,04/05/2013,3:58,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,0,2,2
+Portland Trail Blazers,,Meyers Leonard,Dallas Mavericks,L,04/07/2013,14:07,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,1,1,1,2,2,11
+Portland Trail Blazers,,Eric Maynor,Dallas Mavericks,L,04/07/2013,25:27,4,6,0.667,0,2,0.0,0,0,0.0,0,3,3,6,0,0,2,2,8,1
+Portland Trail Blazers,,Luke Babbitt,Dallas Mavericks,L,04/07/2013,26:40,4,10,0.4,2,7,0.286,0,0,0.0,0,6,6,1,1,0,0,4,10,9
+Portland Trail Blazers,,Will Barton,Dallas Mavericks,L,04/07/2013,32:27,7,11,0.636,0,2,0.0,8,9,0.889,2,11,13,6,3,0,0,2,22,13
+Portland Trail Blazers,,Luke Babbitt,Los Angeles Lakers,L,04/10/2013,22:29,4,5,0.8,4,5,0.8,0,0,0.0,2,3,5,1,0,0,1,3,12,0
+Portland Trail Blazers,,Sasha Pavlovic,Los Angeles Lakers,L,04/10/2013,22:28,3,7,0.429,1,3,0.333,1,1,1.0,0,1,1,0,0,0,0,4,8,-8
+Portland Trail Blazers,,Eric Maynor,Los Angeles Lakers,L,04/10/2013,23:18,3,8,0.375,1,2,0.5,2,2,1.0,0,0,0,4,2,0,2,2,9,4
+Portland Trail Blazers,,Eric Maynor,Oklahoma City Thunder,L,04/12/2013,26:11,3,6,0.5,1,2,0.5,4,5,0.8,0,1,1,3,0,0,3,1,11,-13
+Portland Trail Blazers,,Meyers Leonard,Oklahoma City Thunder,L,04/12/2013,19:07,4,8,0.5,1,1,1.0,1,1,1.0,1,4,5,0,0,1,1,1,10,2
+Portland Trail Blazers,,Sasha Pavlovic,Oklahoma City Thunder,L,04/12/2013,22:34,3,6,0.5,1,3,0.333,0,0,0.0,0,2,2,5,0,0,0,1,7,0
+Portland Trail Blazers,,Joel Freeland,Oklahoma City Thunder,L,04/12/2013,15:27,2,5,0.4,0,0,0.0,1,2,0.5,2,4,6,0,0,0,0,2,5,2
+Portland Trail Blazers,,Luke Babbitt,Oklahoma City Thunder,L,04/12/2013,12:00,2,3,0.667,1,2,0.5,0,0,0.0,0,1,1,2,0,0,0,0,5,4
+Portland Trail Blazers,,Nolan Smith,Oklahoma City Thunder,L,04/12/2013,1:17,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,1
+Portland Trail Blazers,,Luke Babbitt,Denver Nuggets,L,04/14/2013,23:01,1,7,0.143,0,6,0.0,0,0,0.0,1,1,2,2,1,0,1,2,2,-17
+Portland Trail Blazers,,Eric Maynor,Denver Nuggets,L,04/14/2013,26:43,4,10,0.4,3,6,0.5,3,5,0.6,0,0,0,2,1,0,3,1,14,3
+Portland Trail Blazers,,Sasha Pavlovic,Denver Nuggets,L,04/14/2013,24:31,3,8,0.375,2,4,0.5,0,0,0.0,0,2,2,0,1,0,1,2,8,-12
+Portland Trail Blazers,,Joel Freeland,Denver Nuggets,L,04/14/2013,7:02,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,1,0,0,0,7
+Portland Trail Blazers,,Joel Freeland,Los Angeles Clippers,L,04/16/2013,28:29,5,10,0.5,0,0,0.0,3,4,0.75,0,6,6,0,2,0,0,1,13,-3
+Portland Trail Blazers,,Sasha Pavlovic,Los Angeles Clippers,L,04/16/2013,21:22,2,7,0.286,1,4,0.25,0,1,0.0,0,3,3,1,1,0,0,0,5,0
+Portland Trail Blazers,,Eric Maynor,Los Angeles Clippers,L,04/16/2013,11:37,1,3,0.333,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,0,3,-5
+Portland Trail Blazers,,Luke Babbitt,Los Angeles Clippers,L,04/16/2013,6:06,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,1,0,-3
+Portland Trail Blazers,,Meyers Leonard,Golden State Warriors,L,04/17/2013,25:54,3,6,0.5,1,1,1.0,0,0,0.0,0,3,3,0,0,2,1,3,7,-9
+Portland Trail Blazers,,Sasha Pavlovic,Golden State Warriors,L,04/17/2013,13:39,2,6,0.333,2,2,1.0,0,0,0.0,0,1,1,0,0,0,0,0,6,-5
+Portland Trail Blazers,,Eric Maynor,Golden State Warriors,L,04/17/2013,10:24,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,6,0,0,1,1,0,-3
+Portland Trail Blazers,,Joel Freeland,Golden State Warriors,L,04/17/2013,15:54,3,7,0.429,0,0,0.0,1,2,0.5,0,2,2,1,0,0,2,3,7,-12

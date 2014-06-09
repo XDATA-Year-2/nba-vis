@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+San Antonio Spurs,F,Kawhi Leonard,New Orleans Hornets,W,10/31/2012,34:17,6,13,0.462,3,6,0.5,4,4,1.0,1,6,7,1,5,0,2,5,19,12
+San Antonio Spurs,F,Tim Duncan,New Orleans Hornets,W,10/31/2012,34:22,10,15,0.667,0,0,0.0,4,5,0.8,2,9,11,3,0,3,5,3,24,13
+San Antonio Spurs,C,Boris Diaw,New Orleans Hornets,W,10/31/2012,29:49,2,3,0.667,0,1,0.0,0,0,0.0,2,2,4,6,2,1,2,1,4,13
+San Antonio Spurs,G,Danny Green,New Orleans Hornets,W,10/31/2012,32:37,4,11,0.364,1,5,0.2,0,0,0.0,0,3,3,0,1,2,1,1,9,-4
+San Antonio Spurs,G,Tony Parker,New Orleans Hornets,W,10/31/2012,35:25,9,19,0.474,1,1,1.0,4,6,0.667,0,3,3,6,0,0,0,2,23,12
+San Antonio Spurs,F,Kawhi Leonard,Oklahoma City Thunder,W,11/01/2012,32:06,2,8,0.25,0,3,0.0,2,2,1.0,1,3,4,1,5,0,4,4,6,1
+San Antonio Spurs,F,Tim Duncan,Oklahoma City Thunder,W,11/01/2012,33:43,8,19,0.421,0,0,0.0,4,6,0.667,0,8,8,1,0,3,0,2,20,-5
+San Antonio Spurs,C,Boris Diaw,Oklahoma City Thunder,W,11/01/2012,35:20,4,6,0.667,0,2,0.0,2,4,0.5,1,6,7,4,1,1,3,4,10,11
+San Antonio Spurs,G,Danny Green,Oklahoma City Thunder,W,11/01/2012,34:35,5,9,0.556,3,6,0.5,0,0,0.0,0,5,5,2,1,0,0,2,13,0
+San Antonio Spurs,G,Tony Parker,Oklahoma City Thunder,W,11/01/2012,34:52,6,13,0.462,1,2,0.5,1,2,0.5,1,2,3,11,0,0,1,3,14,-2
+San Antonio Spurs,F,Kawhi Leonard,Utah Jazz,W,11/03/2012,32:22,5,5,1.0,1,1,1.0,2,2,1.0,1,4,5,3,0,0,1,1,13,25
+San Antonio Spurs,F,Tim Duncan,Utah Jazz,W,11/03/2012,31:40,7,14,0.5,0,0,0.0,5,6,0.833,1,10,11,1,2,3,1,3,19,17
+San Antonio Spurs,C,Boris Diaw,Utah Jazz,W,11/03/2012,26:31,1,3,0.333,0,0,0.0,0,0,0.0,1,2,3,3,1,0,2,4,2,13
+San Antonio Spurs,G,Danny Green,Utah Jazz,W,11/03/2012,32:30,8,9,0.889,3,3,1.0,2,2,1.0,0,0,0,3,1,0,1,0,21,10
+San Antonio Spurs,G,Tony Parker,Utah Jazz,W,11/03/2012,32:31,9,20,0.45,1,1,1.0,5,6,0.833,0,2,2,10,2,0,5,1,24,12
+San Antonio Spurs,F,Kawhi Leonard,Indiana Pacers,W,11/05/2012,24:40,3,9,0.333,0,2,0.0,3,3,1.0,2,2,4,1,1,0,1,1,9,6
+San Antonio Spurs,F,Tim Duncan,Indiana Pacers,W,11/05/2012,25:39,7,16,0.438,0,0,0.0,0,0,0.0,1,10,11,3,3,1,0,0,14,6
+San Antonio Spurs,C,Boris Diaw,Indiana Pacers,W,11/05/2012,18:50,2,3,0.667,1,1,1.0,0,0,0.0,0,0,0,1,1,0,0,1,5,6
+San Antonio Spurs,G,Danny Green,Indiana Pacers,W,11/05/2012,25:50,4,8,0.5,2,3,0.667,0,0,0.0,2,2,4,0,0,0,1,2,10,-3
+San Antonio Spurs,G,Tony Parker,Indiana Pacers,W,11/05/2012,25:36,3,13,0.231,0,2,0.0,0,0,0.0,1,3,4,7,0,0,1,1,6,13
+San Antonio Spurs,F,Kawhi Leonard,Los Angeles Clippers,L,11/07/2012,22:59,2,5,0.4,0,2,0.0,0,0,0.0,0,4,4,2,0,0,1,0,4,-9
+San Antonio Spurs,F,Tim Duncan,Los Angeles Clippers,L,11/07/2012,22:43,3,8,0.375,0,0,0.0,4,6,0.667,2,4,6,3,1,0,1,1,10,-13
+San Antonio Spurs,C,Boris Diaw,Los Angeles Clippers,L,11/07/2012,24:28,4,6,0.667,0,2,0.0,0,0,0.0,0,2,2,2,2,0,1,1,8,-13
+San Antonio Spurs,G,Danny Green,Los Angeles Clippers,L,11/07/2012,23:52,4,7,0.571,3,5,0.6,1,1,1.0,0,1,1,2,1,1,0,1,12,-6
+San Antonio Spurs,G,Tony Parker,Los Angeles Clippers,L,11/07/2012,24:04,2,7,0.286,0,1,0.0,0,0,0.0,0,1,1,6,0,0,4,0,4,-12
+San Antonio Spurs,F,Kawhi Leonard,Sacramento Kings,W,11/09/2012,31:28,3,7,0.429,1,2,0.5,4,5,0.8,2,7,9,1,1,2,2,2,11,7
+San Antonio Spurs,F,Tim Duncan,Sacramento Kings,W,11/09/2012,31:05,9,12,0.75,0,0,0.0,5,6,0.833,0,12,12,4,3,5,2,2,23,4
+San Antonio Spurs,C,DeJuan Blair,Sacramento Kings,W,11/09/2012,19:52,1,6,0.167,0,0,0.0,2,2,1.0,0,3,3,0,0,0,2,3,4,1
+San Antonio Spurs,G,Danny Green,Sacramento Kings,W,11/09/2012,22:30,2,7,0.286,1,4,0.25,2,2,1.0,1,0,1,1,2,1,1,3,7,2
+San Antonio Spurs,G,Tony Parker,Sacramento Kings,W,11/09/2012,24:08,1,5,0.2,0,1,0.0,3,4,0.75,0,3,3,6,1,0,4,1,5,-5
+San Antonio Spurs,F,Kawhi Leonard,Portland Trail Blazers,W,11/10/2012,22:33,5,6,0.833,0,1,0.0,0,0,0.0,0,3,3,1,3,0,3,4,10,8
+San Antonio Spurs,F,Tim Duncan,Portland Trail Blazers,W,11/10/2012,31:32,7,12,0.583,0,0,0.0,8,9,0.889,2,7,9,1,1,3,1,2,22,-12
+San Antonio Spurs,C,Boris Diaw,Portland Trail Blazers,W,11/10/2012,14:53,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,2,0,0,1,3,0,-11
+San Antonio Spurs,G,Danny Green,Portland Trail Blazers,W,11/10/2012,32:00,4,7,0.571,1,3,0.333,1,2,0.5,1,4,5,2,0,1,3,0,10,12
+San Antonio Spurs,G,Patty Mills,Portland Trail Blazers,W,11/10/2012,23:27,3,9,0.333,1,2,0.5,0,0,0.0,1,1,2,4,1,0,2,0,7,-10
+San Antonio Spurs,F,Kawhi Leonard,Los Angeles Lakers,W,11/13/2012,26:11,3,6,0.5,1,2,0.5,0,0,0.0,0,4,4,2,1,0,2,2,7,1
+San Antonio Spurs,F,Tim Duncan,Los Angeles Lakers,W,11/13/2012,36:35,9,19,0.474,0,0,0.0,0,2,0.0,1,8,9,4,0,4,0,4,18,9
+San Antonio Spurs,C,Tiago Splitter,Los Angeles Lakers,W,11/13/2012,29:15,4,8,0.5,0,0,0.0,1,2,0.5,6,3,9,2,2,1,1,2,9,-9
+San Antonio Spurs,G,Danny Green,Los Angeles Lakers,W,11/13/2012,30:26,4,12,0.333,3,7,0.429,0,0,0.0,2,3,5,1,3,0,0,1,11,-5
+San Antonio Spurs,G,Tony Parker,Los Angeles Lakers,W,11/13/2012,34:02,8,18,0.444,0,0,0.0,3,3,1.0,1,3,4,7,0,0,1,2,19,-8
+San Antonio Spurs,F,Kawhi Leonard,New York Knicks,L,11/15/2012,33:24,6,12,0.5,3,7,0.429,1,1,1.0,5,4,9,0,2,0,1,2,16,-11
+San Antonio Spurs,F,Tim Duncan,New York Knicks,L,11/15/2012,31:08,6,10,0.6,0,1,0.0,2,4,0.5,4,10,14,2,0,3,1,0,14,7
+San Antonio Spurs,C,DeJuan Blair,New York Knicks,L,11/15/2012,8:30,1,4,0.25,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,1,2,4
+San Antonio Spurs,G,Danny Green,New York Knicks,L,11/15/2012,30:14,4,10,0.4,1,5,0.2,0,0,0.0,1,2,3,1,1,1,0,3,9,-3
+San Antonio Spurs,G,Tony Parker,New York Knicks,L,11/15/2012,36:02,7,20,0.35,0,1,0.0,5,7,0.714,0,6,6,12,0,1,0,5,19,1
+San Antonio Spurs,F,Stephen Jackson,Denver Nuggets,W,11/17/2012,27:27,4,11,0.364,1,5,0.2,0,0,0.0,4,5,9,3,2,0,4,2,9,17
+San Antonio Spurs,F,Tim Duncan,Denver Nuggets,W,11/17/2012,22:46,4,8,0.5,1,1,1.0,5,6,0.833,0,5,5,3,1,3,2,1,14,23
+San Antonio Spurs,C,DeJuan Blair,Denver Nuggets,W,11/17/2012,22:40,7,10,0.7,0,0,0.0,5,6,0.833,5,3,8,3,2,1,2,3,19,9
+San Antonio Spurs,G,Danny Green,Denver Nuggets,W,11/17/2012,25:20,6,10,0.6,3,5,0.6,0,0,0.0,1,2,3,1,2,1,1,2,15,30
+San Antonio Spurs,G,Tony Parker,Denver Nuggets,W,11/17/2012,25:21,7,13,0.538,0,0,0.0,0,0,0.0,2,3,5,6,2,0,1,2,14,30
+San Antonio Spurs,F,Stephen Jackson,Los Angeles Clippers,L,11/19/2012,10:39,1,3,0.333,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,1,2,8
+San Antonio Spurs,F,Tim Duncan,Los Angeles Clippers,L,11/19/2012,34:12,6,16,0.375,0,0,0.0,8,10,0.8,5,9,14,1,0,2,2,2,20,1
+San Antonio Spurs,C,DeJuan Blair,Los Angeles Clippers,L,11/19/2012,17:44,3,7,0.429,0,0,0.0,0,0,0.0,2,4,6,1,2,0,1,1,6,6
+San Antonio Spurs,G,Danny Green,Los Angeles Clippers,L,11/19/2012,34:47,2,11,0.182,2,8,0.25,0,0,0.0,2,2,4,2,0,1,1,1,6,-3
+San Antonio Spurs,G,Tony Parker,Los Angeles Clippers,L,11/19/2012,32:40,5,11,0.455,1,1,1.0,0,0,0.0,0,2,2,6,2,0,1,1,11,5
+San Antonio Spurs,F,Danny Green,Boston Celtics,W,11/21/2012,38:33,3,8,0.375,2,4,0.5,2,2,1.0,0,4,4,3,1,0,2,1,10,3
+San Antonio Spurs,F,Tim Duncan,Boston Celtics,W,11/21/2012,32:34,7,12,0.583,0,0,0.0,6,9,0.667,3,12,15,4,0,0,4,2,20,-3
+San Antonio Spurs,C,DeJuan Blair,Boston Celtics,W,11/21/2012,19:46,5,7,0.714,0,0,0.0,0,0,0.0,2,3,5,1,1,0,2,2,10,-1
+San Antonio Spurs,G,Gary Neal,Boston Celtics,W,11/21/2012,28:46,5,8,0.625,2,2,1.0,0,0,0.0,0,1,1,1,2,0,2,2,12,-4
+San Antonio Spurs,G,Tony Parker,Boston Celtics,W,11/21/2012,36:37,12,17,0.706,1,2,0.5,1,3,0.333,0,3,3,6,0,0,4,3,26,-1
+San Antonio Spurs,F,Danny Green,Indiana Pacers,W,11/23/2012,34:04,3,9,0.333,1,6,0.167,2,2,1.0,0,4,4,1,1,0,1,1,9,1
+San Antonio Spurs,F,Tim Duncan,Indiana Pacers,W,11/23/2012,31:09,10,19,0.526,0,0,0.0,2,2,1.0,3,14,17,1,1,0,0,4,22,15
+San Antonio Spurs,C,DeJuan Blair,Indiana Pacers,W,11/23/2012,14:48,1,2,0.5,0,0,0.0,2,2,1.0,0,2,2,0,0,0,1,3,4,2
+San Antonio Spurs,G,Gary Neal,Indiana Pacers,W,11/23/2012,28:04,2,5,0.4,0,1,0.0,4,4,1.0,0,5,5,1,1,0,0,2,8,4
+San Antonio Spurs,G,Tony Parker,Indiana Pacers,W,11/23/2012,37:10,15,23,0.652,0,1,0.0,3,4,0.75,0,1,1,10,2,0,3,3,33,23
+San Antonio Spurs,F,Danny Green,Toronto Raptors,W,11/25/2012,48:03,5,13,0.385,3,10,0.3,0,0,0.0,1,8,9,2,1,1,1,2,13,-1
+San Antonio Spurs,F,Tim Duncan,Toronto Raptors,W,11/25/2012,41:08,11,21,0.524,0,0,0.0,4,4,1.0,1,4,5,6,0,3,2,2,26,9
+San Antonio Spurs,C,DeJuan Blair,Toronto Raptors,W,11/25/2012,16:06,1,5,0.2,0,0,0.0,0,0,0.0,2,2,4,0,0,0,0,1,2,-3
+San Antonio Spurs,G,Gary Neal,Toronto Raptors,W,11/25/2012,29:30,1,6,0.167,1,3,0.333,1,2,0.5,0,7,7,1,0,0,1,2,4,3
+San Antonio Spurs,G,Tony Parker,Toronto Raptors,W,11/25/2012,46:03,14,27,0.519,1,4,0.25,3,4,0.75,0,6,6,5,1,0,4,2,32,9
+San Antonio Spurs,F,Danny Green,Washington Wizards,W,11/26/2012,16:55,1,3,0.333,0,2,0.0,0,0,0.0,0,1,1,2,0,0,2,1,2,-5
+San Antonio Spurs,F,Tim Duncan,Washington Wizards,W,11/26/2012,23:19,7,11,0.636,0,0,0.0,0,0,0.0,1,4,5,4,0,2,0,1,14,5
+San Antonio Spurs,C,DeJuan Blair,Washington Wizards,W,11/26/2012,16:00,2,6,0.333,0,0,0.0,1,2,0.5,4,3,7,0,1,0,3,2,5,0
+San Antonio Spurs,G,Gary Neal,Washington Wizards,W,11/26/2012,26:06,5,11,0.455,3,4,0.75,0,0,0.0,0,3,3,2,0,0,2,1,13,20
+San Antonio Spurs,G,Tony Parker,Washington Wizards,W,11/26/2012,22:06,6,10,0.6,0,0,0.0,3,4,0.75,0,2,2,2,0,0,1,0,15,10
+San Antonio Spurs,F,Danny Green,Orlando Magic,W,11/28/2012,31:36,3,8,0.375,3,6,0.5,0,0,0.0,0,5,5,1,0,2,3,0,9,19
+San Antonio Spurs,F,Tim Duncan,Orlando Magic,W,11/28/2012,27:13,7,11,0.636,1,1,1.0,0,0,0.0,0,4,4,0,2,5,1,1,15,13
+San Antonio Spurs,C,DeJuan Blair,Orlando Magic,W,11/28/2012,23:39,5,8,0.625,0,0,0.0,1,2,0.5,3,3,6,1,1,0,2,1,11,1
+San Antonio Spurs,G,Gary Neal,Orlando Magic,W,11/28/2012,32:16,8,16,0.5,1,4,0.25,2,3,0.667,0,4,4,2,3,0,3,1,19,9
+San Antonio Spurs,G,Tony Parker,Orlando Magic,W,11/28/2012,29:47,6,12,0.5,0,0,0.0,2,2,1.0,0,1,1,8,0,0,0,0,14,18
+San Antonio Spurs,F,Boris Diaw,Miami Heat,L,11/29/2012,38:04,5,7,0.714,1,2,0.5,1,2,0.5,3,3,6,0,0,0,1,2,12,-17
+San Antonio Spurs,F,Matt Bonner,Miami Heat,L,11/29/2012,29:42,4,7,0.571,2,4,0.5,0,0,0.0,0,10,10,1,0,0,0,1,10,0
+San Antonio Spurs,C,Tiago Splitter,Miami Heat,L,11/29/2012,29:34,7,12,0.583,0,0,0.0,4,6,0.667,3,6,9,2,0,1,2,3,18,-5
+San Antonio Spurs,G,Nando De Colo,Miami Heat,L,11/29/2012,33:32,4,8,0.5,2,4,0.5,5,6,0.833,3,3,6,5,1,0,5,4,15,-4
+San Antonio Spurs,G,Patty Mills,Miami Heat,L,11/29/2012,23:59,3,11,0.273,1,7,0.143,0,0,0.0,0,1,1,2,2,0,4,2,7,-16
+San Antonio Spurs,F,Gary Neal,Memphis Grizzlies,W,12/01/2012,40:15,4,16,0.25,3,10,0.3,2,2,1.0,1,4,5,1,0,0,1,0,13,-6
+San Antonio Spurs,F,Tim Duncan,Memphis Grizzlies,W,12/01/2012,40:43,11,17,0.647,0,0,0.0,5,5,1.0,6,9,15,4,1,1,4,3,27,0
+San Antonio Spurs,C,DeJuan Blair,Memphis Grizzlies,W,12/01/2012,17:28,0,0,0.0,0,0,0.0,1,2,0.5,1,1,2,2,2,1,0,3,1,-1
+San Antonio Spurs,G,Danny Green,Memphis Grizzlies,W,12/01/2012,19:21,0,7,0.0,0,6,0.0,0,0,0.0,2,1,3,0,0,1,0,1,0,-7
+San Antonio Spurs,G,Tony Parker,Memphis Grizzlies,W,12/01/2012,43:25,11,20,0.55,0,1,0.0,8,10,0.8,0,4,4,6,1,1,2,2,30,2
+San Antonio Spurs,F,Boris Diaw,Milwaukee Bucks,W,12/05/2012,21:54,2,5,0.4,0,2,0.0,0,0,0.0,1,3,4,1,0,1,2,2,4,0
+San Antonio Spurs,F,Tim Duncan,Milwaukee Bucks,W,12/05/2012,26:44,7,15,0.467,0,0,0.0,3,3,1.0,1,9,10,1,0,2,2,1,17,5
+San Antonio Spurs,C,DeJuan Blair,Milwaukee Bucks,W,12/05/2012,12:57,2,5,0.4,0,0,0.0,1,2,0.5,4,0,4,0,0,0,0,2,5,-5
+San Antonio Spurs,G,Gary Neal,Milwaukee Bucks,W,12/05/2012,31:08,7,16,0.438,2,6,0.333,6,7,0.857,2,4,6,2,0,0,1,2,22,4
+San Antonio Spurs,G,Tony Parker,Milwaukee Bucks,W,12/05/2012,35:42,6,11,0.545,0,0,0.0,10,11,0.909,0,4,4,10,1,0,7,3,22,-4
+San Antonio Spurs,F,Danny Green,Houston Rockets,W,12/07/2012,17:47,2,6,0.333,2,5,0.4,0,0,0.0,0,3,3,1,3,2,2,0,6,11
+San Antonio Spurs,F,Tim Duncan,Houston Rockets,W,12/07/2012,23:22,6,13,0.462,0,0,0.0,0,0,0.0,2,10,12,3,0,2,1,1,12,12
+San Antonio Spurs,C,DeJuan Blair,Houston Rockets,W,12/07/2012,20:19,3,5,0.6,0,0,0.0,2,2,1.0,1,4,5,1,1,0,2,2,8,8
+San Antonio Spurs,G,Gary Neal,Houston Rockets,W,12/07/2012,25:41,6,11,0.545,0,4,0.0,0,0,0.0,0,0,0,2,1,0,0,1,12,15
+San Antonio Spurs,G,Tony Parker,Houston Rockets,W,12/07/2012,25:11,7,9,0.778,0,0,0.0,3,3,1.0,0,1,1,7,1,1,2,0,17,10
+San Antonio Spurs,F,Danny Green,Charlotte Bobcats,W,12/08/2012,24:09,8,10,0.8,7,9,0.778,0,0,0.0,0,4,4,1,1,1,1,0,23,27
+San Antonio Spurs,F,Tim Duncan,Charlotte Bobcats,W,12/08/2012,23:38,5,9,0.556,0,0,0.0,1,2,0.5,0,2,2,2,1,3,2,1,11,13
+San Antonio Spurs,C,Boris Diaw,Charlotte Bobcats,W,12/08/2012,23:41,2,4,0.5,0,0,0.0,0,0,0.0,0,5,5,4,0,0,1,3,4,28
+San Antonio Spurs,G,Gary Neal,Charlotte Bobcats,W,12/08/2012,19:40,2,6,0.333,1,3,0.333,0,0,0.0,0,1,1,2,1,0,1,3,5,4
+San Antonio Spurs,G,Tony Parker,Charlotte Bobcats,W,12/08/2012,25:34,10,12,0.833,1,1,1.0,1,1,1.0,0,2,2,9,2,0,0,0,22,21
+San Antonio Spurs,F,Danny Green,Houston Rockets,W,12/10/2012,42:51,6,14,0.429,2,7,0.286,0,0,0.0,1,5,6,5,2,2,1,4,14,9
+San Antonio Spurs,F,Tim Duncan,Houston Rockets,W,12/10/2012,32:02,1,9,0.111,0,0,0.0,8,8,1.0,2,11,13,3,0,3,1,4,10,17
+San Antonio Spurs,C,DeJuan Blair,Houston Rockets,W,12/10/2012,18:44,4,6,0.667,0,0,0.0,1,1,1.0,2,3,5,1,0,1,2,2,9,2
+San Antonio Spurs,G,Gary Neal,Houston Rockets,W,12/10/2012,35:02,11,18,0.611,7,10,0.7,0,0,0.0,0,0,0,0,1,0,2,4,29,11
+San Antonio Spurs,G,Tony Parker,Houston Rockets,W,12/10/2012,42:41,9,18,0.5,1,3,0.333,8,9,0.889,0,12,12,12,0,0,3,1,27,22
+San Antonio Spurs,F,Danny Green,Utah Jazz,L,12/12/2012,30:43,5,10,0.5,2,4,0.5,0,0,0.0,0,1,1,0,3,0,3,3,12,-2
+San Antonio Spurs,F,Tim Duncan,Utah Jazz,L,12/12/2012,33:18,8,17,0.471,0,1,0.0,6,9,0.667,3,18,21,1,1,6,1,1,22,-7
+San Antonio Spurs,C,DeJuan Blair,Utah Jazz,L,12/12/2012,12:02,0,4,0.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,2,0,0
+San Antonio Spurs,G,Gary Neal,Utah Jazz,L,12/12/2012,34:15,2,9,0.222,1,5,0.2,0,0,0.0,0,2,2,2,1,1,1,1,5,6
+San Antonio Spurs,G,Tony Parker,Utah Jazz,L,12/12/2012,35:49,8,18,0.444,0,0,0.0,6,7,0.857,0,2,2,7,0,0,1,0,22,-7
+San Antonio Spurs,F,Danny Green,Portland Trail Blazers,L,12/13/2012,28:40,2,6,0.333,1,4,0.25,0,0,0.0,0,3,3,2,2,0,1,2,5,-1
+San Antonio Spurs,F,Tim Duncan,Portland Trail Blazers,L,12/13/2012,29:40,6,13,0.462,0,0,0.0,4,4,1.0,2,4,6,1,2,2,3,1,16,0
+San Antonio Spurs,C,DeJuan Blair,Portland Trail Blazers,L,12/13/2012,9:59,1,1,1.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,1,2,-6
+San Antonio Spurs,G,Gary Neal,Portland Trail Blazers,L,12/13/2012,32:56,2,10,0.2,2,7,0.286,0,0,0.0,0,6,6,2,0,0,3,1,6,-10
+San Antonio Spurs,G,Tony Parker,Portland Trail Blazers,L,12/13/2012,37:04,7,15,0.467,0,0,0.0,7,7,1.0,1,1,2,5,1,0,4,1,21,-10
+San Antonio Spurs,F,Danny Green,Boston Celtics,W,12/15/2012,34:14,4,10,0.4,3,7,0.429,1,2,0.5,0,1,1,4,0,0,2,4,12,10
+San Antonio Spurs,F,Tim Duncan,Boston Celtics,W,12/15/2012,31:12,2,13,0.154,0,0,0.0,1,2,0.5,3,9,12,2,1,2,2,0,5,18
+San Antonio Spurs,C,Tiago Splitter,Boston Celtics,W,12/15/2012,28:21,6,10,0.6,0,0,0.0,4,6,0.667,2,6,8,4,0,1,2,1,16,6
+San Antonio Spurs,G,Gary Neal,Boston Celtics,W,12/15/2012,31:53,7,13,0.538,3,6,0.5,3,3,1.0,0,3,3,3,1,0,1,0,20,11
+San Antonio Spurs,G,Tony Parker,Boston Celtics,W,12/15/2012,36:19,8,14,0.571,1,2,0.5,5,6,0.833,0,3,3,8,4,0,1,1,22,17
+San Antonio Spurs,F,Danny Green,Oklahoma City Thunder,L,12/17/2012,19:37,2,5,0.4,1,4,0.25,0,0,0.0,0,1,1,2,0,0,0,2,5,-11
+San Antonio Spurs,F,Tim Duncan,Oklahoma City Thunder,L,12/17/2012,23:55,5,10,0.5,0,0,0.0,2,2,1.0,0,5,5,1,1,1,1,2,12,-15
+San Antonio Spurs,C,Tiago Splitter,Oklahoma City Thunder,L,12/17/2012,21:35,5,7,0.714,0,0,0.0,0,2,0.0,1,2,3,1,1,2,1,1,10,-5
+San Antonio Spurs,G,Gary Neal,Oklahoma City Thunder,L,12/17/2012,28:19,3,11,0.273,2,5,0.4,0,0,0.0,1,3,4,1,1,0,2,2,8,-20
+San Antonio Spurs,G,Tony Parker,Oklahoma City Thunder,L,12/17/2012,25:32,4,11,0.364,0,1,0.0,6,7,0.857,1,1,2,7,0,0,1,1,14,-16
+San Antonio Spurs,F,Danny Green,Denver Nuggets,L,12/18/2012,23:06,1,10,0.1,1,8,0.125,0,0,0.0,0,1,1,1,1,0,2,1,3,-13
+San Antonio Spurs,F,Tim Duncan,Denver Nuggets,L,12/18/2012,40:02,11,25,0.44,0,0,0.0,9,10,0.9,4,14,18,6,2,5,2,3,31,0
+San Antonio Spurs,C,Tiago Splitter,Denver Nuggets,L,12/18/2012,23:19,5,8,0.625,0,0,0.0,0,1,0.0,1,3,4,3,3,1,1,3,10,-8
+San Antonio Spurs,G,Gary Neal,Denver Nuggets,L,12/18/2012,13:03,1,5,0.2,1,2,0.5,0,0,0.0,0,1,1,2,1,0,1,1,3,-9
+San Antonio Spurs,G,Tony Parker,Denver Nuggets,L,12/18/2012,35:27,4,12,0.333,2,3,0.667,3,3,1.0,1,3,4,4,0,0,0,2,13,-2
+San Antonio Spurs,F,Danny Green,New Orleans Hornets,W,12/21/2012,23:41,4,9,0.444,1,5,0.2,0,0,0.0,0,4,4,2,0,0,0,1,9,7
+San Antonio Spurs,F,Tim Duncan,New Orleans Hornets,W,12/21/2012,32:10,7,11,0.636,0,0,0.0,1,1,1.0,1,9,10,5,2,2,2,1,15,13
+San Antonio Spurs,C,Tiago Splitter,New Orleans Hornets,W,12/21/2012,26:54,2,4,0.5,0,0,0.0,2,2,1.0,0,7,7,2,1,0,3,2,6,-1
+San Antonio Spurs,G,Gary Neal,New Orleans Hornets,W,12/21/2012,21:32,1,4,0.25,0,2,0.0,0,0,0.0,0,2,2,1,0,0,1,2,2,3
+San Antonio Spurs,G,Tony Parker,New Orleans Hornets,W,12/21/2012,31:11,10,17,0.588,0,2,0.0,5,6,0.833,0,1,1,5,0,0,2,2,25,-2
+San Antonio Spurs,F,Kawhi Leonard,Dallas Mavericks,W,12/23/2012,26:03,6,11,0.545,3,7,0.429,2,2,1.0,1,3,4,2,5,0,0,0,17,28
+San Antonio Spurs,F,Tim Duncan,Dallas Mavericks,W,12/23/2012,23:11,7,15,0.467,0,0,0.0,1,2,0.5,0,5,5,4,1,2,1,1,15,25
+San Antonio Spurs,C,Tiago Splitter,Dallas Mavericks,W,12/23/2012,21:15,1,4,0.25,0,0,0.0,3,4,0.75,1,6,7,0,1,1,1,2,5,24
+San Antonio Spurs,G,Danny Green,Dallas Mavericks,W,12/23/2012,22:31,9,10,0.9,7,8,0.875,0,0,0.0,1,3,4,0,1,1,0,1,25,25
+San Antonio Spurs,G,Tony Parker,Dallas Mavericks,W,12/23/2012,28:28,5,9,0.556,2,2,1.0,6,7,0.857,1,0,1,6,1,1,4,1,18,32
+San Antonio Spurs,F,Kawhi Leonard,Toronto Raptors,W,12/26/2012,24:10,4,8,0.5,0,3,0.0,1,1,1.0,1,9,10,2,3,0,3,2,9,17
+San Antonio Spurs,F,Tim Duncan,Toronto Raptors,W,12/26/2012,27:00,6,11,0.545,0,0,0.0,3,4,0.75,1,5,6,2,0,2,3,0,15,17
+San Antonio Spurs,C,Tiago Splitter,Toronto Raptors,W,12/26/2012,20:23,1,4,0.25,0,0,0.0,8,10,0.8,1,1,2,3,0,1,1,1,10,11
+San Antonio Spurs,G,Danny Green,Toronto Raptors,W,12/26/2012,20:58,2,4,0.5,2,4,0.5,2,2,1.0,2,2,4,0,3,0,0,1,8,-1
+San Antonio Spurs,G,Tony Parker,Toronto Raptors,W,12/26/2012,29:17,5,10,0.5,1,2,0.5,2,3,0.667,0,3,3,7,1,0,2,1,13,18
+San Antonio Spurs,F,Kawhi Leonard,Houston Rockets,W,12/28/2012,26:32,1,3,0.333,0,1,0.0,0,0,0.0,0,5,5,0,2,1,0,1,2,5
+San Antonio Spurs,F,Tim Duncan,Houston Rockets,W,12/28/2012,34:11,13,20,0.65,0,0,0.0,4,4,1.0,0,5,5,0,1,2,4,2,30,2
+San Antonio Spurs,C,Tiago Splitter,Houston Rockets,W,12/28/2012,26:27,3,4,0.75,0,0,0.0,3,4,0.75,0,6,6,2,1,1,1,2,9,17
+San Antonio Spurs,G,Danny Green,Houston Rockets,W,12/28/2012,27:21,5,8,0.625,5,7,0.714,2,2,1.0,0,5,5,1,0,1,3,4,17,-2
+San Antonio Spurs,G,Tony Parker,Houston Rockets,W,12/28/2012,38:39,11,19,0.579,0,0,0.0,9,10,0.9,1,4,5,10,2,0,3,3,31,4
+San Antonio Spurs,F,Kawhi Leonard,Dallas Mavericks,W,12/30/2012,28:14,2,5,0.4,1,2,0.5,0,0,0.0,1,6,7,1,1,0,1,0,5,14
+San Antonio Spurs,F,Tim Duncan,Dallas Mavericks,W,12/30/2012,28:37,7,14,0.5,0,0,0.0,4,4,1.0,2,8,10,2,0,3,1,2,18,24
+San Antonio Spurs,C,Tiago Splitter,Dallas Mavericks,W,12/30/2012,27:12,4,9,0.444,0,0,0.0,5,6,0.833,1,5,6,1,2,0,3,0,13,3
+San Antonio Spurs,G,Danny Green,Dallas Mavericks,W,12/30/2012,26:50,3,7,0.429,2,3,0.667,0,0,0.0,0,1,1,1,1,2,0,1,8,19
+San Antonio Spurs,G,Tony Parker,Dallas Mavericks,W,12/30/2012,33:17,10,17,0.588,0,1,0.0,1,1,1.0,0,5,5,9,0,0,4,1,21,18
+San Antonio Spurs,F,Kawhi Leonard,Brooklyn Nets,W,12/31/2012,22:53,4,5,0.8,2,3,0.667,0,0,0.0,0,3,3,2,1,0,0,0,10,28
+San Antonio Spurs,F,Tim Duncan,Brooklyn Nets,W,12/31/2012,24:30,7,12,0.583,0,0,0.0,1,1,1.0,0,4,4,3,0,2,2,2,15,24
+San Antonio Spurs,C,Tiago Splitter,Brooklyn Nets,W,12/31/2012,22:13,5,7,0.714,0,0,0.0,0,0,0.0,1,2,3,1,0,2,0,2,10,24
+San Antonio Spurs,G,Danny Green,Brooklyn Nets,W,12/31/2012,15:56,1,1,1.0,0,0,0.0,1,2,0.5,0,2,2,0,1,1,2,1,3,14
+San Antonio Spurs,G,Tony Parker,Brooklyn Nets,W,12/31/2012,25:49,9,13,0.692,1,1,1.0,1,2,0.5,0,1,1,6,1,0,1,2,20,25
+San Antonio Spurs,F,Kawhi Leonard,Milwaukee Bucks,W,01/02/2013,23:32,2,6,0.333,0,2,0.0,0,0,0.0,0,5,5,0,1,0,0,2,4,-4
+San Antonio Spurs,F,Tim Duncan,Milwaukee Bucks,W,01/02/2013,34:21,11,20,0.55,0,0,0.0,6,7,0.857,3,10,13,6,1,3,1,3,28,18
+San Antonio Spurs,C,Tiago Splitter,Milwaukee Bucks,W,01/02/2013,18:55,2,2,1.0,0,0,0.0,2,2,1.0,1,4,5,1,0,0,0,5,6,17
+San Antonio Spurs,G,Danny Green,Milwaukee Bucks,W,01/02/2013,29:43,3,5,0.6,3,4,0.75,0,0,0.0,0,2,2,1,1,0,0,2,9,9
+San Antonio Spurs,G,Tony Parker,Milwaukee Bucks,W,01/02/2013,35:35,10,23,0.435,1,2,0.5,2,2,1.0,1,2,3,11,2,0,3,2,23,13
+San Antonio Spurs,F,Tim Duncan,New York Knicks,L,01/03/2013,23:52,4,8,0.5,0,0,0.0,3,4,0.75,2,4,6,0,1,2,3,1,11,-2
+San Antonio Spurs,F,Kawhi Leonard,New York Knicks,L,01/03/2013,30:05,3,8,0.375,1,5,0.2,0,0,0.0,1,2,3,2,0,0,0,1,7,-7
+San Antonio Spurs,C,Tiago Splitter,New York Knicks,L,01/03/2013,27:04,1,4,0.25,0,0,0.0,5,5,1.0,1,2,3,0,1,3,1,3,7,-14
+San Antonio Spurs,G,Danny Green,New York Knicks,L,01/03/2013,21:11,3,8,0.375,2,6,0.333,1,2,0.5,1,4,5,1,2,0,0,1,9,-11
+San Antonio Spurs,G,Tony Parker,New York Knicks,L,01/03/2013,23:52,5,11,0.455,1,2,0.5,0,0,0.0,0,3,3,6,0,0,1,0,11,-2
+San Antonio Spurs,F,Kawhi Leonard,Philadelphia 76ers,W,01/05/2013,27:12,1,4,0.25,0,1,0.0,0,0,0.0,2,7,9,1,1,1,0,4,2,17
+San Antonio Spurs,F,Tim Duncan,Philadelphia 76ers,W,01/05/2013,25:41,7,10,0.7,0,0,0.0,2,2,1.0,1,7,8,3,1,4,2,1,16,11
+San Antonio Spurs,C,Tiago Splitter,Philadelphia 76ers,W,01/05/2013,28:07,4,13,0.308,0,0,0.0,4,5,0.8,1,9,10,1,0,0,1,2,12,16
+San Antonio Spurs,G,Danny Green,Philadelphia 76ers,W,01/05/2013,26:23,4,10,0.4,3,7,0.429,2,2,1.0,0,4,4,3,1,0,3,0,13,22
+San Antonio Spurs,G,Tony Parker,Philadelphia 76ers,W,01/05/2013,29:04,8,16,0.5,0,2,0.0,4,5,0.8,1,1,2,5,2,0,0,1,20,22
+San Antonio Spurs,F,Kawhi Leonard,New Orleans Hornets,L,01/07/2013,31:11,4,6,0.667,2,4,0.5,0,0,0.0,0,3,3,1,1,1,2,1,10,-6
+San Antonio Spurs,F,Tim Duncan,New Orleans Hornets,L,01/07/2013,25:56,5,14,0.357,0,0,0.0,3,3,1.0,4,4,8,1,0,3,5,2,13,-13
+San Antonio Spurs,C,Tiago Splitter,New Orleans Hornets,L,01/07/2013,26:29,2,4,0.5,0,0,0.0,4,4,1.0,3,2,5,2,2,2,0,0,8,-2
+San Antonio Spurs,G,Danny Green,New Orleans Hornets,L,01/07/2013,19:52,0,5,0.0,0,4,0.0,0,0,0.0,0,1,1,1,0,0,2,3,0,-6
+San Antonio Spurs,G,Tony Parker,New Orleans Hornets,L,01/07/2013,32:44,7,11,0.636,0,1,0.0,2,4,0.5,0,1,1,3,2,0,5,2,16,-16
+San Antonio Spurs,F,Kawhi Leonard,Los Angeles Lakers,W,01/09/2013,33:07,4,7,0.571,2,4,0.5,1,1,1.0,1,2,3,2,2,1,1,3,11,-12
+San Antonio Spurs,F,Tim Duncan,Los Angeles Lakers,W,01/09/2013,29:04,4,13,0.308,0,0,0.0,0,0,0.0,0,7,7,5,0,4,3,0,8,8
+San Antonio Spurs,C,Tiago Splitter,Los Angeles Lakers,W,01/09/2013,34:34,5,7,0.714,0,0,0.0,4,4,1.0,4,10,14,0,0,1,1,4,14,-5
+San Antonio Spurs,G,Danny Green,Los Angeles Lakers,W,01/09/2013,17:46,2,4,0.5,2,3,0.667,0,0,0.0,0,4,4,2,0,0,0,0,6,-4
+San Antonio Spurs,G,Tony Parker,Los Angeles Lakers,W,01/09/2013,34:48,10,16,0.625,0,0,0.0,4,5,0.8,0,3,3,6,3,0,6,1,24,1
+San Antonio Spurs,F,Kawhi Leonard,Memphis Grizzlies,L,01/11/2013,38:34,2,6,0.333,1,3,0.333,1,2,0.5,0,2,2,1,2,0,0,2,6,-12
+San Antonio Spurs,F,Tim Duncan,Memphis Grizzlies,L,01/11/2013,38:55,5,14,0.357,0,1,0.0,3,4,0.75,4,11,15,4,0,3,6,3,13,-12
+San Antonio Spurs,C,Tiago Splitter,Memphis Grizzlies,L,01/11/2013,30:55,5,7,0.714,0,0,0.0,3,4,0.75,1,4,5,4,2,1,0,6,13,7
+San Antonio Spurs,G,Danny Green,Memphis Grizzlies,L,01/11/2013,18:18,3,7,0.429,1,5,0.2,2,2,1.0,1,1,2,1,0,0,0,0,9,-10
+San Antonio Spurs,G,Tony Parker,Memphis Grizzlies,L,01/11/2013,42:17,10,21,0.476,3,3,1.0,7,7,1.0,0,1,1,5,0,0,4,4,30,-4
+San Antonio Spurs,F,Kawhi Leonard,Minnesota Timberwolves,W,01/13/2013,29:31,4,5,0.8,1,2,0.5,0,0,0.0,0,4,4,0,1,0,1,0,9,0
+San Antonio Spurs,F,Tim Duncan,Minnesota Timberwolves,W,01/13/2013,29:27,4,8,0.5,0,0,0.0,4,5,0.8,1,8,9,5,3,7,3,2,12,2
+San Antonio Spurs,C,Tiago Splitter,Minnesota Timberwolves,W,01/13/2013,19:53,4,7,0.571,0,0,0.0,2,2,1.0,1,3,4,1,0,1,0,4,10,-1
+San Antonio Spurs,G,Danny Green,Minnesota Timberwolves,W,01/13/2013,20:43,0,4,0.0,0,4,0.0,0,0,0.0,1,3,4,2,1,2,2,2,0,2
+San Antonio Spurs,G,Tony Parker,Minnesota Timberwolves,W,01/13/2013,28:46,10,15,0.667,0,1,0.0,0,0,0.0,0,1,1,6,0,0,3,0,20,1
+San Antonio Spurs,F,Kawhi Leonard,Memphis Grizzlies,W,01/16/2013,23:06,5,6,0.833,3,3,1.0,0,0,0.0,1,3,4,3,2,2,2,2,13,5
+San Antonio Spurs,F,Tim Duncan,Memphis Grizzlies,W,01/16/2013,31:02,9,17,0.529,0,0,0.0,1,1,1.0,1,7,8,4,0,5,1,3,19,18
+San Antonio Spurs,C,Tiago Splitter,Memphis Grizzlies,W,01/16/2013,28:10,5,6,0.833,0,0,0.0,0,1,0.0,1,8,9,1,2,1,1,3,10,9
+San Antonio Spurs,G,Danny Green,Memphis Grizzlies,W,01/16/2013,20:05,3,5,0.6,2,3,0.667,0,0,0.0,0,1,1,1,1,0,1,1,8,7
+San Antonio Spurs,G,Tony Parker,Memphis Grizzlies,W,01/16/2013,34:54,6,11,0.545,0,0,0.0,5,6,0.833,0,1,1,11,0,0,4,0,17,11
+San Antonio Spurs,F,Kawhi Leonard,Golden State Warriors,W,01/18/2013,27:43,0,4,0.0,0,2,0.0,0,0,0.0,0,5,5,1,0,0,1,1,0,-4
+San Antonio Spurs,F,Tim Duncan,Golden State Warriors,W,01/18/2013,31:41,9,16,0.563,0,0,0.0,6,6,1.0,1,9,10,2,0,3,4,3,24,0
+San Antonio Spurs,C,Tiago Splitter,Golden State Warriors,W,01/18/2013,35:39,8,10,0.8,0,0,0.0,3,4,0.75,2,7,9,2,0,0,0,1,19,15
+San Antonio Spurs,G,Danny Green,Golden State Warriors,W,01/18/2013,29:02,4,9,0.444,3,7,0.429,2,3,0.667,1,3,4,0,0,0,0,2,13,4
+San Antonio Spurs,G,Tony Parker,Golden State Warriors,W,01/18/2013,36:50,10,18,0.556,0,0,0.0,5,5,1.0,0,2,2,8,1,0,4,0,25,15
+San Antonio Spurs,F,Kawhi Leonard,Atlanta Hawks,W,01/19/2013,33:45,4,8,0.5,2,5,0.4,4,4,1.0,1,4,5,1,2,1,0,4,14,2
+San Antonio Spurs,F,Boris Diaw,Atlanta Hawks,W,01/19/2013,24:56,4,7,0.571,1,4,0.25,0,0,0.0,0,4,4,3,0,0,0,1,9,0
+San Antonio Spurs,C,Tiago Splitter,Atlanta Hawks,W,01/19/2013,28:33,7,11,0.636,0,0,0.0,0,0,0.0,1,6,7,0,0,1,1,3,14,2
+San Antonio Spurs,G,Danny Green,Atlanta Hawks,W,01/19/2013,34:40,3,9,0.333,1,4,0.25,0,0,0.0,0,2,2,2,1,1,0,2,7,-3
+San Antonio Spurs,G,Tony Parker,Atlanta Hawks,W,01/19/2013,33:20,10,22,0.455,0,1,0.0,3,5,0.6,0,4,4,12,1,0,1,0,23,3
+San Antonio Spurs,F,Kawhi Leonard,Philadelphia 76ers,W,01/21/2013,34:37,6,13,0.462,2,5,0.4,2,4,0.5,2,5,7,0,2,0,1,2,16,12
+San Antonio Spurs,F,Tim Duncan,Philadelphia 76ers,W,01/21/2013,34:11,10,17,0.588,0,0,0.0,4,4,1.0,4,13,17,5,2,1,2,2,24,17
+San Antonio Spurs,C,Tiago Splitter,Philadelphia 76ers,W,01/21/2013,29:26,4,9,0.444,0,0,0.0,2,4,0.5,2,10,12,0,2,1,1,1,10,-3
+San Antonio Spurs,G,Danny Green,Philadelphia 76ers,W,01/21/2013,28:09,2,7,0.286,0,5,0.0,2,2,1.0,0,4,4,0,1,1,1,3,6,-3
+San Antonio Spurs,G,Tony Parker,Philadelphia 76ers,W,01/21/2013,34:31,8,15,0.533,0,2,0.0,4,5,0.8,0,2,2,8,0,0,5,0,20,17
+San Antonio Spurs,F,Stephen Jackson,New Orleans Hornets,W,01/23/2013,28:50,6,10,0.6,3,7,0.429,0,0,0.0,0,1,1,3,0,1,1,4,15,1
+San Antonio Spurs,F,Boris Diaw,New Orleans Hornets,W,01/23/2013,27:34,0,1,0.0,0,0,0.0,0,2,0.0,1,3,4,3,1,0,1,1,0,-11
+San Antonio Spurs,C,Tiago Splitter,New Orleans Hornets,W,01/23/2013,32:19,10,11,0.909,0,0,0.0,5,6,0.833,0,7,7,1,2,0,1,1,25,13
+San Antonio Spurs,G,Danny Green,New Orleans Hornets,W,01/23/2013,28:40,5,11,0.455,2,4,0.5,0,0,0.0,1,6,7,0,2,0,1,4,12,6
+San Antonio Spurs,G,Tony Parker,New Orleans Hornets,W,01/23/2013,36:28,10,18,0.556,0,1,0.0,4,7,0.571,2,2,4,13,1,0,1,1,24,-8
+San Antonio Spurs,F,Kawhi Leonard,Dallas Mavericks,W,01/25/2013,28:16,2,8,0.25,2,4,0.5,4,4,1.0,0,8,8,2,4,0,1,0,10,21
+San Antonio Spurs,F,Boris Diaw,Dallas Mavericks,W,01/25/2013,29:31,4,11,0.364,2,5,0.4,0,0,0.0,2,4,6,4,1,1,0,3,10,11
+San Antonio Spurs,C,Tiago Splitter,Dallas Mavericks,W,01/25/2013,29:01,5,6,0.833,0,0,0.0,3,5,0.6,4,8,12,0,0,0,3,3,13,5
+San Antonio Spurs,G,Danny Green,Dallas Mavericks,W,01/25/2013,26:38,4,9,0.444,3,4,0.75,0,0,0.0,0,3,3,4,3,0,0,2,11,15
+San Antonio Spurs,G,Tony Parker,Dallas Mavericks,W,01/25/2013,29:57,9,16,0.563,0,1,0.0,5,7,0.714,0,4,4,10,0,0,5,2,23,15
+San Antonio Spurs,F,Kawhi Leonard,Phoenix Suns,W,01/26/2013,29:34,3,7,0.429,1,2,0.5,0,0,0.0,1,5,6,2,1,0,0,1,7,4
+San Antonio Spurs,F,Boris Diaw,Phoenix Suns,W,01/26/2013,26:00,5,7,0.714,1,1,1.0,0,0,0.0,1,2,3,0,1,0,2,5,11,3
+San Antonio Spurs,C,Tiago Splitter,Phoenix Suns,W,01/26/2013,30:07,5,11,0.455,0,0,0.0,3,4,0.75,4,4,8,1,0,0,0,2,13,4
+San Antonio Spurs,G,Danny Green,Phoenix Suns,W,01/26/2013,16:24,0,5,0.0,0,3,0.0,0,0,0.0,0,1,1,1,0,0,1,0,0,-11
+San Antonio Spurs,G,Tony Parker,Phoenix Suns,W,01/26/2013,33:25,13,17,0.765,0,0,0.0,5,6,0.833,1,3,4,7,2,0,3,1,31,6
+San Antonio Spurs,F,Kawhi Leonard,Charlotte Bobcats,W,01/30/2013,33:33,7,10,0.7,4,5,0.8,0,0,0.0,0,5,5,0,2,1,0,3,18,24
+San Antonio Spurs,F,Boris Diaw,Charlotte Bobcats,W,01/30/2013,26:18,3,6,0.5,0,1,0.0,2,2,1.0,0,2,2,4,2,0,1,3,8,19
+San Antonio Spurs,C,Tiago Splitter,Charlotte Bobcats,W,01/30/2013,30:06,6,12,0.5,0,0,0.0,3,4,0.75,0,4,4,2,1,1,2,3,15,23
+San Antonio Spurs,G,Danny Green,Charlotte Bobcats,W,01/30/2013,29:02,5,6,0.833,3,3,1.0,4,4,1.0,1,4,5,2,3,2,3,1,17,15
+San Antonio Spurs,G,Tony Parker,Charlotte Bobcats,W,01/30/2013,32:43,9,10,0.9,1,1,1.0,3,4,0.75,0,2,2,7,3,0,5,0,22,9
+San Antonio Spurs,F,Kawhi Leonard,Washington Wizards,W,02/02/2013,33:21,3,9,0.333,1,4,0.25,3,3,1.0,1,10,11,0,1,1,1,2,10,19
+San Antonio Spurs,F,Tim Duncan,Washington Wizards,W,02/02/2013,13:34,3,6,0.5,0,0,0.0,2,2,1.0,2,3,5,2,0,1,0,1,8,13
+San Antonio Spurs,C,Tiago Splitter,Washington Wizards,W,02/02/2013,29:59,5,8,0.625,0,0,0.0,2,2,1.0,0,7,7,2,1,1,1,2,12,31
+San Antonio Spurs,G,Danny Green,Washington Wizards,W,02/02/2013,32:14,6,9,0.667,2,5,0.4,1,1,1.0,0,3,3,2,0,1,4,0,15,27
+San Antonio Spurs,G,Tony Parker,Washington Wizards,W,02/02/2013,33:29,9,15,0.6,0,0,0.0,1,2,0.5,0,4,4,12,0,0,4,2,19,18
+San Antonio Spurs,F,Kawhi Leonard,Minnesota Timberwolves,W,02/06/2013,31:00,7,13,0.538,2,3,0.667,3,3,1.0,1,9,10,1,2,1,0,3,19,13
+San Antonio Spurs,F,Boris Diaw,Minnesota Timberwolves,W,02/06/2013,25:56,1,6,0.167,0,3,0.0,0,0,0.0,0,1,1,1,2,1,1,2,2,15
+San Antonio Spurs,C,Tiago Splitter,Minnesota Timberwolves,W,02/06/2013,24:27,3,5,0.6,0,0,0.0,6,6,1.0,3,4,7,2,1,1,4,4,12,5
+San Antonio Spurs,G,Danny Green,Minnesota Timberwolves,W,02/06/2013,32:21,9,14,0.643,8,12,0.667,2,3,0.667,1,2,3,3,3,0,2,2,28,17
+San Antonio Spurs,G,Tony Parker,Minnesota Timberwolves,W,02/06/2013,35:09,11,23,0.478,0,1,0.0,9,9,1.0,1,4,5,8,2,0,2,0,31,12
+San Antonio Spurs,F,Kawhi Leonard,Detroit Pistons,L,02/08/2013,26:19,6,13,0.462,2,6,0.333,2,3,0.667,0,5,5,1,3,1,0,1,16,-14
+San Antonio Spurs,F,Boris Diaw,Detroit Pistons,L,02/08/2013,23:35,2,7,0.286,0,0,0.0,0,0,0.0,1,2,3,1,1,0,2,2,4,-12
+San Antonio Spurs,C,Tiago Splitter,Detroit Pistons,L,02/08/2013,28:13,4,8,0.5,0,0,0.0,2,3,0.667,3,3,6,1,1,3,0,1,10,-4
+San Antonio Spurs,G,Danny Green,Detroit Pistons,L,02/08/2013,30:05,5,8,0.625,5,7,0.714,0,0,0.0,0,2,2,2,1,2,0,3,15,-2
+San Antonio Spurs,G,Tony Parker,Detroit Pistons,L,02/08/2013,35:09,10,16,0.625,0,0,0.0,11,12,0.917,0,2,2,8,1,0,1,3,31,-7
+San Antonio Spurs,F,Kawhi Leonard,Brooklyn Nets,W,02/10/2013,25:35,4,6,0.667,1,2,0.5,0,0,0.0,0,3,3,1,3,0,1,2,9,16
+San Antonio Spurs,F,Boris Diaw,Brooklyn Nets,W,02/10/2013,28:05,4,4,1.0,2,2,1.0,0,1,0.0,1,1,2,1,1,0,2,0,10,20
+San Antonio Spurs,C,Tiago Splitter,Brooklyn Nets,W,02/10/2013,31:44,4,10,0.4,0,0,0.0,5,9,0.556,3,6,9,2,1,0,0,3,13,8
+San Antonio Spurs,G,Danny Green,Brooklyn Nets,W,02/10/2013,28:24,4,10,0.4,4,8,0.5,2,2,1.0,0,3,3,0,2,2,0,1,14,20
+San Antonio Spurs,G,Tony Parker,Brooklyn Nets,W,02/10/2013,35:19,12,21,0.571,1,1,1.0,4,4,1.0,1,2,3,11,0,0,0,0,29,23
+San Antonio Spurs,F,Kawhi Leonard,Chicago Bulls,W,02/11/2013,43:37,11,18,0.611,1,3,0.333,3,6,0.5,0,4,4,0,1,0,0,0,26,24
+San Antonio Spurs,F,Boris Diaw,Chicago Bulls,W,02/11/2013,35:53,4,7,0.571,1,1,1.0,1,1,1.0,0,4,4,2,3,1,1,2,10,23
+San Antonio Spurs,C,Tiago Splitter,Chicago Bulls,W,02/11/2013,33:20,5,7,0.714,0,0,0.0,6,6,1.0,0,5,5,3,2,0,2,2,16,23
+San Antonio Spurs,G,Danny Green,Chicago Bulls,W,02/11/2013,37:37,5,10,0.5,3,5,0.6,5,5,1.0,1,5,6,3,1,0,2,2,18,22
+San Antonio Spurs,G,Nando De Colo,Chicago Bulls,W,02/11/2013,33:11,3,11,0.273,1,4,0.25,2,2,1.0,0,2,2,7,3,0,2,5,9,11
+San Antonio Spurs,F,Kawhi Leonard,Cleveland Cavaliers,W,02/13/2013,32:53,5,10,0.5,1,2,0.5,2,2,1.0,2,8,10,2,1,4,4,1,13,-2
+San Antonio Spurs,F,Tim Duncan,Cleveland Cavaliers,W,02/13/2013,25:26,6,15,0.4,0,0,0.0,1,2,0.5,2,4,6,3,0,5,1,0,13,15
+San Antonio Spurs,C,Tiago Splitter,Cleveland Cavaliers,W,02/13/2013,26:43,2,6,0.333,0,0,0.0,2,2,1.0,3,4,7,1,2,1,1,3,6,-2
+San Antonio Spurs,G,Danny Green,Cleveland Cavaliers,W,02/13/2013,28:20,1,8,0.125,0,5,0.0,2,3,0.667,0,3,3,1,4,0,1,1,4,2
+San Antonio Spurs,G,Tony Parker,Cleveland Cavaliers,W,02/13/2013,33:52,8,14,0.571,0,1,0.0,8,8,1.0,1,5,6,7,0,0,3,1,24,4
+San Antonio Spurs,F,Kawhi Leonard,Sacramento Kings,W,02/19/2013,30:31,4,11,0.364,2,5,0.4,5,6,0.833,0,2,2,1,1,0,1,2,15,4
+San Antonio Spurs,F,Tim Duncan,Sacramento Kings,W,02/19/2013,28:11,3,8,0.375,0,1,0.0,3,4,0.75,2,12,14,2,2,4,2,2,9,6
+San Antonio Spurs,C,Tiago Splitter,Sacramento Kings,W,02/19/2013,20:38,2,2,1.0,0,0,0.0,0,2,0.0,0,4,4,0,0,2,1,3,4,11
+San Antonio Spurs,G,Danny Green,Sacramento Kings,W,02/19/2013,31:26,8,11,0.727,5,8,0.625,0,0,0.0,0,2,2,3,2,1,1,2,21,8
+San Antonio Spurs,G,Tony Parker,Sacramento Kings,W,02/19/2013,35:09,10,20,0.5,0,1,0.0,10,12,0.833,0,4,4,11,3,0,7,2,30,9
+San Antonio Spurs,F,Danny Green,Los Angeles Clippers,W,02/21/2013,27:31,5,10,0.5,3,6,0.5,2,2,1.0,1,2,3,7,2,2,3,4,15,10
+San Antonio Spurs,F,Tim Duncan,Los Angeles Clippers,W,02/21/2013,15:54,4,8,0.5,0,0,0.0,1,4,0.25,0,5,5,0,0,0,1,0,9,20
+San Antonio Spurs,C,Tiago Splitter,Los Angeles Clippers,W,02/21/2013,20:49,3,4,0.75,0,0,0.0,4,4,1.0,1,3,4,2,0,2,2,3,10,3
+San Antonio Spurs,G,Gary Neal,Los Angeles Clippers,W,02/21/2013,25:50,1,2,0.5,1,1,1.0,2,2,1.0,0,1,1,2,0,0,1,2,5,31
+San Antonio Spurs,G,Tony Parker,Los Angeles Clippers,W,02/21/2013,28:02,12,16,0.75,0,1,0.0,7,7,1.0,0,2,2,7,1,0,0,2,31,31
+San Antonio Spurs,F,Kawhi Leonard,Golden State Warriors,L,02/22/2013,38:36,3,8,0.375,0,3,0.0,4,4,1.0,1,5,6,3,0,1,0,4,10,-10
+San Antonio Spurs,F,Tim Duncan,Golden State Warriors,L,02/22/2013,38:31,6,16,0.375,0,0,0.0,7,10,0.7,2,11,13,3,1,4,3,5,19,-1
+San Antonio Spurs,C,Tiago Splitter,Golden State Warriors,L,02/22/2013,25:56,4,7,0.571,0,0,0.0,2,5,0.4,1,4,5,0,0,0,0,0,10,10
+San Antonio Spurs,G,Danny Green,Golden State Warriors,L,02/22/2013,38:24,7,15,0.467,4,9,0.444,2,2,1.0,1,3,4,2,1,0,0,2,20,4
+San Antonio Spurs,G,Tony Parker,Golden State Warriors,L,02/22/2013,40:29,7,18,0.389,0,0,0.0,4,6,0.667,0,6,6,3,2,0,1,2,18,-5
+San Antonio Spurs,F,Kawhi Leonard,Phoenix Suns,W,02/24/2013,33:16,5,13,0.385,1,4,0.25,5,6,0.833,1,8,9,2,3,1,1,3,16,-2
+San Antonio Spurs,F,Tim Duncan,Phoenix Suns,W,02/24/2013,27:55,5,12,0.417,0,0,0.0,0,0,0.0,2,6,8,3,0,0,3,3,10,1
+San Antonio Spurs,C,Tiago Splitter,Phoenix Suns,W,02/24/2013,27:56,5,7,0.714,0,0,0.0,4,5,0.8,1,4,5,1,0,0,3,2,14,1
+San Antonio Spurs,G,Danny Green,Phoenix Suns,W,02/24/2013,22:21,3,7,0.429,2,5,0.4,0,0,0.0,0,2,2,2,2,1,1,1,8,8
+San Antonio Spurs,G,Nando De Colo,Phoenix Suns,W,02/24/2013,27:04,1,4,0.25,0,0,0.0,2,2,1.0,0,2,2,1,1,1,1,2,4,-7
+San Antonio Spurs,F,Kawhi Leonard,Phoenix Suns,L,02/27/2013,42:03,4,10,0.4,1,4,0.25,6,9,0.667,0,1,1,4,3,0,1,4,15,-5
+San Antonio Spurs,F,Tim Duncan,Phoenix Suns,L,02/27/2013,35:21,6,15,0.4,0,1,0.0,7,8,0.875,0,11,11,0,1,1,3,2,19,-9
+San Antonio Spurs,C,Tiago Splitter,Phoenix Suns,L,02/27/2013,31:46,1,4,0.25,0,0,0.0,2,2,1.0,6,2,8,3,1,0,1,1,4,-2
+San Antonio Spurs,G,Danny Green,Phoenix Suns,L,02/27/2013,26:34,3,6,0.5,2,4,0.5,0,0,0.0,1,4,5,2,1,0,3,2,8,3
+San Antonio Spurs,G,Tony Parker,Phoenix Suns,L,02/27/2013,39:09,9,20,0.45,0,0,0.0,4,6,0.667,0,4,4,8,1,0,1,2,22,-4
+San Antonio Spurs,F,Kawhi Leonard,Sacramento Kings,W,03/01/2013,29:42,5,7,0.714,0,0,0.0,4,4,1.0,0,4,4,4,2,0,2,0,14,29
+San Antonio Spurs,F,Tim Duncan,Sacramento Kings,W,03/01/2013,25:07,5,8,0.625,0,0,0.0,3,5,0.6,1,9,10,3,3,3,2,2,13,25
+San Antonio Spurs,C,Tiago Splitter,Sacramento Kings,W,03/01/2013,22:30,6,8,0.75,0,0,0.0,2,2,1.0,4,7,11,0,1,0,0,1,14,19
+San Antonio Spurs,G,Danny Green,Sacramento Kings,W,03/01/2013,24:23,5,9,0.556,3,6,0.5,2,2,1.0,1,2,3,2,2,2,5,1,15,15
+San Antonio Spurs,G,Tony Parker,Sacramento Kings,W,03/01/2013,25:18,5,10,0.5,0,0,0.0,3,3,1.0,0,0,0,7,0,0,5,1,13,20
+San Antonio Spurs,F,Kawhi Leonard,Detroit Pistons,W,03/03/2013,26:18,6,10,0.6,0,2,0.0,2,2,1.0,0,6,6,2,1,1,2,1,14,32
+San Antonio Spurs,F,Tim Duncan,Detroit Pistons,W,03/03/2013,26:25,7,14,0.5,0,0,0.0,2,2,1.0,4,7,11,6,0,5,0,2,16,24
+San Antonio Spurs,C,Tiago Splitter,Detroit Pistons,W,03/03/2013,23:05,3,9,0.333,0,0,0.0,2,3,0.667,1,7,8,4,0,0,1,2,8,17
+San Antonio Spurs,G,Danny Green,Detroit Pistons,W,03/03/2013,21:07,6,12,0.5,3,6,0.5,1,1,1.0,0,4,4,0,1,2,1,2,16,15
+San Antonio Spurs,G,Cory Joseph,Detroit Pistons,W,03/03/2013,17:57,3,5,0.6,1,1,1.0,1,1,1.0,0,0,0,4,2,0,1,0,8,16
+San Antonio Spurs,F,Kawhi Leonard,Chicago Bulls,W,03/06/2013,32:29,6,11,0.545,0,1,0.0,2,2,1.0,0,7,7,2,1,1,1,1,14,9
+San Antonio Spurs,F,Tim Duncan,Chicago Bulls,W,03/06/2013,32:59,7,13,0.538,0,0,0.0,4,6,0.667,2,8,10,1,1,5,2,0,18,3
+San Antonio Spurs,C,Tiago Splitter,Chicago Bulls,W,03/06/2013,32:01,5,8,0.625,0,0,0.0,3,6,0.5,0,10,10,2,0,0,1,0,13,19
+San Antonio Spurs,G,Danny Green,Chicago Bulls,W,03/06/2013,23:45,3,5,0.6,1,3,0.333,0,0,0.0,0,1,1,2,0,0,0,1,7,14
+San Antonio Spurs,G,Cory Joseph,Chicago Bulls,W,03/06/2013,24:15,2,5,0.4,0,0,0.0,0,0,0.0,1,4,5,2,1,0,0,1,4,14
+San Antonio Spurs,F,Kawhi Leonard,Portland Trail Blazers,L,03/08/2013,32:12,7,14,0.5,1,4,0.25,1,1,1.0,3,3,6,0,0,0,1,1,16,-3
+San Antonio Spurs,F,Tim Duncan,Portland Trail Blazers,L,03/08/2013,23:15,8,14,0.571,0,0,0.0,2,2,1.0,2,6,8,3,0,0,3,3,18,-13
+San Antonio Spurs,C,Tiago Splitter,Portland Trail Blazers,L,03/08/2013,26:04,4,5,0.8,0,0,0.0,1,2,0.5,1,2,3,3,0,1,0,3,9,4
+San Antonio Spurs,G,Danny Green,Portland Trail Blazers,L,03/08/2013,24:17,4,9,0.444,2,4,0.5,0,0,0.0,0,3,3,2,0,1,0,2,10,-6
+San Antonio Spurs,G,Cory Joseph,Portland Trail Blazers,L,03/08/2013,26:51,5,8,0.625,0,1,0.0,3,4,0.75,0,3,3,3,2,0,2,0,13,-13
+San Antonio Spurs,F,Kawhi Leonard,Oklahoma City Thunder,W,03/11/2013,35:28,8,17,0.471,1,4,0.25,0,0,0.0,2,2,4,1,3,0,0,3,17,-4
+San Antonio Spurs,F,Tim Duncan,Oklahoma City Thunder,W,03/11/2013,35:12,6,14,0.429,0,0,0.0,1,1,1.0,2,6,8,1,0,0,1,1,13,-2
+San Antonio Spurs,C,Tiago Splitter,Oklahoma City Thunder,W,03/11/2013,33:48,9,11,0.818,0,0,0.0,3,5,0.6,1,9,10,3,0,1,2,2,21,24
+San Antonio Spurs,G,Danny Green,Oklahoma City Thunder,W,03/11/2013,27:15,6,9,0.667,4,4,1.0,0,0,0.0,0,1,1,5,3,0,0,1,16,13
+San Antonio Spurs,G,Cory Joseph,Oklahoma City Thunder,W,03/11/2013,18:32,2,2,1.0,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,3,4,-5
+San Antonio Spurs,F,Stephen Jackson,Minnesota Timberwolves,L,03/12/2013,26:04,5,10,0.5,3,5,0.6,1,2,0.5,1,4,5,0,1,1,0,1,14,3
+San Antonio Spurs,F,Matt Bonner,Minnesota Timberwolves,L,03/12/2013,18:51,1,4,0.25,0,1,0.0,0,0,0.0,0,6,6,0,0,0,1,1,2,5
+San Antonio Spurs,C,Tiago Splitter,Minnesota Timberwolves,L,03/12/2013,22:15,1,10,0.1,0,0,0.0,2,2,1.0,4,7,11,3,1,0,3,2,4,-3
+San Antonio Spurs,G,Danny Green,Minnesota Timberwolves,L,03/12/2013,24:21,4,10,0.4,2,6,0.333,0,0,0.0,0,4,4,2,1,0,2,2,10,-22
+San Antonio Spurs,G,Cory Joseph,Minnesota Timberwolves,L,03/12/2013,25:56,5,9,0.556,1,1,1.0,4,4,1.0,0,2,2,3,0,1,3,2,15,-1
+San Antonio Spurs,F,Kawhi Leonard,Dallas Mavericks,W,03/14/2013,33:48,5,14,0.357,1,5,0.2,1,1,1.0,2,4,6,3,0,1,1,0,12,13
+San Antonio Spurs,F,Tim Duncan,Dallas Mavericks,W,03/14/2013,35:50,12,20,0.6,0,0,0.0,4,5,0.8,5,14,19,2,0,1,2,1,28,10
+San Antonio Spurs,C,Tiago Splitter,Dallas Mavericks,W,03/14/2013,31:33,3,9,0.333,0,0,0.0,2,3,0.667,2,8,10,3,0,0,0,1,8,-3
+San Antonio Spurs,G,Danny Green,Dallas Mavericks,W,03/14/2013,33:27,3,9,0.333,2,4,0.5,0,0,0.0,1,0,1,3,2,0,4,1,8,1
+San Antonio Spurs,G,Cory Joseph,Dallas Mavericks,W,03/14/2013,13:03,2,3,0.667,0,0,0.0,0,0,0.0,0,1,1,2,1,0,0,0,4,2
+San Antonio Spurs,F,Kawhi Leonard,Cleveland Cavaliers,W,03/16/2013,32:44,8,16,0.5,1,2,0.5,7,8,0.875,4,9,13,4,2,2,1,2,24,25
+San Antonio Spurs,F,Tim Duncan,Cleveland Cavaliers,W,03/16/2013,34:37,13,19,0.684,0,0,0.0,4,4,1.0,2,10,12,4,0,5,5,2,30,20
+San Antonio Spurs,C,Tiago Splitter,Cleveland Cavaliers,W,03/16/2013,27:04,3,3,1.0,0,0,0.0,4,5,0.8,1,3,4,2,0,0,2,2,10,16
+San Antonio Spurs,G,Danny Green,Cleveland Cavaliers,W,03/16/2013,26:10,3,5,0.6,0,1,0.0,2,2,1.0,1,2,3,4,1,0,2,2,8,10
+San Antonio Spurs,G,Cory Joseph,Cleveland Cavaliers,W,03/16/2013,18:02,3,4,0.75,0,0,0.0,1,2,0.5,0,0,0,3,1,0,1,4,7,16
+San Antonio Spurs,F,Kawhi Leonard,Golden State Warriors,W,03/20/2013,32:60,4,7,0.571,1,2,0.5,0,0,0.0,0,4,4,0,0,1,1,3,9,4
+San Antonio Spurs,F,Tim Duncan,Golden State Warriors,W,03/20/2013,31:27,11,17,0.647,0,0,0.0,3,3,1.0,2,11,13,6,1,4,3,0,25,6
+San Antonio Spurs,C,Tiago Splitter,Golden State Warriors,W,03/20/2013,31:13,6,12,0.5,0,0,0.0,5,6,0.833,1,6,7,4,1,1,2,1,17,4
+San Antonio Spurs,G,Danny Green,Golden State Warriors,W,03/20/2013,28:14,3,9,0.333,1,5,0.2,2,2,1.0,1,4,5,4,0,1,1,2,9,6
+San Antonio Spurs,G,Cory Joseph,Golden State Warriors,W,03/20/2013,15:48,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,2,2,0,0,2,0,-3
+San Antonio Spurs,F,Kawhi Leonard,Utah Jazz,W,03/22/2013,42:35,9,14,0.643,3,4,0.75,0,0,0.0,3,5,8,0,2,2,2,0,21,12
+San Antonio Spurs,F,Tim Duncan,Utah Jazz,W,03/22/2013,37:12,4,13,0.308,0,0,0.0,11,13,0.846,1,15,16,5,0,2,2,2,19,20
+San Antonio Spurs,C,Tiago Splitter,Utah Jazz,W,03/22/2013,32:45,2,9,0.222,0,0,0.0,1,3,0.333,3,7,10,3,0,4,3,4,5,5
+San Antonio Spurs,G,Danny Green,Utah Jazz,W,03/22/2013,34:13,6,9,0.667,3,6,0.5,0,0,0.0,0,1,1,2,0,1,0,0,15,17
+San Antonio Spurs,G,Tony Parker,Utah Jazz,W,03/22/2013,36:50,8,13,0.615,0,0,0.0,6,8,0.75,0,2,2,5,0,0,3,2,22,19
+San Antonio Spurs,F,Kawhi Leonard,Houston Rockets,L,03/24/2013,30:03,4,8,0.5,2,5,0.4,2,2,1.0,1,5,6,1,0,0,0,2,12,2
+San Antonio Spurs,F,Tim Duncan,Houston Rockets,L,03/24/2013,34:38,7,18,0.389,0,0,0.0,3,5,0.6,1,6,7,2,1,2,5,2,17,-3
+San Antonio Spurs,C,Tiago Splitter,Houston Rockets,L,03/24/2013,27:33,4,8,0.5,0,0,0.0,2,2,1.0,2,4,6,4,0,0,2,2,10,3
+San Antonio Spurs,G,Danny Green,Houston Rockets,L,03/24/2013,31:31,2,11,0.182,2,6,0.333,3,3,1.0,1,2,3,0,3,2,2,3,9,1
+San Antonio Spurs,G,Tony Parker,Houston Rockets,L,03/24/2013,34:54,7,13,0.538,0,1,0.0,9,9,1.0,0,4,4,7,1,2,3,3,23,6
+San Antonio Spurs,F,Kawhi Leonard,Denver Nuggets,W,03/27/2013,38:11,4,7,0.571,1,1,1.0,2,3,0.667,0,7,7,3,2,0,0,0,11,16
+San Antonio Spurs,F,Tim Duncan,Denver Nuggets,W,03/27/2013,35:56,9,18,0.5,0,0,0.0,5,6,0.833,5,9,14,0,1,5,3,3,23,14
+San Antonio Spurs,C,Tiago Splitter,Denver Nuggets,W,03/27/2013,26:28,2,6,0.333,0,0,0.0,6,8,0.75,2,4,6,0,1,0,1,0,10,3
+San Antonio Spurs,G,Danny Green,Denver Nuggets,W,03/27/2013,32:57,6,12,0.5,6,8,0.75,2,4,0.5,1,3,4,0,1,1,2,2,20,8
+San Antonio Spurs,G,Tony Parker,Denver Nuggets,W,03/27/2013,35:23,6,16,0.375,1,1,1.0,5,6,0.833,0,3,3,11,0,0,5,2,18,11
+San Antonio Spurs,F,Kawhi Leonard,Los Angeles Clippers,W,03/29/2013,32:15,2,6,0.333,0,1,0.0,0,0,0.0,1,5,6,4,1,0,1,1,4,7
+San Antonio Spurs,F,Tim Duncan,Los Angeles Clippers,W,03/29/2013,32:20,12,19,0.632,0,0,0.0,10,10,1.0,3,8,11,3,0,2,3,3,34,8
+San Antonio Spurs,C,Tiago Splitter,Los Angeles Clippers,W,03/29/2013,30:30,6,9,0.667,0,0,0.0,2,2,1.0,1,2,3,0,1,1,1,0,14,-5
+San Antonio Spurs,G,Danny Green,Los Angeles Clippers,W,03/29/2013,27:09,2,4,0.5,2,3,0.667,0,0,0.0,0,1,1,2,0,1,0,1,6,6
+San Antonio Spurs,G,Tony Parker,Los Angeles Clippers,W,03/29/2013,36:07,9,15,0.6,1,2,0.5,5,6,0.833,0,3,3,8,0,0,3,4,24,9
+San Antonio Spurs,F,Kawhi Leonard,Miami Heat,L,03/31/2013,37:22,8,13,0.615,1,3,0.333,0,0,0.0,5,6,11,1,2,0,1,1,17,2
+San Antonio Spurs,F,Tim Duncan,Miami Heat,L,03/31/2013,35:05,8,15,0.533,0,0,0.0,1,3,0.333,3,9,12,4,1,2,2,0,17,-3
+San Antonio Spurs,C,Tiago Splitter,Miami Heat,L,03/31/2013,28:00,2,4,0.5,0,0,0.0,3,6,0.5,3,7,10,2,2,0,2,2,7,-13
+San Antonio Spurs,G,Danny Green,Miami Heat,L,03/31/2013,31:42,4,14,0.286,3,9,0.333,1,3,0.333,0,3,3,2,1,0,1,4,12,-2
+San Antonio Spurs,G,Tony Parker,Miami Heat,L,03/31/2013,36:44,4,14,0.286,0,3,0.0,4,4,1.0,0,5,5,8,0,0,1,1,12,-9
+San Antonio Spurs,F,Stephen Jackson,Memphis Grizzlies,L,04/01/2013,34:33,4,10,0.4,2,6,0.333,2,2,1.0,1,6,7,3,2,2,3,0,12,-7
+San Antonio Spurs,F,Boris Diaw,Memphis Grizzlies,L,04/01/2013,31:48,3,12,0.25,1,3,0.333,0,0,0.0,1,2,3,2,2,2,0,4,7,-11
+San Antonio Spurs,C,Tiago Splitter,Memphis Grizzlies,L,04/01/2013,25:10,6,8,0.75,0,0,0.0,1,2,0.5,4,7,11,1,1,1,1,6,13,-7
+San Antonio Spurs,G,Danny Green,Memphis Grizzlies,L,04/01/2013,32:13,1,6,0.167,1,4,0.25,0,0,0.0,0,3,3,3,1,2,1,2,3,-9
+San Antonio Spurs,G,Tony Parker,Memphis Grizzlies,L,04/01/2013,33:18,9,19,0.474,0,2,0.0,7,7,1.0,0,2,2,4,0,0,3,0,25,-8
+San Antonio Spurs,F,Stephen Jackson,Orlando Magic,W,04/03/2013,19:40,1,9,0.111,0,4,0.0,0,0,0.0,0,1,1,3,0,0,3,0,2,-8
+San Antonio Spurs,F,Tim Duncan,Orlando Magic,W,04/03/2013,13:35,2,5,0.4,0,0,0.0,1,2,0.5,0,4,4,0,0,0,2,0,5,0
+San Antonio Spurs,C,Boris Diaw,Orlando Magic,W,04/03/2013,24:56,2,7,0.286,0,0,0.0,0,0,0.0,5,2,7,4,0,1,3,0,4,2
+San Antonio Spurs,G,Danny Green,Orlando Magic,W,04/03/2013,27:53,7,10,0.7,4,7,0.571,2,2,1.0,1,2,3,3,2,1,1,0,20,24
+San Antonio Spurs,G,Nando De Colo,Orlando Magic,W,04/03/2013,28:38,3,9,0.333,1,3,0.333,1,2,0.5,0,7,7,6,2,1,2,2,8,11
+San Antonio Spurs,F,Kawhi Leonard,Oklahoma City Thunder,L,04/04/2013,41:43,9,18,0.5,3,4,0.75,3,6,0.5,6,8,14,6,1,0,2,0,24,-3
+San Antonio Spurs,F,Tim Duncan,Oklahoma City Thunder,L,04/04/2013,35:03,9,19,0.474,0,0,0.0,6,6,1.0,2,9,11,1,0,3,1,1,24,2
+San Antonio Spurs,C,Tiago Splitter,Oklahoma City Thunder,L,04/04/2013,29:18,1,7,0.143,0,0,0.0,2,2,1.0,2,4,6,2,1,1,3,0,4,-24
+San Antonio Spurs,G,Danny Green,Oklahoma City Thunder,L,04/04/2013,29:31,2,7,0.286,2,6,0.333,0,0,0.0,0,2,2,2,2,1,2,1,6,-25
+San Antonio Spurs,G,Tony Parker,Oklahoma City Thunder,L,04/04/2013,25:27,1,6,0.167,0,1,0.0,0,0,0.0,0,1,1,4,0,0,0,2,2,0
+San Antonio Spurs,F,Kawhi Leonard,Atlanta Hawks,W,04/06/2013,39:46,7,10,0.7,1,1,1.0,8,10,0.8,0,6,6,4,2,2,3,4,23,-1
+San Antonio Spurs,F,Tim Duncan,Atlanta Hawks,W,04/06/2013,32:41,12,21,0.571,0,0,0.0,7,8,0.875,0,14,14,3,0,4,3,2,31,15
+San Antonio Spurs,C,Tiago Splitter,Atlanta Hawks,W,04/06/2013,16:11,2,5,0.4,0,0,0.0,1,2,0.5,1,4,5,1,1,0,2,1,5,-1
+San Antonio Spurs,G,Danny Green,Atlanta Hawks,W,04/06/2013,19:08,1,4,0.25,1,2,0.5,1,2,0.5,1,0,1,1,0,0,0,3,4,-5
+San Antonio Spurs,G,Nando De Colo,Atlanta Hawks,W,04/06/2013,21:44,2,8,0.25,0,1,0.0,2,2,1.0,2,5,7,3,0,0,3,4,6,7
+San Antonio Spurs,F,Kawhi Leonard,Denver Nuggets,L,04/10/2013,29:17,4,10,0.4,0,1,0.0,0,0,0.0,5,6,11,1,3,0,1,0,8,-3
+San Antonio Spurs,F,Tim Duncan,Denver Nuggets,L,04/10/2013,26:53,7,14,0.5,0,0,0.0,3,4,0.75,0,3,3,2,0,1,1,0,17,4
+San Antonio Spurs,C,Tiago Splitter,Denver Nuggets,L,04/10/2013,22:22,4,9,0.444,0,0,0.0,2,2,1.0,1,2,3,4,2,1,4,1,10,2
+San Antonio Spurs,G,Danny Green,Denver Nuggets,L,04/10/2013,24:09,5,11,0.455,0,3,0.0,0,0,0.0,0,2,2,2,1,0,0,1,10,0
+San Antonio Spurs,G,Nando De Colo,Denver Nuggets,L,04/10/2013,21:02,1,2,0.5,0,1,0.0,0,0,0.0,1,2,3,4,1,0,0,3,2,1
+San Antonio Spurs,F,Kawhi Leonard,Sacramento Kings,W,04/12/2013,35:05,7,14,0.5,0,5,0.0,1,2,0.5,0,7,7,1,0,2,2,1,15,4
+San Antonio Spurs,F,Tim Duncan,Sacramento Kings,W,04/12/2013,34:20,7,18,0.389,0,0,0.0,4,5,0.8,0,6,6,2,2,5,3,1,18,8
+San Antonio Spurs,C,Tiago Splitter,Sacramento Kings,W,04/12/2013,31:41,4,7,0.571,0,0,0.0,4,5,0.8,2,10,12,6,2,3,0,4,12,-3
+San Antonio Spurs,G,Danny Green,Sacramento Kings,W,04/12/2013,32:22,4,6,0.667,2,3,0.667,2,2,1.0,0,5,5,3,0,0,2,0,12,-4
+San Antonio Spurs,G,Tony Parker,Sacramento Kings,W,04/12/2013,34:06,9,13,0.692,0,0,0.0,4,4,1.0,0,3,3,10,0,0,5,0,22,9
+San Antonio Spurs,F,Kawhi Leonard,Los Angeles Lakers,L,04/14/2013,33:01,1,5,0.2,0,0,0.0,6,6,1.0,1,6,7,4,2,0,1,3,8,-4
+San Antonio Spurs,F,Tim Duncan,Los Angeles Lakers,L,04/14/2013,33:58,11,22,0.5,0,0,0.0,1,1,1.0,3,7,10,4,1,3,2,3,23,-3
+San Antonio Spurs,C,Tiago Splitter,Los Angeles Lakers,L,04/14/2013,29:28,5,13,0.385,0,1,0.0,1,4,0.25,3,7,10,0,2,3,0,2,11,-2
+San Antonio Spurs,G,Danny Green,Los Angeles Lakers,L,04/14/2013,36:14,5,11,0.455,2,7,0.286,4,4,1.0,0,3,3,2,1,2,0,2,16,-3
+San Antonio Spurs,G,Tony Parker,Los Angeles Lakers,L,04/14/2013,28:17,1,10,0.1,0,0,0.0,2,2,1.0,0,4,4,8,0,0,4,1,4,-3
+San Antonio Spurs,F,Matt Bonner,Golden State Warriors,L,04/15/2013,30:43,6,10,0.6,1,2,0.5,0,0,0.0,1,3,4,0,0,1,0,3,13,-3
+San Antonio Spurs,F,DeJuan Blair,Golden State Warriors,L,04/15/2013,31:10,7,15,0.467,0,0,0.0,0,2,0.0,1,4,5,0,2,0,1,2,14,-20
+San Antonio Spurs,C,Tiago Splitter,Golden State Warriors,L,04/15/2013,18:43,4,9,0.444,0,0,0.0,0,0,0.0,4,3,7,2,1,0,2,0,8,-1
+San Antonio Spurs,G,Danny Green,Golden State Warriors,L,04/15/2013,19:12,0,5,0.0,0,4,0.0,0,0,0.0,0,3,3,1,1,0,1,1,0,-10
+San Antonio Spurs,G,Cory Joseph,Golden State Warriors,L,04/15/2013,32:31,4,11,0.364,0,2,0.0,2,2,1.0,1,5,6,8,1,0,2,3,10,-11
+San Antonio Spurs,F,Kawhi Leonard,Minnesota Timberwolves,L,04/17/2013,26:21,2,6,0.333,0,1,0.0,0,0,0.0,0,3,3,1,2,0,1,3,4,-5
+San Antonio Spurs,F,Tim Duncan,Minnesota Timberwolves,L,04/17/2013,27:25,5,11,0.455,0,0,0.0,7,7,1.0,2,12,14,3,0,1,5,1,17,-5
+San Antonio Spurs,C,Matt Bonner,Minnesota Timberwolves,L,04/17/2013,25:50,3,4,0.75,1,1,1.0,0,0,0.0,0,2,2,1,0,0,1,3,7,-17
+San Antonio Spurs,G,Danny Green,Minnesota Timberwolves,L,04/17/2013,15:53,2,5,0.4,0,3,0.0,0,0,0.0,0,0,0,2,1,0,1,0,4,-14
+San Antonio Spurs,G,Tony Parker,Minnesota Timberwolves,L,04/17/2013,26:42,3,10,0.3,0,0,0.0,9,9,1.0,0,0,0,8,1,0,2,1,15,-4

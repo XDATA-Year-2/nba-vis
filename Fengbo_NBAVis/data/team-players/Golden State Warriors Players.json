@@ -1,0 +1,69 @@
+{
+	"team": "Golden State Warriors",
+	"players": [
+		{
+			"name": "Harrison Barnes",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "David Lee",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Andrew Bogut",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Klay Thompson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Stephen Curry",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Festus Ezeli",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Andris Biedrins",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Jarrett Jack",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Carl Landry",
+			"positions": ["Foward"]
+		},
+		{
+			"name": "Richard Jefferson",
+			"positions": ["Foward"]
+		},
+		{
+			"name": "Draymond Green",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Brandon Rush",
+			"positions": [""]
+		},
+		{
+			"name": "Charles Jenkins",
+			"positions": [""]
+		},
+		{
+			"name": "Jeremy Tyler",
+			"positions": [""]
+		},
+		{
+			"name": "Kent Bazemore",
+			"positions": [""]
+		},
+		{
+			"name": "Malcolm Thomas",
+			"positions": [""]
+		}
+	]
+}

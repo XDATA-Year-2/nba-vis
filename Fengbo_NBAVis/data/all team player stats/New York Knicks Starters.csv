@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+New York Knicks,F,Carmelo Anthony,Brooklyn Nets,L,11/26/2012,50:03,11,25,0.44,3,5,0.6,10,16,0.625,6,7,13,1,1,1,3,4,35,-6
+New York Knicks,F,Kurt Thomas,Brooklyn Nets,L,11/26/2012,7:31,1,1,1.0,0,0,0.0,0,0,0.0,0,2,2,0,0,1,0,2,2,3
+New York Knicks,C,Tyson Chandler,Brooklyn Nets,L,11/26/2012,45:22,12,13,0.923,0,0,0.0,4,4,1.0,7,3,10,1,2,0,3,5,28,-8
+New York Knicks,G,Ronnie Brewer,Brooklyn Nets,L,11/26/2012,19:07,1,6,0.167,1,3,0.333,0,0,0.0,1,4,5,2,1,0,0,1,3,3
+New York Knicks,G,Raymond Felton,Brooklyn Nets,L,11/26/2012,42:15,3,19,0.158,0,2,0.0,2,2,1.0,0,3,3,5,3,0,5,5,8,-8
+New York Knicks,F,Carmelo Anthony,Miami Heat,W,11/02/2012,38:55,10,28,0.357,4,8,0.5,6,7,0.857,4,6,10,2,2,0,1,3,30,24
+New York Knicks,F,Ronnie Brewer,Miami Heat,W,11/02/2012,20:21,3,7,0.429,1,2,0.5,0,0,0.0,1,4,5,3,1,0,0,1,7,8
+New York Knicks,C,Tyson Chandler,Miami Heat,W,11/02/2012,24:43,5,5,1.0,0,0,0.0,0,0,0.0,6,2,8,0,0,0,2,5,10,14
+New York Knicks,G,Raymond Felton,Miami Heat,W,11/02/2012,32:58,5,13,0.385,3,7,0.429,1,2,0.5,0,4,4,9,3,0,3,3,14,19
+New York Knicks,G,Jason Kidd,Miami Heat,W,11/02/2012,23:15,3,5,0.6,3,5,0.6,3,3,1.0,1,3,4,3,2,0,1,1,12,20
+New York Knicks,F,Carmelo Anthony,Philadelphia 76ers,W,11/04/2012,38:59,10,18,0.556,1,4,0.25,6,9,0.667,1,4,5,1,1,2,2,2,27,5
+New York Knicks,F,Ronnie Brewer,Philadelphia 76ers,W,11/04/2012,25:48,4,9,0.444,1,3,0.333,0,2,0.0,2,3,5,1,1,0,1,1,9,12
+New York Knicks,C,Tyson Chandler,Philadelphia 76ers,W,11/04/2012,20:39,1,2,0.5,0,0,0.0,0,0,0.0,2,5,7,0,0,2,0,1,2,7
+New York Knicks,G,Raymond Felton,Philadelphia 76ers,W,11/04/2012,30:01,5,10,0.5,1,4,0.25,0,0,0.0,0,2,2,1,1,0,4,2,11,9
+New York Knicks,G,Jason Kidd,Philadelphia 76ers,W,11/04/2012,25:03,4,8,0.5,2,5,0.4,2,2,1.0,1,2,3,6,3,0,0,1,12,14
+New York Knicks,F,Ronnie Brewer,Philadelphia 76ers,W,11/05/2012,32:41,5,8,0.625,3,4,0.75,0,0,0.0,0,10,10,0,1,0,0,0,13,16
+New York Knicks,F,Carmelo Anthony,Philadelphia 76ers,W,11/05/2012,30:26,7,16,0.438,1,6,0.167,6,6,1.0,2,5,7,2,0,1,2,2,21,20
+New York Knicks,C,Tyson Chandler,Philadelphia 76ers,W,11/05/2012,28:18,5,9,0.556,0,0,0.0,4,4,1.0,4,2,6,0,0,1,0,3,14,14
+New York Knicks,G,Raymond Felton,Philadelphia 76ers,W,11/05/2012,23:14,6,13,0.462,2,5,0.4,2,2,1.0,2,1,3,8,1,0,2,1,16,12
+New York Knicks,G,Jason Kidd,Philadelphia 76ers,W,11/05/2012,17:59,1,1,1.0,1,1,1.0,0,0,0.0,0,4,4,2,1,0,0,0,3,12
+New York Knicks,F,Carmelo Anthony,Dallas Mavericks,W,11/09/2012,34:28,10,22,0.455,2,5,0.4,9,14,0.643,0,7,7,1,0,2,3,5,31,10
+New York Knicks,F,Ronnie Brewer,Dallas Mavericks,W,11/09/2012,37:13,4,10,0.4,2,4,0.5,3,5,0.6,4,4,8,2,2,1,0,2,13,19
+New York Knicks,C,Tyson Chandler,Dallas Mavericks,W,11/09/2012,30:06,4,8,0.5,0,0,0.0,3,5,0.6,5,4,9,0,1,0,2,3,11,14
+New York Knicks,G,Raymond Felton,Dallas Mavericks,W,11/09/2012,37:40,3,11,0.273,0,0,0.0,2,5,0.4,1,3,4,9,2,0,2,3,8,17
+New York Knicks,G,Jason Kidd,Dallas Mavericks,W,11/09/2012,15:28,2,3,0.667,0,1,0.0,2,2,1.0,0,1,1,3,3,0,0,1,6,7
+New York Knicks,F,Ronnie Brewer,Orlando Magic,W,11/13/2012,17:28,1,3,0.333,0,1,0.0,1,2,0.5,1,2,3,1,0,0,1,1,3,0
+New York Knicks,F,Carmelo Anthony,Orlando Magic,W,11/13/2012,42:31,11,22,0.5,1,4,0.25,2,3,0.667,1,7,8,2,1,0,3,2,25,7
+New York Knicks,C,Tyson Chandler,Orlando Magic,W,11/13/2012,33:27,4,6,0.667,0,0,0.0,4,4,1.0,1,5,6,1,2,0,1,3,12,19
+New York Knicks,G,Raymond Felton,Orlando Magic,W,11/13/2012,37:27,9,23,0.391,3,7,0.429,0,0,0.0,1,2,3,5,1,0,2,2,21,4
+New York Knicks,G,Jason Kidd,Orlando Magic,W,11/13/2012,31:53,2,4,0.5,1,2,0.5,0,0,0.0,0,1,1,2,2,0,1,1,5,6
+New York Knicks,F,Ronnie Brewer,San Antonio Spurs,W,11/15/2012,18:25,4,8,0.5,1,3,0.333,0,2,0.0,1,2,3,1,1,0,0,0,9,6
+New York Knicks,F,Carmelo Anthony,San Antonio Spurs,W,11/15/2012,40:31,3,12,0.25,0,2,0.0,3,4,0.75,5,7,12,3,0,0,2,3,9,-2
+New York Knicks,C,Tyson Chandler,San Antonio Spurs,W,11/15/2012,33:06,4,8,0.5,0,0,0.0,5,7,0.714,3,9,12,0,0,1,1,4,13,8
+New York Knicks,G,Raymond Felton,San Antonio Spurs,W,11/15/2012,34:50,10,20,0.5,2,4,0.5,3,5,0.6,1,2,3,7,0,0,2,2,25,1
+New York Knicks,G,Jason Kidd,San Antonio Spurs,W,11/15/2012,33:50,5,9,0.556,4,7,0.571,0,0,0.0,0,1,1,2,2,3,2,2,14,2
+New York Knicks,F,Ronnie Brewer,Memphis Grizzlies,L,11/16/2012,21:15,3,5,0.6,0,1,0.0,0,0,0.0,0,0,0,1,1,0,0,1,6,-9
+New York Knicks,F,Carmelo Anthony,Memphis Grizzlies,L,11/16/2012,30:24,7,14,0.5,1,2,0.5,5,5,1.0,1,2,3,1,1,0,5,5,20,2
+New York Knicks,C,Tyson Chandler,Memphis Grizzlies,L,11/16/2012,28:04,3,4,0.75,0,0,0.0,1,2,0.5,3,4,7,0,1,0,1,5,7,-9
+New York Knicks,G,Raymond Felton,Memphis Grizzlies,L,11/16/2012,35:57,8,16,0.5,0,3,0.0,2,2,1.0,1,2,3,5,2,0,3,1,18,-21
+New York Knicks,G,Jason Kidd,Memphis Grizzlies,L,11/16/2012,29:03,2,3,0.667,2,3,0.667,2,2,1.0,0,2,2,4,0,0,0,3,8,-8
+New York Knicks,F,Carmelo Anthony,Indiana Pacers,W,11/18/2012,30:54,9,22,0.409,1,4,0.25,7,8,0.875,4,5,9,0,2,0,0,4,26,18
+New York Knicks,F,Ronnie Brewer,Indiana Pacers,W,11/18/2012,22:37,4,7,0.571,0,1,0.0,0,0,0.0,3,3,6,2,0,0,1,2,8,17
+New York Knicks,C,Tyson Chandler,Indiana Pacers,W,11/18/2012,27:32,3,7,0.429,0,0,0.0,1,2,0.5,5,4,9,1,2,1,1,1,7,8
+New York Knicks,G,Raymond Felton,Indiana Pacers,W,11/18/2012,28:53,5,15,0.333,1,3,0.333,0,0,0.0,0,1,1,8,1,0,0,0,11,11
+New York Knicks,G,Jason Kidd,Indiana Pacers,W,11/18/2012,22:31,0,3,0.0,0,2,0.0,3,3,1.0,1,1,2,2,1,0,1,0,3,12
+New York Knicks,F,Ronnie Brewer,New Orleans Hornets,W,11/20/2012,23:19,2,5,0.4,2,5,0.4,4,7,0.571,0,1,1,0,0,0,0,2,10,17
+New York Knicks,F,Carmelo Anthony,New Orleans Hornets,W,11/20/2012,28:04,12,22,0.545,2,6,0.333,3,3,1.0,2,4,6,4,0,0,1,1,29,24
+New York Knicks,C,Tyson Chandler,New Orleans Hornets,W,11/20/2012,18:44,2,2,1.0,0,0,0.0,3,5,0.6,4,8,12,0,0,0,0,2,7,20
+New York Knicks,G,Raymond Felton,New Orleans Hornets,W,11/20/2012,29:33,5,8,0.625,5,6,0.833,0,0,0.0,0,2,2,6,0,0,1,2,15,30
+New York Knicks,G,Jason Kidd,New Orleans Hornets,W,11/20/2012,25:17,1,3,0.333,1,3,0.333,0,0,0.0,1,4,5,4,2,1,1,0,3,16
+New York Knicks,F,Ronnie Brewer,Dallas Mavericks,L,11/21/2012,21:58,1,3,0.333,1,1,1.0,1,2,0.5,0,0,0,1,0,0,0,2,4,-2
+New York Knicks,F,Carmelo Anthony,Dallas Mavericks,L,11/21/2012,40:35,7,16,0.438,2,4,0.5,7,8,0.875,0,6,6,4,1,0,7,6,23,3
+New York Knicks,C,Tyson Chandler,Dallas Mavericks,L,11/21/2012,39:26,8,9,0.889,0,0,0.0,5,7,0.714,5,8,13,1,1,1,2,1,21,2
+New York Knicks,G,Raymond Felton,Dallas Mavericks,L,11/21/2012,39:17,8,17,0.471,2,6,0.333,0,0,0.0,0,2,2,11,0,0,4,3,18,0
+New York Knicks,G,Jason Kidd,Dallas Mavericks,L,11/21/2012,35:46,5,8,0.625,5,8,0.625,2,2,1.0,0,6,6,5,5,0,0,2,17,12
+New York Knicks,F,Carmelo Anthony,Houston Rockets,L,11/23/2012,34:33,14,24,0.583,7,12,0.583,2,2,1.0,1,3,4,2,0,0,7,4,37,-12
+New York Knicks,F,Ronnie Brewer,Houston Rockets,L,11/23/2012,15:16,2,3,0.667,0,0,0.0,0,0,0.0,1,1,2,0,1,0,0,0,4,-14
+New York Knicks,C,Tyson Chandler,Houston Rockets,L,11/23/2012,28:07,3,4,0.75,0,0,0.0,0,0,0.0,3,4,7,1,0,3,0,4,6,-11
+New York Knicks,G,Raymond Felton,Houston Rockets,L,11/23/2012,30:26,6,11,0.545,4,6,0.667,1,2,0.5,0,0,0,8,1,1,4,1,17,-13
+New York Knicks,G,Jason Kidd,Houston Rockets,L,11/23/2012,27:43,2,5,0.4,1,3,0.333,2,2,1.0,0,5,5,5,1,2,1,2,7,-29
+New York Knicks,F,Carmelo Anthony,Detroit Pistons,W,11/25/2012,31:35,10,18,0.556,4,5,0.8,5,5,1.0,2,0,2,3,1,0,6,2,29,20
+New York Knicks,F,Ronnie Brewer,Detroit Pistons,W,11/25/2012,13:59,1,2,0.5,0,1,0.0,0,0,0.0,1,1,2,0,3,1,0,1,2,-13
+New York Knicks,C,Tyson Chandler,Detroit Pistons,W,11/25/2012,32:25,3,4,0.75,0,0,0.0,7,8,0.875,3,4,7,0,0,0,1,2,13,11
+New York Knicks,G,Raymond Felton,Detroit Pistons,W,11/25/2012,32:00,6,14,0.429,1,3,0.333,1,2,0.5,1,3,4,10,2,0,0,1,14,20
+New York Knicks,G,Jason Kidd,Detroit Pistons,W,11/25/2012,25:12,2,5,0.4,2,5,0.4,0,0,0.0,1,4,5,3,3,0,1,1,6,10
+New York Knicks,F,Carmelo Anthony,Milwaukee Bucks,W,11/28/2012,30:28,9,18,0.5,3,4,0.75,8,9,0.889,2,6,8,0,1,1,1,2,29,13
+New York Knicks,F,Kurt Thomas,Milwaukee Bucks,W,11/28/2012,3:46,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-4
+New York Knicks,C,Tyson Chandler,Milwaukee Bucks,W,11/28/2012,27:26,4,4,1.0,0,0,0.0,9,10,0.9,2,6,8,0,1,0,1,1,17,16
+New York Knicks,G,Ronnie Brewer,Milwaukee Bucks,W,11/28/2012,31:03,1,5,0.2,0,1,0.0,0,0,0.0,0,2,2,3,1,0,2,3,2,4
+New York Knicks,G,Raymond Felton,Milwaukee Bucks,W,11/28/2012,31:40,5,10,0.5,0,2,0.0,2,2,1.0,2,1,3,7,4,0,4,1,12,12
+New York Knicks,F,Carmelo Anthony,Washington Wizards,W,11/30/2012,27:57,6,13,0.462,1,4,0.25,7,10,0.7,0,5,5,5,0,1,2,3,20,15
+New York Knicks,F,Kurt Thomas,Washington Wizards,W,11/30/2012,7:48,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-2
+New York Knicks,C,Tyson Chandler,Washington Wizards,W,11/30/2012,25:01,5,8,0.625,0,0,0.0,2,3,0.667,2,8,10,2,0,0,0,2,12,11
+New York Knicks,G,Ronnie Brewer,Washington Wizards,W,11/30/2012,20:06,5,8,0.625,2,4,0.5,0,0,0.0,1,0,1,3,3,0,0,0,12,8
+New York Knicks,G,Raymond Felton,Washington Wizards,W,11/30/2012,26:42,5,13,0.385,1,4,0.25,0,0,0.0,0,1,1,2,1,0,2,0,11,14
+New York Knicks,F,Carmelo Anthony,Phoenix Suns,W,12/02/2012,37:42,11,27,0.407,4,10,0.4,8,8,1.0,3,3,6,2,1,2,4,2,34,16
+New York Knicks,F,Kurt Thomas,Phoenix Suns,W,12/02/2012,18:44,1,3,0.333,0,0,0.0,0,0,0.0,3,3,6,2,0,0,0,3,2,13
+New York Knicks,C,Tyson Chandler,Phoenix Suns,W,12/02/2012,31:06,6,8,0.75,0,0,0.0,3,4,0.75,6,7,13,1,0,2,0,5,15,-1
+New York Knicks,G,Ronnie Brewer,Phoenix Suns,W,12/02/2012,24:43,3,8,0.375,1,2,0.5,1,3,0.333,2,2,4,2,2,0,0,0,8,7
+New York Knicks,G,Raymond Felton,Phoenix Suns,W,12/02/2012,39:14,10,17,0.588,3,6,0.5,0,0,0.0,0,3,3,7,0,0,0,1,23,4
+New York Knicks,F,Carmelo Anthony,Charlotte Bobcats,W,12/05/2012,38:07,8,22,0.364,3,7,0.429,4,4,1.0,0,3,3,2,3,1,1,3,23,4
+New York Knicks,F,Kurt Thomas,Charlotte Bobcats,W,12/05/2012,4:41,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,1,0,0,0,3
+New York Knicks,C,Tyson Chandler,Charlotte Bobcats,W,12/05/2012,34:37,8,10,0.8,0,0,0.0,2,4,0.5,8,9,17,2,1,1,2,2,18,10
+New York Knicks,G,Ronnie Brewer,Charlotte Bobcats,W,12/05/2012,18:16,3,8,0.375,2,5,0.4,1,2,0.5,0,5,5,0,1,0,1,2,9,6
+New York Knicks,G,Raymond Felton,Charlotte Bobcats,W,12/05/2012,35:53,7,19,0.368,2,8,0.25,1,1,1.0,1,1,2,9,0,0,0,2,17,8
+New York Knicks,F,Ronnie Brewer,Miami Heat,W,12/06/2012,27:11,0,3,0.0,0,1,0.0,0,0,0.0,0,1,1,2,1,2,0,1,0,0
+New York Knicks,F,Kurt Thomas,Miami Heat,W,12/06/2012,11:10,2,2,1.0,0,0,0.0,0,0,0.0,3,4,7,1,0,0,0,1,4,8
+New York Knicks,C,Tyson Chandler,Miami Heat,W,12/06/2012,31:27,4,7,0.571,0,0,0.0,5,8,0.625,1,8,9,0,1,1,2,2,13,23
+New York Knicks,G,Raymond Felton,Miami Heat,W,12/06/2012,35:18,10,20,0.5,6,10,0.6,1,1,1.0,1,3,4,7,2,0,3,0,27,19
+New York Knicks,G,Jason Kidd,Miami Heat,W,12/06/2012,31:36,4,12,0.333,3,8,0.375,0,0,0.0,1,1,2,4,2,0,1,4,11,31
+New York Knicks,F,Ronnie Brewer,Chicago Bulls,L,12/08/2012,16:23,0,5,0.0,0,1,0.0,0,0,0.0,1,1,2,0,2,0,0,0,0,0
+New York Knicks,F,Kurt Thomas,Chicago Bulls,L,12/08/2012,16:11,3,4,0.75,0,0,0.0,0,0,0.0,0,3,3,1,1,1,0,2,6,3
+New York Knicks,C,Tyson Chandler,Chicago Bulls,L,12/08/2012,36:40,4,8,0.5,0,0,0.0,6,9,0.667,9,9,18,1,1,1,2,5,14,-7
+New York Knicks,G,Raymond Felton,Chicago Bulls,L,12/08/2012,37:44,9,30,0.3,1,3,0.333,8,9,0.889,2,3,5,5,2,0,2,1,27,-12
+New York Knicks,G,Jason Kidd,Chicago Bulls,L,12/08/2012,28:58,2,7,0.286,2,4,0.5,0,0,0.0,1,3,4,2,1,1,3,0,6,-15
+New York Knicks,F,Carmelo Anthony,Denver Nuggets,W,12/09/2012,39:02,10,24,0.417,3,8,0.375,11,16,0.688,1,5,6,1,2,0,1,4,34,-10
+New York Knicks,F,Ronnie Brewer,Denver Nuggets,W,12/09/2012,26:39,3,6,0.5,1,4,0.25,2,2,1.0,1,1,2,0,4,0,1,0,9,6
+New York Knicks,C,Tyson Chandler,Denver Nuggets,W,12/09/2012,37:16,7,8,0.875,0,0,0.0,1,4,0.25,6,6,12,1,0,2,1,3,15,12
+New York Knicks,G,Raymond Felton,Denver Nuggets,W,12/09/2012,27:26,4,15,0.267,0,2,0.0,2,2,1.0,1,2,3,6,0,0,3,3,10,2
+New York Knicks,G,Jason Kidd,Denver Nuggets,W,12/09/2012,34:12,4,7,0.571,3,4,0.75,6,6,1.0,1,3,4,7,1,0,1,4,17,9
+New York Knicks,F,Ronnie Brewer,Brooklyn Nets,W,12/11/2012,12:24,0,4,0.0,0,2,0.0,0,0,0.0,0,0,0,1,1,0,0,0,0,-14
+New York Knicks,F,Carmelo Anthony,Brooklyn Nets,W,12/11/2012,44:00,15,24,0.625,5,7,0.714,10,11,0.909,3,2,5,3,0,0,2,3,45,5
+New York Knicks,C,Tyson Chandler,Brooklyn Nets,W,12/11/2012,31:00,2,5,0.4,0,0,0.0,1,2,0.5,3,4,7,0,1,0,0,4,5,-6
+New York Knicks,G,Jason Kidd,Brooklyn Nets,W,12/11/2012,37:09,6,9,0.667,6,8,0.75,0,1,0.0,2,4,6,6,1,0,0,0,18,3
+New York Knicks,G,Raymond Felton,Brooklyn Nets,W,12/11/2012,31:56,3,12,0.25,1,3,0.333,1,2,0.5,0,1,1,7,1,0,7,5,8,-1
+New York Knicks,F,Carmelo Anthony,Los Angeles Lakers,W,12/13/2012,22:55,10,15,0.667,3,5,0.6,7,8,0.875,0,3,3,0,1,0,0,1,30,11
+New York Knicks,F,Ronnie Brewer,Los Angeles Lakers,W,12/13/2012,26:44,3,6,0.5,0,2,0.0,0,0,0.0,0,2,2,2,1,1,0,2,6,-2
+New York Knicks,C,Tyson Chandler,Los Angeles Lakers,W,12/13/2012,35:58,5,5,1.0,0,0,0.0,8,14,0.571,3,1,4,2,2,1,1,4,18,11
+New York Knicks,G,Raymond Felton,Los Angeles Lakers,W,12/13/2012,35:58,9,26,0.346,0,3,0.0,1,2,0.5,0,3,3,8,1,0,1,1,19,9
+New York Knicks,G,Jason Kidd,Los Angeles Lakers,W,12/13/2012,38:43,1,2,0.5,1,2,0.5,2,2,1.0,0,9,9,5,2,0,1,1,5,10
+New York Knicks,F,Ronnie Brewer,Cleveland Cavaliers,W,12/15/2012,18:18,1,3,0.333,0,1,0.0,0,0,0.0,2,1,3,2,0,0,1,0,2,-4
+New York Knicks,F,Chris Copeland,Cleveland Cavaliers,W,12/15/2012,18:35,4,5,0.8,2,3,0.667,1,2,0.5,1,0,1,0,0,0,1,1,11,-1
+New York Knicks,C,Tyson Chandler,Cleveland Cavaliers,W,12/15/2012,33:32,9,10,0.9,0,0,0.0,5,7,0.714,5,5,10,0,2,0,2,3,23,-8
+New York Knicks,G,Raymond Felton,Cleveland Cavaliers,W,12/15/2012,38:22,9,20,0.45,3,4,0.75,4,4,1.0,0,5,5,7,0,2,1,2,25,-2
+New York Knicks,G,Jason Kidd,Cleveland Cavaliers,W,12/15/2012,36:44,3,14,0.214,3,13,0.231,0,0,0.0,0,6,6,8,0,2,1,3,9,5
+New York Knicks,F,Ronnie Brewer,Houston Rockets,L,12/17/2012,20:00,1,3,0.333,0,1,0.0,0,2,0.0,1,3,4,1,1,0,2,1,2,5
+New York Knicks,F,Chris Copeland,Houston Rockets,L,12/17/2012,28:28,11,19,0.579,3,5,0.6,4,4,1.0,2,3,5,0,2,1,2,2,29,-6
+New York Knicks,C,Tyson Chandler,Houston Rockets,L,12/17/2012,34:44,3,7,0.429,0,0,0.0,2,4,0.5,7,11,18,1,0,1,2,4,8,-14
+New York Knicks,G,Raymond Felton,Houston Rockets,L,12/17/2012,30:30,7,18,0.389,0,4,0.0,0,0,0.0,1,2,3,4,0,0,3,0,14,-11
+New York Knicks,G,Jason Kidd,Houston Rockets,L,12/17/2012,28:46,2,9,0.222,1,5,0.2,0,0,0.0,0,4,4,3,2,0,3,3,5,-20
+New York Knicks,F,Carmelo Anthony,Brooklyn Nets,W,12/19/2012,35:38,12,22,0.545,4,8,0.5,3,3,1.0,0,3,3,1,2,1,1,2,31,18
+New York Knicks,F,Ronnie Brewer,Brooklyn Nets,W,12/19/2012,15:00,1,5,0.2,0,1,0.0,2,4,0.5,4,0,4,2,0,0,0,0,4,-13
+New York Knicks,C,Tyson Chandler,Brooklyn Nets,W,12/19/2012,37:26,7,11,0.636,0,0,0.0,2,2,1.0,5,7,12,2,1,3,1,2,16,21
+New York Knicks,G,Raymond Felton,Brooklyn Nets,W,12/19/2012,31:43,4,15,0.267,0,3,0.0,0,0,0.0,1,4,5,4,1,0,0,1,8,15
+New York Knicks,G,Jason Kidd,Brooklyn Nets,W,12/19/2012,35:07,2,9,0.222,2,9,0.222,1,2,0.5,0,8,8,5,3,0,2,1,7,6
+New York Knicks,F,Carmelo Anthony,Chicago Bulls,L,12/21/2012,36:48,10,25,0.4,1,5,0.2,8,8,1.0,1,2,3,1,3,1,1,4,29,-11
+New York Knicks,F,Ronnie Brewer,Chicago Bulls,L,12/21/2012,10:22,0,4,0.0,0,2,0.0,0,1,0.0,0,1,1,0,0,0,0,0,0,-13
+New York Knicks,C,Tyson Chandler,Chicago Bulls,L,12/21/2012,33:38,1,1,1.0,0,0,0.0,3,4,0.75,4,4,8,0,0,2,3,3,5,-16
+New York Knicks,G,Raymond Felton,Chicago Bulls,L,12/21/2012,32:06,9,21,0.429,0,4,0.0,3,3,1.0,3,3,6,3,2,0,4,1,21,-13
+New York Knicks,G,Jason Kidd,Chicago Bulls,L,12/21/2012,33:24,3,5,0.6,2,4,0.5,0,0,0.0,1,5,6,3,3,0,1,3,8,0
+New York Knicks,F,Carmelo Anthony,Minnesota Timberwolves,W,12/23/2012,43:45,10,25,0.4,3,10,0.3,10,11,0.909,0,7,7,2,1,1,4,5,33,-1
+New York Knicks,F,Ronnie Brewer,Minnesota Timberwolves,W,12/23/2012,13:20,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,1,0,0,1,0,0,-7
+New York Knicks,C,Tyson Chandler,Minnesota Timberwolves,W,12/23/2012,38:13,4,7,0.571,0,0,0.0,8,10,0.8,3,6,9,3,3,1,2,4,16,6
+New York Knicks,G,Raymond Felton,Minnesota Timberwolves,W,12/23/2012,38:49,7,15,0.467,0,3,0.0,1,1,1.0,0,2,2,2,1,0,4,4,15,4
+New York Knicks,G,Jason Kidd,Minnesota Timberwolves,W,12/23/2012,33:51,0,3,0.0,0,3,0.0,0,0,0.0,0,6,6,1,2,0,0,0,0,2
+New York Knicks,F,Kurt Thomas,Los Angeles Lakers,L,12/25/2012,12:59,3,3,1.0,0,0,0.0,0,0,0.0,0,3,3,1,1,1,0,1,6,11
+New York Knicks,F,Carmelo Anthony,Los Angeles Lakers,L,12/25/2012,43:17,13,23,0.565,3,8,0.375,5,6,0.833,1,6,7,3,0,0,3,4,34,-7
+New York Knicks,C,Tyson Chandler,Los Angeles Lakers,L,12/25/2012,39:53,3,7,0.429,0,0,0.0,0,2,0.0,4,5,9,1,1,1,1,6,6,-9
+New York Knicks,G,Raymond Felton,Los Angeles Lakers,L,12/25/2012,35:52,5,19,0.263,0,1,0.0,0,0,0.0,1,1,2,6,2,0,0,2,10,-4
+New York Knicks,G,Jason Kidd,Los Angeles Lakers,L,12/25/2012,34:04,2,5,0.4,2,4,0.5,0,0,0.0,1,5,6,7,2,0,3,2,6,-1
+New York Knicks,F,Ronnie Brewer,Phoenix Suns,W,12/26/2012,13:13,1,3,0.333,0,1,0.0,0,0,0.0,0,1,1,1,0,0,1,0,2,1
+New York Knicks,F,Kurt Thomas,Phoenix Suns,W,12/26/2012,16:12,2,4,0.5,0,0,0.0,1,2,0.5,1,3,4,1,0,0,0,1,5,0
+New York Knicks,C,Tyson Chandler,Phoenix Suns,W,12/26/2012,37:07,6,9,0.667,0,0,0.0,2,2,1.0,3,9,12,1,0,2,0,2,14,-4
+New York Knicks,G,James White,Phoenix Suns,W,12/26/2012,18:11,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,3,2,0
+New York Knicks,G,Jason Kidd,Phoenix Suns,W,12/26/2012,30:45,8,16,0.5,5,8,0.625,2,2,1.0,0,6,6,8,1,0,1,1,23,13
+New York Knicks,F,Ronnie Brewer,Sacramento Kings,L,12/28/2012,11:12,0,1,0.0,0,1,0.0,0,0,0.0,1,3,4,0,0,0,0,0,0,-11
+New York Knicks,F,Kurt Thomas,Sacramento Kings,L,12/28/2012,12:56,0,0,0.0,0,0,0.0,0,0,0.0,3,1,4,1,0,1,1,1,0,-1
+New York Knicks,C,Tyson Chandler,Sacramento Kings,L,12/28/2012,36:54,9,13,0.692,0,0,0.0,3,9,0.333,6,12,18,1,1,1,2,1,21,0
+New York Knicks,G,James White,Sacramento Kings,L,12/28/2012,9:03,2,3,0.667,0,1,0.0,0,2,0.0,0,0,0,1,1,0,1,3,4,-13
+New York Knicks,G,Jason Kidd,Sacramento Kings,L,12/28/2012,31:03,6,13,0.462,4,11,0.364,0,0,0.0,2,4,6,7,0,1,5,2,16,-12
+New York Knicks,F,Carmelo Anthony,Portland Trail Blazers,L,01/01/2013,41:12,14,24,0.583,5,11,0.455,12,14,0.857,2,5,7,4,1,0,2,3,45,1
+New York Knicks,F,Kurt Thomas,Portland Trail Blazers,L,01/01/2013,4:03,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,3,0,-5
+New York Knicks,C,Tyson Chandler,Portland Trail Blazers,L,01/01/2013,34:07,4,7,0.571,0,0,0.0,2,2,1.0,6,1,7,1,1,1,2,3,10,-1
+New York Knicks,G,Ronnie Brewer,Portland Trail Blazers,L,01/01/2013,11:36,2,4,0.5,1,1,1.0,0,0,0.0,0,1,1,1,0,0,1,0,5,-1
+New York Knicks,G,Jason Kidd,Portland Trail Blazers,L,01/01/2013,32:57,0,5,0.0,0,4,0.0,0,0,0.0,0,3,3,3,3,0,1,2,0,10
+New York Knicks,F,Carmelo Anthony,San Antonio Spurs,W,01/03/2013,35:49,9,20,0.45,2,5,0.4,3,4,0.75,2,6,8,3,0,0,2,1,23,16
+New York Knicks,F,Marcus Camby,San Antonio Spurs,W,01/03/2013,15:35,1,1,1.0,0,0,0.0,0,0,0.0,0,6,6,1,0,1,1,2,2,0
+New York Knicks,C,Tyson Chandler,San Antonio Spurs,W,01/03/2013,31:30,3,4,0.75,0,0,0.0,4,5,0.8,3,11,14,4,0,1,3,3,10,16
+New York Knicks,G,Ronnie Brewer,San Antonio Spurs,W,01/03/2013,15:53,2,4,0.5,2,2,1.0,0,0,0.0,0,2,2,1,0,0,0,0,6,-2
+New York Knicks,G,Jason Kidd,San Antonio Spurs,W,01/03/2013,20:54,2,5,0.4,1,4,0.25,0,0,0.0,0,2,2,3,2,0,1,1,5,1
+New York Knicks,F,Carmelo Anthony,Orlando Magic,W,01/05/2013,45:01,14,29,0.483,4,9,0.444,8,9,0.889,2,4,6,6,1,0,1,3,40,7
+New York Knicks,F,Marcus Camby,Orlando Magic,W,01/05/2013,13:05,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,4,0,0,2,1,2,-15
+New York Knicks,C,Tyson Chandler,Orlando Magic,W,01/05/2013,36:29,6,6,1.0,0,0,0.0,2,4,0.5,5,7,12,2,0,1,1,1,14,14
+New York Knicks,G,Ronnie Brewer,Orlando Magic,W,01/05/2013,16:34,1,4,0.25,0,2,0.0,0,0,0.0,0,0,0,0,1,0,0,0,2,-15
+New York Knicks,G,Jason Kidd,Orlando Magic,W,01/05/2013,34:50,5,10,0.5,5,8,0.625,0,0,0.0,0,8,8,7,2,0,1,5,15,12
+New York Knicks,F,Carmelo Anthony,Boston Celtics,L,01/07/2013,36:51,6,26,0.231,4,12,0.333,4,7,0.571,0,3,3,5,1,0,2,5,20,0
+New York Knicks,F,Marcus Camby,Boston Celtics,L,01/07/2013,9:53,2,4,0.5,0,0,0.0,0,0,0.0,3,4,7,0,1,1,1,0,4,0
+New York Knicks,C,Tyson Chandler,Boston Celtics,L,01/07/2013,40:44,4,6,0.667,0,0,0.0,5,6,0.833,8,9,17,1,0,0,1,3,13,9
+New York Knicks,G,Ronnie Brewer,Boston Celtics,L,01/07/2013,18:20,1,4,0.25,1,3,0.333,0,0,0.0,0,1,1,1,1,0,1,2,3,-1
+New York Knicks,G,Jason Kidd,Boston Celtics,L,01/07/2013,33:17,3,5,0.6,2,3,0.667,0,0,0.0,2,1,3,6,1,0,3,2,8,11
+New York Knicks,F,Chris Copeland,Indiana Pacers,L,01/10/2013,21:36,3,9,0.333,0,3,0.0,2,2,1.0,3,3,6,0,0,0,3,2,8,-8
+New York Knicks,F,Marcus Camby,Indiana Pacers,L,01/10/2013,19:34,3,9,0.333,0,0,0.0,1,1,1.0,2,3,5,0,0,1,0,1,7,-4
+New York Knicks,C,Tyson Chandler,Indiana Pacers,L,01/10/2013,38:29,5,10,0.5,0,0,0.0,2,3,0.667,8,7,15,0,0,3,2,3,12,-4
+New York Knicks,G,Ronnie Brewer,Indiana Pacers,L,01/10/2013,7:48,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-1
+New York Knicks,G,Jason Kidd,Indiana Pacers,L,01/10/2013,31:00,3,10,0.3,2,9,0.222,0,0,0.0,1,3,4,3,1,0,5,3,8,-5
+New York Knicks,F,Carmelo Anthony,Chicago Bulls,L,01/11/2013,45:25,14,32,0.438,4,9,0.444,7,9,0.778,2,6,8,5,1,1,3,3,39,-2
+New York Knicks,F,Kurt Thomas,Chicago Bulls,L,01/11/2013,9:02,3,4,0.75,0,0,0.0,0,0,0.0,1,1,2,0,2,0,0,0,6,-10
+New York Knicks,C,Tyson Chandler,Chicago Bulls,L,01/11/2013,38:24,3,8,0.375,0,0,0.0,3,6,0.5,8,10,18,2,1,1,2,3,9,-5
+New York Knicks,G,Jason Kidd,Chicago Bulls,L,01/11/2013,19:51,0,6,0.0,0,1,0.0,0,0,0.0,3,1,4,0,0,0,1,1,0,-21
+New York Knicks,G,James White,Chicago Bulls,L,01/11/2013,16:54,4,7,0.571,2,2,1.0,1,2,0.5,1,1,2,1,3,0,0,2,11,-4
+New York Knicks,F,Carmelo Anthony,New Orleans Hornets,W,01/13/2013,40:00,9,25,0.36,2,8,0.25,7,8,0.875,2,5,7,3,1,1,2,2,27,2
+New York Knicks,F,Chris Copeland,New Orleans Hornets,W,01/13/2013,30:10,9,15,0.6,4,8,0.5,0,0,0.0,0,4,4,0,0,0,0,2,22,9
+New York Knicks,C,Tyson Chandler,New Orleans Hornets,W,01/13/2013,26:37,1,3,0.333,0,0,0.0,3,6,0.5,2,12,14,2,0,3,1,1,5,9
+New York Knicks,G,Jason Kidd,New Orleans Hornets,W,01/13/2013,22:36,2,4,0.5,1,3,0.333,0,0,0.0,0,4,4,8,1,0,2,2,5,3
+New York Knicks,G,James White,New Orleans Hornets,W,01/13/2013,10:29,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,0,2,-4
+New York Knicks,F,Carmelo Anthony,Detroit Pistons,W,01/17/2013,40:18,8,19,0.421,3,8,0.375,7,9,0.778,0,3,3,4,0,2,5,4,26,14
+New York Knicks,F,Chris Copeland,Detroit Pistons,W,01/17/2013,18:18,3,6,0.5,1,2,0.5,0,0,0.0,1,1,2,0,0,0,1,1,7,4
+New York Knicks,C,Tyson Chandler,Detroit Pistons,W,01/17/2013,30:05,3,4,0.75,0,0,0.0,4,4,1.0,3,11,14,0,0,2,1,4,10,11
+New York Knicks,G,Iman Shumpert,Detroit Pistons,W,01/17/2013,14:50,3,7,0.429,2,3,0.667,0,2,0.0,1,1,2,1,1,1,0,2,8,11
+New York Knicks,G,Jason Kidd,Detroit Pistons,W,01/17/2013,27:25,2,5,0.4,1,4,0.25,0,0,0.0,1,5,6,4,3,0,3,2,5,6
+New York Knicks,F,Carmelo Anthony,Brooklyn Nets,L,01/21/2013,44:53,11,29,0.379,1,2,0.5,6,6,1.0,0,3,3,7,0,1,2,4,29,-1
+New York Knicks,F,Chris Copeland,Brooklyn Nets,L,01/21/2013,15:04,2,6,0.333,1,4,0.25,0,0,0.0,0,3,3,0,0,0,0,2,5,-2
+New York Knicks,C,Tyson Chandler,Brooklyn Nets,L,01/21/2013,34:56,3,4,0.75,0,0,0.0,1,3,0.333,4,7,11,1,0,0,0,2,7,7
+New York Knicks,G,Jason Kidd,Brooklyn Nets,L,01/21/2013,35:27,4,5,0.8,2,3,0.667,1,2,0.5,0,3,3,1,6,1,0,5,11,-1
+New York Knicks,G,Iman Shumpert,Brooklyn Nets,L,01/21/2013,20:06,1,6,0.167,0,3,0.0,0,0,0.0,1,3,4,2,1,0,0,1,2,-8
+New York Knicks,F,Carmelo Anthony,Boston Celtics,W,01/24/2013,40:59,11,28,0.393,1,6,0.167,5,6,0.833,2,7,9,3,2,0,2,4,28,3
+New York Knicks,F,James White,Boston Celtics,W,01/24/2013,13:21,2,4,0.5,0,1,0.0,0,0,0.0,0,3,3,2,0,0,1,0,4,-7
+New York Knicks,C,Tyson Chandler,Boston Celtics,W,01/24/2013,39:34,1,2,0.5,0,0,0.0,3,3,1.0,2,6,8,0,1,2,2,5,5,0
+New York Knicks,G,Iman Shumpert,Boston Celtics,W,01/24/2013,27:01,4,10,0.4,2,4,0.5,0,0,0.0,1,4,5,1,0,0,0,4,10,-6
+New York Knicks,G,Jason Kidd,Boston Celtics,W,01/24/2013,32:12,5,10,0.5,2,7,0.286,0,0,0.0,1,2,3,2,3,0,1,1,12,-5
+New York Knicks,F,Iman Shumpert,Philadelphia 76ers,L,01/26/2013,17:60,0,6,0.0,0,1,0.0,1,2,0.5,4,3,7,2,1,0,2,1,1,-18
+New York Knicks,F,Carmelo Anthony,Philadelphia 76ers,L,01/26/2013,38:34,9,28,0.321,0,6,0.0,7,8,0.875,5,4,9,4,0,0,2,2,25,-21
+New York Knicks,C,Tyson Chandler,Philadelphia 76ers,L,01/26/2013,25:06,2,2,1.0,0,0,0.0,2,2,1.0,2,8,10,1,0,1,3,2,6,-21
+New York Knicks,G,Jason Kidd,Philadelphia 76ers,L,01/26/2013,14:57,0,3,0.0,0,3,0.0,0,0,0.0,1,1,2,0,0,0,0,0,0,-10
+New York Knicks,G,Raymond Felton,Philadelphia 76ers,L,01/26/2013,28:42,2,8,0.25,1,4,0.25,3,4,0.75,0,0,0,3,2,0,2,2,8,-20
+New York Knicks,F,Carmelo Anthony,Atlanta Hawks,W,01/27/2013,44:06,15,28,0.536,9,12,0.75,3,3,1.0,0,5,5,1,0,0,4,4,42,-4
+New York Knicks,F,Iman Shumpert,Atlanta Hawks,W,01/27/2013,19:08,3,5,0.6,2,2,1.0,0,0,0.0,0,1,1,1,2,0,1,0,8,-4
+New York Knicks,C,Tyson Chandler,Atlanta Hawks,W,01/27/2013,36:02,1,1,1.0,0,0,0.0,0,2,0.0,1,2,3,1,0,2,0,1,2,6
+New York Knicks,G,Raymond Felton,Atlanta Hawks,W,01/27/2013,37:54,5,9,0.556,2,4,0.5,0,0,0.0,1,3,4,10,0,0,3,3,12,-1
+New York Knicks,G,Jason Kidd,Atlanta Hawks,W,01/27/2013,5:24,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,2,1,0,0,0,0,3
+New York Knicks,F,Carmelo Anthony,Orlando Magic,W,01/30/2013,39:07,8,17,0.471,2,7,0.286,2,2,1.0,1,6,7,5,0,1,1,1,20,20
+New York Knicks,F,James White,Orlando Magic,W,01/30/2013,10:10,1,3,0.333,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,-1
+New York Knicks,C,Tyson Chandler,Orlando Magic,W,01/30/2013,32:05,10,11,0.909,0,0,0.0,1,1,1.0,5,2,7,5,0,0,0,0,21,14
+New York Knicks,G,Raymond Felton,Orlando Magic,W,01/30/2013,31:18,6,13,0.462,3,6,0.5,0,0,0.0,1,1,2,9,1,0,0,3,15,13
+New York Knicks,G,Iman Shumpert,Orlando Magic,W,01/30/2013,21:47,3,7,0.429,1,4,0.25,0,0,0.0,1,3,4,2,2,0,2,5,7,-1
+New York Knicks,F,Carmelo Anthony,Milwaukee Bucks,W,02/01/2013,43:55,7,22,0.318,3,8,0.375,8,12,0.667,1,7,8,6,1,0,7,3,25,19
+New York Knicks,F,Iman Shumpert,Milwaukee Bucks,W,02/01/2013,18:30,3,7,0.429,1,3,0.333,0,0,0.0,1,3,4,1,0,0,0,0,7,5
+New York Knicks,C,Tyson Chandler,Milwaukee Bucks,W,02/01/2013,35:36,4,6,0.667,0,0,0.0,1,2,0.5,8,12,20,0,0,2,3,4,9,15
+New York Knicks,G,Raymond Felton,Milwaukee Bucks,W,02/01/2013,36:49,5,8,0.625,2,3,0.667,2,2,1.0,1,1,2,8,0,0,2,1,14,15
+New York Knicks,G,Jason Kidd,Milwaukee Bucks,W,02/01/2013,23:45,1,5,0.2,1,5,0.2,0,0,0.0,0,3,3,1,1,1,0,0,3,-2
+New York Knicks,F,Carmelo Anthony,Sacramento Kings,W,02/02/2013,27:20,4,12,0.333,1,6,0.167,0,0,0.0,0,3,3,5,1,0,1,2,9,25
+New York Knicks,F,Iman Shumpert,Sacramento Kings,W,02/02/2013,17:41,2,6,0.333,1,3,0.333,1,2,0.5,1,1,2,3,0,0,0,1,6,25
+New York Knicks,C,Tyson Chandler,Sacramento Kings,W,02/02/2013,29:25,4,8,0.5,0,0,0.0,3,4,0.75,8,12,20,2,1,0,3,4,11,26
+New York Knicks,G,Raymond Felton,Sacramento Kings,W,02/02/2013,26:29,3,8,0.375,1,4,0.25,0,0,0.0,1,1,2,8,0,1,4,1,7,19
+New York Knicks,G,Jason Kidd,Sacramento Kings,W,02/02/2013,15:34,2,5,0.4,1,3,0.333,0,0,0.0,2,4,6,2,0,0,1,1,5,7
+New York Knicks,F,Carmelo Anthony,Detroit Pistons,W,02/04/2013,36:36,10,17,0.588,3,5,0.6,4,4,1.0,2,5,7,3,0,0,4,4,27,16
+New York Knicks,F,Iman Shumpert,Detroit Pistons,W,02/04/2013,16:53,2,3,0.667,2,2,1.0,2,2,1.0,1,1,2,2,0,0,0,1,8,9
+New York Knicks,C,Tyson Chandler,Detroit Pistons,W,02/04/2013,36:18,4,9,0.444,0,0,0.0,0,2,0.0,5,15,20,2,1,1,3,2,8,15
+New York Knicks,G,Raymond Felton,Detroit Pistons,W,02/04/2013,34:01,2,5,0.4,0,1,0.0,0,0,0.0,2,3,5,9,2,0,3,3,4,11
+New York Knicks,G,Jason Kidd,Detroit Pistons,W,02/04/2013,19:44,1,7,0.143,1,7,0.143,0,0,0.0,0,2,2,3,0,0,0,0,3,10
+New York Knicks,F,Iman Shumpert,Washington Wizards,L,02/06/2013,21:53,2,8,0.25,1,3,0.333,0,0,0.0,1,1,2,2,0,0,1,2,5,-6
+New York Knicks,F,Carmelo Anthony,Washington Wizards,L,02/06/2013,43:36,10,23,0.435,4,8,0.5,7,8,0.875,1,8,9,3,0,0,5,2,31,-9
+New York Knicks,C,Tyson Chandler,Washington Wizards,L,02/06/2013,36:07,3,6,0.5,0,0,0.0,2,2,1.0,5,8,13,0,1,0,0,2,8,-5
+New York Knicks,G,Raymond Felton,Washington Wizards,L,02/06/2013,40:11,6,13,0.462,3,5,0.6,2,2,1.0,1,2,3,4,2,0,1,1,17,1
+New York Knicks,G,Jason Kidd,Washington Wizards,L,02/06/2013,17:46,0,4,0.0,0,4,0.0,0,0,0.0,0,2,2,2,1,0,0,0,0,-11
+New York Knicks,F,Iman Shumpert,Minnesota Timberwolves,W,02/08/2013,12:11,0,2,0.0,0,0,0.0,0,0,0.0,0,3,3,2,0,0,1,2,0,-5
+New York Knicks,F,Carmelo Anthony,Minnesota Timberwolves,W,02/08/2013,40:28,13,26,0.5,2,9,0.222,8,9,0.889,0,9,9,2,0,1,1,3,36,1
+New York Knicks,C,Tyson Chandler,Minnesota Timberwolves,W,02/08/2013,33:21,2,3,0.667,0,0,0.0,1,4,0.25,4,3,7,1,1,1,0,3,5,7
+New York Knicks,G,Raymond Felton,Minnesota Timberwolves,W,02/08/2013,37:37,4,11,0.364,1,4,0.25,2,2,1.0,1,3,4,1,1,1,3,2,11,11
+New York Knicks,G,Jason Kidd,Minnesota Timberwolves,W,02/08/2013,30:13,2,5,0.4,1,2,0.5,2,2,1.0,0,4,4,4,1,2,0,0,7,11
+New York Knicks,F,Carmelo Anthony,Los Angeles Clippers,L,02/10/2013,43:22,14,26,0.538,5,11,0.455,9,9,1.0,2,6,8,1,1,1,4,3,42,-2
+New York Knicks,F,Iman Shumpert,Los Angeles Clippers,L,02/10/2013,20:54,1,4,0.25,0,1,0.0,0,0,0.0,0,1,1,0,1,0,2,1,2,-8
+New York Knicks,C,Tyson Chandler,Los Angeles Clippers,L,02/10/2013,30:46,3,3,1.0,0,0,0.0,0,0,0.0,5,6,11,0,0,1,1,2,6,9
+New York Knicks,G,Raymond Felton,Los Angeles Clippers,L,02/10/2013,40:04,9,18,0.5,0,2,0.0,2,4,0.5,0,2,2,5,2,0,4,2,20,-7
+New York Knicks,G,Jason Kidd,Los Angeles Clippers,L,02/10/2013,33:43,1,4,0.25,1,4,0.25,0,0,0.0,0,4,4,1,3,0,0,1,3,-3
+New York Knicks,F,Carmelo Anthony,Toronto Raptors,L,02/13/2013,40:39,5,24,0.208,1,6,0.167,1,4,0.25,2,10,12,2,1,0,4,4,12,4
+New York Knicks,F,Iman Shumpert,Toronto Raptors,L,02/13/2013,21:21,1,3,0.333,0,0,0.0,3,4,0.75,2,5,7,1,1,0,0,1,5,-10
+New York Knicks,C,Tyson Chandler,Toronto Raptors,L,02/13/2013,34:22,4,6,0.667,0,0,0.0,2,2,1.0,4,5,9,0,0,2,1,5,10,6
+New York Knicks,G,Raymond Felton,Toronto Raptors,L,02/13/2013,41:29,3,9,0.333,0,2,0.0,10,12,0.833,2,2,4,5,4,0,4,2,16,3
+New York Knicks,G,Jason Kidd,Toronto Raptors,L,02/13/2013,31:32,0,3,0.0,0,3,0.0,0,0,0.0,2,2,4,2,1,0,0,1,0,6
+New York Knicks,F,Iman Shumpert,Indiana Pacers,L,02/20/2013,25:19,1,7,0.143,0,4,0.0,2,2,1.0,1,1,2,1,1,1,1,1,4,-10
+New York Knicks,F,Carmelo Anthony,Indiana Pacers,L,02/20/2013,28:23,7,21,0.333,1,6,0.167,0,2,0.0,2,4,6,1,0,0,2,5,15,-16
+New York Knicks,C,Tyson Chandler,Indiana Pacers,L,02/20/2013,33:50,4,9,0.444,0,0,0.0,11,11,1.0,4,7,11,0,1,1,1,2,19,-31
+New York Knicks,G,Raymond Felton,Indiana Pacers,L,02/20/2013,27:48,5,13,0.385,0,2,0.0,2,2,1.0,1,0,1,3,1,0,2,3,12,-29
+New York Knicks,G,Jason Kidd,Indiana Pacers,L,02/20/2013,17:05,0,3,0.0,0,3,0.0,0,0,0.0,0,1,1,2,3,0,1,2,0,-17
+New York Knicks,F,Iman Shumpert,Toronto Raptors,L,02/22/2013,14:49,0,2,0.0,0,1,0.0,0,0,0.0,1,1,2,0,0,0,1,2,0,-5
+New York Knicks,F,Carmelo Anthony,Toronto Raptors,L,02/22/2013,42:13,11,24,0.458,1,8,0.125,9,11,0.818,3,3,6,4,1,1,3,3,32,-2
+New York Knicks,C,Tyson Chandler,Toronto Raptors,L,02/22/2013,34:44,2,7,0.286,0,0,0.0,4,5,0.8,3,4,7,2,1,5,3,6,8,-12
+New York Knicks,G,Raymond Felton,Toronto Raptors,L,02/22/2013,32:46,4,10,0.4,1,3,0.333,1,1,1.0,0,6,6,3,0,0,2,4,10,4
+New York Knicks,G,Jason Kidd,Toronto Raptors,L,02/22/2013,31:51,2,4,0.5,2,4,0.5,0,0,0.0,1,6,7,4,2,1,2,3,6,-7
+New York Knicks,F,Carmelo Anthony,Philadelphia 76ers,W,02/24/2013,40:21,6,18,0.333,1,6,0.167,16,18,0.889,1,6,7,2,0,0,5,2,29,-14
+New York Knicks,F,Iman Shumpert,Philadelphia 76ers,W,02/24/2013,13:11,1,5,0.2,1,2,0.5,1,1,1.0,0,2,2,1,1,0,1,3,4,0
+New York Knicks,C,Tyson Chandler,Philadelphia 76ers,W,02/24/2013,35:15,2,2,1.0,0,0,0.0,1,3,0.333,4,8,12,1,0,3,2,2,5,13
+New York Knicks,G,Raymond Felton,Philadelphia 76ers,W,02/24/2013,36:01,6,15,0.4,2,8,0.25,0,0,0.0,0,0,0,4,1,0,0,1,14,-9
+New York Knicks,G,Jason Kidd,Philadelphia 76ers,W,02/24/2013,26:09,1,7,0.143,0,6,0.0,1,2,0.5,3,6,9,2,1,0,2,1,3,-9
+New York Knicks,F,Carmelo Anthony,Golden State Warriors,W,02/27/2013,40:12,10,26,0.385,2,7,0.286,13,15,0.867,1,0,1,8,0,0,2,3,35,11
+New York Knicks,F,Iman Shumpert,Golden State Warriors,W,02/27/2013,21:58,1,6,0.167,0,3,0.0,0,0,0.0,0,0,0,2,6,0,3,4,2,12
+New York Knicks,C,Tyson Chandler,Golden State Warriors,W,02/27/2013,42:15,5,9,0.556,0,0,0.0,6,7,0.857,10,18,28,1,2,1,0,1,16,8
+New York Knicks,G,Raymond Felton,Golden State Warriors,W,02/27/2013,39:23,3,10,0.3,2,5,0.4,2,6,0.333,2,2,4,4,4,1,2,3,10,11
+New York Knicks,G,Jason Kidd,Golden State Warriors,W,02/27/2013,18:33,0,4,0.0,0,4,0.0,0,0,0.0,1,1,2,1,0,1,0,1,0,2
+New York Knicks,F,James White,Washington Wizards,W,03/01/2013,10:12,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,1,2,0,0,3
+New York Knicks,F,Carmelo Anthony,Washington Wizards,W,03/01/2013,43:01,10,24,0.417,2,7,0.286,8,9,0.889,1,5,6,3,2,0,3,2,30,10
+New York Knicks,C,Tyson Chandler,Washington Wizards,W,03/01/2013,34:09,1,3,0.333,0,0,0.0,4,6,0.667,3,7,10,2,0,1,2,2,6,3
+New York Knicks,G,Iman Shumpert,Washington Wizards,W,03/01/2013,23:36,1,3,0.333,1,2,0.5,0,0,0.0,1,0,1,1,0,1,0,3,3,-9
+New York Knicks,G,Raymond Felton,Washington Wizards,W,03/01/2013,32:20,9,18,0.5,1,4,0.25,4,4,1.0,2,4,6,4,2,0,1,1,23,16
+New York Knicks,F,Carmelo Anthony,Miami Heat,L,03/03/2013,42:14,9,19,0.474,1,3,0.333,13,14,0.929,0,2,2,3,0,0,1,3,32,-7
+New York Knicks,F,James White,Miami Heat,L,03/03/2013,7:47,0,1,0.0,0,0,0.0,0,0,0.0,1,1,2,1,0,0,2,3,0,-6
+New York Knicks,C,Tyson Chandler,Miami Heat,L,03/03/2013,34:26,4,7,0.571,0,0,0.0,2,2,1.0,3,5,8,0,2,2,1,0,10,2
+New York Knicks,G,Raymond Felton,Miami Heat,L,03/03/2013,30:59,3,8,0.375,0,1,0.0,3,4,0.75,1,0,1,2,1,1,4,2,9,-6
+New York Knicks,G,Iman Shumpert,Miami Heat,L,03/03/2013,21:05,1,4,0.25,0,3,0.0,1,2,0.5,2,1,3,2,0,0,2,2,3,-17
+New York Knicks,F,Carmelo Anthony,Cleveland Cavaliers,W,03/04/2013,14:15,1,5,0.2,0,1,0.0,4,4,1.0,0,1,1,0,0,1,3,0,6,-15
+New York Knicks,F,James White,Cleveland Cavaliers,W,03/04/2013,4:08,1,2,0.5,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,0
+New York Knicks,C,Tyson Chandler,Cleveland Cavaliers,W,03/04/2013,34:34,4,8,0.5,0,0,0.0,0,0,0.0,3,6,9,2,1,1,1,2,8,12
+New York Knicks,G,Iman Shumpert,Cleveland Cavaliers,W,03/04/2013,19:03,3,6,0.5,2,3,0.667,0,0,0.0,0,0,0,0,1,0,0,1,8,-1
+New York Knicks,G,Raymond Felton,Cleveland Cavaliers,W,03/04/2013,33:23,3,9,0.333,1,4,0.25,1,2,0.5,1,2,3,10,1,2,3,2,8,16
+New York Knicks,F,James White,Detroit Pistons,W,03/06/2013,7:49,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,3,0,0,0,0,0,-4
+New York Knicks,F,Kurt Thomas,Detroit Pistons,W,03/06/2013,3:38,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,2,1,0,0
+New York Knicks,C,Tyson Chandler,Detroit Pistons,W,03/06/2013,30:20,1,3,0.333,0,0,0.0,0,2,0.0,2,9,11,0,0,2,1,3,2,-9
+New York Knicks,G,Iman Shumpert,Detroit Pistons,W,03/06/2013,19:18,3,6,0.5,3,4,0.75,0,0,0.0,1,5,6,2,1,0,2,3,9,-10
+New York Knicks,G,Raymond Felton,Detroit Pistons,W,03/06/2013,37:04,10,15,0.667,4,5,0.8,2,2,1.0,1,5,6,4,1,1,7,1,26,8
+New York Knicks,F,Kurt Thomas,Oklahoma City Thunder,L,03/07/2013,5:04,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,2,2
+New York Knicks,F,James White,Oklahoma City Thunder,L,03/07/2013,12:21,2,5,0.4,2,3,0.667,0,0,0.0,0,0,0,0,0,0,0,1,6,-5
+New York Knicks,C,Tyson Chandler,Oklahoma City Thunder,L,03/07/2013,35:17,3,4,0.75,0,0,0.0,3,3,1.0,3,7,10,1,1,0,4,3,9,-6
+New York Knicks,G,Raymond Felton,Oklahoma City Thunder,L,03/07/2013,38:09,6,16,0.375,1,8,0.125,3,3,1.0,0,1,1,3,1,0,4,2,16,2
+New York Knicks,G,Iman Shumpert,Oklahoma City Thunder,L,03/07/2013,26:56,1,7,0.143,0,4,0.0,0,0,0.0,0,1,1,0,1,0,0,3,2,-11
+New York Knicks,F,Kurt Thomas,Utah Jazz,W,03/09/2013,8:41,2,4,0.5,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,4,4
+New York Knicks,F,James White,Utah Jazz,W,03/09/2013,17:22,1,3,0.333,1,2,0.5,0,0,0.0,0,1,1,2,0,0,0,1,3,7
+New York Knicks,C,Tyson Chandler,Utah Jazz,W,03/09/2013,25:19,2,4,0.5,0,0,0.0,2,2,1.0,0,9,9,0,0,2,1,4,6,17
+New York Knicks,G,Raymond Felton,Utah Jazz,W,03/09/2013,24:25,6,10,0.6,1,3,0.333,2,2,1.0,0,1,1,4,0,0,3,2,15,34
+New York Knicks,G,Iman Shumpert,Utah Jazz,W,03/09/2013,27:10,1,3,0.333,0,0,0.0,8,10,0.8,0,5,5,1,4,0,1,0,10,18
+New York Knicks,F,Carmelo Anthony,Golden State Warriors,L,03/11/2013,33:34,4,15,0.267,0,2,0.0,6,9,0.667,5,5,10,0,0,0,1,5,14,-29
+New York Knicks,F,James White,Golden State Warriors,L,03/11/2013,5:26,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,2,0,0,0,1,0,-6
+New York Knicks,C,Tyson Chandler,Golden State Warriors,L,03/11/2013,31:01,1,2,0.5,0,0,0.0,2,2,1.0,1,7,8,0,0,1,1,4,4,-23
+New York Knicks,G,Iman Shumpert,Golden State Warriors,L,03/11/2013,23:09,3,9,0.333,2,4,0.5,0,2,0.0,0,0,0,0,0,0,0,2,8,-29
+New York Knicks,G,Raymond Felton,Golden State Warriors,L,03/11/2013,28:19,3,6,0.5,0,1,0.0,4,5,0.8,2,3,5,4,2,0,2,0,10,-25
+New York Knicks,F,Carmelo Anthony,Denver Nuggets,L,03/13/2013,21:31,3,12,0.25,0,5,0.0,3,4,0.75,2,3,5,3,0,1,3,2,9,-18
+New York Knicks,F,James White,Denver Nuggets,L,03/13/2013,15:13,4,10,0.4,0,1,0.0,2,2,1.0,0,1,1,0,0,0,1,1,10,2
+New York Knicks,C,Tyson Chandler,Denver Nuggets,L,03/13/2013,17:41,2,4,0.5,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,2,4,-22
+New York Knicks,G,Iman Shumpert,Denver Nuggets,L,03/13/2013,32:57,8,10,0.8,4,5,0.8,0,0,0.0,0,1,1,1,1,0,2,2,20,-15
+New York Knicks,G,Raymond Felton,Denver Nuggets,L,03/13/2013,29:04,3,7,0.429,2,2,1.0,0,0,0.0,0,1,1,4,3,2,4,2,8,-19
+New York Knicks,F,Chris Copeland,Portland Trail Blazers,L,03/14/2013,20:50,3,8,0.375,2,4,0.5,1,2,0.5,0,1,1,0,1,0,2,3,9,6
+New York Knicks,F,Kenyon Martin,Portland Trail Blazers,L,03/14/2013,30:44,6,10,0.6,0,0,0.0,0,0,0.0,1,3,4,1,1,1,0,4,12,-21
+New York Knicks,C,Kurt Thomas,Portland Trail Blazers,L,03/14/2013,24:03,3,3,1.0,0,0,0.0,0,0,0.0,1,6,7,3,0,1,0,4,6,-10
+New York Knicks,G,Iman Shumpert,Portland Trail Blazers,L,03/14/2013,23:05,3,9,0.333,0,1,0.0,0,0,0.0,1,3,4,1,0,0,1,2,6,-13
+New York Knicks,G,Raymond Felton,Portland Trail Blazers,L,03/14/2013,29:24,4,12,0.333,0,2,0.0,3,3,1.0,2,1,3,3,3,0,2,0,11,-20
+New York Knicks,F,Chris Copeland,Los Angeles Clippers,L,03/17/2013,25:38,5,11,0.455,3,4,0.75,0,0,0.0,0,4,4,2,0,0,2,3,13,-11
+New York Knicks,F,Kenyon Martin,Los Angeles Clippers,L,03/17/2013,28:08,2,6,0.333,0,0,0.0,0,1,0.0,3,6,9,3,0,1,0,5,4,0
+New York Knicks,C,Kurt Thomas,Los Angeles Clippers,L,03/17/2013,16:34,1,5,0.2,0,0,0.0,0,0,0.0,0,5,5,2,1,0,0,4,2,-8
+New York Knicks,G,Iman Shumpert,Los Angeles Clippers,L,03/17/2013,17:28,2,6,0.333,0,3,0.0,1,2,0.5,0,1,1,1,1,0,2,3,5,-6
+New York Knicks,G,Raymond Felton,Los Angeles Clippers,L,03/17/2013,41:16,7,15,0.467,2,4,0.5,0,0,0.0,0,3,3,9,0,0,2,2,16,-4
+New York Knicks,F,Iman Shumpert,Utah Jazz,W,03/18/2013,16:35,3,7,0.429,2,3,0.667,0,0,0.0,0,2,2,1,0,0,0,0,8,-3
+New York Knicks,F,Chris Copeland,Utah Jazz,W,03/18/2013,31:15,6,15,0.4,1,4,0.25,1,2,0.5,0,6,6,2,0,0,2,4,14,3
+New York Knicks,C,Kenyon Martin,Utah Jazz,W,03/18/2013,20:56,4,6,0.667,0,0,0.0,1,4,0.25,4,5,9,0,1,1,0,3,9,3
+New York Knicks,G,Pablo Prigioni,Utah Jazz,W,03/18/2013,20:09,1,3,0.333,1,2,0.5,0,0,0.0,2,0,2,3,0,0,0,4,3,-1
+New York Knicks,G,Raymond Felton,Utah Jazz,W,03/18/2013,41:31,8,12,0.667,2,3,0.667,1,2,0.5,0,1,1,4,3,0,1,1,19,8
+New York Knicks,F,Carmelo Anthony,Orlando Magic,W,03/20/2013,32:39,7,14,0.5,3,5,0.6,4,6,0.667,1,7,8,0,1,1,3,3,21,21
+New York Knicks,F,Iman Shumpert,Orlando Magic,W,03/20/2013,14:14,2,4,0.5,1,2,0.5,2,2,1.0,0,0,0,3,0,0,0,0,7,2
+New York Knicks,C,Kenyon Martin,Orlando Magic,W,03/20/2013,28:14,5,6,0.833,0,0,0.0,1,3,0.333,2,1,3,0,1,0,0,4,11,20
+New York Knicks,G,Raymond Felton,Orlando Magic,W,03/20/2013,25:21,3,8,0.375,1,4,0.25,0,0,0.0,1,1,2,4,1,0,0,1,7,21
+New York Knicks,G,Pablo Prigioni,Orlando Magic,W,03/20/2013,19:30,2,2,1.0,2,2,1.0,0,0,0.0,1,3,4,5,0,0,1,1,6,13
+New York Knicks,F,Carmelo Anthony,Toronto Raptors,W,03/22/2013,43:04,14,31,0.452,2,8,0.25,7,11,0.636,2,4,6,1,1,2,7,4,37,0
+New York Knicks,F,Iman Shumpert,Toronto Raptors,W,03/22/2013,17:15,2,2,1.0,1,1,1.0,0,0,0.0,1,2,3,3,0,0,0,0,5,2
+New York Knicks,C,Kenyon Martin,Toronto Raptors,W,03/22/2013,36:06,9,10,0.9,0,0,0.0,1,2,0.5,5,6,11,0,2,1,1,3,19,-6
+New York Knicks,G,Raymond Felton,Toronto Raptors,W,03/22/2013,41:52,2,6,0.333,2,3,0.667,1,2,0.5,0,3,3,3,2,0,0,2,7,-3
+New York Knicks,G,Pablo Prigioni,Toronto Raptors,W,03/22/2013,9:48,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,2,2,0,0,3,2,-3
+New York Knicks,F,Carmelo Anthony,Toronto Raptors,W,03/23/2013,30:15,9,19,0.474,0,3,0.0,10,10,1.0,3,5,8,2,1,0,2,3,28,16
+New York Knicks,F,Iman Shumpert,Toronto Raptors,W,03/23/2013,20:56,3,6,0.5,2,4,0.5,0,0,0.0,1,2,3,2,4,1,1,2,8,16
+New York Knicks,C,Kenyon Martin,Toronto Raptors,W,03/23/2013,27:27,7,11,0.636,0,0,0.0,4,5,0.8,4,3,7,0,1,2,1,2,18,19
+New York Knicks,G,Raymond Felton,Toronto Raptors,W,03/23/2013,28:30,4,9,0.444,1,4,0.25,0,0,0.0,1,1,2,5,3,0,2,3,9,15
+New York Knicks,G,Pablo Prigioni,Toronto Raptors,W,03/23/2013,27:49,1,2,0.5,0,0,0.0,0,0,0.0,1,5,6,6,1,0,0,1,2,25
+New York Knicks,F,Iman Shumpert,Boston Celtics,W,03/26/2013,26:26,1,3,0.333,0,2,0.0,0,0,0.0,1,2,3,1,1,0,0,2,2,3
+New York Knicks,F,Carmelo Anthony,Boston Celtics,W,03/26/2013,35:50,10,30,0.333,2,8,0.25,7,9,0.778,6,2,8,1,3,0,3,4,29,16
+New York Knicks,C,Kenyon Martin,Boston Celtics,W,03/26/2013,25:24,4,7,0.571,0,0,0.0,1,2,0.5,4,1,5,0,0,1,0,4,9,3
+New York Knicks,G,Raymond Felton,Boston Celtics,W,03/26/2013,31:41,3,6,0.5,0,1,0.0,0,0,0.0,0,3,3,3,2,0,1,1,6,6
+New York Knicks,G,Pablo Prigioni,Boston Celtics,W,03/26/2013,29:53,3,6,0.5,1,3,0.333,0,0,0.0,0,3,3,5,2,0,2,4,7,7
+New York Knicks,F,Carmelo Anthony,Memphis Grizzlies,W,03/27/2013,40:29,8,20,0.4,0,2,0.0,6,6,1.0,1,6,7,3,1,0,2,4,22,-2
+New York Knicks,F,Iman Shumpert,Memphis Grizzlies,W,03/27/2013,21:25,6,10,0.6,4,6,0.667,0,0,0.0,0,3,3,1,2,0,1,4,16,9
+New York Knicks,C,Kenyon Martin,Memphis Grizzlies,W,03/27/2013,26:18,2,3,0.667,0,0,0.0,0,0,0.0,0,3,3,0,1,0,1,4,4,9
+New York Knicks,G,Raymond Felton,Memphis Grizzlies,W,03/27/2013,32:26,5,6,0.833,2,3,0.667,1,2,0.5,1,2,3,4,1,0,2,3,13,-4
+New York Knicks,G,Pablo Prigioni,Memphis Grizzlies,W,03/27/2013,18:30,1,3,0.333,0,2,0.0,0,0,0.0,0,3,3,3,0,0,0,2,2,6
+New York Knicks,F,Carmelo Anthony,Charlotte Bobcats,W,03/29/2013,35:51,11,28,0.393,1,3,0.333,9,10,0.9,7,4,11,2,1,0,5,4,32,1
+New York Knicks,F,Iman Shumpert,Charlotte Bobcats,W,03/29/2013,26:44,2,4,0.5,2,4,0.5,2,2,1.0,0,2,2,5,2,0,1,3,8,4
+New York Knicks,C,Kenyon Martin,Charlotte Bobcats,W,03/29/2013,35:47,2,5,0.4,0,0,0.0,2,4,0.5,1,5,6,0,0,3,0,4,6,3
+New York Knicks,G,Raymond Felton,Charlotte Bobcats,W,03/29/2013,35:46,7,11,0.636,2,4,0.5,2,2,1.0,0,3,3,2,3,0,1,2,18,8
+New York Knicks,G,Pablo Prigioni,Charlotte Bobcats,W,03/29/2013,10:36,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,3,0,-1
+New York Knicks,F,Carmelo Anthony,Boston Celtics,W,03/31/2013,27:27,9,19,0.474,2,4,0.5,4,4,1.0,3,7,10,3,2,0,2,4,24,9
+New York Knicks,F,Iman Shumpert,Boston Celtics,W,03/31/2013,26:35,3,3,1.0,2,2,1.0,2,2,1.0,1,3,4,2,1,0,1,5,10,-6
+New York Knicks,C,Kenyon Martin,Boston Celtics,W,03/31/2013,22:52,1,2,0.5,0,0,0.0,1,3,0.333,0,4,4,2,0,1,2,4,3,2
+New York Knicks,G,Raymond Felton,Boston Celtics,W,03/31/2013,31:07,6,10,0.6,3,6,0.5,3,3,1.0,0,0,0,4,0,0,1,2,18,7
+New York Knicks,G,Pablo Prigioni,Boston Celtics,W,03/31/2013,32:39,1,4,0.25,1,3,0.333,0,0,0.0,0,1,1,5,0,0,0,2,3,13
+New York Knicks,F,Carmelo Anthony,Miami Heat,W,04/02/2013,40:20,18,26,0.692,7,10,0.7,7,8,0.875,0,2,2,2,1,1,0,3,50,15
+New York Knicks,F,Iman Shumpert,Miami Heat,W,04/02/2013,22:31,3,5,0.6,3,5,0.6,0,0,0.0,0,3,3,2,0,0,1,2,9,7
+New York Knicks,C,Tyson Chandler,Miami Heat,W,04/02/2013,23:56,0,2,0.0,0,0,0.0,1,2,0.5,1,1,2,1,1,2,3,4,1,13
+New York Knicks,G,Raymond Felton,Miami Heat,W,04/02/2013,38:22,4,9,0.444,0,3,0.0,2,2,1.0,0,0,0,9,1,0,4,2,10,15
+New York Knicks,G,Pablo Prigioni,Miami Heat,W,04/02/2013,13:05,1,1,1.0,1,1,1.0,0,0,0.0,0,1,1,1,1,0,1,1,3,-4
+New York Knicks,F,Carmelo Anthony,Atlanta Hawks,W,04/03/2013,40:56,17,27,0.63,1,2,0.5,5,6,0.833,1,4,5,3,0,0,1,3,40,11
+New York Knicks,F,Iman Shumpert,Atlanta Hawks,W,04/03/2013,23:11,2,6,0.333,0,2,0.0,0,0,0.0,0,6,6,1,0,0,0,3,4,8
+New York Knicks,C,Tyson Chandler,Atlanta Hawks,W,04/03/2013,23:31,1,2,0.5,0,0,0.0,0,0,0.0,1,3,4,0,1,0,1,4,2,4
+New York Knicks,G,Pablo Prigioni,Atlanta Hawks,W,04/03/2013,13:26,2,4,0.5,2,4,0.5,0,0,0.0,0,1,1,0,0,0,0,0,6,-11
+New York Knicks,G,Raymond Felton,Atlanta Hawks,W,04/03/2013,35:45,7,16,0.438,0,3,0.0,0,0,0.0,1,4,5,3,3,0,2,3,14,11
+New York Knicks,F,Carmelo Anthony,Milwaukee Bucks,W,04/05/2013,37:04,17,28,0.607,3,7,0.429,4,4,1.0,5,9,14,1,0,1,5,2,41,22
+New York Knicks,F,Iman Shumpert,Milwaukee Bucks,W,04/05/2013,18:47,0,7,0.0,0,3,0.0,0,0,0.0,0,3,3,0,0,1,0,2,0,8
+New York Knicks,C,Tyson Chandler,Milwaukee Bucks,W,04/05/2013,36:54,3,7,0.429,0,0,0.0,0,0,0.0,4,6,10,3,1,0,0,2,6,16
+New York Knicks,G,Raymond Felton,Milwaukee Bucks,W,04/05/2013,35:58,4,9,0.444,1,3,0.333,0,0,0.0,1,2,3,4,2,0,4,3,9,22
+New York Knicks,G,Pablo Prigioni,Milwaukee Bucks,W,04/05/2013,17:14,1,4,0.25,0,3,0.0,0,0,0.0,0,3,3,4,0,0,0,3,2,23
+New York Knicks,F,Iman Shumpert,Oklahoma City Thunder,W,04/07/2013,11:01,0,2,0.0,0,2,0.0,0,0,0.0,0,2,2,1,1,0,0,2,0,1
+New York Knicks,F,Carmelo Anthony,Oklahoma City Thunder,W,04/07/2013,36:38,15,29,0.517,3,6,0.5,3,4,0.75,9,3,12,0,0,1,0,4,36,2
+New York Knicks,C,Tyson Chandler,Oklahoma City Thunder,W,04/07/2013,38:34,6,9,0.667,0,0,0.0,3,4,0.75,3,2,5,1,0,2,1,2,15,1
+New York Knicks,G,Pablo Prigioni,Oklahoma City Thunder,W,04/07/2013,18:56,1,2,0.5,1,1,1.0,0,0,0.0,0,0,0,3,1,0,2,3,3,-2
+New York Knicks,G,Raymond Felton,Oklahoma City Thunder,W,04/07/2013,39:06,5,12,0.417,1,3,0.333,5,6,0.833,3,1,4,8,1,0,0,1,16,1
+New York Knicks,F,Carmelo Anthony,Washington Wizards,W,04/09/2013,30:49,13,21,0.619,3,4,0.75,7,9,0.778,1,7,8,6,0,0,0,2,36,23
+New York Knicks,F,Iman Shumpert,Washington Wizards,W,04/09/2013,24:25,7,10,0.7,4,6,0.667,0,0,0.0,0,4,4,2,1,1,0,4,18,3
+New York Knicks,C,Kenyon Martin,Washington Wizards,W,04/09/2013,18:20,1,2,0.5,0,0,0.0,0,0,0.0,0,3,3,0,1,2,3,4,2,14
+New York Knicks,G,Raymond Felton,Washington Wizards,W,04/09/2013,30:49,4,9,0.444,2,6,0.333,0,0,0.0,0,3,3,8,2,0,1,1,10,23
+New York Knicks,G,Pablo Prigioni,Washington Wizards,W,04/09/2013,22:33,2,2,1.0,1,1,1.0,0,0,0.0,0,2,2,5,1,0,1,3,5,11
+New York Knicks,F,Carmelo Anthony,Chicago Bulls,L,04/11/2013,45:07,13,34,0.382,0,4,0.0,10,10,1.0,6,13,19,2,0,1,2,3,36,1
+New York Knicks,F,Iman Shumpert,Chicago Bulls,L,04/11/2013,26:21,3,3,1.0,1,1,1.0,0,0,0.0,0,1,1,0,1,0,0,6,7,19
+New York Knicks,C,Chris Copeland,Chicago Bulls,L,04/11/2013,29:18,4,14,0.286,3,8,0.375,3,4,0.75,1,4,5,2,1,2,2,4,14,4
+New York Knicks,G,Raymond Felton,Chicago Bulls,L,04/11/2013,48:59,8,17,0.471,3,6,0.5,0,0,0.0,0,5,5,6,0,1,2,5,19,-8
+New York Knicks,G,Pablo Prigioni,Chicago Bulls,L,04/11/2013,23:33,3,4,0.75,1,2,0.5,0,1,0.0,1,1,2,2,0,0,1,2,7,11
+New York Knicks,F,Carmelo Anthony,Cleveland Cavaliers,W,04/12/2013,29:36,12,24,0.5,2,5,0.4,5,8,0.625,7,7,14,2,2,0,3,1,31,0
+New York Knicks,F,Iman Shumpert,Cleveland Cavaliers,W,04/12/2013,35:31,3,11,0.273,0,4,0.0,2,2,1.0,3,8,11,3,1,1,1,2,8,5
+New York Knicks,C,Chris Copeland,Cleveland Cavaliers,W,04/12/2013,26:49,5,9,0.556,1,3,0.333,1,2,0.5,0,1,1,1,2,0,0,4,12,17
+New York Knicks,G,Raymond Felton,Cleveland Cavaliers,W,04/12/2013,24:08,3,7,0.429,1,2,0.5,0,0,0.0,0,4,4,3,0,1,1,3,7,0
+New York Knicks,G,Pablo Prigioni,Cleveland Cavaliers,W,04/12/2013,35:09,1,2,0.5,1,2,0.5,0,0,0.0,1,2,3,4,3,1,3,1,3,-5
+New York Knicks,F,Carmelo Anthony,Indiana Pacers,W,04/14/2013,30:13,9,23,0.391,2,7,0.286,5,6,0.833,1,4,5,1,1,0,1,3,25,0
+New York Knicks,F,Iman Shumpert,Indiana Pacers,W,04/14/2013,24:53,3,8,0.375,2,4,0.5,2,2,1.0,1,4,5,2,0,0,0,4,10,13
+New York Knicks,C,Solomon Jones,Indiana Pacers,W,04/14/2013,13:45,0,1,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,1,1,2,0,2
+New York Knicks,G,Raymond Felton,Indiana Pacers,W,04/14/2013,32:54,5,9,0.556,1,1,1.0,0,0,0.0,1,1,2,3,2,0,3,2,11,9
+New York Knicks,G,Pablo Prigioni,Indiana Pacers,W,04/14/2013,24:05,1,1,1.0,1,1,1.0,0,0,0.0,1,2,3,2,1,0,1,2,3,-12
+New York Knicks,F,James White,Charlotte Bobcats,L,04/15/2013,43:02,5,9,0.556,1,3,0.333,4,4,1.0,0,7,7,6,1,1,1,3,15,-4
+New York Knicks,F,Steve Novak,Charlotte Bobcats,L,04/15/2013,41:13,6,9,0.667,5,7,0.714,0,0,0.0,0,7,7,0,0,0,1,4,17,-6
+New York Knicks,C,Chris Copeland,Charlotte Bobcats,L,04/15/2013,46:50,12,25,0.48,4,8,0.5,4,4,1.0,2,5,7,2,1,0,1,2,32,-9
+New York Knicks,G,Iman Shumpert,Charlotte Bobcats,L,04/15/2013,41:40,5,16,0.313,1,6,0.167,3,3,1.0,1,1,2,5,1,0,3,3,14,-10
+New York Knicks,G,Pablo Prigioni,Charlotte Bobcats,L,04/15/2013,42:08,3,9,0.333,1,5,0.2,2,2,1.0,0,0,0,8,1,0,1,3,9,-8
+New York Knicks,F,Chris Copeland,Atlanta Hawks,W,04/17/2013,40:17,14,29,0.483,1,4,0.25,4,8,0.5,3,0,3,1,1,2,3,3,33,12
+New York Knicks,F,James White,Atlanta Hawks,W,04/17/2013,43:39,8,15,0.533,3,6,0.5,1,1,1.0,0,6,6,3,3,0,2,4,20,5
+New York Knicks,C,Earl Barron,Atlanta Hawks,W,04/17/2013,36:30,5,14,0.357,0,0,0.0,1,2,0.5,6,12,18,2,0,1,1,1,11,2
+New York Knicks,G,Pablo Prigioni,Atlanta Hawks,W,04/17/2013,11:09,3,3,1.0,2,2,1.0,0,0,0.0,1,4,5,3,1,0,1,1,8,7
+New York Knicks,G,Iman Shumpert,Atlanta Hawks,W,04/17/2013,38:23,7,11,0.636,1,2,0.5,3,3,1.0,1,6,7,8,2,0,3,3,18,16

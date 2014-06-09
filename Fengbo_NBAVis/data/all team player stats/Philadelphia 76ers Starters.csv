@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Philadelphia 76ers,F,Evan Turner,Denver Nuggets,W,10/31/2012,28:28,2,7,0.286,0,1,0.0,1,1,1.0,0,6,6,2,0,0,3,4,5,10
+Philadelphia 76ers,F,Thaddeus Young,Denver Nuggets,W,10/31/2012,36:27,6,12,0.5,0,0,0.0,1,3,0.333,1,4,5,1,2,1,1,2,13,18
+Philadelphia 76ers,C,Lavoy Allen,Denver Nuggets,W,10/31/2012,16:58,1,5,0.2,0,0,0.0,1,2,0.5,4,0,4,0,0,1,1,0,3,-1
+Philadelphia 76ers,G,Jason Richardson,Denver Nuggets,W,10/31/2012,36:31,4,13,0.308,2,7,0.286,0,0,0.0,2,2,4,2,4,3,0,3,10,7
+Philadelphia 76ers,G,Jrue Holiday,Denver Nuggets,W,10/31/2012,41:24,5,16,0.313,0,3,0.0,4,5,0.8,2,4,6,11,2,0,3,3,14,8
+Philadelphia 76ers,F,Evan Turner,New York Knicks,L,11/04/2012,37:04,2,9,0.222,1,1,1.0,6,6,1.0,1,10,11,1,2,0,2,2,11,-9
+Philadelphia 76ers,F,Thaddeus Young,New York Knicks,L,11/04/2012,35:59,7,14,0.5,0,0,0.0,2,3,0.667,6,0,6,1,3,0,2,6,16,-1
+Philadelphia 76ers,C,Lavoy Allen,New York Knicks,L,11/04/2012,25:45,3,4,0.75,0,0,0.0,0,0,0.0,1,4,5,1,0,1,1,1,6,-9
+Philadelphia 76ers,G,Jrue Holiday,New York Knicks,L,11/04/2012,40:09,11,18,0.611,5,6,0.833,0,0,0.0,0,2,2,7,1,0,6,1,27,-2
+Philadelphia 76ers,G,Jason Richardson,New York Knicks,L,11/04/2012,1:47,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+Philadelphia 76ers,F,Dorell Wright,New York Knicks,L,11/05/2012,34:08,4,14,0.286,2,7,0.286,4,5,0.8,1,8,9,1,0,1,0,1,14,-18
+Philadelphia 76ers,F,Thaddeus Young,New York Knicks,L,11/05/2012,29:22,7,12,0.583,0,0,0.0,0,0,0.0,4,6,10,1,1,0,3,1,14,-16
+Philadelphia 76ers,C,Kwame Brown,New York Knicks,L,11/05/2012,10:50,2,3,0.667,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,1,4,2
+Philadelphia 76ers,G,Evan Turner,New York Knicks,L,11/05/2012,27:07,3,9,0.333,0,0,0.0,5,5,1.0,3,6,9,6,0,0,1,4,11,-18
+Philadelphia 76ers,G,Jrue Holiday,New York Knicks,L,11/05/2012,35:24,4,12,0.333,3,6,0.5,6,6,1.0,1,2,3,8,2,0,4,3,17,-17
+Philadelphia 76ers,F,Dorell Wright,New Orleans Hornets,W,11/07/2012,24:48,2,10,0.2,2,7,0.286,1,2,0.5,1,5,6,2,2,1,2,0,7,9
+Philadelphia 76ers,F,Thaddeus Young,New Orleans Hornets,W,11/07/2012,36:59,6,8,0.75,0,0,0.0,0,0,0.0,3,7,10,1,0,0,2,2,12,16
+Philadelphia 76ers,C,Lavoy Allen,New Orleans Hornets,W,11/07/2012,27:27,6,10,0.6,0,0,0.0,0,0,0.0,1,3,4,0,0,1,2,2,12,20
+Philadelphia 76ers,G,Evan Turner,New Orleans Hornets,W,11/07/2012,35:35,7,15,0.467,0,1,0.0,0,0,0.0,2,6,8,3,1,0,1,1,14,12
+Philadelphia 76ers,G,Jrue Holiday,New Orleans Hornets,W,11/07/2012,38:56,6,14,0.429,0,3,0.0,2,3,0.667,1,4,5,12,1,1,7,2,14,18
+Philadelphia 76ers,F,Dorell Wright,Boston Celtics,W,11/09/2012,35:48,4,9,0.444,2,3,0.667,5,5,1.0,1,3,4,3,4,0,2,1,15,9
+Philadelphia 76ers,F,Thaddeus Young,Boston Celtics,W,11/09/2012,40:30,7,13,0.538,0,0,0.0,1,1,1.0,0,5,5,2,2,3,0,3,15,13
+Philadelphia 76ers,C,Lavoy Allen,Boston Celtics,W,11/09/2012,22:41,3,5,0.6,0,0,0.0,0,0,0.0,1,3,4,1,0,1,0,5,6,-5
+Philadelphia 76ers,G,Evan Turner,Boston Celtics,W,11/09/2012,40:32,9,19,0.474,2,2,1.0,5,7,0.714,0,11,11,4,1,1,3,3,25,1
+Philadelphia 76ers,G,Jrue Holiday,Boston Celtics,W,11/09/2012,41:34,7,16,0.438,1,4,0.25,6,6,1.0,2,2,4,14,2,2,7,1,21,14
+Philadelphia 76ers,F,Thaddeus Young,Toronto Raptors,W,11/10/2012,33:44,5,11,0.455,0,0,0.0,6,6,1.0,1,7,8,2,1,0,2,2,16,4
+Philadelphia 76ers,F,Dorell Wright,Toronto Raptors,W,11/10/2012,26:30,5,12,0.417,4,8,0.5,1,1,1.0,3,3,6,0,1,0,2,1,15,-16
+Philadelphia 76ers,C,Lavoy Allen,Toronto Raptors,W,11/10/2012,21:26,0,5,0.0,0,0,0.0,0,0,0.0,0,0,0,2,0,0,0,1,0,7
+Philadelphia 76ers,G,Jrue Holiday,Toronto Raptors,W,11/10/2012,35:09,6,11,0.545,1,1,1.0,3,5,0.6,0,3,3,5,2,1,7,4,16,-12
+Philadelphia 76ers,G,Evan Turner,Toronto Raptors,W,11/10/2012,37:25,2,7,0.286,0,1,0.0,4,5,0.8,2,10,12,4,1,1,3,4,8,-3
+Philadelphia 76ers,F,Evan Turner,Milwaukee Bucks,L,11/12/2012,25:13,3,8,0.375,0,0,0.0,2,4,0.5,0,4,4,5,0,0,3,1,8,-16
+Philadelphia 76ers,F,Thaddeus Young,Milwaukee Bucks,L,11/12/2012,35:01,4,6,0.667,0,0,0.0,3,4,0.75,1,6,7,2,3,1,1,2,11,-5
+Philadelphia 76ers,C,Lavoy Allen,Milwaukee Bucks,L,11/12/2012,12:48,0,2,0.0,0,0,0.0,0,0,0.0,1,1,2,1,0,0,1,1,0,-4
+Philadelphia 76ers,G,Jason Richardson,Milwaukee Bucks,L,11/12/2012,36:18,8,16,0.5,3,8,0.375,1,2,0.5,0,4,4,2,2,0,0,0,20,12
+Philadelphia 76ers,G,Jrue Holiday,Milwaukee Bucks,L,11/12/2012,37:27,10,18,0.556,1,2,0.5,4,4,1.0,0,1,1,6,1,0,8,3,25,-4
+Philadelphia 76ers,F,Evan Turner,Detroit Pistons,L,11/14/2012,23:16,1,6,0.167,0,0,0.0,1,2,0.5,0,3,3,2,1,0,0,2,3,-10
+Philadelphia 76ers,F,Thaddeus Young,Detroit Pistons,L,11/14/2012,28:25,2,11,0.182,0,0,0.0,0,0,0.0,2,6,8,0,1,0,1,3,4,-9
+Philadelphia 76ers,C,Kwame Brown,Detroit Pistons,L,11/14/2012,12:24,1,2,0.5,0,0,0.0,1,2,0.5,0,1,1,0,1,0,0,2,3,-1
+Philadelphia 76ers,G,Jason Richardson,Detroit Pistons,L,11/14/2012,26:04,3,12,0.25,3,6,0.5,0,0,0.0,1,0,1,1,1,1,0,1,9,-7
+Philadelphia 76ers,G,Jrue Holiday,Detroit Pistons,L,11/14/2012,32:46,4,13,0.308,0,0,0.0,4,9,0.444,0,6,6,7,3,0,1,2,12,-13
+Philadelphia 76ers,F,Evan Turner,Utah Jazz,W,11/16/2012,35:12,5,11,0.455,1,3,0.333,0,0,0.0,1,3,4,4,0,0,2,2,11,8
+Philadelphia 76ers,F,Thaddeus Young,Utah Jazz,W,11/16/2012,30:38,7,14,0.5,0,0,0.0,0,0,0.0,2,6,8,0,2,1,0,2,14,24
+Philadelphia 76ers,C,Kwame Brown,Utah Jazz,W,11/16/2012,23:38,1,5,0.2,0,0,0.0,0,0,0.0,2,4,6,2,0,1,0,3,2,12
+Philadelphia 76ers,G,Jason Richardson,Utah Jazz,W,11/16/2012,35:30,7,12,0.583,5,7,0.714,1,2,0.5,0,8,8,2,2,0,0,2,20,4
+Philadelphia 76ers,G,Jrue Holiday,Utah Jazz,W,11/16/2012,41:19,10,21,0.476,2,4,0.5,4,4,1.0,0,6,6,7,0,1,4,2,26,18
+Philadelphia 76ers,F,Evan Turner,Cleveland Cavaliers,W,11/18/2012,39:37,8,12,0.667,1,2,0.5,2,2,1.0,0,6,6,9,1,1,2,1,19,10
+Philadelphia 76ers,F,Thaddeus Young,Cleveland Cavaliers,W,11/18/2012,36:50,3,9,0.333,0,0,0.0,1,2,0.5,0,6,6,0,1,0,1,3,7,1
+Philadelphia 76ers,C,Kwame Brown,Cleveland Cavaliers,W,11/18/2012,9:21,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,3,0,-8
+Philadelphia 76ers,G,Jason Richardson,Cleveland Cavaliers,W,11/18/2012,33:37,5,14,0.357,2,6,0.333,0,0,0.0,2,7,9,3,2,1,2,1,12,5
+Philadelphia 76ers,G,Jrue Holiday,Cleveland Cavaliers,W,11/18/2012,37:01,6,14,0.429,2,4,0.5,0,0,0.0,1,3,4,9,1,0,2,1,14,5
+Philadelphia 76ers,F,Evan Turner,Toronto Raptors,W,11/20/2012,33:16,5,14,0.357,0,0,0.0,2,2,1.0,0,5,5,4,0,0,1,3,12,-5
+Philadelphia 76ers,F,Thaddeus Young,Toronto Raptors,W,11/20/2012,38:36,8,13,0.615,0,0,0.0,2,4,0.5,2,5,7,2,2,2,2,2,18,10
+Philadelphia 76ers,C,Kwame Brown,Toronto Raptors,W,11/20/2012,5:33,0,0,0.0,0,0,0.0,0,0,0.0,2,0,2,0,0,0,0,1,0,-10
+Philadelphia 76ers,G,Jason Richardson,Toronto Raptors,W,11/20/2012,31:60,7,14,0.5,4,9,0.444,3,3,1.0,0,3,3,0,1,1,0,4,21,17
+Philadelphia 76ers,G,Jrue Holiday,Toronto Raptors,W,11/20/2012,39:55,9,21,0.429,1,5,0.2,0,0,0.0,2,6,8,12,3,0,3,4,19,1
+Philadelphia 76ers,F,Evan Turner,Cleveland Cavaliers,L,11/21/2012,35:54,5,13,0.385,0,1,0.0,2,3,0.667,1,9,10,7,2,1,2,3,12,4
+Philadelphia 76ers,F,Thaddeus Young,Cleveland Cavaliers,L,11/21/2012,36:13,5,12,0.417,0,0,0.0,1,2,0.5,3,8,11,2,2,1,1,2,11,0
+Philadelphia 76ers,C,Kwame Brown,Cleveland Cavaliers,L,11/21/2012,20:43,2,3,0.667,0,0,0.0,1,2,0.5,1,2,3,1,1,1,0,2,5,-1
+Philadelphia 76ers,G,Jason Richardson,Cleveland Cavaliers,L,11/21/2012,28:27,6,13,0.462,2,6,0.333,2,2,1.0,1,1,2,0,3,2,0,2,16,-15
+Philadelphia 76ers,G,Jrue Holiday,Cleveland Cavaliers,L,11/21/2012,38:33,6,16,0.375,2,3,0.667,2,2,1.0,1,0,1,5,1,1,4,3,16,-9
+Philadelphia 76ers,F,Evan Turner,Oklahoma City Thunder,L,11/24/2012,41:13,10,17,0.588,0,2,0.0,6,7,0.857,1,4,5,4,2,0,2,4,26,-4
+Philadelphia 76ers,F,Thaddeus Young,Oklahoma City Thunder,L,11/24/2012,44:22,13,23,0.565,0,0,0.0,3,3,1.0,6,9,15,4,1,1,3,3,29,5
+Philadelphia 76ers,C,Lavoy Allen,Oklahoma City Thunder,L,11/24/2012,28:17,3,4,0.75,0,0,0.0,2,2,1.0,2,2,4,3,1,2,2,4,8,-5
+Philadelphia 76ers,G,Jason Richardson,Oklahoma City Thunder,L,11/24/2012,18:04,5,7,0.714,3,5,0.6,0,0,0.0,0,1,1,0,1,0,2,2,13,-3
+Philadelphia 76ers,G,Jrue Holiday,Oklahoma City Thunder,L,11/24/2012,36:39,3,11,0.273,0,3,0.0,0,0,0.0,1,2,3,13,0,0,2,4,6,-16
+Philadelphia 76ers,F,Evan Turner,Phoenix Suns,W,11/25/2012,31:56,4,13,0.308,3,5,0.6,5,6,0.833,1,8,9,3,0,0,2,3,16,2
+Philadelphia 76ers,F,Thaddeus Young,Phoenix Suns,W,11/25/2012,35:50,5,7,0.714,0,0,0.0,0,2,0.0,0,4,4,2,1,1,0,3,10,11
+Philadelphia 76ers,C,Lavoy Allen,Phoenix Suns,W,11/25/2012,26:07,5,9,0.556,0,0,0.0,1,1,1.0,2,4,6,1,0,2,0,5,11,2
+Philadelphia 76ers,G,Jason Richardson,Phoenix Suns,W,11/25/2012,34:05,3,7,0.429,2,6,0.333,0,0,0.0,0,4,4,1,0,0,0,0,8,5
+Philadelphia 76ers,G,Jrue Holiday,Phoenix Suns,W,11/25/2012,38:57,13,21,0.619,1,2,0.5,6,8,0.75,1,2,3,13,0,0,2,1,33,11
+Philadelphia 76ers,F,Evan Turner,Dallas Mavericks,W,11/27/2012,35:49,8,12,0.667,2,4,0.5,4,5,0.8,0,4,4,4,0,0,2,1,22,-3
+Philadelphia 76ers,F,Thaddeus Young,Dallas Mavericks,W,11/27/2012,28:56,7,14,0.5,0,0,0.0,6,11,0.545,4,3,7,1,1,0,1,4,20,6
+Philadelphia 76ers,C,Lavoy Allen,Dallas Mavericks,W,11/27/2012,21:08,2,2,1.0,0,0,0.0,2,2,1.0,3,2,5,2,0,0,3,4,6,6
+Philadelphia 76ers,G,Jason Richardson,Dallas Mavericks,W,11/27/2012,30:45,2,8,0.25,2,3,0.667,0,0,0.0,0,8,8,1,3,0,1,3,6,13
+Philadelphia 76ers,G,Jrue Holiday,Dallas Mavericks,W,11/27/2012,41:27,7,13,0.538,0,1,0.0,4,4,1.0,0,0,0,7,3,1,6,4,18,1
+Philadelphia 76ers,F,Evan Turner,Charlotte Bobcats,W,11/30/2012,36:45,10,15,0.667,1,2,0.5,4,4,1.0,2,8,10,0,1,1,0,5,25,8
+Philadelphia 76ers,F,Thaddeus Young,Charlotte Bobcats,W,11/30/2012,36:58,7,13,0.538,0,0,0.0,1,2,0.5,1,6,7,2,0,1,1,3,15,11
+Philadelphia 76ers,C,Lavoy Allen,Charlotte Bobcats,W,11/30/2012,35:23,5,10,0.5,0,0,0.0,0,0,0.0,6,4,10,1,0,1,0,3,10,-3
+Philadelphia 76ers,G,Jason Richardson,Charlotte Bobcats,W,11/30/2012,30:21,9,17,0.529,4,8,0.5,0,0,0.0,1,4,5,1,2,1,2,1,22,17
+Philadelphia 76ers,G,Jrue Holiday,Charlotte Bobcats,W,11/30/2012,38:29,6,15,0.4,0,1,0.0,1,2,0.5,2,0,2,15,0,1,3,2,13,11
+Philadelphia 76ers,F,Evan Turner,Chicago Bulls,L,12/01/2012,42:51,6,17,0.353,0,1,0.0,0,0,0.0,0,4,4,7,3,0,1,1,12,-4
+Philadelphia 76ers,F,Thaddeus Young,Chicago Bulls,L,12/01/2012,40:19,10,16,0.625,0,0,0.0,2,5,0.4,1,6,7,1,4,4,1,2,22,-4
+Philadelphia 76ers,C,Lavoy Allen,Chicago Bulls,L,12/01/2012,33:10,4,8,0.5,0,0,0.0,2,2,1.0,3,5,8,0,0,1,0,4,10,-1
+Philadelphia 76ers,G,Jason Richardson,Chicago Bulls,L,12/01/2012,34:02,3,12,0.25,1,6,0.167,1,1,1.0,2,4,6,2,1,0,1,3,8,3
+Philadelphia 76ers,G,Jrue Holiday,Chicago Bulls,L,12/01/2012,38:34,9,17,0.529,1,3,0.333,4,6,0.667,1,2,3,7,2,0,1,2,23,3
+Philadelphia 76ers,F,Evan Turner,Minnesota Timberwolves,L,12/04/2012,36:27,8,20,0.4,2,4,0.5,1,3,0.333,1,4,5,2,1,0,3,3,19,-12
+Philadelphia 76ers,F,Thaddeus Young,Minnesota Timberwolves,L,12/04/2012,26:44,6,10,0.6,0,0,0.0,1,1,1.0,0,2,2,0,0,0,1,4,13,-8
+Philadelphia 76ers,C,Lavoy Allen,Minnesota Timberwolves,L,12/04/2012,24:29,3,6,0.5,0,0,0.0,0,0,0.0,1,4,5,1,2,1,1,2,6,0
+Philadelphia 76ers,G,Jason Richardson,Minnesota Timberwolves,L,12/04/2012,29:31,6,10,0.6,0,3,0.0,2,4,0.5,2,5,7,4,2,1,2,1,14,-12
+Philadelphia 76ers,G,Jrue Holiday,Minnesota Timberwolves,L,12/04/2012,31:11,5,13,0.385,0,4,0.0,3,4,0.75,1,4,5,9,1,0,3,1,13,-13
+Philadelphia 76ers,F,Evan Turner,Boston Celtics,W,12/07/2012,44:60,10,26,0.385,2,3,0.667,4,6,0.667,2,8,10,5,0,1,4,4,26,0
+Philadelphia 76ers,F,Thaddeus Young,Boston Celtics,W,12/07/2012,44:39,7,18,0.389,0,0,0.0,3,4,0.75,8,4,12,2,2,0,0,4,17,1
+Philadelphia 76ers,C,Lavoy Allen,Boston Celtics,W,12/07/2012,32:23,2,5,0.4,0,0,0.0,4,4,1.0,2,9,11,1,0,0,2,5,8,4
+Philadelphia 76ers,G,Jason Richardson,Boston Celtics,W,12/07/2012,41:36,5,13,0.385,0,5,0.0,3,4,0.75,0,3,3,3,5,0,0,0,13,5
+Philadelphia 76ers,G,Jrue Holiday,Boston Celtics,W,12/07/2012,43:02,7,18,0.389,0,0,0.0,1,2,0.5,1,5,6,4,3,0,1,6,15,4
+Philadelphia 76ers,F,Evan Turner,Boston Celtics,L,12/08/2012,40:13,6,16,0.375,1,3,0.333,0,0,0.0,1,2,3,3,0,0,1,3,13,-8
+Philadelphia 76ers,F,Thaddeus Young,Boston Celtics,L,12/08/2012,34:38,9,15,0.6,0,0,0.0,4,6,0.667,0,3,3,1,1,1,1,4,22,-9
+Philadelphia 76ers,C,Lavoy Allen,Boston Celtics,L,12/08/2012,22:26,2,8,0.25,0,0,0.0,0,0,0.0,4,5,9,2,1,0,1,1,4,-5
+Philadelphia 76ers,G,Jrue Holiday,Boston Celtics,L,12/08/2012,41:02,4,13,0.308,1,4,0.25,2,2,1.0,2,3,5,8,0,0,2,3,11,-5
+Philadelphia 76ers,G,Jason Richardson,Boston Celtics,L,12/08/2012,28:17,2,7,0.286,2,5,0.4,2,2,1.0,1,2,3,0,1,0,2,2,8,-16
+Philadelphia 76ers,F,Evan Turner,Detroit Pistons,W,12/10/2012,39:54,8,13,0.615,1,1,1.0,1,2,0.5,1,10,11,7,0,0,1,2,18,7
+Philadelphia 76ers,F,Thaddeus Young,Detroit Pistons,W,12/10/2012,37:12,9,13,0.692,0,0,0.0,2,6,0.333,3,1,4,1,5,0,2,3,20,9
+Philadelphia 76ers,C,Lavoy Allen,Detroit Pistons,W,12/10/2012,17:12,2,5,0.4,0,0,0.0,0,0,0.0,2,3,5,0,1,2,0,4,4,16
+Philadelphia 76ers,G,Jason Richardson,Detroit Pistons,W,12/10/2012,35:55,4,11,0.364,2,5,0.4,3,4,0.75,1,6,7,1,0,0,1,3,13,9
+Philadelphia 76ers,G,Jrue Holiday,Detroit Pistons,W,12/10/2012,36:49,11,20,0.55,1,4,0.25,2,4,0.5,1,4,5,8,2,1,3,4,25,8
+Philadelphia 76ers,F,Evan Turner,Chicago Bulls,L,12/12/2012,41:42,7,15,0.467,0,1,0.0,2,2,1.0,2,6,8,3,2,0,3,3,16,-3
+Philadelphia 76ers,F,Thaddeus Young,Chicago Bulls,L,12/12/2012,32:40,6,10,0.6,0,0,0.0,1,4,0.25,3,6,9,3,0,4,2,2,13,-14
+Philadelphia 76ers,C,Lavoy Allen,Chicago Bulls,L,12/12/2012,29:33,3,6,0.5,0,0,0.0,0,0,0.0,1,5,6,2,1,2,2,4,6,14
+Philadelphia 76ers,G,Jason Richardson,Chicago Bulls,L,12/12/2012,31:41,2,9,0.222,2,6,0.333,0,0,0.0,0,4,4,2,0,1,0,3,6,-3
+Philadelphia 76ers,G,Jrue Holiday,Chicago Bulls,L,12/12/2012,40:16,13,28,0.464,0,3,0.0,0,3,0.0,1,4,5,9,2,0,5,3,26,-7
+Philadelphia 76ers,F,Nick Young,Indiana Pacers,L,12/14/2012,37:14,4,14,0.286,0,2,0.0,0,0,0.0,0,1,1,5,0,0,2,2,8,-16
+Philadelphia 76ers,F,Thaddeus Young,Indiana Pacers,L,12/14/2012,37:02,5,12,0.417,0,0,0.0,2,2,1.0,0,7,7,1,3,3,0,4,12,-11
+Philadelphia 76ers,C,Kwame Brown,Indiana Pacers,L,12/14/2012,21:05,2,2,1.0,0,0,0.0,1,4,0.25,1,0,1,0,0,1,0,0,5,-11
+Philadelphia 76ers,G,Jason Richardson,Indiana Pacers,L,12/14/2012,20:26,1,6,0.167,1,2,0.5,0,0,0.0,1,1,2,1,0,0,0,1,3,-13
+Philadelphia 76ers,G,Evan Turner,Indiana Pacers,L,12/14/2012,41:52,9,16,0.563,2,2,1.0,2,2,1.0,0,10,10,5,1,0,5,1,22,-8
+Philadelphia 76ers,F,Nick Young,Los Angeles Lakers,L,12/16/2012,41:07,12,23,0.522,6,12,0.5,0,1,0.0,4,0,4,2,1,0,0,1,30,-9
+Philadelphia 76ers,F,Thaddeus Young,Los Angeles Lakers,L,12/16/2012,32:25,7,10,0.7,0,0,0.0,0,1,0.0,0,6,6,1,1,1,5,0,14,-12
+Philadelphia 76ers,C,Kwame Brown,Los Angeles Lakers,L,12/16/2012,22:19,1,2,0.5,0,0,0.0,0,0,0.0,3,5,8,1,1,3,1,4,2,-2
+Philadelphia 76ers,G,Jason Richardson,Los Angeles Lakers,L,12/16/2012,28:56,3,8,0.375,2,6,0.333,1,3,0.333,0,1,1,0,1,2,2,1,9,-10
+Philadelphia 76ers,G,Evan Turner,Los Angeles Lakers,L,12/16/2012,42:42,6,16,0.375,0,1,0.0,4,4,1.0,0,4,4,6,0,1,2,3,16,-14
+Philadelphia 76ers,F,Nick Young,Dallas Mavericks,L,12/18/2012,23:47,3,6,0.5,1,3,0.333,1,1,1.0,0,0,0,0,0,0,1,1,8,-9
+Philadelphia 76ers,F,Thaddeus Young,Dallas Mavericks,L,12/18/2012,36:32,5,13,0.385,0,0,0.0,2,4,0.5,4,3,7,2,1,0,1,2,12,-14
+Philadelphia 76ers,C,Kwame Brown,Dallas Mavericks,L,12/18/2012,19:18,2,3,0.667,0,0,0.0,0,0,0.0,1,6,7,1,1,0,1,3,4,-9
+Philadelphia 76ers,G,Jason Richardson,Dallas Mavericks,L,12/18/2012,29:39,5,14,0.357,1,7,0.143,0,0,0.0,1,5,6,4,3,0,1,1,11,7
+Philadelphia 76ers,G,Evan Turner,Dallas Mavericks,L,12/18/2012,38:05,7,16,0.438,3,6,0.5,0,0,0.0,0,5,5,5,1,1,4,2,17,-3
+Philadelphia 76ers,F,Thaddeus Young,Houston Rockets,L,12/19/2012,34:54,7,12,0.583,0,0,0.0,3,4,0.75,0,6,6,5,1,1,3,1,17,-13
+Philadelphia 76ers,F,Evan Turner,Houston Rockets,L,12/19/2012,20:43,3,7,0.429,0,1,0.0,0,0,0.0,1,1,2,3,0,0,1,1,6,-15
+Philadelphia 76ers,C,Kwame Brown,Houston Rockets,L,12/19/2012,4:08,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,2,-7
+Philadelphia 76ers,G,Jason Richardson,Houston Rockets,L,12/19/2012,30:38,5,10,0.5,1,3,0.333,0,0,0.0,1,2,3,1,1,0,2,3,11,-17
+Philadelphia 76ers,G,Maalik Wayns,Houston Rockets,L,12/19/2012,14:19,1,5,0.2,0,1,0.0,0,0,0.0,1,0,1,0,2,0,1,0,2,-11
+Philadelphia 76ers,F,Evan Turner,Atlanta Hawks,W,12/21/2012,41:23,10,17,0.588,1,2,0.5,0,0,0.0,1,4,5,6,0,0,2,2,21,29
+Philadelphia 76ers,F,Thaddeus Young,Atlanta Hawks,W,12/21/2012,40:00,9,16,0.563,0,0,0.0,0,0,0.0,4,7,11,4,5,0,1,1,18,23
+Philadelphia 76ers,C,Lavoy Allen,Atlanta Hawks,W,12/21/2012,35:41,3,7,0.429,0,0,0.0,0,0,0.0,4,3,7,3,1,1,3,0,6,10
+Philadelphia 76ers,G,Jason Richardson,Atlanta Hawks,W,12/21/2012,32:53,7,12,0.583,3,6,0.5,0,2,0.0,0,8,8,7,2,1,0,1,17,30
+Philadelphia 76ers,G,Jrue Holiday,Atlanta Hawks,W,12/21/2012,36:15,5,13,0.385,1,5,0.2,0,0,0.0,2,2,4,7,1,0,2,1,11,15
+Philadelphia 76ers,F,Evan Turner,Brooklyn Nets,L,12/23/2012,41:49,7,16,0.438,1,3,0.333,0,0,0.0,0,7,7,2,0,0,1,4,15,0
+Philadelphia 76ers,F,Thaddeus Young,Brooklyn Nets,L,12/23/2012,37:13,8,14,0.571,0,0,0.0,2,2,1.0,4,6,10,1,1,0,1,3,18,-7
+Philadelphia 76ers,C,Lavoy Allen,Brooklyn Nets,L,12/23/2012,30:07,6,11,0.545,0,0,0.0,0,0,0.0,5,4,9,1,0,0,0,2,12,6
+Philadelphia 76ers,G,Jason Richardson,Brooklyn Nets,L,12/23/2012,29:29,2,10,0.2,1,5,0.2,0,0,0.0,0,5,5,1,0,0,2,4,5,-14
+Philadelphia 76ers,G,Jrue Holiday,Brooklyn Nets,L,12/23/2012,37:52,9,16,0.563,3,3,1.0,3,4,0.75,2,4,6,9,0,1,2,5,24,0
+Philadelphia 76ers,F,Dorell Wright,Memphis Grizzlies,W,12/26/2012,35:27,8,11,0.727,5,8,0.625,7,8,0.875,0,6,6,1,1,2,0,2,28,10
+Philadelphia 76ers,F,Thaddeus Young,Memphis Grizzlies,W,12/26/2012,37:04,6,10,0.6,0,0,0.0,1,2,0.5,1,1,2,0,3,4,0,0,13,2
+Philadelphia 76ers,C,Lavoy Allen,Memphis Grizzlies,W,12/26/2012,26:40,2,6,0.333,0,0,0.0,2,4,0.5,3,3,6,1,0,0,2,4,6,-8
+Philadelphia 76ers,G,Evan Turner,Memphis Grizzlies,W,12/26/2012,40:43,0,4,0.0,0,0,0.0,1,2,0.5,0,6,6,9,2,1,6,2,1,2
+Philadelphia 76ers,G,Jrue Holiday,Memphis Grizzlies,W,12/26/2012,37:18,5,16,0.313,1,2,0.5,2,2,1.0,1,3,4,9,0,0,5,2,13,6
+Philadelphia 76ers,F,Dorell Wright,Golden State Warriors,L,12/28/2012,22:58,3,9,0.333,1,5,0.2,1,2,0.5,0,5,5,1,1,3,0,1,8,-5
+Philadelphia 76ers,F,Thaddeus Young,Golden State Warriors,L,12/28/2012,37:28,9,16,0.563,0,0,0.0,1,2,0.5,0,10,10,4,5,0,1,2,19,-10
+Philadelphia 76ers,C,Lavoy Allen,Golden State Warriors,L,12/28/2012,30:07,4,6,0.667,0,0,0.0,3,4,0.75,4,3,7,1,0,0,1,4,11,-6
+Philadelphia 76ers,G,Evan Turner,Golden State Warriors,L,12/28/2012,32:54,5,14,0.357,0,1,0.0,0,2,0.0,0,5,5,4,4,0,3,1,10,-10
+Philadelphia 76ers,G,Jrue Holiday,Golden State Warriors,L,12/28/2012,40:17,7,19,0.368,1,4,0.25,6,7,0.857,1,1,2,10,2,0,2,1,21,-12
+Philadelphia 76ers,F,Evan Turner,Portland Trail Blazers,L,12/29/2012,34:37,2,7,0.286,0,2,0.0,0,0,0.0,0,4,4,3,2,0,2,2,4,-2
+Philadelphia 76ers,F,Thaddeus Young,Portland Trail Blazers,L,12/29/2012,33:37,8,15,0.533,0,0,0.0,1,2,0.5,2,2,4,2,1,0,2,3,17,-6
+Philadelphia 76ers,C,Lavoy Allen,Portland Trail Blazers,L,12/29/2012,30:53,4,9,0.444,0,0,0.0,0,1,0.0,3,5,8,1,1,1,0,2,8,-3
+Philadelphia 76ers,G,Jason Richardson,Portland Trail Blazers,L,12/29/2012,21:58,2,5,0.4,1,3,0.333,0,0,0.0,1,2,3,1,0,0,1,0,5,3
+Philadelphia 76ers,G,Jrue Holiday,Portland Trail Blazers,L,12/29/2012,41:23,13,23,0.565,1,2,0.5,2,2,1.0,4,5,9,9,0,1,7,1,29,2
+Philadelphia 76ers,F,Evan Turner,Los Angeles Lakers,W,01/01/2013,40:55,8,14,0.571,2,3,0.667,4,7,0.571,1,12,13,5,2,1,1,1,22,3
+Philadelphia 76ers,F,Thaddeus Young,Los Angeles Lakers,W,01/01/2013,36:12,6,15,0.4,0,0,0.0,0,0,0.0,0,5,5,2,1,0,0,5,12,6
+Philadelphia 76ers,C,Lavoy Allen,Los Angeles Lakers,W,01/01/2013,17:43,5,8,0.625,0,0,0.0,0,0,0.0,3,3,6,0,1,1,1,5,10,6
+Philadelphia 76ers,G,Jason Richardson,Los Angeles Lakers,W,01/01/2013,27:14,4,11,0.364,1,6,0.167,0,2,0.0,0,2,2,3,0,0,2,3,9,1
+Philadelphia 76ers,G,Jrue Holiday,Los Angeles Lakers,W,01/01/2013,39:12,10,19,0.526,2,5,0.4,4,4,1.0,0,2,2,10,2,0,1,1,26,2
+Philadelphia 76ers,F,Evan Turner,Phoenix Suns,L,01/02/2013,33:57,6,16,0.375,0,2,0.0,1,2,0.5,0,2,2,1,2,0,3,4,13,-4
+Philadelphia 76ers,F,Thaddeus Young,Phoenix Suns,L,01/02/2013,35:55,6,10,0.6,0,0,0.0,2,2,1.0,2,8,10,2,2,0,0,4,14,-10
+Philadelphia 76ers,C,Lavoy Allen,Phoenix Suns,L,01/02/2013,35:27,5,11,0.455,0,0,0.0,0,0,0.0,3,6,9,2,0,0,0,1,10,4
+Philadelphia 76ers,G,Jason Richardson,Phoenix Suns,L,01/02/2013,18:36,2,4,0.5,0,1,0.0,0,0,0.0,0,2,2,0,0,0,1,1,4,-2
+Philadelphia 76ers,G,Jrue Holiday,Phoenix Suns,L,01/02/2013,38:46,6,16,0.375,1,3,0.333,3,4,0.75,3,7,10,10,2,2,6,3,16,-3
+Philadelphia 76ers,F,Thaddeus Young,Oklahoma City Thunder,L,01/04/2013,29:39,5,10,0.5,0,0,0.0,0,0,0.0,2,2,4,1,1,1,0,3,10,-13
+Philadelphia 76ers,F,Evan Turner,Oklahoma City Thunder,L,01/04/2013,30:12,2,7,0.286,1,1,1.0,0,0,0.0,0,6,6,5,2,0,6,2,5,-14
+Philadelphia 76ers,C,Lavoy Allen,Oklahoma City Thunder,L,01/04/2013,27:12,4,10,0.4,0,0,0.0,0,0,0.0,4,2,6,1,0,1,2,2,8,-17
+Philadelphia 76ers,G,Jason Richardson,Oklahoma City Thunder,L,01/04/2013,28:58,4,10,0.4,1,3,0.333,0,0,0.0,0,4,4,2,1,0,0,1,9,-10
+Philadelphia 76ers,G,Jrue Holiday,Oklahoma City Thunder,L,01/04/2013,31:57,7,13,0.538,1,6,0.167,0,0,0.0,0,1,1,9,0,0,4,3,15,-12
+Philadelphia 76ers,F,Thaddeus Young,San Antonio Spurs,L,01/05/2013,28:10,5,13,0.385,0,1,0.0,1,4,0.25,0,5,5,1,0,2,0,2,11,-18
+Philadelphia 76ers,F,Evan Turner,San Antonio Spurs,L,01/05/2013,30:52,4,13,0.308,0,4,0.0,4,4,1.0,0,7,7,5,3,0,3,1,12,-13
+Philadelphia 76ers,C,Lavoy Allen,San Antonio Spurs,L,01/05/2013,15:25,1,2,0.5,0,0,0.0,0,0,0.0,0,3,3,1,1,3,0,2,2,-14
+Philadelphia 76ers,G,Jason Richardson,San Antonio Spurs,L,01/05/2013,24:36,4,10,0.4,2,4,0.5,1,2,0.5,0,2,2,2,1,1,1,3,11,-23
+Philadelphia 76ers,G,Jrue Holiday,San Antonio Spurs,L,01/05/2013,32:55,5,15,0.333,1,2,0.5,0,0,0.0,2,6,8,8,0,1,5,1,11,-24
+Philadelphia 76ers,F,Evan Turner,Brooklyn Nets,L,01/08/2013,35:54,4,11,0.364,0,2,0.0,0,0,0.0,1,6,7,5,0,0,2,2,8,-12
+Philadelphia 76ers,F,Thaddeus Young,Brooklyn Nets,L,01/08/2013,30:07,4,8,0.5,0,0,0.0,1,2,0.5,2,4,6,1,0,1,0,1,9,-23
+Philadelphia 76ers,C,Lavoy Allen,Brooklyn Nets,L,01/08/2013,23:19,3,6,0.5,0,0,0.0,0,0,0.0,1,5,6,0,0,0,2,2,6,-15
+Philadelphia 76ers,G,Jason Richardson,Brooklyn Nets,L,01/08/2013,18:50,3,9,0.333,0,4,0.0,0,0,0.0,0,1,1,0,1,0,1,0,6,-12
+Philadelphia 76ers,G,Jrue Holiday,Brooklyn Nets,L,01/08/2013,29:58,7,11,0.636,3,3,1.0,2,2,1.0,0,3,3,8,1,0,4,2,19,-27
+Philadelphia 76ers,F,Dorell Wright,Toronto Raptors,L,01/09/2013,31:58,2,4,0.5,0,1,0.0,3,4,0.75,0,2,2,0,1,0,0,2,7,-14
+Philadelphia 76ers,F,Thaddeus Young,Toronto Raptors,L,01/09/2013,37:38,6,12,0.5,0,0,0.0,4,6,0.667,2,5,7,3,0,0,0,1,16,-10
+Philadelphia 76ers,C,Lavoy Allen,Toronto Raptors,L,01/09/2013,19:51,4,6,0.667,0,0,0.0,0,1,0.0,2,2,4,1,0,1,0,1,8,-8
+Philadelphia 76ers,G,Evan Turner,Toronto Raptors,L,01/09/2013,40:33,4,15,0.267,1,3,0.333,1,2,0.5,0,7,7,5,2,1,4,1,10,-10
+Philadelphia 76ers,G,Jrue Holiday,Toronto Raptors,L,01/09/2013,39:27,7,18,0.389,0,3,0.0,2,4,0.5,1,2,3,4,0,0,3,1,16,-16
+Philadelphia 76ers,F,Evan Turner,Houston Rockets,W,01/12/2013,33:56,6,10,0.6,0,1,0.0,0,0,0.0,0,7,7,6,0,0,2,1,12,-8
+Philadelphia 76ers,F,Thaddeus Young,Houston Rockets,W,01/12/2013,36:16,8,14,0.571,0,0,0.0,2,4,0.5,3,9,12,3,2,0,1,3,18,9
+Philadelphia 76ers,C,Lavoy Allen,Houston Rockets,W,01/12/2013,20:48,1,6,0.167,0,0,0.0,1,2,0.5,2,2,4,1,0,0,0,3,3,-3
+Philadelphia 76ers,G,Jason Richardson,Houston Rockets,W,01/12/2013,32:30,7,15,0.467,2,7,0.286,0,0,0.0,1,3,4,1,0,0,0,2,16,7
+Philadelphia 76ers,G,Jrue Holiday,Houston Rockets,W,01/12/2013,38:53,11,22,0.5,1,3,0.333,7,7,1.0,1,2,3,9,4,1,6,1,30,5
+Philadelphia 76ers,F,Evan Turner,New Orleans Hornets,L,01/15/2013,34:32,5,12,0.417,1,2,0.5,3,4,0.75,2,5,7,3,0,0,2,3,14,-9
+Philadelphia 76ers,F,Thaddeus Young,New Orleans Hornets,L,01/15/2013,39:29,6,18,0.333,0,0,0.0,0,1,0.0,4,2,6,3,1,2,1,2,12,-4
+Philadelphia 76ers,C,Lavoy Allen,New Orleans Hornets,L,01/15/2013,14:40,4,5,0.8,0,0,0.0,0,0,0.0,0,0,0,0,0,0,2,4,8,-9
+Philadelphia 76ers,G,Jason Richardson,New Orleans Hornets,L,01/15/2013,19:38,2,5,0.4,1,3,0.333,0,0,0.0,1,2,3,2,0,0,0,2,5,-12
+Philadelphia 76ers,G,Jrue Holiday,New Orleans Hornets,L,01/15/2013,36:13,10,17,0.588,4,5,0.8,5,5,1.0,1,4,5,11,4,0,4,3,29,-22
+Philadelphia 76ers,F,Evan Turner,Toronto Raptors,W,01/18/2013,39:18,3,8,0.375,1,2,0.5,1,2,0.5,0,2,2,7,0,0,2,6,8,11
+Philadelphia 76ers,F,Thaddeus Young,Toronto Raptors,W,01/18/2013,44:58,13,19,0.684,0,0,0.0,1,2,0.5,4,10,14,2,3,1,3,1,27,8
+Philadelphia 76ers,C,Lavoy Allen,Toronto Raptors,W,01/18/2013,30:22,6,9,0.667,0,0,0.0,0,0,0.0,1,5,6,1,0,3,1,1,12,7
+Philadelphia 76ers,G,Jason Richardson,Toronto Raptors,W,01/18/2013,27:37,3,11,0.273,1,6,0.167,0,0,0.0,0,2,2,1,0,0,0,3,7,13
+Philadelphia 76ers,G,Jrue Holiday,Toronto Raptors,W,01/18/2013,45:30,13,23,0.565,1,4,0.25,6,8,0.75,1,4,5,14,3,0,3,3,33,7
+Philadelphia 76ers,F,Dorell Wright,San Antonio Spurs,L,01/21/2013,16:26,1,5,0.2,0,3,0.0,1,2,0.5,0,4,4,3,0,0,0,1,3,-6
+Philadelphia 76ers,F,Thaddeus Young,San Antonio Spurs,L,01/21/2013,38:42,7,14,0.5,0,0,0.0,0,2,0.0,1,5,6,2,0,3,3,3,14,-17
+Philadelphia 76ers,C,Lavoy Allen,San Antonio Spurs,L,01/21/2013,17:22,1,3,0.333,0,0,0.0,0,0,0.0,3,5,8,0,1,0,0,2,2,-3
+Philadelphia 76ers,G,Evan Turner,San Antonio Spurs,L,01/21/2013,42:24,8,15,0.533,1,2,0.5,1,1,1.0,1,11,12,7,0,0,3,4,18,-10
+Philadelphia 76ers,G,Jrue Holiday,San Antonio Spurs,L,01/21/2013,37:19,7,20,0.35,0,1,0.0,1,1,1.0,0,2,2,8,4,0,6,0,15,-16
+Philadelphia 76ers,F,Evan Turner,Milwaukee Bucks,L,01/22/2013,44:36,8,19,0.421,4,7,0.571,3,4,0.75,0,6,6,7,1,1,2,4,23,-7
+Philadelphia 76ers,F,Thaddeus Young,Milwaukee Bucks,L,01/22/2013,37:55,5,16,0.313,0,0,0.0,1,2,0.5,4,5,9,2,2,0,2,1,11,-2
+Philadelphia 76ers,C,Lavoy Allen,Milwaukee Bucks,L,01/22/2013,11:43,2,6,0.333,0,0,0.0,0,0,0.0,2,3,5,0,0,1,1,1,4,-1
+Philadelphia 76ers,G,Jrue Holiday,Milwaukee Bucks,L,01/22/2013,39:40,3,12,0.25,0,1,0.0,3,4,0.75,3,3,6,12,0,1,8,5,9,-12
+Philadelphia 76ers,G,Royal Ivey,Milwaukee Bucks,L,01/22/2013,19:11,3,3,1.0,2,2,1.0,0,0,0.0,3,1,4,0,1,0,0,0,8,-11
+Philadelphia 76ers,F,Evan Turner,New York Knicks,W,01/26/2013,36:33,8,14,0.571,1,1,1.0,3,5,0.6,0,6,6,3,2,0,4,2,20,20
+Philadelphia 76ers,F,Thaddeus Young,New York Knicks,W,01/26/2013,35:45,4,8,0.5,0,1,0.0,2,2,1.0,0,4,4,1,0,1,0,3,10,30
+Philadelphia 76ers,C,Spencer Hawes,New York Knicks,W,01/26/2013,28:47,2,4,0.5,0,1,0.0,0,2,0.0,1,4,5,1,0,4,2,3,4,16
+Philadelphia 76ers,G,Nick Young,New York Knicks,W,01/26/2013,41:07,5,12,0.417,3,7,0.429,7,8,0.875,0,4,4,4,1,0,0,2,20,13
+Philadelphia 76ers,G,Jrue Holiday,New York Knicks,W,01/26/2013,38:29,16,25,0.64,1,4,0.25,2,3,0.667,0,5,5,6,1,0,1,2,35,30
+Philadelphia 76ers,F,Evan Turner,Memphis Grizzlies,L,01/28/2013,39:46,12,18,0.667,0,0,0.0,3,4,0.75,0,3,3,7,1,0,1,2,27,5
+Philadelphia 76ers,F,Thaddeus Young,Memphis Grizzlies,L,01/28/2013,40:03,11,19,0.579,0,1,0.0,1,2,0.5,3,4,7,2,4,1,0,3,23,5
+Philadelphia 76ers,C,Spencer Hawes,Memphis Grizzlies,L,01/28/2013,36:13,4,7,0.571,0,1,0.0,0,0,0.0,0,4,4,1,0,1,2,3,8,-3
+Philadelphia 76ers,G,Nick Young,Memphis Grizzlies,L,01/28/2013,33:04,5,13,0.385,2,4,0.5,1,1,1.0,0,2,2,1,1,1,1,0,13,-4
+Philadelphia 76ers,G,Jrue Holiday,Memphis Grizzlies,L,01/28/2013,40:08,9,19,0.474,0,1,0.0,0,0,0.0,1,2,3,10,1,0,4,1,18,-2
+Philadelphia 76ers,F,Evan Turner,Washington Wizards,W,01/30/2013,36:37,3,11,0.273,0,1,0.0,0,0,0.0,0,4,4,3,0,1,1,0,6,0
+Philadelphia 76ers,F,Thaddeus Young,Washington Wizards,W,01/30/2013,33:49,6,15,0.4,1,1,1.0,1,2,0.5,3,5,8,2,1,1,1,3,14,2
+Philadelphia 76ers,C,Spencer Hawes,Washington Wizards,W,01/30/2013,38:24,4,13,0.308,1,1,1.0,3,4,0.75,2,9,11,4,0,4,0,1,12,-2
+Philadelphia 76ers,G,Nick Young,Washington Wizards,W,01/30/2013,35:34,7,17,0.412,3,6,0.5,1,2,0.5,1,3,4,4,2,0,1,3,18,0
+Philadelphia 76ers,G,Jrue Holiday,Washington Wizards,W,01/30/2013,41:17,10,22,0.455,0,2,0.0,1,2,0.5,0,3,3,6,4,0,6,2,21,6
+Philadelphia 76ers,F,Evan Turner,Sacramento Kings,W,02/01/2013,31:03,3,8,0.375,0,1,0.0,2,4,0.5,1,5,6,6,2,0,4,1,8,12
+Philadelphia 76ers,F,Thaddeus Young,Sacramento Kings,W,02/01/2013,42:30,11,17,0.647,0,1,0.0,1,2,0.5,5,10,15,2,2,0,0,2,23,16
+Philadelphia 76ers,C,Spencer Hawes,Sacramento Kings,W,02/01/2013,25:49,4,13,0.308,0,1,0.0,2,2,1.0,0,1,1,1,0,0,3,2,10,-10
+Philadelphia 76ers,G,Nick Young,Sacramento Kings,W,02/01/2013,33:59,6,12,0.5,1,5,0.2,7,7,1.0,0,4,4,0,1,1,2,2,20,-7
+Philadelphia 76ers,G,Jrue Holiday,Sacramento Kings,W,02/01/2013,44:14,9,18,0.5,1,2,0.5,2,2,1.0,1,5,6,7,1,2,8,4,21,13
+Philadelphia 76ers,F,Evan Turner,Orlando Magic,W,02/04/2013,31:32,2,6,0.333,0,2,0.0,0,0,0.0,0,7,7,5,2,0,2,0,4,16
+Philadelphia 76ers,F,Thaddeus Young,Orlando Magic,W,02/04/2013,15:14,3,5,0.6,0,0,0.0,0,0,0.0,1,4,5,0,0,0,0,1,6,10
+Philadelphia 76ers,C,Spencer Hawes,Orlando Magic,W,02/04/2013,36:52,9,17,0.529,1,3,0.333,2,3,0.667,1,13,14,3,0,1,2,3,21,20
+Philadelphia 76ers,G,Nick Young,Orlando Magic,W,02/04/2013,36:20,7,15,0.467,1,7,0.143,0,0,0.0,1,5,6,2,4,2,2,2,15,19
+Philadelphia 76ers,G,Jrue Holiday,Orlando Magic,W,02/04/2013,40:48,6,15,0.4,0,1,0.0,1,2,0.5,0,4,4,14,1,0,1,1,13,18
+Philadelphia 76ers,F,Evan Turner,Indiana Pacers,L,02/06/2013,27:50,1,10,0.1,0,1,0.0,0,0,0.0,1,9,10,4,0,0,4,1,2,-22
+Philadelphia 76ers,F,Spencer Hawes,Indiana Pacers,L,02/06/2013,34:26,3,13,0.231,0,0,0.0,0,0,0.0,6,4,10,3,0,2,0,3,6,-11
+Philadelphia 76ers,C,Kwame Brown,Indiana Pacers,L,02/06/2013,6:14,0,1,0.0,0,0,0.0,0,0,0.0,0,4,4,1,0,0,1,0,0,-6
+Philadelphia 76ers,G,Nick Young,Indiana Pacers,L,02/06/2013,39:45,4,12,0.333,0,2,0.0,1,1,1.0,2,3,5,3,1,0,0,3,9,-20
+Philadelphia 76ers,G,Jrue Holiday,Indiana Pacers,L,02/06/2013,40:10,7,22,0.318,1,2,0.5,4,5,0.8,0,6,6,4,3,1,5,1,19,-12
+Philadelphia 76ers,F,Evan Turner,Charlotte Bobcats,W,02/09/2013,39:33,7,17,0.412,0,1,0.0,2,2,1.0,1,9,10,4,0,0,4,4,16,22
+Philadelphia 76ers,F,Lavoy Allen,Charlotte Bobcats,W,02/09/2013,41:13,7,16,0.438,0,0,0.0,0,0,0.0,11,11,22,3,0,1,1,2,14,18
+Philadelphia 76ers,C,Spencer Hawes,Charlotte Bobcats,W,02/09/2013,40:14,8,15,0.533,1,3,0.333,0,0,0.0,2,7,9,3,1,0,2,2,17,5
+Philadelphia 76ers,G,Nick Young,Charlotte Bobcats,W,02/09/2013,18:47,2,8,0.25,0,5,0.0,1,2,0.5,0,2,2,1,0,0,0,4,5,14
+Philadelphia 76ers,G,Jrue Holiday,Charlotte Bobcats,W,02/09/2013,39:11,10,23,0.435,0,3,0.0,0,0,0.0,0,3,3,7,0,0,3,1,20,11
+Philadelphia 76ers,F,Evan Turner,Los Angeles Clippers,L,02/11/2013,32:26,4,14,0.286,0,1,0.0,2,2,1.0,3,2,5,3,0,0,1,2,10,-25
+Philadelphia 76ers,F,Lavoy Allen,Los Angeles Clippers,L,02/11/2013,28:52,2,4,0.5,0,0,0.0,0,0,0.0,1,1,2,0,1,0,0,3,4,-30
+Philadelphia 76ers,C,Spencer Hawes,Los Angeles Clippers,L,02/11/2013,28:47,2,7,0.286,0,0,0.0,1,2,0.5,4,6,10,3,0,0,4,3,5,-20
+Philadelphia 76ers,G,Nick Young,Los Angeles Clippers,L,02/11/2013,34:07,10,18,0.556,4,7,0.571,5,6,0.833,0,2,2,5,3,0,2,2,29,-12
+Philadelphia 76ers,G,Jrue Holiday,Los Angeles Clippers,L,02/11/2013,29:13,4,14,0.286,2,4,0.5,0,0,0.0,2,1,3,9,1,0,3,1,10,-22
+Philadelphia 76ers,F,Evan Turner,Milwaukee Bucks,L,02/13/2013,40:36,8,19,0.421,0,2,0.0,4,4,1.0,0,3,3,1,0,0,4,2,20,1
+Philadelphia 76ers,F,Lavoy Allen,Milwaukee Bucks,L,02/13/2013,26:30,3,7,0.429,0,1,0.0,1,2,0.5,3,4,7,0,0,1,0,5,7,-1
+Philadelphia 76ers,C,Spencer Hawes,Milwaukee Bucks,L,02/13/2013,41:05,7,14,0.5,0,1,0.0,5,6,0.833,2,7,9,2,0,1,1,3,19,-4
+Philadelphia 76ers,G,Nick Young,Milwaukee Bucks,L,02/13/2013,32:46,4,6,0.667,2,3,0.667,4,4,1.0,1,4,5,1,0,0,1,3,14,-2
+Philadelphia 76ers,G,Jrue Holiday,Milwaukee Bucks,L,02/13/2013,39:17,6,17,0.353,1,2,0.5,3,4,0.75,1,4,5,12,2,1,5,4,16,0
+Philadelphia 76ers,F,Evan Turner,Minnesota Timberwolves,L,02/20/2013,36:11,6,16,0.375,0,0,0.0,5,6,0.833,2,4,6,2,2,1,4,5,17,-8
+Philadelphia 76ers,F,Lavoy Allen,Minnesota Timberwolves,L,02/20/2013,26:13,4,9,0.444,0,0,0.0,0,0,0.0,2,4,6,1,1,2,0,3,8,-15
+Philadelphia 76ers,C,Spencer Hawes,Minnesota Timberwolves,L,02/20/2013,32:10,3,9,0.333,0,1,0.0,3,4,0.75,2,6,8,3,0,1,2,4,9,-8
+Philadelphia 76ers,G,Nick Young,Minnesota Timberwolves,L,02/20/2013,31:44,1,7,0.143,0,1,0.0,4,9,0.444,2,3,5,3,0,0,0,3,6,-9
+Philadelphia 76ers,G,Jrue Holiday,Minnesota Timberwolves,L,02/20/2013,35:02,7,17,0.412,0,1,0.0,2,4,0.5,1,2,3,5,5,0,4,6,16,-16
+Philadelphia 76ers,F,Evan Turner,Miami Heat,L,02/23/2013,36:09,8,19,0.421,0,3,0.0,0,0,0.0,2,5,7,5,1,0,5,3,16,-17
+Philadelphia 76ers,F,Lavoy Allen,Miami Heat,L,02/23/2013,32:04,2,7,0.286,0,0,0.0,2,2,1.0,1,5,6,3,0,1,0,0,6,-14
+Philadelphia 76ers,C,Spencer Hawes,Miami Heat,L,02/23/2013,25:13,1,5,0.2,0,0,0.0,0,0,0.0,0,2,2,3,0,1,2,2,2,-15
+Philadelphia 76ers,G,Nick Young,Miami Heat,L,02/23/2013,33:21,8,14,0.571,3,7,0.429,0,0,0.0,0,0,0,2,0,1,1,3,19,-17
+Philadelphia 76ers,G,Jrue Holiday,Miami Heat,L,02/23/2013,37:28,8,11,0.727,2,3,0.667,3,4,0.75,1,5,6,6,0,0,2,3,21,-16
+Philadelphia 76ers,F,Evan Turner,New York Knicks,L,02/24/2013,41:05,7,18,0.389,0,1,0.0,7,7,1.0,1,5,6,8,1,0,3,3,21,0
+Philadelphia 76ers,F,Thaddeus Young,New York Knicks,L,02/24/2013,35:49,5,12,0.417,0,0,0.0,1,3,0.333,3,7,10,1,4,0,0,5,11,11
+Philadelphia 76ers,C,Spencer Hawes,New York Knicks,L,02/24/2013,28:37,3,11,0.273,0,0,0.0,4,4,1.0,5,4,9,1,0,1,2,2,10,-7
+Philadelphia 76ers,G,Jrue Holiday,New York Knicks,L,02/24/2013,43:44,12,24,0.5,3,7,0.429,3,4,0.75,0,5,5,5,0,1,4,3,30,9
+Philadelphia 76ers,G,Nick Young,New York Knicks,L,02/24/2013,17:10,0,4,0.0,0,2,0.0,0,0,0.0,0,2,2,0,1,0,0,2,0,-1
+Philadelphia 76ers,F,Evan Turner,Orlando Magic,L,02/26/2013,28:13,2,7,0.286,0,0,0.0,6,10,0.6,1,7,8,2,0,0,2,0,10,-27
+Philadelphia 76ers,F,Thaddeus Young,Orlando Magic,L,02/26/2013,33:57,4,11,0.364,0,0,0.0,0,0,0.0,5,5,10,0,3,0,0,1,8,-17
+Philadelphia 76ers,C,Spencer Hawes,Orlando Magic,L,02/26/2013,20:54,2,6,0.333,0,1,0.0,2,2,1.0,0,1,1,1,0,1,2,1,6,-17
+Philadelphia 76ers,G,Nick Young,Orlando Magic,L,02/26/2013,14:18,1,6,0.167,0,3,0.0,1,1,1.0,0,1,1,2,0,0,1,2,3,-9
+Philadelphia 76ers,G,Jrue Holiday,Orlando Magic,L,02/26/2013,39:28,4,11,0.364,1,3,0.333,0,0,0.0,0,3,3,10,0,0,1,3,9,-12
+Philadelphia 76ers,F,Evan Turner,Chicago Bulls,L,02/28/2013,38:52,6,16,0.375,0,1,0.0,0,1,0.0,0,8,8,4,2,0,3,5,12,-8
+Philadelphia 76ers,F,Thaddeus Young,Chicago Bulls,L,02/28/2013,38:43,4,13,0.308,0,0,0.0,1,4,0.25,3,6,9,1,0,2,2,4,9,-21
+Philadelphia 76ers,C,Spencer Hawes,Chicago Bulls,L,02/28/2013,36:43,7,18,0.389,0,1,0.0,6,6,1.0,5,10,15,1,0,2,0,5,20,-6
+Philadelphia 76ers,G,Nick Young,Chicago Bulls,L,02/28/2013,26:32,1,6,0.167,1,1,1.0,2,2,1.0,1,2,3,3,0,0,0,1,5,1
+Philadelphia 76ers,G,Jrue Holiday,Chicago Bulls,L,02/28/2013,41:20,10,19,0.526,1,4,0.25,1,3,0.333,1,2,3,3,3,1,4,3,22,-13
+Philadelphia 76ers,F,Evan Turner,Golden State Warriors,W,03/02/2013,42:39,10,15,0.667,2,3,0.667,0,2,0.0,1,9,10,9,1,1,2,1,22,3
+Philadelphia 76ers,F,Thaddeus Young,Golden State Warriors,W,03/02/2013,40:08,7,15,0.467,0,0,0.0,0,0,0.0,5,11,16,3,2,2,3,1,14,-3
+Philadelphia 76ers,C,Spencer Hawes,Golden State Warriors,W,03/02/2013,19:45,0,9,0.0,0,0,0.0,0,0,0.0,1,3,4,2,0,1,3,3,0,-8
+Philadelphia 76ers,G,Royal Ivey,Golden State Warriors,W,03/02/2013,24:43,6,6,1.0,4,4,1.0,1,3,0.333,0,0,0,1,0,0,3,4,17,-7
+Philadelphia 76ers,G,Jrue Holiday,Golden State Warriors,W,03/02/2013,42:10,11,20,0.55,3,5,0.6,2,2,1.0,2,3,5,7,4,0,8,2,27,9
+Philadelphia 76ers,F,Evan Turner,Washington Wizards,L,03/03/2013,33:40,4,13,0.308,0,0,0.0,3,4,0.75,1,9,10,4,0,0,1,4,11,8
+Philadelphia 76ers,F,Thaddeus Young,Washington Wizards,L,03/03/2013,34:19,5,12,0.417,0,0,0.0,4,6,0.667,2,4,6,2,3,0,1,2,14,2
+Philadelphia 76ers,C,Spencer Hawes,Washington Wizards,L,03/03/2013,38:39,6,11,0.545,1,2,0.5,1,2,0.5,2,9,11,3,0,1,1,4,14,-8
+Philadelphia 76ers,G,Royal Ivey,Washington Wizards,L,03/03/2013,23:55,2,5,0.4,0,2,0.0,0,0,0.0,1,3,4,2,1,0,0,2,4,-12
+Philadelphia 76ers,G,Jrue Holiday,Washington Wizards,L,03/03/2013,36:22,4,19,0.211,2,7,0.286,4,4,1.0,2,1,3,6,2,0,2,1,14,-2
+Philadelphia 76ers,F,Evan Turner,Boston Celtics,L,03/05/2013,44:12,6,19,0.316,1,4,0.25,5,5,1.0,3,6,9,7,2,0,2,5,18,-7
+Philadelphia 76ers,F,Thaddeus Young,Boston Celtics,L,03/05/2013,33:01,9,20,0.45,0,0,0.0,1,3,0.333,7,3,10,0,2,1,1,1,19,-11
+Philadelphia 76ers,C,Spencer Hawes,Boston Celtics,L,03/05/2013,28:05,7,12,0.583,0,0,0.0,0,0,0.0,4,2,6,1,0,2,2,2,14,8
+Philadelphia 76ers,G,Royal Ivey,Boston Celtics,L,03/05/2013,36:34,4,9,0.444,2,7,0.286,0,0,0.0,0,2,2,3,3,0,1,3,10,8
+Philadelphia 76ers,G,Jrue Holiday,Boston Celtics,L,03/05/2013,41:55,6,17,0.353,0,3,0.0,6,6,1.0,2,3,5,10,4,0,5,2,18,8
+Philadelphia 76ers,F,Evan Turner,Atlanta Hawks,L,03/06/2013,22:33,1,7,0.143,0,1,0.0,0,0,0.0,0,3,3,4,0,0,0,0,2,-13
+Philadelphia 76ers,F,Thaddeus Young,Atlanta Hawks,L,03/06/2013,26:11,8,11,0.727,0,0,0.0,0,1,0.0,2,4,6,0,2,0,1,1,16,-2
+Philadelphia 76ers,C,Spencer Hawes,Atlanta Hawks,L,03/06/2013,21:15,3,7,0.429,0,0,0.0,2,2,1.0,1,10,11,3,0,0,2,4,8,-6
+Philadelphia 76ers,G,Royal Ivey,Atlanta Hawks,L,03/06/2013,12:51,0,3,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,2,5,0,-14
+Philadelphia 76ers,G,Jrue Holiday,Atlanta Hawks,L,03/06/2013,38:13,3,12,0.25,1,3,0.333,4,5,0.8,2,2,4,12,1,1,4,0,11,7
+Philadelphia 76ers,F,Evan Turner,Miami Heat,L,03/08/2013,36:35,4,13,0.308,2,4,0.5,0,0,0.0,1,4,5,3,2,0,2,1,10,-22
+Philadelphia 76ers,F,Thaddeus Young,Miami Heat,L,03/08/2013,33:21,12,15,0.8,0,0,0.0,1,2,0.5,2,1,3,2,2,0,0,3,25,1
+Philadelphia 76ers,C,Spencer Hawes,Miami Heat,L,03/08/2013,30:03,4,10,0.4,0,1,0.0,5,5,1.0,0,10,10,1,0,2,3,5,13,-10
+Philadelphia 76ers,G,Charles Jenkins,Miami Heat,L,03/08/2013,15:43,1,3,0.333,0,0,0.0,0,0,0.0,0,1,1,0,2,0,0,0,2,-1
+Philadelphia 76ers,G,Jrue Holiday,Miami Heat,L,03/08/2013,40:59,3,11,0.273,1,3,0.333,2,2,1.0,0,4,4,13,1,0,4,2,9,4
+Philadelphia 76ers,F,Damien Wilkins,Orlando Magic,L,03/10/2013,37:15,6,12,0.5,1,3,0.333,3,3,1.0,0,1,1,6,0,3,4,1,16,-5
+Philadelphia 76ers,F,Thaddeus Young,Orlando Magic,L,03/10/2013,40:30,13,17,0.765,0,0,0.0,0,0,0.0,2,10,12,2,5,0,2,4,26,-10
+Philadelphia 76ers,C,Spencer Hawes,Orlando Magic,L,03/10/2013,31:42,6,12,0.5,1,1,1.0,2,2,1.0,1,6,7,4,0,0,0,2,15,4
+Philadelphia 76ers,G,Evan Turner,Orlando Magic,L,03/10/2013,27:52,2,5,0.4,2,2,1.0,0,0,0.0,0,2,2,2,0,0,2,0,6,7
+Philadelphia 76ers,G,Jrue Holiday,Orlando Magic,L,03/10/2013,38:54,4,16,0.25,0,1,0.0,0,2,0.0,1,4,5,8,3,2,2,3,8,-6
+Philadelphia 76ers,F,Evan Turner,Brooklyn Nets,W,03/11/2013,38:36,6,18,0.333,1,5,0.2,3,4,0.75,1,6,7,4,0,0,1,3,16,7
+Philadelphia 76ers,F,Thaddeus Young,Brooklyn Nets,W,03/11/2013,36:26,6,9,0.667,0,0,0.0,4,8,0.5,2,8,10,3,1,0,0,1,16,5
+Philadelphia 76ers,C,Spencer Hawes,Brooklyn Nets,W,03/11/2013,34:18,10,15,0.667,0,0,0.0,4,6,0.667,4,6,10,7,0,2,1,3,24,5
+Philadelphia 76ers,G,Damien Wilkins,Brooklyn Nets,W,03/11/2013,25:33,5,8,0.625,2,3,0.667,1,1,1.0,0,0,0,2,0,2,1,0,13,1
+Philadelphia 76ers,G,Jrue Holiday,Brooklyn Nets,W,03/11/2013,37:44,4,8,0.5,1,1,1.0,6,8,0.75,0,0,0,11,1,0,1,3,15,1
+Philadelphia 76ers,F,Evan Turner,Miami Heat,L,03/13/2013,37:50,7,13,0.538,0,2,0.0,1,2,0.5,0,3,3,5,1,0,2,4,15,-7
+Philadelphia 76ers,F,Thaddeus Young,Miami Heat,L,03/13/2013,37:02,11,20,0.55,0,0,0.0,2,2,1.0,5,10,15,3,0,1,1,4,24,-4
+Philadelphia 76ers,C,Spencer Hawes,Miami Heat,L,03/13/2013,22:56,2,5,0.4,0,0,0.0,2,2,1.0,1,4,5,2,0,0,2,5,6,-1
+Philadelphia 76ers,G,Damien Wilkins,Miami Heat,L,03/13/2013,30:11,2,4,0.5,0,1,0.0,1,2,0.5,1,1,2,5,1,0,2,4,5,-7
+Philadelphia 76ers,G,Jrue Holiday,Miami Heat,L,03/13/2013,42:34,9,18,0.5,3,5,0.6,0,2,0.0,4,3,7,7,3,1,3,1,21,-3
+Philadelphia 76ers,F,Evan Turner,Indiana Pacers,W,03/16/2013,33:52,5,11,0.455,0,2,0.0,1,2,0.5,0,4,4,2,1,0,2,4,11,7
+Philadelphia 76ers,F,Thaddeus Young,Indiana Pacers,W,03/16/2013,36:39,5,7,0.714,0,0,0.0,3,4,0.75,1,6,7,1,4,1,1,5,13,8
+Philadelphia 76ers,C,Spencer Hawes,Indiana Pacers,W,03/16/2013,34:06,7,14,0.5,1,1,1.0,3,4,0.75,2,14,16,8,0,7,3,4,18,12
+Philadelphia 76ers,G,Damien Wilkins,Indiana Pacers,W,03/16/2013,33:21,4,11,0.364,0,2,0.0,4,6,0.667,1,0,1,3,0,3,1,1,12,1
+Philadelphia 76ers,G,Jrue Holiday,Indiana Pacers,W,03/16/2013,42:52,12,25,0.48,2,3,0.667,1,1,1.0,3,3,6,12,0,0,3,2,27,7
+Philadelphia 76ers,F,Evan Turner,Portland Trail Blazers,W,03/18/2013,24:38,1,8,0.125,0,0,0.0,0,0,0.0,0,3,3,4,0,0,0,2,2,-4
+Philadelphia 76ers,F,Thaddeus Young,Portland Trail Blazers,W,03/18/2013,39:55,9,15,0.6,0,1,0.0,1,3,0.333,2,1,3,5,4,2,3,3,19,-7
+Philadelphia 76ers,C,Spencer Hawes,Portland Trail Blazers,W,03/18/2013,39:53,9,14,0.643,0,1,0.0,0,0,0.0,1,12,13,4,0,2,4,3,18,8
+Philadelphia 76ers,G,Damien Wilkins,Portland Trail Blazers,W,03/18/2013,35:45,6,8,0.75,0,1,0.0,0,0,0.0,1,1,2,6,1,0,4,3,12,0
+Philadelphia 76ers,G,Jrue Holiday,Portland Trail Blazers,W,03/18/2013,40:32,11,21,0.524,3,6,0.5,2,2,1.0,3,5,8,6,1,1,1,1,27,-2
+Philadelphia 76ers,F,Evan Turner,Los Angeles Clippers,L,03/20/2013,26:31,5,10,0.5,2,2,1.0,0,0,0.0,0,2,2,3,0,0,1,1,12,-9
+Philadelphia 76ers,F,Thaddeus Young,Los Angeles Clippers,L,03/20/2013,25:10,5,12,0.417,0,0,0.0,3,4,0.75,5,3,8,1,0,0,1,3,13,-4
+Philadelphia 76ers,C,Spencer Hawes,Los Angeles Clippers,L,03/20/2013,31:55,5,13,0.385,1,3,0.333,5,6,0.833,1,6,7,7,2,4,4,3,16,-13
+Philadelphia 76ers,G,Damien Wilkins,Los Angeles Clippers,L,03/20/2013,16:36,2,6,0.333,0,1,0.0,0,0,0.0,0,0,0,1,0,0,1,1,4,-14
+Philadelphia 76ers,G,Jrue Holiday,Los Angeles Clippers,L,03/20/2013,32:34,1,8,0.125,0,2,0.0,0,0,0.0,1,5,6,4,3,0,4,2,2,-8
+Philadelphia 76ers,F,Evan Turner,Denver Nuggets,L,03/21/2013,31:08,6,12,0.5,0,2,0.0,0,2,0.0,0,4,4,0,2,0,6,3,12,5
+Philadelphia 76ers,F,Thaddeus Young,Denver Nuggets,L,03/21/2013,34:21,9,15,0.6,0,0,0.0,0,0,0.0,0,1,1,1,2,0,2,3,18,-7
+Philadelphia 76ers,C,Spencer Hawes,Denver Nuggets,L,03/21/2013,38:09,8,11,0.727,1,2,0.5,0,0,0.0,2,10,12,5,0,4,3,6,17,22
+Philadelphia 76ers,G,Damien Wilkins,Denver Nuggets,L,03/21/2013,39:13,10,15,0.667,2,4,0.5,2,4,0.5,0,1,1,2,4,0,3,3,24,11
+Philadelphia 76ers,G,Jrue Holiday,Denver Nuggets,L,03/21/2013,37:43,6,12,0.5,3,5,0.6,3,3,1.0,0,6,6,15,4,1,5,3,18,3
+Philadelphia 76ers,F,Thaddeus Young,Sacramento Kings,W,03/24/2013,32:58,6,14,0.429,0,1,0.0,2,2,1.0,3,3,6,1,1,0,0,4,14,2
+Philadelphia 76ers,F,Evan Turner,Sacramento Kings,W,03/24/2013,30:18,3,7,0.429,0,1,0.0,1,2,0.5,0,2,2,8,1,0,1,3,7,1
+Philadelphia 76ers,C,Spencer Hawes,Sacramento Kings,W,03/24/2013,30:54,7,13,0.538,0,1,0.0,0,0,0.0,4,6,10,3,1,1,2,3,14,17
+Philadelphia 76ers,G,Damien Wilkins,Sacramento Kings,W,03/24/2013,39:30,6,13,0.462,1,3,0.333,4,5,0.8,2,4,6,3,1,1,0,2,17,13
+Philadelphia 76ers,G,Jrue Holiday,Sacramento Kings,W,03/24/2013,38:39,9,20,0.45,1,4,0.25,2,6,0.333,4,6,10,7,5,1,4,0,21,6
+Philadelphia 76ers,F,Thaddeus Young,Utah Jazz,L,03/25/2013,17:08,3,7,0.429,0,0,0.0,0,0,0.0,3,1,4,1,0,0,1,2,6,-13
+Philadelphia 76ers,F,Evan Turner,Utah Jazz,L,03/25/2013,31:01,2,6,0.333,1,2,0.5,1,2,0.5,2,4,6,0,1,0,3,3,6,-16
+Philadelphia 76ers,C,Spencer Hawes,Utah Jazz,L,03/25/2013,28:47,4,7,0.571,0,0,0.0,6,7,0.857,2,6,8,0,0,3,1,4,14,-21
+Philadelphia 76ers,G,Damien Wilkins,Utah Jazz,L,03/25/2013,22:47,5,9,0.556,0,2,0.0,3,4,0.75,0,0,0,1,1,0,2,2,13,-23
+Philadelphia 76ers,G,Jrue Holiday,Utah Jazz,L,03/25/2013,24:29,2,8,0.25,1,2,0.5,2,4,0.5,0,1,1,1,0,0,4,0,7,-28
+Philadelphia 76ers,F,Evan Turner,Milwaukee Bucks,W,03/27/2013,38:28,6,11,0.545,1,2,0.5,0,0,0.0,0,7,7,4,0,0,2,1,13,22
+Philadelphia 76ers,F,Thaddeus Young,Milwaukee Bucks,W,03/27/2013,37:13,7,12,0.583,0,0,0.0,0,0,0.0,4,3,7,2,2,2,2,2,14,1
+Philadelphia 76ers,C,Spencer Hawes,Milwaukee Bucks,W,03/27/2013,35:06,7,14,0.5,1,1,1.0,0,0,0.0,5,12,17,4,0,0,0,2,15,3
+Philadelphia 76ers,G,Damien Wilkins,Milwaukee Bucks,W,03/27/2013,26:07,7,15,0.467,1,3,0.333,3,4,0.75,3,2,5,4,2,0,3,2,18,-4
+Philadelphia 76ers,G,Jrue Holiday,Milwaukee Bucks,W,03/27/2013,37:08,6,17,0.353,2,3,0.667,4,4,1.0,2,2,4,6,0,0,6,4,18,-2
+Philadelphia 76ers,F,Thaddeus Young,Cleveland Cavaliers,W,03/29/2013,40:55,9,13,0.692,0,0,0.0,0,2,0.0,3,3,6,1,1,0,1,2,18,10
+Philadelphia 76ers,F,Evan Turner,Cleveland Cavaliers,W,03/29/2013,37:50,9,17,0.529,2,6,0.333,3,4,0.75,2,11,13,4,0,0,1,3,23,10
+Philadelphia 76ers,C,Spencer Hawes,Cleveland Cavaliers,W,03/29/2013,35:57,7,17,0.412,2,3,0.667,0,0,0.0,3,8,11,5,0,2,1,1,16,15
+Philadelphia 76ers,G,Damien Wilkins,Cleveland Cavaliers,W,03/29/2013,38:01,2,3,0.667,0,0,0.0,3,4,0.75,1,2,3,6,1,2,2,1,7,18
+Philadelphia 76ers,G,Jrue Holiday,Cleveland Cavaliers,W,03/29/2013,35:30,9,20,0.45,2,3,0.667,0,0,0.0,1,4,5,6,3,1,3,2,20,8
+Philadelphia 76ers,F,Evan Turner,Charlotte Bobcats,W,03/30/2013,32:24,8,14,0.571,1,3,0.333,5,6,0.833,0,7,7,3,0,0,2,2,22,-3
+Philadelphia 76ers,F,Thaddeus Young,Charlotte Bobcats,W,03/30/2013,38:17,6,10,0.6,0,1,0.0,3,3,1.0,3,7,10,3,2,0,2,3,15,10
+Philadelphia 76ers,C,Spencer Hawes,Charlotte Bobcats,W,03/30/2013,34:29,8,12,0.667,1,2,0.5,2,2,1.0,4,2,6,6,0,1,2,4,19,15
+Philadelphia 76ers,G,Damien Wilkins,Charlotte Bobcats,W,03/30/2013,35:40,6,10,0.6,0,0,0.0,3,5,0.6,0,4,4,2,0,0,0,4,15,0
+Philadelphia 76ers,G,Jrue Holiday,Charlotte Bobcats,W,03/30/2013,40:58,6,17,0.353,0,3,0.0,2,6,0.333,0,3,3,9,0,0,4,2,14,4
+Philadelphia 76ers,F,Evan Turner,Charlotte Bobcats,L,04/03/2013,32:48,6,15,0.4,0,1,0.0,2,2,1.0,1,5,6,3,2,0,5,4,14,-12
+Philadelphia 76ers,F,Thaddeus Young,Charlotte Bobcats,L,04/03/2013,33:27,2,9,0.222,0,0,0.0,2,2,1.0,1,6,7,0,3,0,2,0,6,-14
+Philadelphia 76ers,C,Spencer Hawes,Charlotte Bobcats,L,04/03/2013,33:13,5,9,0.556,0,1,0.0,2,2,1.0,2,5,7,1,1,1,0,2,12,-6
+Philadelphia 76ers,G,Damien Wilkins,Charlotte Bobcats,L,04/03/2013,33:16,7,14,0.5,0,1,0.0,6,8,0.75,5,4,9,1,1,0,0,3,20,-7
+Philadelphia 76ers,G,Jrue Holiday,Charlotte Bobcats,L,04/03/2013,36:33,2,24,0.083,0,5,0.0,1,1,1.0,3,3,6,8,3,0,3,4,5,-10
+Philadelphia 76ers,F,Evan Turner,Atlanta Hawks,W,04/05/2013,37:43,9,15,0.6,3,4,0.75,3,4,0.75,0,11,11,2,1,0,3,2,24,15
+Philadelphia 76ers,F,Thaddeus Young,Atlanta Hawks,W,04/05/2013,36:39,6,9,0.667,0,0,0.0,2,4,0.5,5,8,13,2,1,1,4,4,14,14
+Philadelphia 76ers,C,Spencer Hawes,Atlanta Hawks,W,04/05/2013,38:16,8,17,0.471,1,1,1.0,2,2,1.0,4,8,12,3,1,0,0,1,19,11
+Philadelphia 76ers,G,Damien Wilkins,Atlanta Hawks,W,04/05/2013,33:13,5,8,0.625,2,3,0.667,4,4,1.0,1,3,4,5,1,1,0,5,16,11
+Philadelphia 76ers,G,Jrue Holiday,Atlanta Hawks,W,04/05/2013,41:34,3,14,0.214,0,1,0.0,3,6,0.5,1,2,3,8,2,1,2,1,9,5
+Philadelphia 76ers,F,Evan Turner,Miami Heat,L,04/06/2013,31:56,6,10,0.6,0,2,0.0,2,4,0.5,1,4,5,5,0,0,1,1,14,-33
+Philadelphia 76ers,F,Thaddeus Young,Miami Heat,L,04/06/2013,29:23,4,11,0.364,0,0,0.0,1,2,0.5,1,0,1,0,1,0,0,4,9,-13
+Philadelphia 76ers,C,Spencer Hawes,Miami Heat,L,04/06/2013,28:11,4,9,0.444,2,3,0.667,1,2,0.5,3,8,11,0,1,0,1,1,11,-16
+Philadelphia 76ers,G,Damien Wilkins,Miami Heat,L,04/06/2013,32:13,3,10,0.3,0,1,0.0,1,1,1.0,1,2,3,0,2,0,1,3,7,-24
+Philadelphia 76ers,G,Jrue Holiday,Miami Heat,L,04/06/2013,39:04,7,17,0.412,3,4,0.75,1,1,1.0,1,4,5,6,2,1,5,1,18,-4
+Philadelphia 76ers,F,Evan Turner,Brooklyn Nets,L,04/09/2013,28:06,3,10,0.3,1,1,1.0,4,4,1.0,0,3,3,5,0,0,0,2,11,-20
+Philadelphia 76ers,F,Thaddeus Young,Brooklyn Nets,L,04/09/2013,24:41,1,9,0.111,0,0,0.0,1,2,0.5,2,1,3,2,0,0,1,3,3,-12
+Philadelphia 76ers,C,Spencer Hawes,Brooklyn Nets,L,04/09/2013,22:40,3,9,0.333,0,1,0.0,1,2,0.5,1,5,6,0,1,0,3,3,7,-25
+Philadelphia 76ers,G,Damien Wilkins,Brooklyn Nets,L,04/09/2013,22:01,1,5,0.2,0,0,0.0,3,4,0.75,0,0,0,1,0,0,0,0,5,-22
+Philadelphia 76ers,G,Jrue Holiday,Brooklyn Nets,L,04/09/2013,27:56,5,10,0.5,3,5,0.6,2,2,1.0,1,1,2,1,1,0,1,0,15,-31
+Philadelphia 76ers,F,Evan Turner,Atlanta Hawks,L,04/10/2013,38:31,4,12,0.333,0,1,0.0,1,2,0.5,1,4,5,7,0,0,5,4,9,-13
+Philadelphia 76ers,F,Thaddeus Young,Atlanta Hawks,L,04/10/2013,31:39,14,20,0.7,0,0,0.0,0,0,0.0,2,6,8,2,1,0,2,2,28,-16
+Philadelphia 76ers,C,Spencer Hawes,Atlanta Hawks,L,04/10/2013,25:12,2,6,0.333,1,2,0.5,0,0,0.0,1,5,6,2,0,0,0,2,5,-10
+Philadelphia 76ers,G,Damien Wilkins,Atlanta Hawks,L,04/10/2013,22:42,0,7,0.0,0,0,0.0,6,6,1.0,0,2,2,4,2,0,1,1,6,-9
+Philadelphia 76ers,G,Jrue Holiday,Atlanta Hawks,L,04/10/2013,27:25,4,14,0.286,1,5,0.2,3,3,1.0,2,3,5,1,0,0,5,3,12,-19
+Philadelphia 76ers,F,Evan Turner,Washington Wizards,W,04/12/2013,24:16,0,11,0.0,0,0,0.0,0,0,0.0,0,4,4,7,1,1,0,2,0,-6
+Philadelphia 76ers,F,Thaddeus Young,Washington Wizards,W,04/12/2013,33:48,8,9,0.889,0,0,0.0,2,2,1.0,2,11,13,1,4,0,1,2,18,15
+Philadelphia 76ers,C,Spencer Hawes,Washington Wizards,W,04/12/2013,36:01,7,16,0.438,1,4,0.25,0,0,0.0,3,5,8,4,1,2,3,2,15,8
+Philadelphia 76ers,G,Damien Wilkins,Washington Wizards,W,04/12/2013,30:24,6,13,0.462,2,3,0.667,1,1,1.0,1,5,6,3,0,0,3,2,15,9
+Philadelphia 76ers,G,Jrue Holiday,Washington Wizards,W,04/12/2013,36:46,8,17,0.471,1,4,0.25,5,5,1.0,0,0,0,7,1,0,2,2,22,12
+Philadelphia 76ers,F,Evan Turner,Cleveland Cavaliers,W,04/14/2013,30:51,3,10,0.3,1,3,0.333,0,0,0.0,1,5,6,4,0,1,1,0,7,18
+Philadelphia 76ers,F,Thaddeus Young,Cleveland Cavaliers,W,04/14/2013,33:04,5,11,0.455,0,0,0.0,4,6,0.667,3,6,9,4,3,0,2,0,14,22
+Philadelphia 76ers,C,Spencer Hawes,Cleveland Cavaliers,W,04/14/2013,35:34,6,11,0.545,1,2,0.5,1,2,0.5,0,5,5,6,2,4,2,4,14,20
+Philadelphia 76ers,G,Damien Wilkins,Cleveland Cavaliers,W,04/14/2013,29:50,5,9,0.556,1,2,0.5,0,0,0.0,1,3,4,2,1,0,0,1,11,10
+Philadelphia 76ers,G,Jrue Holiday,Cleveland Cavaliers,W,04/14/2013,31:31,6,17,0.353,1,3,0.333,1,1,1.0,2,3,5,4,1,0,2,2,14,21
+Philadelphia 76ers,F,Evan Turner,Detroit Pistons,L,04/15/2013,29:06,5,13,0.385,1,3,0.333,2,2,1.0,0,3,3,5,1,0,0,2,13,-8
+Philadelphia 76ers,F,Thaddeus Young,Detroit Pistons,L,04/15/2013,22:52,5,8,0.625,0,0,0.0,1,2,0.5,2,1,3,1,2,0,0,2,11,1
+Philadelphia 76ers,C,Spencer Hawes,Detroit Pistons,L,04/15/2013,30:40,6,13,0.462,0,1,0.0,1,1,1.0,3,6,9,3,1,1,3,3,13,-8
+Philadelphia 76ers,G,Damien Wilkins,Detroit Pistons,L,04/15/2013,31:37,2,6,0.333,0,0,0.0,0,2,0.0,0,3,3,5,1,0,0,1,4,2
+Philadelphia 76ers,G,Jrue Holiday,Detroit Pistons,L,04/15/2013,27:32,7,15,0.467,0,3,0.0,0,0,0.0,1,2,3,3,1,0,5,0,14,-7
+Philadelphia 76ers,F,Evan Turner,Indiana Pacers,W,04/17/2013,39:32,7,18,0.389,1,3,0.333,1,2,0.5,1,5,6,5,2,0,2,4,16,11
+Philadelphia 76ers,F,Thaddeus Young,Indiana Pacers,W,04/17/2013,21:20,5,7,0.714,0,0,0.0,0,0,0.0,0,8,8,0,3,0,1,4,10,14
+Philadelphia 76ers,C,Spencer Hawes,Indiana Pacers,W,04/17/2013,4:14,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,0,0,1,0,2,3,9
+Philadelphia 76ers,G,Damien Wilkins,Indiana Pacers,W,04/17/2013,35:48,6,11,0.545,0,2,0.0,3,3,1.0,0,2,2,2,1,1,4,5,15,3
+Philadelphia 76ers,G,Jrue Holiday,Indiana Pacers,W,04/17/2013,9:16,2,2,1.0,1,1,1.0,0,0,0.0,0,1,1,0,0,0,1,0,5,10

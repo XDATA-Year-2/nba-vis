@@ -1,0 +1,81 @@
+{
+	"team": "Minnesota Timberwolves",
+	"players": [
+		{
+			"name": "Andrei Kirilenko",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Derrick Williams",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Nikola Pekovic",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Brandon Roy",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Luke Ridnour",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Chase Budinger",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Malcolm Lee",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Greg Stiemsma",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Kevin Love",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Josh Howard",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jose Juan Barea",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Alexey Shved",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Dante Cunningham",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Ricky Rubio",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Mickael Gelabale",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Will Conroy",
+			"positions": [""]
+		},
+		{
+			"name": "Lou Amundson",
+			"positions": [""]
+		},
+		{
+			"name": "Lazar Hayward",
+			"positions": [""]
+		},
+		{
+			"name": "Chris Johnson",
+			"positions": [""]
+		}
+	]
+}

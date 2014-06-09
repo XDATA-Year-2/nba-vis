@@ -1,0 +1,93 @@
+{
+	"team": "Dallas Mavericks",
+	"players": [
+		{
+			"name": "Shawn Marion",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Elton Brand",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Brandan Wright",
+			"positions": ["Center"]
+		},
+		{
+			"name": "O.J. Mayo",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Darren Collison",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jae Crowder",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Chris Kaman",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Dahntay Jones",
+			"positions": ["Foward"]
+		},
+		{
+			"name": "Froy Murphy",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Dominique Jones",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Derek Fisher",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Vince Carter",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Dirk Nowitzki",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Bernard James",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Mike James",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Eddy Curry",
+			"positions": [""]
+		},
+		{
+			"name": "Rodrigue Beaubois",
+			"positions": [""]
+		},
+		{
+			"name": "Jared Cunningham",
+			"positions": [""]
+		},
+		{
+			"name": "Chris Douglas-Roberts",
+			"positions": [""]
+		},
+		{
+			"name": "Anthony Morrow",
+			"positions": [""]
+		},
+		{
+			"name": "Justin Dentmon",
+			"positions": [""]
+		},
+		{
+			"name": "Josh Akognon",
+			"positions": [""]
+		}
+	]
+}

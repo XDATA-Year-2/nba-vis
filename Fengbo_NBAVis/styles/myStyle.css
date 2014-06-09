@@ -1,0 +1,317 @@
+body {
+    font: 10px sans-serif;
+    background-color: #182129 !important;
+    color: #bbb !important;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #666;
+    shape-rendering: crispEdges;
+}
+
+.tick {
+	fill: #888;
+}
+.label {
+	fill: #888;
+}
+
+.dot {
+    opacity: 0;
+    /*stroke: #000;*/
+}
+
+.starter {
+    /*fill: #7ECB1B;
+    opacity: 0.9;*/
+}
+
+.reserve {
+	/*fill: #F27A55;
+	opacity: 0.9;*/
+}
+
+.sidebar h4 {
+	color: #999;
+}
+
+/*Tooltip Styles*/
+.tooltip {
+	line-height: 1.4;
+	font-weight: bold;
+	padding: 12px;
+	background: rgba(40, 40, 40, 0.8);
+	box-shadow: 1px 1px 5px #333;
+	color: #fff;
+	border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.tooltip:after {
+	box-sizing: border-box;
+	display: inline;
+	font-size: 10px;
+	width: 100%;
+	line-height: 1;
+	color: rgba(40, 40, 40, 0.86);
+	content: "\25BC";
+	position: absolute;
+	text-align: center;
+}
+
+/* Style northward tooltips differently */
+.tooltip.n:after {
+	margin: -1px 0 0 0;
+	top: 100%;
+	left: 0;
+}
+
+.tooltip-detail-title {
+	color: #888;
+	font-weight: normal;
+}
+
+.tooltip-detail-num {
+	color: #f1c40f;
+	font-weight: normal;
+}
+
+.tooltipHeader {
+	font-size: 1.3em;
+	color: #2b8cbe;
+}
+
+.tooltip-txt {
+	color: #9e9ac8;
+	font-weight: normal;
+}
+
+.tooltip-win {
+	color: #2ecc71;
+}
+
+.tooltip-loss {
+	color: #f39c12;
+}
+
+.tooltip-row-name {
+	color: #aaa;
+	font-weight: normal;
+}
+
+.tooltip-opponent {
+	color: #80AED6;
+}
+
+.scatterPlotTxt {
+	fill: #fff;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+hr {
+	background: transparent;
+	color: transparent;
+	border-left:  none;
+	border-right: none;
+	border-top:   none;
+	border-bottom: 1px dashed #888;
+}
+/*
+.tooltip.n:after {
+	margin: -1px 0 0 0;
+	top: 100%;
+	left: 0;
+}
+
+.tooltip-detail-title {
+	color: #ddd;
+	font-weight: normal;
+}
+
+.tooltip-detail-num {
+	color: #f1c40f;
+	font-weight: normal;
+}
+
+.tooltipHeader {
+	font-size: 14px;
+}
+
+.scatterPlotTxt {
+	fill: #fff;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+hr {
+	background: transparent;
+	color: transparent;
+	border-left:  none;
+	border-right: none;
+	border-top:   none;
+	border-bottom: 1px dashed #888;
+}*/
+/* Style northward tooltips differently */
+
+.vis-container {
+	overflow: auto;
+	margin-top: 20px;	
+}
+
+#titleBar {
+	margin-bottom: 20px !important;
+	padding-bottom: 8px;
+	border-bottom: thin solid #aaa;
+}
+
+.page-header {
+	font-family: 'Oswald', sans-serif !important;
+}
+
+.player-default {
+	opacity: 0.9;
+}
+
+.player-dim {
+	opacity: 0.3 !important;
+}
+
+.player-selected {
+	opacity: 1 !important;
+}
+
+.img-thumbnail {	
+    background-color: #666 !important;
+}
+
+.img-thumbnail-selected {
+	background-color: #f39c12 !important;
+}
+
+.img-thumbnail:hover {
+	background-color: #f39c12 !important;
+}
+
+.legend-circle {
+	opacity: 0.7;
+}
+
+.circle-default {
+	opacity: 0.5;
+}
+
+.circle-default:hover {
+	opacity: 0.9 !important;
+}
+
+.circle-dim {
+	opacity: 0.1 !important;
+}
+
+.circle-selected {
+	opacity: 0.9 !important;
+	stroke: #ddd;
+	stroke-width: 2px;
+	stroke-opacity: 0.8;
+}
+
+.circle-highlighted {
+	opacity: 0.9 !important;
+}
+/*
+.circle-default {
+	opacity: 0.5;
+}
+
+.circle-dim {
+	opacity: 0.1 !important;
+}
+
+.circle-selected {
+	opacity: 0.9 !important;
+}*/
+
+.placeholder {
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+}
+
+.sidebar {
+	background-color: #182129 !important;
+}
+
+.text-muted {
+	font-size: 0.8em;	
+	color: #666 !important;
+	line-height: 0.7em;
+}
+
+select {
+	color: #444 !important;
+}
+
+option {
+	background-color: #ddd;
+}
+
+#playerStatsSection {	
+	overflow: auto;
+	text-align: left;
+}
+
+#playerPicSection {
+	margin-bottom: 10px !important;
+}
+
+#playerStatsSection {
+	margin-bottom: 0px !important;
+} 
+
+#gameScoreBarChartSVG {
+	overflow: auto !important;
+}
+
+.bar-default {
+	opacity: 0.5;
+}
+
+.bar-default:hover {
+	opacity: 0.8;
+}
+
+.bar-selected {
+	opacity: 1 !important;
+}
+
+.winlossBtn-default {
+	opacity: 0.5;
+}
+
+.winlossBtn-highlighted {
+	opacity: 0.8 !important;
+}
+
+.winlossBtn-selected {
+	opacity: 1.0 !important;
+}
+
+.winlossBtn-default:hover {
+	opacity: 0.8;
+}
+
+.winlossBtnTxt:hover {
+	cursor: pointer;
+}
+
+#gameScoreBarChartSVG .axis text {
+	font-size: 0.7em !important;
+}
+
+#selectedTeam {
+	font-family: "Oswald";
+	text-align: center;
+	margin: 0px auto 20px;
+}

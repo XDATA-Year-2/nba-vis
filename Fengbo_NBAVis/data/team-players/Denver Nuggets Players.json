@@ -1,0 +1,65 @@
+{
+	"team": "Denver Nuggets",
+	"players": [
+		{
+			"name": "Jordan Hamilton",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kenneth Faried",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kosta Koufos",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Andre Iguodala",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Ty Lawson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Danilo Galinari",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Timofey Mozgov",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Andre Miller",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Corey Brewer",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Evan Fournier",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Wilson Chandler",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "JaVale McGee",
+			"positions": [""]
+		},
+		{
+			"name": "Anthony Randolph",
+			"positions": [""]
+		},
+		{
+			"name": "Quincy Miller",
+			"positions": [""]
+		},
+		{
+			"name": "Julyan Stone",
+			"positions": [""]
+		}
+	]
+}

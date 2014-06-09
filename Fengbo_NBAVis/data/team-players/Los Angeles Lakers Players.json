@@ -1,0 +1,65 @@
+{
+	"team": "Los Angeles Lakers",
+	"players": [
+		{
+			"name": "Metta World Peace",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Pau Gasol",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Dwight Howard",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Kobe Bryant",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Steve Nash",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Steve Blake",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Darius Morris",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Antawn Jamison",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Chris Duhon",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jordan Hill",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Devin Ebanks",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Robert Sacre",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Earl Clark",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jodie Meeks",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Andrew Goudelock",
+			"positions": [""]
+		}
+	]
+}

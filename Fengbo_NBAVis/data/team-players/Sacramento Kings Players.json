@@ -1,0 +1,69 @@
+{
+	"team": "Sacramento Kings",
+	"players": [
+		{
+			"name": "James Johnson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jason Thompson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "DeMarcus Cousins",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Tyreke Evans",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Isaiah Thomas",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Travis Outlaw",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Charles Hayes",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Aaron Brooks",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "John Salmons",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Marcus Thornton",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Francisco Garcia",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Patrick Patterson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jimmer Fredette",
+			"positions": [""]
+		},
+		{
+			"name": "Tyler Honeycutt",
+			"positions": [""]
+		},
+		{
+			"name": "Toney Douglas",
+			"positions": [""]
+		},
+		{
+			"name": "Cole Aldrich",
+			"positions": [""]
+		}
+	]
+}

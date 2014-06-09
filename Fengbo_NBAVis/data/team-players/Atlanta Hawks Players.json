@@ -1,0 +1,69 @@
+{
+	"team": "Atlanta Hawks",
+	"players": [
+		{
+			"name": "Kyle Korver",
+			"positions": [""]
+		},
+		{
+			"name": "Josh Smith",
+			"positions": [""]
+		},
+		{
+			"name": "Al Horford",
+			"positions": [""]
+		},
+		{
+			"name": "Devin Harris",
+			"positions": [""]
+		},
+		{
+			"name": "Jeff Teague",
+			"positions": [""]
+		},
+		{
+			"name": "Anthony Tolliver",
+			"positions": [""]
+		},
+		{
+			"name": "DeShawn Stevenson",
+			"positions": [""]
+		},
+		{
+			"name": "Zaza Pachulia",
+			"positions": [""]
+		},
+		{
+			"name": "Anthony Morrow",
+			"positions": [""]
+		},
+		{
+			"name": "Louis Williams",
+			"positions": [""]
+		},
+		{
+			"name": "John Jenkins",
+			"positions": [""]
+		},
+		{
+			"name": "Ivan Johnson",
+			"positions": [""]
+		},
+		{
+			"name": "Dahntay Jones",
+			"positions": [""]
+		},
+		{
+			"name": "Johan Petro",
+			"positions": [""]
+		},
+		{
+			"name": "Mike Scott",
+			"positions": [""]
+		},
+		{
+			"name": "Shelvin Mack",
+			"positions": [""]
+		}
+	]
+}

@@ -1,0 +1,406 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Boston Celtics,F,Paul Pierce,Miami Heat,L,10/30/2012,40:34,6,15,0.4,2,4,0.5,9,9,1.0,0,5,5,5,2,0,0,3,23,-17
+Boston Celtics,F,Brandon Bass,Miami Heat,L,10/30/2012,28:19,6,11,0.545,0,0,0.0,3,4,0.75,6,5,11,1,0,0,1,2,15,-8
+Boston Celtics,C,Kevin Garnett,Miami Heat,L,10/30/2012,31:43,4,8,0.5,0,0,0.0,1,1,1.0,1,11,12,2,0,2,5,4,9,-4
+Boston Celtics,G,Courtney Lee,Miami Heat,L,10/30/2012,23:60,5,6,0.833,1,1,1.0,0,0,0.0,0,1,1,1,0,0,1,5,11,-7
+Boston Celtics,G,Rajon Rondo,Miami Heat,L,10/30/2012,43:33,9,14,0.643,0,2,0.0,2,4,0.5,0,7,7,13,0,0,4,4,20,-13
+Boston Celtics,F,Paul Pierce,Milwaukee Bucks,L,11/02/2012,27:47,3,11,0.273,1,3,0.333,4,4,1.0,0,6,6,2,0,0,4,3,11,-9
+Boston Celtics,F,Brandon Bass,Milwaukee Bucks,L,11/02/2012,26:55,3,6,0.5,0,1,0.0,4,4,1.0,1,5,6,3,1,0,1,0,10,-13
+Boston Celtics,C,Kevin Garnett,Milwaukee Bucks,L,11/02/2012,25:30,6,14,0.429,0,0,0.0,3,5,0.6,1,3,4,0,1,2,1,1,15,-4
+Boston Celtics,G,Courtney Lee,Milwaukee Bucks,L,11/02/2012,32:59,3,7,0.429,1,3,0.333,0,0,0.0,1,1,2,1,1,0,3,2,7,-14
+Boston Celtics,G,Rajon Rondo,Milwaukee Bucks,L,11/02/2012,40:30,6,12,0.5,0,1,0.0,2,4,0.5,0,4,4,11,3,0,2,3,14,-14
+Boston Celtics,F,Paul Pierce,Washington Wizards,W,11/03/2012,34:42,10,22,0.455,4,8,0.5,3,4,0.75,1,6,7,3,0,0,2,2,27,15
+Boston Celtics,F,Jared Sullinger,Washington Wizards,W,11/03/2012,30:14,2,3,0.667,0,0,0.0,0,0,0.0,1,6,7,0,1,1,1,4,4,7
+Boston Celtics,C,Kevin Garnett,Washington Wizards,W,11/03/2012,29:08,7,15,0.467,0,0,0.0,1,2,0.5,0,7,7,2,0,1,1,0,15,10
+Boston Celtics,G,Courtney Lee,Washington Wizards,W,11/03/2012,28:47,2,7,0.286,0,4,0.0,0,0,0.0,0,2,2,1,1,0,0,0,4,10
+Boston Celtics,G,Rajon Rondo,Washington Wizards,W,11/03/2012,40:29,5,10,0.5,2,2,1.0,0,0,0.0,2,3,5,12,2,0,2,1,12,15
+Boston Celtics,F,Paul Pierce,Washington Wizards,W,11/07/2012,40:47,2,12,0.167,1,4,0.25,10,12,0.833,1,9,10,2,4,0,1,3,15,-5
+Boston Celtics,F,Jared Sullinger,Washington Wizards,W,11/07/2012,24:08,2,5,0.4,0,0,0.0,0,0,0.0,1,3,4,1,0,1,2,0,4,-2
+Boston Celtics,C,Kevin Garnett,Washington Wizards,W,11/07/2012,34:54,7,16,0.438,0,0,0.0,6,7,0.857,1,12,13,2,1,2,3,5,20,9
+Boston Celtics,G,Courtney Lee,Washington Wizards,W,11/07/2012,18:36,0,3,0.0,0,1,0.0,2,2,1.0,0,0,0,1,0,0,0,1,2,-2
+Boston Celtics,G,Rajon Rondo,Washington Wizards,W,11/07/2012,44:20,7,11,0.636,1,2,0.5,3,4,0.75,0,4,4,14,3,0,4,4,18,11
+Boston Celtics,F,Paul Pierce,Philadelphia 76ers,L,11/09/2012,35:41,8,16,0.5,2,3,0.667,6,9,0.667,0,4,4,5,2,0,3,4,24,-5
+Boston Celtics,F,Jared Sullinger,Philadelphia 76ers,L,11/09/2012,19:20,2,4,0.5,0,0,0.0,0,0,0.0,2,2,4,1,0,1,0,3,4,-7
+Boston Celtics,C,Kevin Garnett,Philadelphia 76ers,L,11/09/2012,30:43,8,13,0.615,0,0,0.0,3,4,0.75,2,8,10,2,2,0,1,1,19,-2
+Boston Celtics,G,Courtney Lee,Philadelphia 76ers,L,11/09/2012,18:36,3,5,0.6,0,1,0.0,0,0,0.0,0,3,3,0,0,0,2,0,6,-6
+Boston Celtics,G,Rajon Rondo,Philadelphia 76ers,L,11/09/2012,41:50,6,17,0.353,0,1,0.0,2,4,0.5,1,1,2,20,2,0,4,1,14,2
+Boston Celtics,F,Paul Pierce,Milwaukee Bucks,W,11/10/2012,35:14,8,18,0.444,3,7,0.429,6,8,0.75,1,8,9,3,1,1,2,2,25,8
+Boston Celtics,F,Brandon Bass,Milwaukee Bucks,W,11/10/2012,30:43,3,6,0.5,0,0,0.0,2,2,1.0,2,5,7,0,0,1,1,6,8,4
+Boston Celtics,C,Kevin Garnett,Milwaukee Bucks,W,11/10/2012,30:46,6,10,0.6,0,0,0.0,6,6,1.0,1,5,6,3,0,0,0,0,18,7
+Boston Celtics,G,Jason Terry,Milwaukee Bucks,W,11/10/2012,22:24,5,7,0.714,2,3,0.667,3,4,0.75,0,1,1,1,0,0,1,2,15,5
+Boston Celtics,G,Rajon Rondo,Milwaukee Bucks,W,11/10/2012,37:11,4,9,0.444,0,0,0.0,2,4,0.5,1,4,5,11,1,0,4,4,10,4
+Boston Celtics,F,Paul Pierce,Chicago Bulls,W,11/12/2012,32:46,4,13,0.308,0,3,0.0,2,2,1.0,1,5,6,5,2,1,1,3,10,13
+Boston Celtics,F,Brandon Bass,Chicago Bulls,W,11/12/2012,34:18,5,6,0.833,0,0,0.0,6,6,1.0,2,3,5,3,1,2,0,2,16,18
+Boston Celtics,C,Kevin Garnett,Chicago Bulls,W,11/12/2012,28:35,6,15,0.4,0,0,0.0,3,3,1.0,0,5,5,1,1,0,0,4,15,10
+Boston Celtics,G,Jason Terry,Chicago Bulls,W,11/12/2012,26:26,5,10,0.5,1,5,0.2,2,2,1.0,0,1,1,1,0,1,0,2,13,19
+Boston Celtics,G,Rajon Rondo,Chicago Bulls,W,11/12/2012,37:23,10,16,0.625,0,2,0.0,0,0,0.0,1,8,9,10,5,0,5,4,20,15
+Boston Celtics,F,Paul Pierce,Utah Jazz,W,11/14/2012,29:13,7,17,0.412,3,7,0.429,6,7,0.857,0,2,2,2,2,1,2,1,23,-3
+Boston Celtics,F,Brandon Bass,Utah Jazz,W,11/14/2012,32:11,4,8,0.5,0,0,0.0,0,0,0.0,0,3,3,0,0,2,0,3,8,-2
+Boston Celtics,C,Kevin Garnett,Utah Jazz,W,11/14/2012,29:40,4,10,0.4,0,0,0.0,3,4,0.75,0,8,8,4,2,1,0,2,11,9
+Boston Celtics,G,Jason Terry,Utah Jazz,W,11/14/2012,21:53,0,1,0.0,0,0,0.0,3,3,1.0,0,2,2,2,1,0,3,2,3,-10
+Boston Celtics,G,Rajon Rondo,Utah Jazz,W,11/14/2012,25:18,3,9,0.333,0,1,0.0,0,0,0.0,1,2,3,10,1,0,0,1,6,-8
+Boston Celtics,F,Paul Pierce,Brooklyn Nets,L,11/15/2012,34:12,8,12,0.667,2,2,1.0,4,6,0.667,0,7,7,4,2,0,2,5,22,2
+Boston Celtics,F,Brandon Bass,Brooklyn Nets,L,11/15/2012,30:19,4,14,0.286,0,0,0.0,0,1,0.0,2,3,5,0,0,0,1,1,8,-23
+Boston Celtics,C,Kevin Garnett,Brooklyn Nets,L,11/15/2012,29:53,6,12,0.5,0,0,0.0,2,2,1.0,1,6,7,0,0,1,2,1,14,-12
+Boston Celtics,G,Jason Terry,Brooklyn Nets,L,11/15/2012,28:12,3,7,0.429,2,4,0.5,2,4,0.5,2,2,4,6,1,0,1,0,10,3
+Boston Celtics,G,Leandro Barbosa,Brooklyn Nets,L,11/15/2012,30:25,5,11,0.455,1,4,0.25,6,6,1.0,0,2,2,2,2,0,0,4,17,-8
+Boston Celtics,F,Paul Pierce,Toronto Raptors,W,11/17/2012,25:21,6,15,0.4,1,5,0.2,6,6,1.0,0,6,6,2,0,0,1,1,19,4
+Boston Celtics,F,Brandon Bass,Toronto Raptors,W,11/17/2012,24:16,3,7,0.429,0,0,0.0,0,0,0.0,0,3,3,2,0,2,1,5,6,4
+Boston Celtics,C,Kevin Garnett,Toronto Raptors,W,11/17/2012,17:10,6,7,0.857,0,0,0.0,3,4,0.75,1,4,5,1,0,0,0,1,15,5
+Boston Celtics,G,Jason Terry,Toronto Raptors,W,11/17/2012,29:19,7,10,0.7,4,7,0.571,2,2,1.0,0,2,2,2,1,0,0,2,20,10
+Boston Celtics,G,Rajon Rondo,Toronto Raptors,W,11/17/2012,32:12,3,4,0.75,0,1,0.0,0,0,0.0,0,2,2,20,1,0,5,2,6,19
+Boston Celtics,F,Paul Pierce,Detroit Pistons,L,11/18/2012,29:34,5,13,0.385,1,5,0.2,2,2,1.0,0,4,4,0,1,0,3,3,13,-8
+Boston Celtics,F,Brandon Bass,Detroit Pistons,L,11/18/2012,17:08,3,9,0.333,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,4,6,-1
+Boston Celtics,C,Kevin Garnett,Detroit Pistons,L,11/18/2012,20:28,6,9,0.667,0,0,0.0,3,5,0.6,1,3,4,0,0,0,3,0,15,-4
+Boston Celtics,G,Jason Terry,Detroit Pistons,L,11/18/2012,29:33,1,6,0.167,0,4,0.0,3,4,0.75,0,3,3,0,1,0,0,1,5,-12
+Boston Celtics,G,Rajon Rondo,Detroit Pistons,L,11/18/2012,38:28,5,7,0.714,2,3,0.667,0,0,0.0,1,2,3,10,1,0,6,3,12,-17
+Boston Celtics,F,Paul Pierce,San Antonio Spurs,L,11/21/2012,36:11,6,11,0.545,1,3,0.333,6,6,1.0,0,0,0,2,1,1,0,0,19,-1
+Boston Celtics,F,Brandon Bass,San Antonio Spurs,L,11/21/2012,28:54,7,10,0.7,0,0,0.0,2,2,1.0,1,5,6,0,2,1,0,3,16,-5
+Boston Celtics,C,Kevin Garnett,San Antonio Spurs,L,11/21/2012,31:09,7,14,0.5,0,0,0.0,0,0,0.0,0,3,3,1,1,2,0,4,14,-7
+Boston Celtics,G,Jason Terry,San Antonio Spurs,L,11/21/2012,31:00,5,9,0.556,1,2,0.5,1,1,1.0,0,1,1,0,2,0,3,0,12,4
+Boston Celtics,G,Rajon Rondo,San Antonio Spurs,L,11/21/2012,39:36,8,16,0.5,0,1,0.0,6,7,0.857,0,2,2,15,2,0,4,3,22,-5
+Boston Celtics,F,Paul Pierce,Oklahoma City Thunder,W,11/23/2012,31:02,8,16,0.5,4,6,0.667,7,7,1.0,0,4,4,1,3,0,5,5,27,1
+Boston Celtics,F,Brandon Bass,Oklahoma City Thunder,W,11/23/2012,26:46,3,12,0.25,0,0,0.0,0,0,0.0,4,2,6,0,0,0,1,2,6,-9
+Boston Celtics,C,Kevin Garnett,Oklahoma City Thunder,W,11/23/2012,32:03,5,11,0.455,0,0,0.0,8,10,0.8,2,7,9,4,1,0,2,4,18,18
+Boston Celtics,G,Jason Terry,Oklahoma City Thunder,W,11/23/2012,29:54,6,8,0.75,4,6,0.667,0,0,0.0,0,2,2,0,1,0,0,1,16,0
+Boston Celtics,G,Rajon Rondo,Oklahoma City Thunder,W,11/23/2012,36:53,2,5,0.4,1,2,0.5,1,2,0.5,0,8,8,16,2,0,2,2,6,-9
+Boston Celtics,F,Paul Pierce,Orlando Magic,W,11/25/2012,36:54,8,17,0.471,3,5,0.6,4,4,1.0,0,5,5,1,0,0,3,2,23,4
+Boston Celtics,F,Brandon Bass,Orlando Magic,W,11/25/2012,35:20,5,14,0.357,0,0,0.0,3,4,0.75,5,7,12,2,1,0,2,3,13,11
+Boston Celtics,C,Kevin Garnett,Orlando Magic,W,11/25/2012,35:34,10,17,0.588,0,1,0.0,4,5,0.8,3,7,10,1,2,0,3,1,24,10
+Boston Celtics,G,Jason Terry,Orlando Magic,W,11/25/2012,27:26,2,6,0.333,1,4,0.25,0,0,0.0,0,2,2,3,3,0,3,1,5,16
+Boston Celtics,G,Rajon Rondo,Orlando Magic,W,11/25/2012,42:27,7,15,0.467,0,1,0.0,1,2,0.5,1,8,9,16,2,0,1,4,15,9
+Boston Celtics,F,Paul Pierce,Brooklyn Nets,L,11/28/2012,39:18,4,13,0.308,0,3,0.0,6,11,0.545,0,9,9,7,2,0,5,2,14,-6
+Boston Celtics,F,Brandon Bass,Brooklyn Nets,L,11/28/2012,29:25,7,12,0.583,0,0,0.0,2,2,1.0,1,2,3,1,0,2,2,3,16,4
+Boston Celtics,C,Kevin Garnett,Brooklyn Nets,L,11/28/2012,29:15,7,13,0.538,0,0,0.0,2,2,1.0,2,8,10,1,0,0,3,3,16,3
+Boston Celtics,G,Jason Terry,Brooklyn Nets,L,11/28/2012,35:16,3,8,0.375,1,3,0.333,6,7,0.857,0,4,4,2,1,0,0,3,13,1
+Boston Celtics,G,Rajon Rondo,Brooklyn Nets,L,11/28/2012,17:57,3,9,0.333,0,0,0.0,0,0,0.0,0,1,1,3,2,0,2,1,6,-5
+Boston Celtics,F,Paul Pierce,Portland Trail Blazers,W,11/30/2012,27:06,3,7,0.429,1,4,0.25,5,5,1.0,0,8,8,5,0,0,5,1,12,19
+Boston Celtics,F,Brandon Bass,Portland Trail Blazers,W,11/30/2012,16:58,3,6,0.5,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,3,6,7
+Boston Celtics,C,Kevin Garnett,Portland Trail Blazers,W,11/30/2012,22:43,5,8,0.625,0,0,0.0,0,0,0.0,0,5,5,4,1,1,2,3,10,21
+Boston Celtics,G,Jason Terry,Portland Trail Blazers,W,11/30/2012,31:24,7,11,0.636,2,5,0.4,1,1,1.0,0,2,2,1,0,0,0,1,17,8
+Boston Celtics,G,Courtney Lee,Portland Trail Blazers,W,11/30/2012,36:59,4,10,0.4,0,2,0.0,2,2,1.0,1,6,7,5,3,0,3,1,10,18
+Boston Celtics,F,Paul Pierce,Milwaukee Bucks,L,12/01/2012,36:33,6,16,0.375,1,4,0.25,6,8,0.75,1,4,5,6,3,1,3,2,19,12
+Boston Celtics,F,Brandon Bass,Milwaukee Bucks,L,12/01/2012,27:02,2,6,0.333,0,0,0.0,0,0,0.0,3,5,8,1,1,0,1,1,4,6
+Boston Celtics,C,Kevin Garnett,Milwaukee Bucks,L,12/01/2012,31:19,6,11,0.545,0,0,0.0,5,6,0.833,0,7,7,4,1,1,3,1,17,4
+Boston Celtics,G,Jason Terry,Milwaukee Bucks,L,12/01/2012,40:12,5,17,0.294,2,9,0.222,3,3,1.0,0,3,3,11,3,0,1,0,15,7
+Boston Celtics,G,Courtney Lee,Milwaukee Bucks,L,12/01/2012,39:36,6,11,0.545,1,2,0.5,0,0,0.0,1,2,3,2,0,0,3,5,13,-4
+Boston Celtics,F,Paul Pierce,Minnesota Timberwolves,W,12/05/2012,25:20,6,15,0.4,1,6,0.167,5,6,0.833,0,4,4,2,1,0,4,1,18,8
+Boston Celtics,F,Brandon Bass,Minnesota Timberwolves,W,12/05/2012,29:59,6,9,0.667,0,0,0.0,0,0,0.0,2,6,8,1,2,3,0,4,12,4
+Boston Celtics,C,Kevin Garnett,Minnesota Timberwolves,W,12/05/2012,26:42,8,13,0.615,0,1,0.0,2,4,0.5,1,9,10,4,1,0,2,2,18,14
+Boston Celtics,G,Jason Terry,Minnesota Timberwolves,W,12/05/2012,37:51,7,10,0.7,3,5,0.6,0,0,0.0,0,5,5,2,0,0,2,1,17,24
+Boston Celtics,G,Rajon Rondo,Minnesota Timberwolves,W,12/05/2012,37:42,6,11,0.545,0,3,0.0,5,6,0.833,0,1,1,11,1,0,5,4,17,-4
+Boston Celtics,F,Paul Pierce,Philadelphia 76ers,L,12/07/2012,44:47,9,24,0.375,1,8,0.125,8,12,0.667,0,4,4,5,0,1,4,3,27,7
+Boston Celtics,F,Brandon Bass,Philadelphia 76ers,L,12/07/2012,22:58,0,1,0.0,0,0,0.0,2,2,1.0,1,6,7,0,0,1,2,3,2,-12
+Boston Celtics,C,Kevin Garnett,Philadelphia 76ers,L,12/07/2012,34:15,7,11,0.636,0,0,0.0,3,4,0.75,2,8,10,2,1,0,3,3,17,-10
+Boston Celtics,G,Jason Terry,Philadelphia 76ers,L,12/07/2012,43:56,1,12,0.083,1,7,0.143,1,1,1.0,0,3,3,1,0,0,0,2,4,-6
+Boston Celtics,G,Rajon Rondo,Philadelphia 76ers,L,12/07/2012,42:16,8,14,0.571,0,0,0.0,0,2,0.0,3,10,13,14,3,3,5,4,16,-1
+Boston Celtics,F,Paul Pierce,Philadelphia 76ers,W,12/08/2012,32:35,5,11,0.455,0,2,0.0,3,4,0.75,0,3,3,9,1,0,1,1,13,14
+Boston Celtics,F,Brandon Bass,Philadelphia 76ers,W,12/08/2012,31:56,5,8,0.625,0,0,0.0,0,0,0.0,1,3,4,0,0,0,1,3,10,12
+Boston Celtics,C,Kevin Garnett,Philadelphia 76ers,W,12/08/2012,23:26,9,11,0.818,0,0,0.0,1,1,1.0,0,0,0,2,1,0,1,2,19,15
+Boston Celtics,G,Jason Terry,Philadelphia 76ers,W,12/08/2012,27:46,3,9,0.333,2,5,0.4,1,2,0.5,0,1,1,0,0,0,1,0,9,3
+Boston Celtics,G,Rajon Rondo,Philadelphia 76ers,W,12/08/2012,35:57,3,6,0.5,0,2,0.0,1,3,0.333,2,7,9,11,3,0,4,2,7,22
+Boston Celtics,F,Paul Pierce,Dallas Mavericks,W,12/12/2012,44:01,11,25,0.44,3,8,0.375,9,11,0.818,1,5,6,3,4,1,3,4,34,2
+Boston Celtics,F,Brandon Bass,Dallas Mavericks,W,12/12/2012,33:24,3,7,0.429,0,0,0.0,3,6,0.5,2,5,7,0,2,0,0,2,9,2
+Boston Celtics,C,Kevin Garnett,Dallas Mavericks,W,12/12/2012,40:08,7,15,0.467,0,0,0.0,2,2,1.0,0,5,5,2,2,1,1,2,16,6
+Boston Celtics,G,Jason Terry,Dallas Mavericks,W,12/12/2012,47:45,3,10,0.3,1,6,0.167,3,3,1.0,0,1,1,3,3,0,0,3,10,2
+Boston Celtics,G,Rajon Rondo,Dallas Mavericks,W,12/12/2012,52:30,8,14,0.571,0,1,0.0,0,0,0.0,1,8,9,15,3,1,5,5,16,-4
+Boston Celtics,F,Paul Pierce,Houston Rockets,L,12/14/2012,40:33,5,18,0.278,2,6,0.333,6,8,0.75,0,7,7,3,3,0,1,2,18,-16
+Boston Celtics,F,Brandon Bass,Houston Rockets,L,12/14/2012,22:33,1,3,0.333,0,0,0.0,0,0,0.0,0,4,4,1,0,1,0,1,2,-23
+Boston Celtics,C,Kevin Garnett,Houston Rockets,L,12/14/2012,27:00,6,12,0.5,0,0,0.0,2,2,1.0,1,4,5,2,1,1,1,3,14,-9
+Boston Celtics,G,Courtney Lee,Houston Rockets,L,12/14/2012,27:20,3,7,0.429,1,2,0.5,1,2,0.5,0,3,3,0,2,1,0,2,8,-19
+Boston Celtics,G,Rajon Rondo,Houston Rockets,L,12/14/2012,36:28,6,13,0.462,0,2,0.0,3,3,1.0,1,3,4,13,4,1,7,1,15,-12
+Boston Celtics,F,Paul Pierce,San Antonio Spurs,L,12/15/2012,29:57,7,13,0.538,2,5,0.4,2,2,1.0,0,5,5,4,3,1,4,1,18,-12
+Boston Celtics,F,Brandon Bass,San Antonio Spurs,L,12/15/2012,18:13,1,5,0.2,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,3,2,-21
+Boston Celtics,C,Kevin Garnett,San Antonio Spurs,L,12/15/2012,30:24,6,13,0.462,0,0,0.0,1,2,0.5,1,5,6,3,2,1,0,2,13,0
+Boston Celtics,G,Courtney Lee,San Antonio Spurs,L,12/15/2012,30:14,5,10,0.5,0,1,0.0,1,1,1.0,1,4,5,1,0,0,0,1,11,-12
+Boston Celtics,G,Rajon Rondo,San Antonio Spurs,L,12/15/2012,34:00,3,7,0.429,0,1,0.0,0,0,0.0,1,4,5,9,0,0,7,4,6,-17
+Boston Celtics,F,Paul Pierce,Chicago Bulls,L,12/18/2012,31:05,6,10,0.6,2,3,0.667,2,4,0.5,0,3,3,4,0,0,0,2,16,-13
+Boston Celtics,F,Brandon Bass,Chicago Bulls,L,12/18/2012,27:15,3,9,0.333,0,0,0.0,1,1,1.0,2,6,8,0,0,0,1,0,7,-1
+Boston Celtics,C,Kevin Garnett,Chicago Bulls,L,12/18/2012,25:28,5,10,0.5,0,0,0.0,0,0,0.0,1,7,8,0,0,0,1,1,10,-13
+Boston Celtics,G,Courtney Lee,Chicago Bulls,L,12/18/2012,23:28,7,11,0.636,0,1,0.0,0,0,0.0,1,0,1,0,1,0,0,1,14,3
+Boston Celtics,G,Rajon Rondo,Chicago Bulls,L,12/18/2012,33:51,9,18,0.5,2,3,0.667,6,8,0.75,2,0,2,8,0,0,3,2,26,-7
+Boston Celtics,F,Paul Pierce,Cleveland Cavaliers,W,12/19/2012,33:36,13,16,0.813,6,7,0.857,8,8,1.0,0,8,8,5,3,1,1,2,40,29
+Boston Celtics,F,Jason Collins,Cleveland Cavaliers,W,12/19/2012,23:16,0,0,0.0,0,0,0.0,1,2,0.5,0,2,2,0,1,1,0,6,1,23
+Boston Celtics,C,Kevin Garnett,Cleveland Cavaliers,W,12/19/2012,30:50,5,9,0.556,0,1,0.0,2,3,0.667,0,6,6,3,1,3,2,3,12,1
+Boston Celtics,G,Jason Terry,Cleveland Cavaliers,W,12/19/2012,34:54,6,9,0.667,3,5,0.6,0,0,0.0,0,3,3,4,1,0,2,1,15,18
+Boston Celtics,G,Rajon Rondo,Cleveland Cavaliers,W,12/19/2012,37:28,7,11,0.636,0,1,0.0,6,10,0.6,0,4,4,8,2,1,4,5,20,22
+Boston Celtics,F,Paul Pierce,Milwaukee Bucks,L,12/21/2012,42:40,13,23,0.565,3,7,0.429,6,8,0.75,2,10,12,5,3,0,6,4,35,3
+Boston Celtics,F,Kevin Garnett,Milwaukee Bucks,L,12/21/2012,37:45,6,22,0.273,0,1,0.0,0,0,0.0,3,4,7,1,2,0,2,0,12,-9
+Boston Celtics,C,Jason Collins,Milwaukee Bucks,L,12/21/2012,15:08,0,0,0.0,0,0,0.0,2,3,0.667,0,2,2,0,0,1,1,4,2,-4
+Boston Celtics,G,Jason Terry,Milwaukee Bucks,L,12/21/2012,31:53,1,15,0.067,1,9,0.111,1,1,1.0,0,0,0,1,0,0,0,0,4,-10
+Boston Celtics,G,Rajon Rondo,Milwaukee Bucks,L,12/21/2012,45:20,3,8,0.375,0,1,0.0,0,0,0.0,2,3,5,11,4,1,2,0,6,-1
+Boston Celtics,F,Paul Pierce,Brooklyn Nets,W,12/25/2012,30:45,3,10,0.3,0,1,0.0,2,2,1.0,0,5,5,10,1,0,2,2,8,6
+Boston Celtics,F,Kevin Garnett,Brooklyn Nets,W,12/25/2012,29:28,4,8,0.5,0,0,0.0,0,0,0.0,1,9,10,1,2,2,2,3,8,15
+Boston Celtics,C,Jason Collins,Brooklyn Nets,W,12/25/2012,13:21,2,5,0.4,0,0,0.0,0,0,0.0,2,2,4,0,0,0,2,5,4,-6
+Boston Celtics,G,Jason Terry,Brooklyn Nets,W,12/25/2012,30:01,4,7,0.571,3,4,0.75,0,0,0.0,1,1,2,4,1,0,1,2,11,10
+Boston Celtics,G,Rajon Rondo,Brooklyn Nets,W,12/25/2012,36:16,8,16,0.5,2,2,1.0,1,1,1.0,4,2,6,5,3,0,1,2,19,9
+Boston Celtics,F,Paul Pierce,Los Angeles Clippers,L,12/27/2012,27:24,5,13,0.385,0,2,0.0,2,2,1.0,0,2,2,3,1,0,3,3,12,-27
+Boston Celtics,F,Kevin Garnett,Los Angeles Clippers,L,12/27/2012,25:40,6,11,0.545,0,0,0.0,4,4,1.0,0,4,4,3,0,1,2,1,16,-13
+Boston Celtics,C,Jason Collins,Los Angeles Clippers,L,12/27/2012,17:11,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,3,0,-11
+Boston Celtics,G,Jason Terry,Los Angeles Clippers,L,12/27/2012,31:04,4,10,0.4,2,4,0.5,0,0,0.0,1,4,5,2,0,0,1,1,10,-25
+Boston Celtics,G,Rajon Rondo,Los Angeles Clippers,L,12/27/2012,34:12,4,12,0.333,2,2,1.0,0,0,0.0,1,4,5,6,0,1,4,3,10,-24
+Boston Celtics,F,Paul Pierce,Golden State Warriors,L,12/29/2012,32:46,4,20,0.2,2,9,0.222,3,3,1.0,1,3,4,3,1,0,2,4,13,-27
+Boston Celtics,F,Kevin Garnett,Golden State Warriors,L,12/29/2012,23:21,3,6,0.5,0,0,0.0,0,0,0.0,0,3,3,4,2,0,2,1,6,-25
+Boston Celtics,C,Jason Collins,Golden State Warriors,L,12/29/2012,8:35,0,0,0.0,0,0,0.0,2,2,1.0,0,1,1,1,0,0,1,1,2,-7
+Boston Celtics,G,Jason Terry,Golden State Warriors,L,12/29/2012,39:56,6,19,0.316,1,7,0.143,0,0,0.0,0,2,2,3,2,0,3,2,13,-18
+Boston Celtics,G,Courtney Lee,Golden State Warriors,L,12/29/2012,40:25,6,13,0.462,2,3,0.667,4,4,1.0,0,5,5,0,1,0,0,2,18,-11
+Boston Celtics,F,Paul Pierce,Sacramento Kings,L,12/30/2012,25:24,8,15,0.533,4,8,0.5,0,0,0.0,0,1,1,3,0,0,3,4,20,-23
+Boston Celtics,F,Kevin Garnett,Sacramento Kings,L,12/30/2012,27:59,7,13,0.538,0,0,0.0,2,2,1.0,1,11,12,6,0,0,1,2,16,0
+Boston Celtics,C,Jason Collins,Sacramento Kings,L,12/30/2012,17:35,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,1,0,5,0,-16
+Boston Celtics,G,Jason Terry,Sacramento Kings,L,12/30/2012,33:03,7,12,0.583,2,4,0.5,4,4,1.0,1,2,3,0,1,0,1,1,20,-16
+Boston Celtics,G,Rajon Rondo,Sacramento Kings,L,12/30/2012,35:47,1,6,0.167,0,3,0.0,0,0,0.0,0,5,5,10,1,0,3,1,2,-25
+Boston Celtics,F,Paul Pierce,Memphis Grizzlies,L,01/02/2013,34:05,6,14,0.429,4,8,0.5,1,2,0.5,0,7,7,2,2,0,0,4,17,-5
+Boston Celtics,F,Kevin Garnett,Memphis Grizzlies,L,01/02/2013,31:55,5,14,0.357,0,1,0.0,2,5,0.4,0,7,7,5,0,0,3,1,12,-15
+Boston Celtics,C,Jason Collins,Memphis Grizzlies,L,01/02/2013,18:18,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,1,2,2,-4
+Boston Celtics,G,Avery Bradley,Memphis Grizzlies,L,01/02/2013,19:31,2,6,0.333,0,2,0.0,0,0,0.0,0,0,0,0,1,0,0,3,4,-12
+Boston Celtics,G,Rajon Rondo,Memphis Grizzlies,L,01/02/2013,39:46,4,11,0.364,0,4,0.0,3,4,0.75,1,1,2,10,0,0,3,1,11,-5
+Boston Celtics,F,Paul Pierce,Indiana Pacers,W,01/04/2013,28:59,5,10,0.5,2,3,0.667,1,3,0.333,1,5,6,5,1,1,1,2,13,20
+Boston Celtics,F,Brandon Bass,Indiana Pacers,W,01/04/2013,22:28,1,5,0.2,0,0,0.0,2,2,1.0,2,6,8,1,1,2,3,4,4,-1
+Boston Celtics,C,Kevin Garnett,Indiana Pacers,W,01/04/2013,24:08,8,16,0.5,0,0,0.0,2,2,1.0,1,6,7,2,1,0,2,5,18,8
+Boston Celtics,G,Avery Bradley,Indiana Pacers,W,01/04/2013,22:42,3,11,0.273,0,2,0.0,0,0,0.0,0,1,1,1,1,1,0,1,6,9
+Boston Celtics,G,Rajon Rondo,Indiana Pacers,W,01/04/2013,29:39,9,14,0.643,0,0,0.0,0,2,0.0,0,5,5,7,2,1,3,0,18,15
+Boston Celtics,F,Paul Pierce,Atlanta Hawks,W,01/05/2013,36:27,8,20,0.4,3,8,0.375,7,9,0.778,4,5,9,5,1,0,1,4,26,11
+Boston Celtics,F,Brandon Bass,Atlanta Hawks,W,01/05/2013,35:41,5,6,0.833,0,0,0.0,0,0,0.0,3,1,4,2,3,1,1,1,10,14
+Boston Celtics,C,Kevin Garnett,Atlanta Hawks,W,01/05/2013,32:56,7,12,0.583,0,0,0.0,0,0,0.0,0,5,5,3,3,1,3,2,14,-2
+Boston Celtics,G,Avery Bradley,Atlanta Hawks,W,01/05/2013,19:35,3,9,0.333,0,2,0.0,0,0,0.0,2,2,4,1,1,1,1,0,6,8
+Boston Celtics,G,Rajon Rondo,Atlanta Hawks,W,01/05/2013,38:38,7,16,0.438,0,2,0.0,0,0,0.0,3,8,11,10,3,0,5,3,14,2
+Boston Celtics,F,Brandon Bass,New York Knicks,W,01/07/2013,31:49,3,3,1.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,1,6,2
+Boston Celtics,F,Paul Pierce,New York Knicks,W,01/07/2013,27:32,10,18,0.556,3,9,0.333,0,0,0.0,0,3,3,6,1,0,1,5,23,1
+Boston Celtics,C,Kevin Garnett,New York Knicks,W,01/07/2013,37:43,6,11,0.545,0,0,0.0,7,7,1.0,2,8,10,2,3,0,1,2,19,1
+Boston Celtics,G,Avery Bradley,New York Knicks,W,01/07/2013,32:58,6,11,0.545,1,3,0.333,0,0,0.0,1,2,3,5,1,0,1,5,13,4
+Boston Celtics,G,Jason Terry,New York Knicks,W,01/07/2013,30:40,1,7,0.143,0,3,0.0,0,0,0.0,2,2,4,5,0,0,2,3,2,-1
+Boston Celtics,F,Paul Pierce,Phoenix Suns,W,01/09/2013,23:47,3,10,0.3,1,3,0.333,0,0,0.0,3,4,7,1,1,1,2,2,7,-9
+Boston Celtics,F,Brandon Bass,Phoenix Suns,W,01/09/2013,26:44,2,8,0.25,0,0,0.0,2,2,1.0,2,3,5,1,0,0,1,3,6,-17
+Boston Celtics,C,Kevin Garnett,Phoenix Suns,W,01/09/2013,29:06,5,11,0.455,0,0,0.0,0,0,0.0,0,5,5,2,3,2,1,0,10,7
+Boston Celtics,G,Avery Bradley,Phoenix Suns,W,01/09/2013,18:21,4,9,0.444,1,4,0.25,0,0,0.0,1,0,1,1,2,0,1,1,9,-6
+Boston Celtics,G,Rajon Rondo,Phoenix Suns,W,01/09/2013,30:51,4,11,0.364,0,0,0.0,0,0,0.0,0,0,0,8,0,0,4,0,8,-8
+Boston Celtics,F,Paul Pierce,Houston Rockets,W,01/11/2013,29:14,8,14,0.571,3,7,0.429,4,5,0.8,0,6,6,3,1,0,2,3,23,4
+Boston Celtics,F,Brandon Bass,Houston Rockets,W,01/11/2013,26:57,1,3,0.333,0,0,0.0,2,2,1.0,1,2,3,1,0,1,2,3,4,-8
+Boston Celtics,C,Kevin Garnett,Houston Rockets,W,01/11/2013,32:13,8,12,0.667,0,0,0.0,1,1,1.0,0,8,8,0,0,4,2,4,17,17
+Boston Celtics,G,Avery Bradley,Houston Rockets,W,01/11/2013,25:34,2,9,0.222,2,6,0.333,1,2,0.5,0,2,2,0,1,0,1,4,7,0
+Boston Celtics,G,Rajon Rondo,Houston Rockets,W,01/11/2013,33:01,5,13,0.385,0,1,0.0,2,2,1.0,1,4,5,8,2,0,4,3,12,5
+Boston Celtics,F,Paul Pierce,Charlotte Bobcats,W,01/14/2013,31:58,6,16,0.375,2,8,0.25,5,8,0.625,2,2,4,6,1,1,2,2,19,13
+Boston Celtics,F,Brandon Bass,Charlotte Bobcats,W,01/14/2013,16:56,3,6,0.5,0,0,0.0,0,0,0.0,2,1,3,0,1,2,2,3,6,4
+Boston Celtics,C,Kevin Garnett,Charlotte Bobcats,W,01/14/2013,31:52,2,11,0.182,0,0,0.0,3,4,0.75,4,6,10,2,1,1,2,2,7,-5
+Boston Celtics,G,Avery Bradley,Charlotte Bobcats,W,01/14/2013,27:35,6,10,0.6,4,7,0.571,0,0,0.0,0,1,1,1,0,2,2,0,16,15
+Boston Celtics,G,Rajon Rondo,Charlotte Bobcats,W,01/14/2013,37:21,8,11,0.727,0,0,0.0,1,1,1.0,1,9,10,12,0,0,2,1,17,11
+Boston Celtics,F,Paul Pierce,New Orleans Hornets,L,01/16/2013,30:49,5,16,0.313,1,7,0.143,1,3,0.333,0,10,10,4,1,0,2,6,12,-10
+Boston Celtics,F,Brandon Bass,New Orleans Hornets,L,01/16/2013,32:33,4,6,0.667,0,0,0.0,1,2,0.5,3,4,7,1,1,0,1,1,9,1
+Boston Celtics,C,Kevin Garnett,New Orleans Hornets,L,01/16/2013,29:31,7,12,0.583,0,0,0.0,1,2,0.5,0,4,4,0,1,0,3,3,15,-26
+Boston Celtics,G,Avery Bradley,New Orleans Hornets,L,01/16/2013,21:35,2,4,0.5,0,2,0.0,0,2,0.0,0,0,0,1,3,0,0,2,4,-8
+Boston Celtics,G,Rajon Rondo,New Orleans Hornets,L,01/16/2013,32:54,3,8,0.375,0,0,0.0,1,3,0.333,2,1,3,11,3,0,5,0,7,-5
+Boston Celtics,F,Paul Pierce,Chicago Bulls,L,01/18/2013,34:09,5,17,0.294,0,3,0.0,3,4,0.75,0,6,6,3,1,0,3,3,13,0
+Boston Celtics,F,Brandon Bass,Chicago Bulls,L,01/18/2013,26:59,4,6,0.667,0,0,0.0,2,2,1.0,2,0,2,0,2,1,2,2,10,0
+Boston Celtics,C,Kevin Garnett,Chicago Bulls,L,01/18/2013,39:07,5,16,0.313,0,3,0.0,6,10,0.6,1,6,7,1,0,1,1,2,16,-5
+Boston Celtics,G,Leandro Barbosa,Chicago Bulls,L,01/18/2013,14:44,2,6,0.333,1,2,0.5,0,0,0.0,1,2,3,1,1,1,0,4,5,2
+Boston Celtics,G,Rajon Rondo,Chicago Bulls,L,01/18/2013,41:47,12,21,0.571,0,0,0.0,6,9,0.667,0,2,2,7,2,0,3,6,30,-3
+Boston Celtics,F,Paul Pierce,Detroit Pistons,L,01/20/2013,36:02,5,10,0.5,0,1,0.0,0,0,0.0,0,8,8,2,2,1,2,3,10,-13
+Boston Celtics,F,Brandon Bass,Detroit Pistons,L,01/20/2013,10:20,0,3,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,1,2,0,-14
+Boston Celtics,C,Kevin Garnett,Detroit Pistons,L,01/20/2013,29:44,5,11,0.455,0,0,0.0,6,8,0.75,1,6,7,0,2,2,1,3,16,-7
+Boston Celtics,G,Avery Bradley,Detroit Pistons,L,01/20/2013,19:12,3,8,0.375,0,2,0.0,0,0,0.0,0,0,0,0,1,0,0,3,6,-20
+Boston Celtics,G,Rajon Rondo,Detroit Pistons,L,01/20/2013,36:15,4,16,0.25,0,0,0.0,0,0,0.0,3,6,9,15,3,0,9,5,8,-3
+Boston Celtics,F,Paul Pierce,Cleveland Cavaliers,L,01/22/2013,36:49,3,15,0.2,1,4,0.25,5,6,0.833,4,3,7,7,2,0,4,0,12,-8
+Boston Celtics,F,Brandon Bass,Cleveland Cavaliers,L,01/22/2013,27:33,4,7,0.571,0,0,0.0,0,0,0.0,2,4,6,1,0,0,2,2,8,-7
+Boston Celtics,C,Kevin Garnett,Cleveland Cavaliers,L,01/22/2013,30:40,5,13,0.385,0,0,0.0,6,6,1.0,0,5,5,3,1,5,2,3,16,-3
+Boston Celtics,G,Avery Bradley,Cleveland Cavaliers,L,01/22/2013,25:39,2,4,0.5,2,2,1.0,1,2,0.5,1,0,1,1,0,1,1,3,7,-5
+Boston Celtics,G,Rajon Rondo,Cleveland Cavaliers,L,01/22/2013,37:39,7,17,0.412,0,2,0.0,3,4,0.75,3,10,13,8,0,0,5,2,17,-10
+Boston Celtics,F,Paul Pierce,New York Knicks,L,01/24/2013,37:25,6,15,0.4,1,5,0.2,9,12,0.75,0,6,6,2,0,0,2,3,22,8
+Boston Celtics,F,Brandon Bass,New York Knicks,L,01/24/2013,19:41,1,3,0.333,0,0,0.0,2,2,1.0,0,2,2,0,0,0,1,2,4,0
+Boston Celtics,C,Kevin Garnett,New York Knicks,L,01/24/2013,32:06,3,9,0.333,0,1,0.0,2,4,0.5,1,11,12,2,1,2,1,2,8,9
+Boston Celtics,G,Avery Bradley,New York Knicks,L,01/24/2013,31:27,2,7,0.286,1,4,0.25,0,0,0.0,2,2,4,0,1,0,1,3,5,12
+Boston Celtics,G,Rajon Rondo,New York Knicks,L,01/24/2013,40:24,10,19,0.526,0,0,0.0,3,4,0.75,0,10,10,11,3,0,4,1,23,2
+Boston Celtics,F,Paul Pierce,Atlanta Hawks,L,01/25/2013,40:26,4,13,0.308,0,5,0.0,4,4,1.0,2,4,6,4,0,0,5,4,12,-30
+Boston Celtics,F,Brandon Bass,Atlanta Hawks,L,01/25/2013,18:49,0,4,0.0,0,0,0.0,0,0,0.0,0,2,2,1,1,0,1,1,0,-7
+Boston Celtics,C,Kevin Garnett,Atlanta Hawks,L,01/25/2013,38:29,11,18,0.611,0,0,0.0,2,2,1.0,1,9,10,4,1,0,2,6,24,-19
+Boston Celtics,G,Avery Bradley,Atlanta Hawks,L,01/25/2013,28:42,6,11,0.545,2,3,0.667,0,0,0.0,0,1,1,1,1,0,2,0,14,-22
+Boston Celtics,G,Rajon Rondo,Atlanta Hawks,L,01/25/2013,44:39,8,18,0.444,0,1,0.0,0,0,0.0,4,6,10,11,1,0,6,4,16,-20
+Boston Celtics,F,Paul Pierce,Miami Heat,W,01/27/2013,48:49,6,16,0.375,1,3,0.333,4,6,0.667,0,13,13,10,1,1,6,3,17,8
+Boston Celtics,F,Jared Sullinger,Miami Heat,W,01/27/2013,22:14,3,5,0.6,0,1,0.0,1,2,0.5,0,4,4,2,3,0,1,1,7,-4
+Boston Celtics,C,Kevin Garnett,Miami Heat,W,01/27/2013,44:42,10,19,0.526,0,1,0.0,4,5,0.8,3,8,11,4,2,3,1,2,24,1
+Boston Celtics,G,Avery Bradley,Miami Heat,W,01/27/2013,27:52,3,8,0.375,1,2,0.5,2,2,1.0,2,2,4,0,2,0,1,2,9,-5
+Boston Celtics,G,Courtney Lee,Miami Heat,W,01/27/2013,25:59,1,7,0.143,0,2,0.0,2,2,1.0,0,0,0,2,1,1,0,1,4,3
+Boston Celtics,F,Paul Pierce,Sacramento Kings,W,01/30/2013,30:39,5,9,0.556,0,2,0.0,6,7,0.857,0,10,10,4,1,0,3,3,16,28
+Boston Celtics,F,Jared Sullinger,Sacramento Kings,W,01/30/2013,4:08,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,6
+Boston Celtics,C,Kevin Garnett,Sacramento Kings,W,01/30/2013,28:15,6,10,0.6,0,0,0.0,1,1,1.0,0,9,9,5,1,2,1,0,13,23
+Boston Celtics,G,Avery Bradley,Sacramento Kings,W,01/30/2013,29:13,4,11,0.364,1,5,0.2,2,2,1.0,3,2,5,2,2,1,2,2,11,13
+Boston Celtics,G,Courtney Lee,Sacramento Kings,W,01/30/2013,26:16,3,8,0.375,1,2,0.5,2,2,1.0,0,0,0,3,0,0,2,0,9,13
+Boston Celtics,F,Paul Pierce,Orlando Magic,W,02/01/2013,28:46,5,10,0.5,1,4,0.25,3,6,0.5,0,11,11,7,1,0,3,2,14,10
+Boston Celtics,F,Brandon Bass,Orlando Magic,W,02/01/2013,26:27,2,6,0.333,0,0,0.0,2,2,1.0,2,5,7,1,0,0,1,1,6,-15
+Boston Celtics,C,Kevin Garnett,Orlando Magic,W,02/01/2013,22:42,7,12,0.583,0,0,0.0,0,0,0.0,4,6,10,1,3,1,0,0,14,9
+Boston Celtics,G,Avery Bradley,Orlando Magic,W,02/01/2013,20:19,3,9,0.333,0,2,0.0,0,0,0.0,0,2,2,2,0,0,2,3,6,-10
+Boston Celtics,G,Courtney Lee,Orlando Magic,W,02/01/2013,38:58,6,13,0.462,2,4,0.5,0,0,0.0,1,4,5,5,2,0,2,0,14,-5
+Boston Celtics,F,Paul Pierce,Los Angeles Clippers,W,02/03/2013,35:45,7,16,0.438,4,6,0.667,4,5,0.8,2,3,5,4,2,0,6,1,22,-1
+Boston Celtics,F,Brandon Bass,Los Angeles Clippers,W,02/03/2013,29:40,3,7,0.429,0,0,0.0,3,4,0.75,2,6,8,4,0,0,0,3,9,-10
+Boston Celtics,C,Kevin Garnett,Los Angeles Clippers,W,02/03/2013,27:55,5,9,0.556,0,0,0.0,2,2,1.0,0,5,5,2,1,0,3,5,12,3
+Boston Celtics,G,Avery Bradley,Los Angeles Clippers,W,02/03/2013,26:17,2,8,0.25,0,0,0.0,0,0,0.0,0,1,1,2,0,0,1,4,4,-11
+Boston Celtics,G,Courtney Lee,Los Angeles Clippers,W,02/03/2013,30:05,2,6,0.333,1,3,0.333,2,2,1.0,0,2,2,2,2,0,3,2,7,-7
+Boston Celtics,F,Paul Pierce,Toronto Raptors,W,02/06/2013,37:11,2,11,0.182,2,7,0.286,6,7,0.857,0,11,11,6,1,1,2,1,12,13
+Boston Celtics,F,Brandon Bass,Toronto Raptors,W,02/06/2013,23:50,4,6,0.667,0,0,0.0,2,3,0.667,0,3,3,1,0,1,0,3,10,-10
+Boston Celtics,C,Kevin Garnett,Toronto Raptors,W,02/06/2013,32:19,11,18,0.611,0,0,0.0,5,5,1.0,0,10,10,0,0,0,2,4,27,14
+Boston Celtics,G,Courtney Lee,Toronto Raptors,W,02/06/2013,28:57,6,11,0.545,0,3,0.0,3,3,1.0,0,2,2,3,0,0,0,2,15,-4
+Boston Celtics,G,Avery Bradley,Toronto Raptors,W,02/06/2013,25:59,4,9,0.444,1,2,0.5,2,2,1.0,1,2,3,2,0,1,3,1,11,-11
+Boston Celtics,F,Paul Pierce,Los Angeles Lakers,W,02/07/2013,29:41,10,17,0.588,1,4,0.25,3,4,0.75,1,6,7,6,0,1,2,3,24,20
+Boston Celtics,F,Brandon Bass,Los Angeles Lakers,W,02/07/2013,25:18,4,5,0.8,0,0,0.0,0,0,0.0,1,3,4,1,1,0,0,3,8,18
+Boston Celtics,C,Kevin Garnett,Los Angeles Lakers,W,02/07/2013,22:56,6,10,0.6,0,0,0.0,3,4,0.75,2,3,5,4,3,0,2,2,15,17
+Boston Celtics,G,Avery Bradley,Los Angeles Lakers,W,02/07/2013,32:52,4,11,0.364,0,1,0.0,2,2,1.0,2,3,5,3,2,1,1,3,10,5
+Boston Celtics,G,Courtney Lee,Los Angeles Lakers,W,02/07/2013,22:21,6,12,0.5,1,2,0.5,0,0,0.0,0,5,5,3,0,1,1,2,13,-2
+Boston Celtics,F,Paul Pierce,Denver Nuggets,W,02/10/2013,54:11,7,20,0.35,5,9,0.556,8,9,0.889,0,14,14,14,0,0,4,5,27,5
+Boston Celtics,F,Brandon Bass,Denver Nuggets,W,02/10/2013,32:33,2,7,0.286,0,0,0.0,1,2,0.5,3,1,4,3,0,0,1,1,5,1
+Boston Celtics,C,Kevin Garnett,Denver Nuggets,W,02/10/2013,47:03,9,24,0.375,0,0,0.0,2,2,1.0,3,15,18,6,2,3,1,2,20,8
+Boston Celtics,G,Avery Bradley,Denver Nuggets,W,02/10/2013,45:44,6,12,0.5,1,2,0.5,0,0,0.0,1,4,5,4,3,1,1,5,13,12
+Boston Celtics,G,Courtney Lee,Denver Nuggets,W,02/10/2013,23:18,1,5,0.2,0,2,0.0,0,0,0.0,0,1,1,3,2,0,4,0,2,5
+Boston Celtics,F,Paul Pierce,Charlotte Bobcats,L,02/11/2013,29:24,4,12,0.333,1,3,0.333,4,4,1.0,1,7,8,8,1,1,3,1,13,-10
+Boston Celtics,F,Brandon Bass,Charlotte Bobcats,L,02/11/2013,31:38,4,7,0.571,0,0,0.0,0,2,0.0,1,6,7,1,1,1,0,3,8,-10
+Boston Celtics,C,Kevin Garnett,Charlotte Bobcats,L,02/11/2013,28:49,5,13,0.385,0,0,0.0,6,8,0.75,3,10,13,3,0,2,1,4,16,-7
+Boston Celtics,G,Courtney Lee,Charlotte Bobcats,L,02/11/2013,19:03,2,6,0.333,0,0,0.0,0,0,0.0,0,4,4,2,0,0,0,1,4,-7
+Boston Celtics,G,Avery Bradley,Charlotte Bobcats,L,02/11/2013,35:23,4,11,0.364,0,3,0.0,0,0,0.0,0,0,0,3,3,2,2,4,8,-3
+Boston Celtics,F,Paul Pierce,Chicago Bulls,W,02/13/2013,33:42,2,12,0.167,2,5,0.4,2,4,0.5,1,5,6,6,1,0,3,2,8,1
+Boston Celtics,F,Brandon Bass,Chicago Bulls,W,02/13/2013,40:06,6,13,0.462,0,0,0.0,2,2,1.0,2,7,9,2,1,1,2,4,14,7
+Boston Celtics,C,Kevin Garnett,Chicago Bulls,W,02/13/2013,26:05,6,12,0.5,0,0,0.0,0,0,0.0,4,7,11,3,1,0,0,2,12,6
+Boston Celtics,G,Avery Bradley,Chicago Bulls,W,02/13/2013,25:57,4,12,0.333,0,1,0.0,2,2,1.0,1,1,2,1,2,0,1,6,10,8
+Boston Celtics,G,Courtney Lee,Chicago Bulls,W,02/13/2013,27:41,3,7,0.429,1,1,1.0,0,0,0.0,0,0,0,0,2,0,0,2,7,-13
+Boston Celtics,F,Paul Pierce,Denver Nuggets,L,02/19/2013,34:55,2,14,0.143,1,5,0.2,5,5,1.0,1,5,6,6,0,0,2,6,10,4
+Boston Celtics,F,Brandon Bass,Denver Nuggets,L,02/19/2013,29:01,3,7,0.429,0,0,0.0,0,0,0.0,0,9,9,2,1,0,1,0,6,-7
+Boston Celtics,C,Kevin Garnett,Denver Nuggets,L,02/19/2013,31:25,6,14,0.429,0,0,0.0,0,2,0.0,2,7,9,4,2,0,1,3,12,5
+Boston Celtics,G,Courtney Lee,Denver Nuggets,L,02/19/2013,29:50,6,9,0.667,2,4,0.5,1,1,1.0,1,2,3,4,2,0,2,4,15,-8
+Boston Celtics,G,Avery Bradley,Denver Nuggets,L,02/19/2013,32:54,7,16,0.438,1,4,0.25,2,2,1.0,0,3,3,0,0,0,3,4,17,7
+Boston Celtics,F,Paul Pierce,Los Angeles Lakers,L,02/20/2013,33:10,9,17,0.529,4,7,0.571,4,6,0.667,0,4,4,5,1,0,3,3,26,-18
+Boston Celtics,F,Brandon Bass,Los Angeles Lakers,L,02/20/2013,29:17,3,6,0.5,0,0,0.0,0,0,0.0,1,1,2,2,0,0,2,4,6,-16
+Boston Celtics,C,Kevin Garnett,Los Angeles Lakers,L,02/20/2013,24:20,6,14,0.429,0,0,0.0,0,2,0.0,2,2,4,2,1,1,1,3,12,-9
+Boston Celtics,G,Courtney Lee,Los Angeles Lakers,L,02/20/2013,31:04,9,16,0.563,2,3,0.667,0,0,0.0,1,3,4,2,1,0,1,3,20,1
+Boston Celtics,G,Avery Bradley,Los Angeles Lakers,L,02/20/2013,34:14,2,7,0.286,1,3,0.333,1,2,0.5,1,3,4,4,1,1,1,1,6,-12
+Boston Celtics,F,Paul Pierce,Phoenix Suns,W,02/22/2013,25:35,3,5,0.6,1,2,0.5,1,2,0.5,0,5,5,3,1,0,2,4,8,16
+Boston Celtics,F,Jeff Green,Phoenix Suns,W,02/22/2013,38:44,11,14,0.786,3,5,0.6,6,7,0.857,0,7,7,4,2,5,1,1,31,26
+Boston Celtics,C,Brandon Bass,Phoenix Suns,W,02/22/2013,31:57,3,8,0.375,0,0,0.0,0,0,0.0,3,3,6,0,0,0,1,3,6,16
+Boston Celtics,G,Courtney Lee,Phoenix Suns,W,02/22/2013,29:47,3,8,0.375,1,3,0.333,1,4,0.25,0,5,5,2,1,0,0,1,8,15
+Boston Celtics,G,Avery Bradley,Phoenix Suns,W,02/22/2013,26:37,6,12,0.5,0,2,0.0,1,2,0.5,1,3,4,2,4,0,2,3,13,6
+Boston Celtics,F,Paul Pierce,Portland Trail Blazers,L,02/24/2013,31:59,9,16,0.563,1,3,0.333,4,5,0.8,0,7,7,8,0,1,1,3,23,4
+Boston Celtics,F,Brandon Bass,Portland Trail Blazers,L,02/24/2013,30:02,5,10,0.5,0,0,0.0,1,2,0.5,2,3,5,0,1,0,0,3,11,-1
+Boston Celtics,C,Kevin Garnett,Portland Trail Blazers,L,02/24/2013,32:30,9,19,0.474,0,1,0.0,2,2,1.0,2,7,9,3,2,1,2,2,20,0
+Boston Celtics,G,Courtney Lee,Portland Trail Blazers,L,02/24/2013,25:47,2,5,0.4,1,2,0.5,0,0,0.0,0,2,2,2,1,0,1,2,5,0
+Boston Celtics,G,Avery Bradley,Portland Trail Blazers,L,02/24/2013,34:55,4,9,0.444,0,2,0.0,0,0,0.0,0,2,2,3,1,0,0,1,8,4
+Boston Celtics,F,Paul Pierce,Utah Jazz,W,02/25/2013,39:16,10,20,0.5,3,10,0.3,3,4,0.75,0,7,7,8,0,0,4,5,26,10
+Boston Celtics,F,Brandon Bass,Utah Jazz,W,02/25/2013,41:44,4,10,0.4,0,0,0.0,7,7,1.0,1,2,3,0,0,2,1,1,15,3
+Boston Celtics,C,Kevin Garnett,Utah Jazz,W,02/25/2013,35:55,5,9,0.556,0,0,0.0,3,3,1.0,1,9,10,1,1,1,2,5,13,-6
+Boston Celtics,G,Courtney Lee,Utah Jazz,W,02/25/2013,32:32,4,8,0.5,1,2,0.5,5,6,0.833,2,3,5,3,1,0,2,4,14,8
+Boston Celtics,G,Avery Bradley,Utah Jazz,W,02/25/2013,39:10,8,12,0.667,2,3,0.667,0,0,0.0,2,3,5,4,2,0,1,3,18,9
+Boston Celtics,F,Paul Pierce,Golden State Warriors,W,03/01/2013,36:24,9,15,0.6,1,3,0.333,7,11,0.636,0,8,8,4,1,0,7,0,26,14
+Boston Celtics,F,Brandon Bass,Golden State Warriors,W,03/01/2013,27:26,3,5,0.6,0,0,0.0,2,3,0.667,0,4,4,3,0,1,0,1,8,6
+Boston Celtics,C,Kevin Garnett,Golden State Warriors,W,03/01/2013,31:42,2,10,0.2,0,0,0.0,3,5,0.6,0,13,13,3,1,1,3,2,7,-11
+Boston Celtics,G,Courtney Lee,Golden State Warriors,W,03/01/2013,25:31,3,5,0.6,0,1,0.0,2,2,1.0,0,0,0,4,2,0,3,4,8,4
+Boston Celtics,G,Avery Bradley,Golden State Warriors,W,03/01/2013,21:20,3,6,0.5,1,2,0.5,1,1,1.0,0,0,0,2,2,0,0,5,8,4
+Boston Celtics,F,Paul Pierce,Philadelphia 76ers,W,03/05/2013,29:41,6,10,0.6,4,4,1.0,2,2,1.0,3,8,11,7,0,0,5,3,18,9
+Boston Celtics,F,Brandon Bass,Philadelphia 76ers,W,03/05/2013,24:45,2,5,0.4,0,0,0.0,1,1,1.0,1,3,4,1,0,1,0,2,5,-4
+Boston Celtics,C,Kevin Garnett,Philadelphia 76ers,W,03/05/2013,28:04,9,17,0.529,0,0,0.0,0,0,0.0,1,5,6,1,0,2,6,4,18,11
+Boston Celtics,G,Courtney Lee,Philadelphia 76ers,W,03/05/2013,29:35,2,7,0.286,1,3,0.333,0,0,0.0,2,2,4,4,3,0,1,1,5,-2
+Boston Celtics,G,Avery Bradley,Philadelphia 76ers,W,03/05/2013,34:12,10,15,0.667,2,4,0.5,0,0,0.0,2,5,7,5,1,0,4,0,22,5
+Boston Celtics,F,Paul Pierce,Indiana Pacers,W,03/06/2013,33:48,4,15,0.267,2,4,0.5,3,3,1.0,2,6,8,4,1,1,3,3,13,5
+Boston Celtics,F,Brandon Bass,Indiana Pacers,W,03/06/2013,19:57,2,6,0.333,0,0,0.0,0,0,0.0,1,5,6,0,0,1,2,2,4,-18
+Boston Celtics,C,Kevin Garnett,Indiana Pacers,W,03/06/2013,30:19,7,10,0.7,1,1,1.0,3,4,0.75,1,9,10,2,0,2,2,4,18,11
+Boston Celtics,G,Courtney Lee,Indiana Pacers,W,03/06/2013,32:28,2,7,0.286,0,0,0.0,2,2,1.0,1,3,4,0,3,0,0,3,6,-6
+Boston Celtics,G,Avery Bradley,Indiana Pacers,W,03/06/2013,34:10,6,15,0.4,1,3,0.333,0,0,0.0,0,1,1,4,0,0,2,2,13,-3
+Boston Celtics,F,Paul Pierce,Atlanta Hawks,W,03/08/2013,39:08,10,16,0.625,3,7,0.429,4,6,0.667,0,7,7,7,2,0,2,3,27,2
+Boston Celtics,F,Brandon Bass,Atlanta Hawks,W,03/08/2013,22:56,4,6,0.667,0,0,0.0,0,0,0.0,0,2,2,0,0,1,1,1,8,-2
+Boston Celtics,C,Kevin Garnett,Atlanta Hawks,W,03/08/2013,35:06,7,16,0.438,1,2,0.5,2,2,1.0,0,8,8,2,2,0,0,2,17,9
+Boston Celtics,G,Courtney Lee,Atlanta Hawks,W,03/08/2013,27:38,2,3,0.667,0,0,0.0,0,0,0.0,0,4,4,2,1,0,3,4,4,6
+Boston Celtics,G,Avery Bradley,Atlanta Hawks,W,03/08/2013,37:46,2,7,0.286,0,0,0.0,1,2,0.5,2,2,4,4,1,0,2,2,5,0
+Boston Celtics,F,Paul Pierce,Oklahoma City Thunder,L,03/10/2013,35:09,6,12,0.5,2,5,0.4,6,7,0.857,1,3,4,6,0,0,3,4,20,-1
+Boston Celtics,F,Brandon Bass,Oklahoma City Thunder,L,03/10/2013,31:30,3,4,0.75,0,0,0.0,0,0,0.0,5,8,13,1,1,2,0,4,6,-6
+Boston Celtics,C,Kevin Garnett,Oklahoma City Thunder,L,03/10/2013,30:39,5,19,0.263,0,1,0.0,0,0,0.0,3,8,11,1,0,1,2,3,10,-8
+Boston Celtics,G,Courtney Lee,Oklahoma City Thunder,L,03/10/2013,28:02,3,7,0.429,2,4,0.5,0,0,0.0,0,4,4,2,1,2,2,3,8,-12
+Boston Celtics,G,Avery Bradley,Oklahoma City Thunder,L,03/10/2013,34:37,5,10,0.5,1,1,1.0,1,2,0.5,0,3,3,5,1,0,1,2,12,-3
+Boston Celtics,F,Jeff Green,Charlotte Bobcats,L,03/12/2013,30:19,4,11,0.364,0,0,0.0,6,8,0.75,2,1,3,1,1,0,1,3,14,-17
+Boston Celtics,F,Brandon Bass,Charlotte Bobcats,L,03/12/2013,24:18,4,6,0.667,0,0,0.0,2,2,1.0,1,6,7,2,2,1,0,2,10,-8
+Boston Celtics,C,Kevin Garnett,Charlotte Bobcats,L,03/12/2013,20:39,2,10,0.2,0,1,0.0,1,2,0.5,1,1,2,1,0,0,1,1,5,-16
+Boston Celtics,G,Courtney Lee,Charlotte Bobcats,L,03/12/2013,28:45,3,6,0.5,0,3,0.0,0,0,0.0,0,1,1,4,0,1,1,5,6,-21
+Boston Celtics,G,Avery Bradley,Charlotte Bobcats,L,03/12/2013,27:52,4,11,0.364,2,2,1.0,0,0,0.0,0,4,4,0,0,1,1,1,10,-10
+Boston Celtics,F,Paul Pierce,Toronto Raptors,W,03/13/2013,23:47,3,6,0.5,0,2,0.0,9,11,0.818,0,4,4,4,0,1,3,2,15,6
+Boston Celtics,F,Brandon Bass,Toronto Raptors,W,03/13/2013,26:59,3,9,0.333,0,0,0.0,5,5,1.0,1,5,6,0,1,2,1,1,11,4
+Boston Celtics,C,Kevin Garnett,Toronto Raptors,W,03/13/2013,20:15,5,8,0.625,0,0,0.0,2,2,1.0,0,7,7,2,3,0,0,1,12,11
+Boston Celtics,G,Courtney Lee,Toronto Raptors,W,03/13/2013,39:19,5,10,0.5,1,3,0.333,0,0,0.0,0,4,4,4,3,0,0,3,11,18
+Boston Celtics,G,Avery Bradley,Toronto Raptors,W,03/13/2013,28:03,2,7,0.286,0,1,0.0,1,2,0.5,0,2,2,3,1,0,0,0,5,13
+Boston Celtics,F,Paul Pierce,Charlotte Bobcats,W,03/16/2013,23:00,4,7,0.571,2,3,0.667,4,5,0.8,1,5,6,8,0,3,3,2,14,16
+Boston Celtics,F,Jeff Green,Charlotte Bobcats,W,03/16/2013,30:35,5,9,0.556,0,1,0.0,0,0,0.0,1,4,5,4,0,0,2,0,10,18
+Boston Celtics,C,Brandon Bass,Charlotte Bobcats,W,03/16/2013,31:12,5,9,0.556,0,0,0.0,0,0,0.0,0,6,6,0,0,0,1,2,10,17
+Boston Celtics,G,Courtney Lee,Charlotte Bobcats,W,03/16/2013,32:31,5,7,0.714,2,2,1.0,0,0,0.0,2,3,5,4,1,3,0,1,12,20
+Boston Celtics,G,Avery Bradley,Charlotte Bobcats,W,03/16/2013,24:42,4,12,0.333,1,2,0.5,4,4,1.0,0,2,2,2,1,0,2,4,13,17
+Boston Celtics,F,Paul Pierce,Miami Heat,L,03/18/2013,39:48,6,11,0.545,2,5,0.4,3,6,0.5,1,7,8,8,1,1,7,2,17,-9
+Boston Celtics,F,Jeff Green,Miami Heat,L,03/18/2013,40:07,14,21,0.667,5,7,0.714,10,13,0.769,1,6,7,2,2,4,2,2,43,3
+Boston Celtics,C,Brandon Bass,Miami Heat,L,03/18/2013,29:35,3,5,0.6,0,0,0.0,0,0,0.0,1,4,5,1,1,0,1,4,6,-8
+Boston Celtics,G,Courtney Lee,Miami Heat,L,03/18/2013,40:15,6,10,0.6,1,2,0.5,0,0,0.0,0,3,3,4,3,0,0,4,13,-4
+Boston Celtics,G,Avery Bradley,Miami Heat,L,03/18/2013,31:12,3,11,0.273,1,2,0.5,0,0,0.0,1,2,3,2,0,1,4,3,7,-6
+Boston Celtics,F,Paul Pierce,New Orleans Hornets,L,03/20/2013,33:20,9,17,0.529,2,3,0.667,8,8,1.0,0,2,2,5,1,2,3,2,28,12
+Boston Celtics,F,Brandon Bass,New Orleans Hornets,L,03/20/2013,31:27,5,8,0.625,0,0,0.0,1,1,1.0,2,4,6,2,1,1,2,3,11,20
+Boston Celtics,C,Kevin Garnett,New Orleans Hornets,L,03/20/2013,29:13,9,16,0.563,0,0,0.0,2,2,1.0,1,5,6,3,3,0,0,2,20,-3
+Boston Celtics,G,Courtney Lee,New Orleans Hornets,L,03/20/2013,36:42,2,3,0.667,1,1,1.0,0,0,0.0,0,0,0,1,2,0,0,1,5,-11
+Boston Celtics,G,Avery Bradley,New Orleans Hornets,L,03/20/2013,34:46,2,10,0.2,0,5,0.0,1,2,0.5,1,4,5,4,5,1,2,3,5,7
+Boston Celtics,F,Paul Pierce,Dallas Mavericks,L,03/22/2013,34:37,5,9,0.556,2,3,0.667,4,5,0.8,0,5,5,3,1,0,2,3,16,-11
+Boston Celtics,F,Brandon Bass,Dallas Mavericks,L,03/22/2013,34:18,4,9,0.444,0,0,0.0,8,8,1.0,7,4,11,3,1,1,1,0,16,-9
+Boston Celtics,C,Kevin Garnett,Dallas Mavericks,L,03/22/2013,28:49,5,10,0.5,0,0,0.0,6,6,1.0,2,10,12,5,1,1,2,4,16,6
+Boston Celtics,G,Courtney Lee,Dallas Mavericks,L,03/22/2013,27:26,2,5,0.4,1,2,0.5,0,0,0.0,0,1,1,0,1,0,0,1,5,-1
+Boston Celtics,G,Avery Bradley,Dallas Mavericks,L,03/22/2013,31:05,4,12,0.333,1,3,0.333,0,0,0.0,0,2,2,3,0,1,1,4,9,-7
+Boston Celtics,F,Paul Pierce,Memphis Grizzlies,L,03/23/2013,32:10,10,17,0.588,4,6,0.667,2,4,0.5,1,5,6,4,1,0,5,5,26,-7
+Boston Celtics,F,Brandon Bass,Memphis Grizzlies,L,03/23/2013,29:54,3,6,0.5,0,0,0.0,0,0,0.0,1,5,6,3,1,1,2,3,6,7
+Boston Celtics,C,Jeff Green,Memphis Grizzlies,L,03/23/2013,45:03,4,10,0.4,1,4,0.25,3,4,0.75,0,5,5,4,1,2,2,2,12,-7
+Boston Celtics,G,Jason Terry,Memphis Grizzlies,L,03/23/2013,27:32,2,8,0.25,1,5,0.2,5,6,0.833,0,2,2,1,0,0,0,0,10,-13
+Boston Celtics,G,Avery Bradley,Memphis Grizzlies,L,03/23/2013,25:26,3,8,0.375,0,0,0.0,2,2,1.0,0,2,2,0,0,1,3,1,8,-14
+Boston Celtics,F,Paul Pierce,New York Knicks,L,03/26/2013,35:55,5,10,0.5,1,4,0.25,5,7,0.714,0,6,6,6,1,1,6,3,16,-14
+Boston Celtics,F,Jeff Green,New York Knicks,L,03/26/2013,39:02,6,14,0.429,1,4,0.25,6,6,1.0,1,9,10,6,1,1,2,4,19,-3
+Boston Celtics,C,Brandon Bass,New York Knicks,L,03/26/2013,28:10,5,6,0.833,0,0,0.0,1,1,1.0,2,5,7,1,0,3,3,0,11,-8
+Boston Celtics,G,Jordan Crawford,New York Knicks,L,03/26/2013,41:08,5,11,0.455,2,6,0.333,2,2,1.0,0,4,4,6,1,0,6,3,14,-11
+Boston Celtics,G,Avery Bradley,New York Knicks,L,03/26/2013,34:08,3,11,0.273,0,2,0.0,0,0,0.0,2,1,3,0,0,0,1,2,6,-14
+Boston Celtics,F,Jeff Green,Cleveland Cavaliers,W,03/27/2013,41:26,7,18,0.389,2,2,1.0,5,8,0.625,0,7,7,5,2,1,2,3,21,1
+Boston Celtics,F,Brandon Bass,Cleveland Cavaliers,W,03/27/2013,36:41,8,14,0.571,0,0,0.0,6,7,0.857,0,5,5,2,0,0,0,2,22,0
+Boston Celtics,C,Chris Wilcox,Cleveland Cavaliers,W,03/27/2013,21:06,2,3,0.667,0,0,0.0,2,4,0.5,2,4,6,1,1,1,0,2,6,-5
+Boston Celtics,G,Paul Pierce,Cleveland Cavaliers,W,03/27/2013,35:34,7,16,0.438,1,5,0.2,4,4,1.0,0,10,10,8,1,2,7,3,19,4
+Boston Celtics,G,Avery Bradley,Cleveland Cavaliers,W,03/27/2013,36:12,1,7,0.143,1,3,0.333,0,0,0.0,0,2,2,3,2,0,1,3,3,1
+Boston Celtics,F,Jeff Green,Atlanta Hawks,W,03/29/2013,37:44,11,20,0.55,3,5,0.6,2,3,0.667,1,3,4,4,2,1,1,2,27,-2
+Boston Celtics,F,Brandon Bass,Atlanta Hawks,W,03/29/2013,30:04,5,7,0.714,0,0,0.0,3,3,1.0,1,1,2,1,0,3,2,2,13,5
+Boston Celtics,C,Chris Wilcox,Atlanta Hawks,W,03/29/2013,12:52,2,2,1.0,0,0,0.0,0,0,0.0,0,3,3,0,1,0,2,4,4,0
+Boston Celtics,G,Paul Pierce,Atlanta Hawks,W,03/29/2013,38:23,8,18,0.444,2,8,0.25,2,3,0.667,0,10,10,10,1,1,1,3,20,28
+Boston Celtics,G,Avery Bradley,Atlanta Hawks,W,03/29/2013,26:04,3,7,0.429,0,1,0.0,2,2,1.0,0,0,0,4,4,1,2,2,8,7
+Boston Celtics,F,Brandon Bass,New York Knicks,L,03/31/2013,22:16,1,4,0.25,0,0,0.0,0,0,0.0,1,3,4,2,0,1,1,3,2,5
+Boston Celtics,F,Jeff Green,New York Knicks,L,03/31/2013,35:16,10,14,0.714,2,5,0.4,5,8,0.625,1,3,4,1,0,0,1,4,27,-14
+Boston Celtics,C,Chris Wilcox,New York Knicks,L,03/31/2013,12:12,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,0,1,0,0,2,2,-11
+Boston Celtics,G,Avery Bradley,New York Knicks,L,03/31/2013,23:56,1,5,0.2,0,1,0.0,0,0,0.0,0,1,1,1,1,0,2,6,2,5
+Boston Celtics,G,Paul Pierce,New York Knicks,L,03/31/2013,32:21,6,16,0.375,4,7,0.571,8,10,0.8,3,12,15,5,0,0,2,2,24,-11
+Boston Celtics,F,Jeff Green,Minnesota Timberwolves,L,04/01/2013,38:16,5,10,0.5,0,0,0.0,0,0,0.0,1,6,7,5,0,0,5,2,10,-9
+Boston Celtics,F,Brandon Bass,Minnesota Timberwolves,L,04/01/2013,33:03,5,13,0.385,0,0,0.0,3,4,0.75,2,4,6,2,0,1,1,1,13,-15
+Boston Celtics,C,Chris Wilcox,Minnesota Timberwolves,L,04/01/2013,11:52,2,2,1.0,0,0,0.0,0,0,0.0,1,5,6,1,1,0,0,4,4,-4
+Boston Celtics,G,Courtney Lee,Minnesota Timberwolves,L,04/01/2013,24:47,3,8,0.375,1,2,0.5,0,0,0.0,0,2,2,1,0,0,3,3,7,-15
+Boston Celtics,G,Avery Bradley,Minnesota Timberwolves,L,04/01/2013,30:19,8,14,0.571,1,5,0.2,2,2,1.0,0,0,0,2,0,0,2,4,19,-17
+Boston Celtics,F,Paul Pierce,Detroit Pistons,W,04/03/2013,33:20,5,14,0.357,1,6,0.167,6,6,1.0,0,3,3,5,1,0,2,5,17,8
+Boston Celtics,F,Brandon Bass,Detroit Pistons,W,04/03/2013,36:53,6,8,0.75,0,0,0.0,5,6,0.833,0,7,7,1,0,3,4,3,17,7
+Boston Celtics,C,Chris Wilcox,Detroit Pistons,W,04/03/2013,20:04,1,2,0.5,0,0,0.0,0,0,0.0,1,4,5,2,1,1,0,4,2,-6
+Boston Celtics,G,Jeff Green,Detroit Pistons,W,04/03/2013,42:34,13,19,0.684,3,4,0.75,5,7,0.714,2,4,6,1,1,4,3,5,34,5
+Boston Celtics,G,Avery Bradley,Detroit Pistons,W,04/03/2013,33:28,5,8,0.625,1,1,1.0,0,0,0.0,0,0,0,3,1,0,1,3,11,0
+Boston Celtics,F,Jeff Green,Cleveland Cavaliers,L,04/05/2013,32:38,8,13,0.615,1,1,1.0,6,8,0.75,1,8,9,4,0,0,2,4,23,-7
+Boston Celtics,F,Brandon Bass,Cleveland Cavaliers,L,04/05/2013,39:29,7,14,0.5,0,0,0.0,0,1,0.0,1,6,7,1,0,2,1,2,14,-3
+Boston Celtics,C,Chris Wilcox,Cleveland Cavaliers,L,04/05/2013,21:52,1,3,0.333,0,0,0.0,0,0,0.0,1,3,4,2,1,2,1,3,2,-11
+Boston Celtics,G,Courtney Lee,Cleveland Cavaliers,L,04/05/2013,19:03,1,5,0.2,0,0,0.0,0,0,0.0,0,2,2,3,1,1,1,1,2,-11
+Boston Celtics,G,Avery Bradley,Cleveland Cavaliers,L,04/05/2013,27:30,3,12,0.25,2,8,0.25,2,4,0.5,0,0,0,3,1,1,2,3,10,-8
+Boston Celtics,F,Jeff Green,Washington Wizards,W,04/07/2013,27:20,3,8,0.375,0,0,0.0,2,2,1.0,0,3,3,0,2,0,4,4,8,2
+Boston Celtics,F,Brandon Bass,Washington Wizards,W,04/07/2013,35:48,9,12,0.75,0,0,0.0,2,2,1.0,2,4,6,1,1,1,0,1,20,7
+Boston Celtics,C,Kevin Garnett,Washington Wizards,W,04/07/2013,23:59,6,9,0.667,0,0,0.0,0,0,0.0,0,6,6,3,2,1,0,0,12,8
+Boston Celtics,G,Paul Pierce,Washington Wizards,W,04/07/2013,30:05,5,13,0.385,3,6,0.5,2,2,1.0,1,3,4,5,0,0,1,2,15,15
+Boston Celtics,G,Avery Bradley,Washington Wizards,W,04/07/2013,29:52,5,13,0.385,0,2,0.0,0,0,0.0,0,2,2,3,1,0,0,2,10,4
+Boston Celtics,F,Jeff Green,Brooklyn Nets,L,04/10/2013,35:20,4,17,0.235,2,4,0.5,1,1,1.0,1,3,4,2,0,0,2,2,11,-21
+Boston Celtics,F,Brandon Bass,Brooklyn Nets,L,04/10/2013,26:19,5,11,0.455,0,0,0.0,0,0,0.0,1,2,3,1,0,1,0,1,10,-24
+Boston Celtics,C,Kevin Garnett,Brooklyn Nets,L,04/10/2013,27:35,5,11,0.455,0,0,0.0,1,1,1.0,2,6,8,4,1,0,3,1,11,-2
+Boston Celtics,G,Paul Pierce,Brooklyn Nets,L,04/10/2013,32:45,7,11,0.636,3,5,0.6,6,7,0.857,0,3,3,3,0,0,3,3,23,-8
+Boston Celtics,G,Avery Bradley,Brooklyn Nets,L,04/10/2013,12:11,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,1,1,0,0,5,2,-2
+Boston Celtics,F,Jeff Green,Miami Heat,L,04/12/2013,36:25,10,17,0.588,1,6,0.167,4,4,1.0,0,8,8,2,0,0,0,1,25,-10
+Boston Celtics,F,Brandon Bass,Miami Heat,L,04/12/2013,34:18,6,9,0.667,0,0,0.0,5,5,1.0,3,6,9,1,0,0,2,3,17,-5
+Boston Celtics,C,Jordan Crawford,Miami Heat,L,04/12/2013,35:37,7,15,0.467,2,5,0.4,4,4,1.0,1,3,4,2,2,0,4,1,20,-9
+Boston Celtics,G,Courtney Lee,Miami Heat,L,04/12/2013,32:28,8,16,0.5,2,6,0.333,0,0,0.0,1,2,3,2,1,0,0,4,18,-10
+Boston Celtics,G,Avery Bradley,Miami Heat,L,04/12/2013,34:24,3,9,0.333,1,3,0.333,0,0,0.0,1,0,1,2,4,0,1,2,7,-8
+Boston Celtics,F,Jeff Green,Orlando Magic,W,04/13/2013,36:48,6,17,0.353,2,3,0.667,3,5,0.6,2,4,6,3,2,0,2,0,17,19
+Boston Celtics,F,Brandon Bass,Orlando Magic,W,04/13/2013,31:44,6,7,0.857,0,0,0.0,2,2,1.0,3,2,5,1,0,3,1,4,14,15
+Boston Celtics,C,Kevin Garnett,Orlando Magic,W,04/13/2013,18:36,7,8,0.875,0,0,0.0,0,0,0.0,0,9,9,3,1,0,1,1,14,27
+Boston Celtics,G,Paul Pierce,Orlando Magic,W,04/13/2013,26:58,4,12,0.333,1,5,0.2,3,5,0.6,1,5,6,8,1,0,2,1,12,25
+Boston Celtics,G,Avery Bradley,Orlando Magic,W,04/13/2013,26:39,5,9,0.556,2,3,0.667,2,2,1.0,0,1,1,1,1,0,4,2,14,14
+Boston Celtics,F,Jeff Green,Toronto Raptors,L,04/17/2013,17:10,4,7,0.571,1,1,1.0,0,0,0.0,1,5,6,2,0,0,3,2,9,-14
+Boston Celtics,F,Brandon Bass,Toronto Raptors,L,04/17/2013,17:42,3,8,0.375,0,0,0.0,0,0,0.0,1,2,3,1,0,0,1,3,6,-12
+Boston Celtics,C,Chris Wilcox,Toronto Raptors,L,04/17/2013,13:20,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,2,-13
+Boston Celtics,G,Paul Pierce,Toronto Raptors,L,04/17/2013,14:21,5,7,0.714,1,2,0.5,0,1,0.0,0,1,1,1,1,0,0,1,11,-7
+Boston Celtics,G,Avery Bradley,Toronto Raptors,L,04/17/2013,24:27,4,10,0.4,1,1,1.0,2,2,1.0,0,3,3,3,1,0,3,1,11,-16

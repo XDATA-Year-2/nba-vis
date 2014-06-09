@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Milwaukee Bucks,F,Tobias Harris,Boston Celtics,W,11/02/2012,32:53,8,11,0.727,2,2,1.0,0,0,0.0,0,6,6,2,0,1,3,1,18,9
+Milwaukee Bucks,F,Ersan Ilyasova,Boston Celtics,W,11/02/2012,25:20,3,7,0.429,1,1,1.0,0,0,0.0,4,7,11,1,1,0,2,4,7,10
+Milwaukee Bucks,C,Samuel Dalembert,Boston Celtics,W,11/02/2012,15:28,1,1,1.0,0,0,0.0,0,0,0.0,1,2,3,1,0,0,1,1,2,6
+Milwaukee Bucks,G,Monta Ellis,Boston Celtics,W,11/02/2012,36:33,6,20,0.3,2,6,0.333,0,0,0.0,1,2,3,4,0,0,2,1,14,12
+Milwaukee Bucks,G,Brandon Jennings,Boston Celtics,W,11/02/2012,28:35,9,17,0.529,1,3,0.333,2,3,0.667,0,2,2,13,6,0,2,2,21,12
+Milwaukee Bucks,F,Tobias Harris,Cleveland Cavaliers,W,11/03/2012,13:18,2,3,0.667,0,1,0.0,0,0,0.0,2,1,3,0,0,0,2,2,4,-21
+Milwaukee Bucks,F,Ersan Ilyasova,Cleveland Cavaliers,W,11/03/2012,26:43,1,8,0.125,0,4,0.0,1,2,0.5,1,2,3,2,0,0,1,4,3,-7
+Milwaukee Bucks,C,Samuel Dalembert,Cleveland Cavaliers,W,11/03/2012,10:14,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,1,0,1,0,1,0,-10
+Milwaukee Bucks,G,Monta Ellis,Cleveland Cavaliers,W,11/03/2012,36:29,8,20,0.4,1,5,0.2,6,8,0.75,0,2,2,4,1,2,5,0,23,-13
+Milwaukee Bucks,G,Brandon Jennings,Cleveland Cavaliers,W,11/03/2012,37:14,5,13,0.385,1,5,0.2,2,2,1.0,0,4,4,13,2,1,4,0,13,-14
+Milwaukee Bucks,F,Tobias Harris,Memphis Grizzlies,L,11/07/2012,24:19,3,7,0.429,0,0,0.0,2,2,1.0,3,3,6,1,0,1,0,2,8,-14
+Milwaukee Bucks,F,Ersan Ilyasova,Memphis Grizzlies,L,11/07/2012,20:59,3,7,0.429,1,2,0.5,0,2,0.0,0,4,4,1,0,0,0,2,7,-10
+Milwaukee Bucks,C,Samuel Dalembert,Memphis Grizzlies,L,11/07/2012,15:22,2,2,1.0,0,0,0.0,0,0,0.0,1,2,3,0,1,2,1,1,4,-9
+Milwaukee Bucks,G,Monta Ellis,Memphis Grizzlies,L,11/07/2012,36:26,5,18,0.278,1,5,0.2,4,6,0.667,0,4,4,7,2,1,0,2,15,-8
+Milwaukee Bucks,G,Brandon Jennings,Memphis Grizzlies,L,11/07/2012,36:43,6,20,0.3,2,4,0.5,5,5,1.0,1,2,3,5,4,0,2,1,19,-16
+Milwaukee Bucks,F,Tobias Harris,Washington Wizards,W,11/09/2012,15:13,2,4,0.5,1,1,1.0,0,0,0.0,0,1,1,0,0,0,1,4,5,-8
+Milwaukee Bucks,F,Ersan Ilyasova,Washington Wizards,W,11/09/2012,21:43,4,13,0.308,2,6,0.333,1,2,0.5,0,2,2,0,0,1,0,0,11,-8
+Milwaukee Bucks,C,Samuel Dalembert,Washington Wizards,W,11/09/2012,13:56,1,3,0.333,0,0,0.0,0,0,0.0,1,5,6,0,0,1,0,0,2,-5
+Milwaukee Bucks,G,Monta Ellis,Washington Wizards,W,11/09/2012,32:26,8,15,0.533,1,2,0.5,5,6,0.833,2,3,5,5,2,0,6,1,22,2
+Milwaukee Bucks,G,Brandon Jennings,Washington Wizards,W,11/09/2012,31:06,5,9,0.556,0,0,0.0,2,2,1.0,0,1,1,7,3,0,6,1,12,-4
+Milwaukee Bucks,F,Tobias Harris,Boston Celtics,L,11/10/2012,10:14,1,3,0.333,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,2,2,-9
+Milwaukee Bucks,F,Ersan Ilyasova,Boston Celtics,L,11/10/2012,32:17,3,12,0.25,1,4,0.25,3,6,0.5,1,5,6,2,0,0,1,1,10,-7
+Milwaukee Bucks,C,Samuel Dalembert,Boston Celtics,L,11/10/2012,21:34,6,8,0.75,0,0,0.0,2,4,0.5,4,4,8,1,0,0,0,4,14,-7
+Milwaukee Bucks,G,Monta Ellis,Boston Celtics,L,11/10/2012,38:06,11,24,0.458,1,4,0.25,9,10,0.9,1,1,2,8,2,0,1,1,32,-4
+Milwaukee Bucks,G,Brandon Jennings,Boston Celtics,L,11/10/2012,41:35,1,11,0.091,1,7,0.143,1,2,0.5,1,3,4,5,2,0,3,4,4,-9
+Milwaukee Bucks,F,Tobias Harris,Philadelphia 76ers,W,11/12/2012,17:33,4,5,0.8,0,1,0.0,2,2,1.0,0,2,2,2,0,0,1,2,10,4
+Milwaukee Bucks,F,Ersan Ilyasova,Philadelphia 76ers,W,11/12/2012,18:14,1,5,0.2,0,1,0.0,0,0,0.0,1,6,7,2,0,0,2,2,2,-1
+Milwaukee Bucks,C,Samuel Dalembert,Philadelphia 76ers,W,11/12/2012,18:18,4,5,0.8,0,0,0.0,0,0,0.0,1,3,4,0,0,1,3,3,8,-3
+Milwaukee Bucks,G,Monta Ellis,Philadelphia 76ers,W,11/12/2012,38:17,8,20,0.4,1,5,0.2,1,1,1.0,0,5,5,7,2,1,6,3,18,17
+Milwaukee Bucks,G,Brandon Jennings,Philadelphia 76ers,W,11/12/2012,37:59,12,21,0.571,4,9,0.444,5,5,1.0,0,5,5,8,4,1,1,3,33,25
+Milwaukee Bucks,F,Tobias Harris,Indiana Pacers,W,11/14/2012,20:05,4,5,0.8,0,0,0.0,3,4,0.75,0,4,4,2,0,0,1,2,11,19
+Milwaukee Bucks,F,Ersan Ilyasova,Indiana Pacers,W,11/14/2012,21:46,2,9,0.222,0,0,0.0,1,2,0.5,1,3,4,1,1,0,0,1,5,29
+Milwaukee Bucks,C,Samuel Dalembert,Indiana Pacers,W,11/14/2012,18:25,5,7,0.714,0,0,0.0,4,4,1.0,1,5,6,1,1,3,1,4,14,31
+Milwaukee Bucks,G,Monta Ellis,Indiana Pacers,W,11/14/2012,27:41,6,15,0.4,0,2,0.0,4,4,1.0,0,3,3,3,2,0,1,2,16,24
+Milwaukee Bucks,G,Brandon Jennings,Indiana Pacers,W,11/14/2012,28:41,6,12,0.5,2,6,0.333,2,2,1.0,0,3,3,4,1,0,0,1,16,25
+Milwaukee Bucks,F,Tobias Harris,New Orleans Hornets,W,11/17/2012,17:09,4,9,0.444,2,4,0.5,0,0,0.0,1,0,1,0,0,0,2,1,10,8
+Milwaukee Bucks,F,Ersan Ilyasova,New Orleans Hornets,W,11/17/2012,25:29,5,10,0.5,0,0,0.0,0,0,0.0,4,1,5,2,0,0,0,3,10,0
+Milwaukee Bucks,C,Samuel Dalembert,New Orleans Hornets,W,11/17/2012,20:21,6,10,0.6,0,0,0.0,3,3,1.0,4,4,8,0,0,1,3,3,15,1
+Milwaukee Bucks,G,Monta Ellis,New Orleans Hornets,W,11/17/2012,33:59,8,16,0.5,0,3,0.0,6,6,1.0,1,2,3,9,0,0,0,1,22,-11
+Milwaukee Bucks,G,Brandon Jennings,New Orleans Hornets,W,11/17/2012,40:42,8,16,0.5,4,7,0.571,2,3,0.667,1,1,2,9,4,0,1,2,22,11
+Milwaukee Bucks,F,Tobias Harris,Charlotte Bobcats,L,11/19/2012,12:25,1,2,0.5,0,1,0.0,1,2,0.5,0,3,3,0,0,1,0,3,3,5
+Milwaukee Bucks,F,Ersan Ilyasova,Charlotte Bobcats,L,11/19/2012,15:51,2,5,0.4,0,1,0.0,0,0,0.0,1,3,4,1,0,0,2,2,4,-4
+Milwaukee Bucks,C,Samuel Dalembert,Charlotte Bobcats,L,11/19/2012,19:37,4,7,0.571,0,0,0.0,0,0,0.0,2,2,4,1,0,1,1,2,8,0
+Milwaukee Bucks,G,Monta Ellis,Charlotte Bobcats,L,11/19/2012,41:34,14,28,0.5,1,5,0.2,2,2,1.0,0,3,3,5,1,2,6,2,31,-13
+Milwaukee Bucks,G,Brandon Jennings,Charlotte Bobcats,L,11/19/2012,32:34,5,18,0.278,0,4,0.0,0,0,0.0,1,3,4,5,2,0,2,0,10,-14
+Milwaukee Bucks,F,Tobias Harris,Miami Heat,L,11/21/2012,24:25,4,8,0.5,1,4,0.25,2,2,1.0,0,6,6,1,1,0,0,1,11,6
+Milwaukee Bucks,F,Ersan Ilyasova,Miami Heat,L,11/21/2012,16:43,2,7,0.286,0,1,0.0,0,0,0.0,1,0,1,0,1,0,0,1,4,-6
+Milwaukee Bucks,C,Samuel Dalembert,Miami Heat,L,11/21/2012,19:52,4,7,0.571,1,1,1.0,1,1,1.0,2,3,5,2,0,0,0,0,10,9
+Milwaukee Bucks,G,Monta Ellis,Miami Heat,L,11/21/2012,39:26,4,16,0.25,1,5,0.2,0,0,0.0,0,1,1,4,1,1,5,2,9,-10
+Milwaukee Bucks,G,Brandon Jennings,Miami Heat,L,11/21/2012,49:15,9,25,0.36,1,8,0.125,0,0,0.0,1,6,7,6,5,0,0,3,19,-3
+Milwaukee Bucks,F,Tobias Harris,Chicago Bulls,L,11/24/2012,20:10,5,7,0.714,0,1,0.0,0,0,0.0,0,3,3,0,0,1,1,1,10,-5
+Milwaukee Bucks,F,Ersan Ilyasova,Chicago Bulls,L,11/24/2012,29:46,3,8,0.375,0,2,0.0,0,0,0.0,2,4,6,3,1,2,0,0,6,-11
+Milwaukee Bucks,C,Joel Przybilla,Chicago Bulls,L,11/24/2012,17:07,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,3,1,0,1,3,0,-4
+Milwaukee Bucks,G,Monta Ellis,Chicago Bulls,L,11/24/2012,35:37,7,17,0.412,0,1,0.0,3,3,1.0,2,4,6,2,0,2,1,4,17,-7
+Milwaukee Bucks,G,Brandon Jennings,Chicago Bulls,L,11/24/2012,37:51,10,20,0.5,1,5,0.2,2,4,0.5,0,1,1,7,5,0,3,1,23,-6
+Milwaukee Bucks,F,Tobias Harris,Chicago Bulls,W,11/26/2012,19:54,3,8,0.375,0,0,0.0,2,2,1.0,1,1,2,0,1,1,1,2,8,-16
+Milwaukee Bucks,F,John Henson,Chicago Bulls,W,11/26/2012,14:41,5,8,0.625,0,0,0.0,1,3,0.333,1,1,2,0,0,1,0,2,11,-6
+Milwaukee Bucks,C,Samuel Dalembert,Chicago Bulls,W,11/26/2012,18:27,1,4,0.25,0,0,0.0,0,0,0.0,2,2,4,1,0,2,4,0,2,-9
+Milwaukee Bucks,G,Monta Ellis,Chicago Bulls,W,11/26/2012,26:25,4,10,0.4,0,4,0.0,2,3,0.667,0,1,1,2,1,1,1,1,10,-27
+Milwaukee Bucks,G,Brandon Jennings,Chicago Bulls,W,11/26/2012,26:07,2,9,0.222,0,0,0.0,2,2,1.0,1,0,1,4,0,0,2,1,6,-14
+Milwaukee Bucks,F,Tobias Harris,New York Knicks,L,11/28/2012,9:35,1,4,0.25,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,-3
+Milwaukee Bucks,F,John Henson,New York Knicks,L,11/28/2012,12:16,0,3,0.0,0,0,0.0,0,0,0.0,1,1,2,3,0,1,2,1,0,-6
+Milwaukee Bucks,C,Samuel Dalembert,New York Knicks,L,11/28/2012,15:23,0,1,0.0,0,0,0.0,0,0,0.0,2,2,4,0,0,0,2,3,0,-10
+Milwaukee Bucks,G,Monta Ellis,New York Knicks,L,11/28/2012,27:07,6,11,0.545,0,1,0.0,5,6,0.833,0,2,2,7,3,0,3,2,17,-11
+Milwaukee Bucks,G,Brandon Jennings,New York Knicks,L,11/28/2012,29:20,6,8,0.75,2,2,1.0,4,4,1.0,0,3,3,5,0,0,3,1,18,-24
+Milwaukee Bucks,F,Tobias Harris,Minnesota Timberwolves,L,11/30/2012,19:40,1,9,0.111,0,1,0.0,2,2,1.0,2,3,5,2,3,0,1,3,4,-6
+Milwaukee Bucks,F,John Henson,Minnesota Timberwolves,L,11/30/2012,19:05,4,7,0.571,0,0,0.0,2,2,1.0,4,3,7,0,0,0,0,4,10,-1
+Milwaukee Bucks,C,Samuel Dalembert,Minnesota Timberwolves,L,11/30/2012,15:52,1,3,0.333,0,0,0.0,0,0,0.0,1,5,6,1,0,1,1,2,2,-8
+Milwaukee Bucks,G,Monta Ellis,Minnesota Timberwolves,L,11/30/2012,36:15,8,22,0.364,1,3,0.333,1,2,0.5,0,2,2,1,3,0,1,2,18,-10
+Milwaukee Bucks,G,Brandon Jennings,Minnesota Timberwolves,L,11/30/2012,35:29,6,19,0.316,3,6,0.5,3,4,0.75,1,5,6,4,1,1,3,1,18,-6
+Milwaukee Bucks,F,Marquis Daniels,Boston Celtics,W,12/01/2012,35:36,4,9,0.444,0,1,0.0,0,0,0.0,1,1,2,5,1,0,3,2,8,-12
+Milwaukee Bucks,F,John Henson,Boston Celtics,W,12/01/2012,13:28,2,4,0.5,0,0,0.0,1,4,0.25,0,2,2,1,1,0,1,1,5,-13
+Milwaukee Bucks,C,Ekpe Udoh,Boston Celtics,W,12/01/2012,15:08,2,3,0.667,0,0,0.0,1,2,0.5,0,1,1,0,1,0,1,3,5,-15
+Milwaukee Bucks,G,Monta Ellis,Boston Celtics,W,12/01/2012,39:59,6,20,0.3,0,3,0.0,5,5,1.0,0,4,4,7,2,0,3,0,17,1
+Milwaukee Bucks,G,Brandon Jennings,Boston Celtics,W,12/01/2012,39:55,5,12,0.417,3,5,0.6,0,0,0.0,1,5,6,2,0,0,2,2,13,-8
+Milwaukee Bucks,F,Marquis Daniels,New Orleans Hornets,L,12/03/2012,15:56,1,3,0.333,0,1,0.0,0,0,0.0,1,2,3,2,0,1,0,3,2,-9
+Milwaukee Bucks,F,John Henson,New Orleans Hornets,L,12/03/2012,16:05,1,5,0.2,0,0,0.0,0,2,0.0,1,1,2,1,0,0,0,0,2,-4
+Milwaukee Bucks,C,Ekpe Udoh,New Orleans Hornets,L,12/03/2012,26:54,2,7,0.286,0,0,0.0,3,3,1.0,3,3,6,2,0,1,3,2,7,-6
+Milwaukee Bucks,G,Monta Ellis,New Orleans Hornets,L,12/03/2012,35:12,5,12,0.417,2,3,0.667,5,6,0.833,1,2,3,6,1,0,4,1,17,-13
+Milwaukee Bucks,G,Brandon Jennings,New Orleans Hornets,L,12/03/2012,43:00,10,23,0.435,5,10,0.5,0,2,0.0,1,1,2,3,1,0,2,1,25,-18
+Milwaukee Bucks,F,Marquis Daniels,San Antonio Spurs,L,12/05/2012,28:48,5,10,0.5,1,1,1.0,1,3,0.333,0,2,2,3,2,0,1,2,12,4
+Milwaukee Bucks,F,Larry Sanders,San Antonio Spurs,L,12/05/2012,17:13,2,4,0.5,0,0,0.0,0,0,0.0,2,5,7,2,2,1,3,5,4,-3
+Milwaukee Bucks,C,Ekpe Udoh,San Antonio Spurs,L,12/05/2012,25:31,2,4,0.5,0,0,0.0,3,4,0.75,3,2,5,1,0,2,0,2,7,-13
+Milwaukee Bucks,G,Monta Ellis,San Antonio Spurs,L,12/05/2012,37:43,5,19,0.263,1,3,0.333,10,11,0.909,0,7,7,11,3,0,0,2,21,-3
+Milwaukee Bucks,G,Brandon Jennings,San Antonio Spurs,L,12/05/2012,38:52,5,15,0.333,1,2,0.5,3,3,1.0,0,2,2,4,1,0,2,3,14,-10
+Milwaukee Bucks,F,Marquis Daniels,Charlotte Bobcats,W,12/07/2012,27:45,7,11,0.636,3,3,1.0,1,1,1.0,2,4,6,3,0,0,2,0,18,27
+Milwaukee Bucks,F,Larry Sanders,Charlotte Bobcats,W,12/07/2012,25:51,4,8,0.5,0,0,0.0,0,0,0.0,4,6,10,1,1,5,0,3,8,24
+Milwaukee Bucks,C,Ekpe Udoh,Charlotte Bobcats,W,12/07/2012,22:05,1,4,0.25,0,0,0.0,4,4,1.0,2,4,6,0,0,2,0,2,6,20
+Milwaukee Bucks,G,Monta Ellis,Charlotte Bobcats,W,12/07/2012,31:06,3,11,0.273,0,1,0.0,7,9,0.778,0,4,4,5,0,1,1,3,13,22
+Milwaukee Bucks,G,Brandon Jennings,Charlotte Bobcats,W,12/07/2012,35:47,5,16,0.313,1,5,0.2,4,5,0.8,1,1,2,8,3,0,2,0,15,18
+Milwaukee Bucks,F,Marquis Daniels,Brooklyn Nets,W,12/09/2012,34:31,5,10,0.5,1,2,0.5,2,2,1.0,0,7,7,1,0,0,2,2,13,4
+Milwaukee Bucks,F,Larry Sanders,Brooklyn Nets,W,12/09/2012,37:37,3,12,0.25,0,0,0.0,0,0,0.0,2,4,6,1,1,4,3,3,6,12
+Milwaukee Bucks,C,Ekpe Udoh,Brooklyn Nets,W,12/09/2012,12:20,1,2,0.5,0,0,0.0,1,1,1.0,0,1,1,2,1,2,0,1,3,1
+Milwaukee Bucks,G,Monta Ellis,Brooklyn Nets,W,12/09/2012,40:35,8,13,0.615,0,1,0.0,8,9,0.889,0,2,2,5,3,0,6,3,24,7
+Milwaukee Bucks,G,Brandon Jennings,Brooklyn Nets,W,12/09/2012,40:43,8,19,0.421,4,7,0.571,6,6,1.0,2,4,6,7,5,0,2,2,26,4
+Milwaukee Bucks,F,Marquis Daniels,Sacramento Kings,W,12/12/2012,31:26,5,13,0.385,0,1,0.0,0,0,0.0,2,4,6,3,0,1,0,3,10,7
+Milwaukee Bucks,F,Luc Mbah a Moute,Sacramento Kings,W,12/12/2012,25:54,6,10,0.6,0,0,0.0,5,7,0.714,2,4,6,1,1,0,0,1,17,4
+Milwaukee Bucks,C,Samuel Dalembert,Sacramento Kings,W,12/12/2012,22:50,1,2,0.5,0,0,0.0,3,4,0.75,3,6,9,0,0,2,0,3,5,1
+Milwaukee Bucks,G,Monta Ellis,Sacramento Kings,W,12/12/2012,41:10,7,17,0.412,2,4,0.5,1,4,0.25,2,6,8,11,0,1,4,2,17,23
+Milwaukee Bucks,G,Brandon Jennings,Sacramento Kings,W,12/12/2012,41:55,8,21,0.381,2,8,0.25,1,1,1.0,3,1,4,3,1,0,2,3,19,9
+Milwaukee Bucks,F,Marquis Daniels,Cleveland Cavaliers,W,12/14/2012,27:54,2,5,0.4,1,1,1.0,0,0,0.0,1,4,5,1,1,1,0,2,5,-2
+Milwaukee Bucks,F,Luc Mbah a Moute,Cleveland Cavaliers,W,12/14/2012,35:54,4,7,0.571,0,0,0.0,1,4,0.25,3,4,7,6,4,1,3,4,9,5
+Milwaukee Bucks,C,Larry Sanders,Cleveland Cavaliers,W,12/14/2012,30:22,4,7,0.571,0,0,0.0,2,2,1.0,5,5,10,2,1,3,2,2,10,-2
+Milwaukee Bucks,G,Monta Ellis,Cleveland Cavaliers,W,12/14/2012,40:03,12,24,0.5,1,4,0.25,8,11,0.727,0,6,6,4,2,0,6,3,33,5
+Milwaukee Bucks,G,Brandon Jennings,Cleveland Cavaliers,W,12/14/2012,42:25,5,20,0.25,2,9,0.222,4,4,1.0,1,0,1,8,3,0,3,1,16,3
+Milwaukee Bucks,F,Marquis Daniels,Los Angeles Clippers,L,12/15/2012,36:05,6,13,0.462,2,4,0.5,2,2,1.0,2,3,5,2,2,1,1,3,16,-30
+Milwaukee Bucks,F,Luc Mbah a Moute,Los Angeles Clippers,L,12/15/2012,24:30,4,7,0.571,1,1,1.0,2,2,1.0,2,4,6,1,0,0,1,2,11,-5
+Milwaukee Bucks,C,Larry Sanders,Los Angeles Clippers,L,12/15/2012,16:57,1,3,0.333,0,0,0.0,2,2,1.0,0,3,3,1,0,1,1,2,4,-15
+Milwaukee Bucks,G,Monta Ellis,Los Angeles Clippers,L,12/15/2012,31:32,4,14,0.286,0,3,0.0,5,7,0.714,1,2,3,4,1,0,1,1,13,-20
+Milwaukee Bucks,G,Brandon Jennings,Los Angeles Clippers,L,12/15/2012,30:37,3,13,0.231,1,6,0.167,2,2,1.0,0,1,1,3,1,0,4,4,9,-17
+Milwaukee Bucks,F,Marquis Daniels,Indiana Pacers,W,12/18/2012,22:11,3,4,0.75,1,1,1.0,0,0,0.0,0,0,0,0,1,1,3,2,7,1
+Milwaukee Bucks,F,Luc Mbah a Moute,Indiana Pacers,W,12/18/2012,34:17,3,7,0.429,0,1,0.0,4,4,1.0,2,8,10,2,2,1,1,4,10,9
+Milwaukee Bucks,C,Larry Sanders,Indiana Pacers,W,12/18/2012,29:20,2,4,0.5,0,0,0.0,1,2,0.5,4,5,9,0,1,5,0,5,5,13
+Milwaukee Bucks,G,Monta Ellis,Indiana Pacers,W,12/18/2012,39:43,8,23,0.348,0,2,0.0,3,4,0.75,0,2,2,6,3,1,4,3,19,10
+Milwaukee Bucks,G,Brandon Jennings,Indiana Pacers,W,12/18/2012,44:01,13,22,0.591,2,4,0.5,6,9,0.667,2,3,5,6,0,0,3,4,34,7
+Milwaukee Bucks,F,Marquis Daniels,Memphis Grizzlies,L,12/19/2012,21:46,5,8,0.625,0,2,0.0,2,2,1.0,3,3,6,0,0,0,2,3,12,-4
+Milwaukee Bucks,F,Luc Mbah a Moute,Memphis Grizzlies,L,12/19/2012,21:34,1,3,0.333,0,0,0.0,2,2,1.0,0,4,4,0,0,0,1,2,4,-12
+Milwaukee Bucks,C,Larry Sanders,Memphis Grizzlies,L,12/19/2012,21:25,4,6,0.667,0,0,0.0,0,0,0.0,2,7,9,1,3,2,2,3,8,-5
+Milwaukee Bucks,G,Monta Ellis,Memphis Grizzlies,L,12/19/2012,34:17,1,14,0.071,0,5,0.0,2,2,1.0,0,2,2,2,2,1,3,1,4,-8
+Milwaukee Bucks,G,Brandon Jennings,Memphis Grizzlies,L,12/19/2012,41:45,9,26,0.346,3,9,0.333,5,8,0.625,4,3,7,2,1,0,4,1,26,-22
+Milwaukee Bucks,F,Marquis Daniels,Boston Celtics,W,12/21/2012,19:11,0,5,0.0,0,1,0.0,0,0,0.0,0,2,2,1,1,0,1,0,0,-8
+Milwaukee Bucks,F,Luc Mbah a Moute,Boston Celtics,W,12/21/2012,40:02,8,15,0.533,0,0,0.0,4,10,0.4,5,1,6,2,0,0,5,2,20,8
+Milwaukee Bucks,C,Larry Sanders,Boston Celtics,W,12/21/2012,39:10,8,10,0.8,0,0,0.0,1,3,0.333,2,18,20,3,2,2,1,4,17,11
+Milwaukee Bucks,G,Monta Ellis,Boston Celtics,W,12/21/2012,41:07,9,21,0.429,0,1,0.0,9,11,0.818,1,6,7,5,0,0,4,1,27,-8
+Milwaukee Bucks,G,Brandon Jennings,Boston Celtics,W,12/21/2012,48:00,4,11,0.364,2,5,0.4,2,4,0.5,4,7,11,8,2,0,7,1,12,6
+Milwaukee Bucks,F,Marquis Daniels,Cleveland Cavaliers,L,12/22/2012,21:45,3,8,0.375,0,2,0.0,3,6,0.5,2,1,3,1,2,0,0,1,9,-6
+Milwaukee Bucks,F,Luc Mbah a Moute,Cleveland Cavaliers,L,12/22/2012,24:00,1,7,0.143,0,2,0.0,2,3,0.667,1,4,5,4,1,0,3,1,4,-12
+Milwaukee Bucks,C,Larry Sanders,Cleveland Cavaliers,L,12/22/2012,30:00,0,3,0.0,0,0,0.0,2,2,1.0,2,10,12,0,1,5,4,4,2,-20
+Milwaukee Bucks,G,Monta Ellis,Cleveland Cavaliers,L,12/22/2012,39:28,15,27,0.556,2,5,0.4,5,6,0.833,0,2,2,3,0,0,3,0,37,-8
+Milwaukee Bucks,G,Brandon Jennings,Cleveland Cavaliers,L,12/22/2012,37:37,3,13,0.231,1,6,0.167,0,0,0.0,0,4,4,3,0,0,0,2,7,-13
+Milwaukee Bucks,F,Marquis Daniels,Brooklyn Nets,W,12/26/2012,20:45,2,5,0.4,1,2,0.5,0,0,0.0,1,4,5,1,1,0,2,2,5,0
+Milwaukee Bucks,F,Luc Mbah a Moute,Brooklyn Nets,W,12/26/2012,19:06,0,3,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-2
+Milwaukee Bucks,C,Larry Sanders,Brooklyn Nets,W,12/26/2012,23:03,6,11,0.545,0,0,0.0,0,0,0.0,2,10,12,1,1,1,2,5,12,9
+Milwaukee Bucks,G,Monta Ellis,Brooklyn Nets,W,12/26/2012,36:57,7,14,0.5,3,3,1.0,3,4,0.75,2,4,6,7,6,1,4,1,20,23
+Milwaukee Bucks,G,Brandon Jennings,Brooklyn Nets,W,12/26/2012,41:40,9,15,0.6,3,4,0.75,4,4,1.0,1,3,4,6,1,0,5,2,25,14
+Milwaukee Bucks,F,Marquis Daniels,Miami Heat,W,12/29/2012,24:42,1,9,0.111,0,1,0.0,0,0,0.0,0,4,4,0,2,0,0,2,2,2
+Milwaukee Bucks,F,Luc Mbah a Moute,Miami Heat,W,12/29/2012,33:08,8,15,0.533,1,1,1.0,2,3,0.667,3,4,7,1,1,2,3,4,19,19
+Milwaukee Bucks,C,Larry Sanders,Miami Heat,W,12/29/2012,32:09,8,11,0.727,0,0,0.0,0,0,0.0,2,9,11,1,0,4,0,2,16,26
+Milwaukee Bucks,G,Monta Ellis,Miami Heat,W,12/29/2012,35:40,6,18,0.333,2,4,0.5,0,0,0.0,0,3,3,9,5,0,1,3,14,7
+Milwaukee Bucks,G,Brandon Jennings,Miami Heat,W,12/29/2012,41:36,8,16,0.5,2,7,0.286,7,7,1.0,1,1,2,7,4,0,0,2,25,15
+Milwaukee Bucks,F,Marquis Daniels,Detroit Pistons,L,12/30/2012,20:24,3,9,0.333,0,2,0.0,1,2,0.5,4,2,6,1,1,0,1,1,7,-16
+Milwaukee Bucks,F,Luc Mbah a Moute,Detroit Pistons,L,12/30/2012,21:26,1,3,0.333,0,0,0.0,0,0,0.0,0,5,5,0,0,1,3,2,2,-7
+Milwaukee Bucks,C,Larry Sanders,Detroit Pistons,L,12/30/2012,20:09,2,4,0.5,0,0,0.0,0,2,0.0,3,0,3,0,2,1,1,4,4,-11
+Milwaukee Bucks,G,Monta Ellis,Detroit Pistons,L,12/30/2012,41:32,12,22,0.545,3,7,0.429,3,4,0.75,1,3,4,9,1,1,2,0,30,3
+Milwaukee Bucks,G,Brandon Jennings,Detroit Pistons,L,12/30/2012,37:43,3,12,0.25,1,4,0.25,2,2,1.0,1,5,6,4,0,0,1,2,9,4
+Milwaukee Bucks,F,Marquis Daniels,San Antonio Spurs,L,01/02/2013,20:40,1,4,0.25,0,1,0.0,3,4,0.75,1,3,4,4,0,0,0,1,5,-7
+Milwaukee Bucks,F,Luc Mbah a Moute,San Antonio Spurs,L,01/02/2013,19:00,1,4,0.25,0,0,0.0,2,4,0.5,3,6,9,0,0,1,0,1,4,-3
+Milwaukee Bucks,C,Larry Sanders,San Antonio Spurs,L,01/02/2013,22:56,2,4,0.5,0,0,0.0,2,2,1.0,3,6,9,1,0,4,4,3,6,-19
+Milwaukee Bucks,G,Monta Ellis,San Antonio Spurs,L,01/02/2013,39:13,7,18,0.389,0,1,0.0,4,6,0.667,0,1,1,8,1,0,3,2,18,-4
+Milwaukee Bucks,G,Brandon Jennings,San Antonio Spurs,L,01/02/2013,43:47,13,26,0.5,1,5,0.2,4,4,1.0,0,0,0,5,1,2,5,2,31,-14
+Milwaukee Bucks,F,Ekpe Udoh,Houston Rockets,L,01/04/2013,24:55,3,4,0.75,0,0,0.0,4,4,1.0,3,5,8,1,0,0,3,3,10,-10
+Milwaukee Bucks,F,Luc Mbah a Moute,Houston Rockets,L,01/04/2013,23:22,3,9,0.333,0,0,0.0,2,2,1.0,2,2,4,1,1,1,3,2,8,-25
+Milwaukee Bucks,C,Larry Sanders,Houston Rockets,L,01/04/2013,18:13,2,3,0.667,0,0,0.0,0,2,0.0,2,2,4,1,1,4,3,5,4,-9
+Milwaukee Bucks,G,Monta Ellis,Houston Rockets,L,01/04/2013,30:47,5,19,0.263,0,3,0.0,2,2,1.0,0,2,2,7,2,0,4,2,12,-29
+Milwaukee Bucks,G,Brandon Jennings,Houston Rockets,L,01/04/2013,37:39,6,15,0.4,2,3,0.667,2,2,1.0,0,3,3,7,3,0,4,2,16,-11
+Milwaukee Bucks,F,Luc Mbah a Moute,Indiana Pacers,L,01/05/2013,19:10,1,6,0.167,0,1,0.0,1,2,0.5,1,0,1,0,0,0,0,0,3,-9
+Milwaukee Bucks,F,Ekpe Udoh,Indiana Pacers,L,01/05/2013,28:10,2,3,0.667,0,0,0.0,0,0,0.0,1,3,4,0,0,2,1,2,4,-17
+Milwaukee Bucks,C,Larry Sanders,Indiana Pacers,L,01/05/2013,28:34,6,11,0.545,0,0,0.0,0,0,0.0,7,5,12,1,0,4,1,2,12,-8
+Milwaukee Bucks,G,Monta Ellis,Indiana Pacers,L,01/05/2013,35:42,8,19,0.421,2,4,0.5,3,4,0.75,1,3,4,3,2,0,4,2,21,-11
+Milwaukee Bucks,G,Brandon Jennings,Indiana Pacers,L,01/05/2013,33:02,4,15,0.267,1,5,0.2,3,4,0.75,0,4,4,5,3,0,2,1,12,-6
+Milwaukee Bucks,F,Luc Mbah a Moute,Phoenix Suns,W,01/08/2013,25:26,5,11,0.455,1,1,1.0,0,0,0.0,2,2,4,0,0,0,0,1,11,0
+Milwaukee Bucks,F,Ersan Ilyasova,Phoenix Suns,W,01/08/2013,26:26,5,10,0.5,2,4,0.5,0,0,0.0,4,2,6,4,2,0,1,5,12,-2
+Milwaukee Bucks,C,Larry Sanders,Phoenix Suns,W,01/08/2013,26:26,5,9,0.556,0,0,0.0,0,1,0.0,4,4,8,1,3,6,0,4,10,-1
+Milwaukee Bucks,G,Monta Ellis,Phoenix Suns,W,01/08/2013,40:10,5,19,0.263,1,3,0.333,2,2,1.0,0,3,3,3,0,0,5,0,13,2
+Milwaukee Bucks,G,Brandon Jennings,Phoenix Suns,W,01/08/2013,37:19,9,15,0.6,5,7,0.714,6,6,1.0,2,1,3,9,1,1,2,3,29,4
+Milwaukee Bucks,F,Luc Mbah a Moute,Chicago Bulls,W,01/09/2013,21:19,0,3,0.0,0,1,0.0,1,2,0.5,2,3,5,0,0,1,2,1,1,6
+Milwaukee Bucks,F,Ersan Ilyasova,Chicago Bulls,W,01/09/2013,27:29,4,10,0.4,1,4,0.25,4,5,0.8,0,6,6,2,2,2,2,3,13,5
+Milwaukee Bucks,C,Larry Sanders,Chicago Bulls,W,01/09/2013,30:37,3,6,0.5,0,0,0.0,0,0,0.0,4,8,12,1,1,7,0,3,6,3
+Milwaukee Bucks,G,Monta Ellis,Chicago Bulls,W,01/09/2013,39:54,6,14,0.429,0,2,0.0,2,2,1.0,0,5,5,5,5,1,3,1,14,8
+Milwaukee Bucks,G,Brandon Jennings,Chicago Bulls,W,01/09/2013,39:33,12,24,0.5,5,10,0.5,6,7,0.857,1,5,6,6,1,0,4,3,35,-1
+Milwaukee Bucks,F,Luc Mbah a Moute,Detroit Pistons,L,01/11/2013,22:11,2,7,0.286,0,0,0.0,2,2,1.0,1,5,6,1,1,1,2,1,6,-11
+Milwaukee Bucks,F,Ersan Ilyasova,Detroit Pistons,L,01/11/2013,26:43,4,14,0.286,0,3,0.0,0,0,0.0,1,5,6,1,0,2,0,3,8,-10
+Milwaukee Bucks,C,Larry Sanders,Detroit Pistons,L,01/11/2013,18:34,1,3,0.333,0,0,0.0,1,1,1.0,1,4,5,1,0,3,0,3,3,-3
+Milwaukee Bucks,G,Monta Ellis,Detroit Pistons,L,01/11/2013,27:06,6,12,0.5,0,2,0.0,1,2,0.5,2,2,4,5,1,0,3,2,13,-10
+Milwaukee Bucks,G,Brandon Jennings,Detroit Pistons,L,01/11/2013,29:01,5,13,0.385,1,4,0.25,4,5,0.8,1,2,3,1,2,0,0,3,15,-13
+Milwaukee Bucks,F,Luc Mbah a Moute,Toronto Raptors,W,01/13/2013,17:41,4,5,0.8,0,1,0.0,0,0,0.0,1,1,2,1,0,0,0,1,8,-11
+Milwaukee Bucks,F,Ersan Ilyasova,Toronto Raptors,W,01/13/2013,25:39,3,6,0.5,1,2,0.5,2,2,1.0,0,5,5,1,1,0,2,4,9,1
+Milwaukee Bucks,C,Larry Sanders,Toronto Raptors,W,01/13/2013,27:56,4,6,0.667,0,0,0.0,3,6,0.5,3,5,8,1,0,2,1,4,11,13
+Milwaukee Bucks,G,Monta Ellis,Toronto Raptors,W,01/13/2013,33:46,7,17,0.412,1,3,0.333,2,2,1.0,0,1,1,3,1,1,2,4,17,6
+Milwaukee Bucks,G,Brandon Jennings,Toronto Raptors,W,01/13/2013,31:43,5,13,0.385,2,5,0.4,7,7,1.0,2,2,4,10,0,0,2,2,19,6
+Milwaukee Bucks,F,Luc Mbah a Moute,Los Angeles Lakers,L,01/15/2013,25:24,3,10,0.3,0,2,0.0,2,2,1.0,2,3,5,0,0,0,0,0,8,-21
+Milwaukee Bucks,F,Ersan Ilyasova,Los Angeles Lakers,L,01/15/2013,22:25,3,9,0.333,0,2,0.0,0,0,0.0,3,4,7,0,1,1,1,1,6,-17
+Milwaukee Bucks,C,Larry Sanders,Los Angeles Lakers,L,01/15/2013,24:21,3,7,0.429,0,0,0.0,0,0,0.0,4,7,11,2,1,3,0,4,6,-1
+Milwaukee Bucks,G,Monta Ellis,Los Angeles Lakers,L,01/15/2013,31:12,6,16,0.375,2,8,0.25,3,9,0.333,2,4,6,4,1,0,3,3,17,-8
+Milwaukee Bucks,G,Brandon Jennings,Los Angeles Lakers,L,01/15/2013,29:23,4,14,0.286,1,7,0.143,3,3,1.0,0,1,1,1,1,0,2,1,12,-22
+Milwaukee Bucks,F,Luc Mbah a Moute,Phoenix Suns,W,01/17/2013,25:16,2,8,0.25,0,1,0.0,0,0,0.0,0,4,4,2,2,1,1,1,4,-3
+Milwaukee Bucks,F,Ersan Ilyasova,Phoenix Suns,W,01/17/2013,19:09,2,6,0.333,0,1,0.0,0,2,0.0,0,5,5,0,1,1,1,2,4,-7
+Milwaukee Bucks,C,Larry Sanders,Phoenix Suns,W,01/17/2013,30:09,8,14,0.571,0,0,0.0,3,3,1.0,6,9,15,1,0,2,0,3,19,8
+Milwaukee Bucks,G,Monta Ellis,Phoenix Suns,W,01/17/2013,34:05,10,20,0.5,0,3,0.0,4,4,1.0,2,2,4,6,3,0,5,3,24,8
+Milwaukee Bucks,G,Brandon Jennings,Phoenix Suns,W,01/17/2013,28:30,6,14,0.429,2,5,0.4,2,3,0.667,1,4,5,4,0,0,5,0,16,-3
+Milwaukee Bucks,F,Luc Mbah a Moute,Portland Trail Blazers,W,01/19/2013,37:02,3,11,0.273,0,1,0.0,1,3,0.333,3,4,7,1,2,0,2,2,7,18
+Milwaukee Bucks,F,Ersan Ilyasova,Portland Trail Blazers,W,01/19/2013,26:06,10,14,0.714,3,3,1.0,4,4,1.0,2,12,14,4,0,1,1,4,27,15
+Milwaukee Bucks,C,Larry Sanders,Portland Trail Blazers,W,01/19/2013,23:44,4,11,0.364,0,0,0.0,0,0,0.0,2,3,5,1,0,3,0,1,8,5
+Milwaukee Bucks,G,Monta Ellis,Portland Trail Blazers,W,01/19/2013,34:03,5,15,0.333,0,5,0.0,3,3,1.0,1,4,5,5,5,0,2,4,13,2
+Milwaukee Bucks,G,Brandon Jennings,Portland Trail Blazers,W,01/19/2013,37:03,9,20,0.45,0,4,0.0,12,15,0.8,1,1,2,8,3,0,5,0,30,5
+Milwaukee Bucks,F,Luc Mbah a Moute,Philadelphia 76ers,W,01/22/2013,20:17,2,6,0.333,0,0,0.0,1,4,0.25,1,2,3,1,0,0,1,1,5,9
+Milwaukee Bucks,F,Ersan Ilyasova,Philadelphia 76ers,W,01/22/2013,36:22,10,17,0.588,2,4,0.5,5,6,0.833,7,9,16,2,3,1,0,2,27,13
+Milwaukee Bucks,C,Larry Sanders,Philadelphia 76ers,W,01/22/2013,32:49,4,10,0.4,0,0,0.0,1,2,0.5,3,2,5,1,0,2,2,3,9,19
+Milwaukee Bucks,G,Monta Ellis,Philadelphia 76ers,W,01/22/2013,43:32,7,10,0.7,0,1,0.0,4,6,0.667,0,5,5,10,2,0,2,2,18,11
+Milwaukee Bucks,G,Brandon Jennings,Philadelphia 76ers,W,01/22/2013,39:02,8,17,0.471,3,6,0.5,6,6,1.0,1,0,1,7,3,0,4,0,25,9
+Milwaukee Bucks,F,Luc Mbah a Moute,Cleveland Cavaliers,L,01/25/2013,18:35,4,6,0.667,1,2,0.5,0,0,0.0,2,1,3,0,1,1,0,1,9,16
+Milwaukee Bucks,F,Ersan Ilyasova,Cleveland Cavaliers,L,01/25/2013,39:22,11,21,0.524,5,6,0.833,3,4,0.75,2,5,7,2,1,1,5,2,30,1
+Milwaukee Bucks,C,Larry Sanders,Cleveland Cavaliers,L,01/25/2013,34:02,7,11,0.636,0,0,0.0,0,1,0.0,3,8,11,0,0,2,2,3,14,2
+Milwaukee Bucks,G,Monta Ellis,Cleveland Cavaliers,L,01/25/2013,41:59,8,20,0.4,2,4,0.5,3,4,0.75,0,6,6,9,2,1,2,4,21,0
+Milwaukee Bucks,G,Brandon Jennings,Cleveland Cavaliers,L,01/25/2013,32:07,5,19,0.263,4,10,0.4,0,1,0.0,1,2,3,12,1,0,3,6,14,-13
+Milwaukee Bucks,F,Luc Mbah a Moute,Golden State Warriors,W,01/26/2013,27:47,3,12,0.25,0,0,0.0,2,6,0.333,4,5,9,2,0,0,0,1,8,1
+Milwaukee Bucks,F,Ersan Ilyasova,Golden State Warriors,W,01/26/2013,34:31,7,17,0.412,2,6,0.333,2,2,1.0,5,7,12,3,2,0,1,2,18,4
+Milwaukee Bucks,C,Larry Sanders,Golden State Warriors,W,01/26/2013,29:30,7,9,0.778,0,0,0.0,2,2,1.0,5,6,11,1,0,3,1,4,16,0
+Milwaukee Bucks,G,Monta Ellis,Golden State Warriors,W,01/26/2013,38:28,7,20,0.35,1,5,0.2,5,6,0.833,0,4,4,4,2,1,4,2,20,9
+Milwaukee Bucks,G,Brandon Jennings,Golden State Warriors,W,01/26/2013,38:14,6,15,0.4,5,8,0.625,3,4,0.75,3,3,6,7,0,0,1,2,20,1
+Milwaukee Bucks,F,Luc Mbah a Moute,Detroit Pistons,W,01/29/2013,16:47,1,3,0.333,0,0,0.0,0,0,0.0,1,3,4,3,0,0,0,1,2,13
+Milwaukee Bucks,F,Ersan Ilyasova,Detroit Pistons,W,01/29/2013,21:06,3,6,0.5,2,2,1.0,1,2,0.5,0,1,1,3,2,0,0,2,9,1
+Milwaukee Bucks,C,Larry Sanders,Detroit Pistons,W,01/29/2013,15:36,1,3,0.333,0,0,0.0,1,4,0.25,2,1,3,0,1,1,0,4,3,16
+Milwaukee Bucks,G,Monta Ellis,Detroit Pistons,W,01/29/2013,33:38,5,14,0.357,2,6,0.333,2,2,1.0,1,3,4,2,6,0,4,1,14,27
+Milwaukee Bucks,G,Brandon Jennings,Detroit Pistons,W,01/29/2013,29:42,11,19,0.579,5,8,0.625,3,6,0.5,0,2,2,6,1,0,2,1,30,10
+Milwaukee Bucks,F,Luc Mbah a Moute,Chicago Bulls,L,01/30/2013,23:52,2,4,0.5,0,0,0.0,0,0,0.0,1,4,5,1,1,0,0,0,4,5
+Milwaukee Bucks,F,Ersan Ilyasova,Chicago Bulls,L,01/30/2013,38:31,6,18,0.333,2,3,0.667,4,6,0.667,3,4,7,0,0,1,2,5,18,-8
+Milwaukee Bucks,C,Samuel Dalembert,Chicago Bulls,L,01/30/2013,24:08,6,9,0.667,0,0,0.0,2,4,0.5,6,7,13,0,0,4,2,2,14,-4
+Milwaukee Bucks,G,Monta Ellis,Chicago Bulls,L,01/30/2013,37:58,4,12,0.333,1,2,0.5,3,3,1.0,1,2,3,4,1,0,4,2,12,-2
+Milwaukee Bucks,G,Brandon Jennings,Chicago Bulls,L,01/30/2013,39:58,6,18,0.333,2,5,0.4,1,2,0.5,1,1,2,8,1,0,3,5,15,-6
+Milwaukee Bucks,F,Ersan Ilyasova,New York Knicks,L,02/01/2013,34:48,7,11,0.636,2,3,0.667,3,4,0.75,1,6,7,3,4,0,0,3,19,-13
+Milwaukee Bucks,F,Luc Mbah a Moute,New York Knicks,L,02/01/2013,13:33,2,4,0.5,0,0,0.0,0,0,0.0,1,2,3,1,0,0,1,4,4,-1
+Milwaukee Bucks,C,Larry Sanders,New York Knicks,L,02/01/2013,30:15,0,6,0.0,0,0,0.0,2,6,0.333,4,6,10,0,0,2,1,3,2,-6
+Milwaukee Bucks,G,Monta Ellis,New York Knicks,L,02/01/2013,37:26,7,20,0.35,2,5,0.4,0,0,0.0,2,3,5,3,2,0,3,1,16,-11
+Milwaukee Bucks,G,Brandon Jennings,New York Knicks,L,02/01/2013,37:15,5,18,0.278,2,6,0.333,2,2,1.0,0,1,1,6,0,0,2,2,14,-11
+Milwaukee Bucks,F,Luc Mbah a Moute,Orlando Magic,W,02/02/2013,25:26,4,7,0.571,0,1,0.0,0,0,0.0,1,4,5,1,1,0,2,1,8,12
+Milwaukee Bucks,F,Ersan Ilyasova,Orlando Magic,W,02/02/2013,33:33,6,13,0.462,2,5,0.4,2,2,1.0,3,5,8,3,0,2,2,2,16,17
+Milwaukee Bucks,C,Larry Sanders,Orlando Magic,W,02/02/2013,35:06,7,15,0.467,0,0,0.0,3,4,0.75,6,7,13,2,1,6,1,5,17,11
+Milwaukee Bucks,G,Monta Ellis,Orlando Magic,W,02/02/2013,43:41,7,16,0.438,1,6,0.167,6,7,0.857,1,3,4,11,1,0,6,4,21,14
+Milwaukee Bucks,G,Brandon Jennings,Orlando Magic,W,02/02/2013,32:51,8,16,0.5,2,7,0.286,2,2,1.0,0,1,1,5,1,0,1,1,20,13
+Milwaukee Bucks,F,Luc Mbah a Moute,Denver Nuggets,L,02/05/2013,37:45,5,10,0.5,1,1,1.0,1,2,0.5,1,5,6,2,2,0,2,5,12,-7
+Milwaukee Bucks,F,Ersan Ilyasova,Denver Nuggets,L,02/05/2013,23:46,3,6,0.5,0,2,0.0,0,0,0.0,0,4,4,2,0,0,2,5,6,-8
+Milwaukee Bucks,C,Larry Sanders,Denver Nuggets,L,02/05/2013,22:56,6,11,0.545,0,0,0.0,0,0,0.0,2,5,7,1,0,5,0,3,12,-2
+Milwaukee Bucks,G,Monta Ellis,Denver Nuggets,L,02/05/2013,41:43,6,21,0.286,0,5,0.0,0,0,0.0,1,5,6,6,1,3,2,2,12,-8
+Milwaukee Bucks,G,Brandon Jennings,Denver Nuggets,L,02/05/2013,39:50,5,15,0.333,0,3,0.0,2,5,0.4,0,2,2,10,3,1,7,2,12,-7
+Milwaukee Bucks,F,Marquis Daniels,Utah Jazz,L,02/06/2013,16:38,0,4,0.0,0,1,0.0,0,0,0.0,1,1,2,0,1,1,1,0,0,7
+Milwaukee Bucks,F,Ersan Ilyasova,Utah Jazz,L,02/06/2013,29:46,6,10,0.6,2,4,0.5,3,4,0.75,1,3,4,0,0,0,1,3,17,-5
+Milwaukee Bucks,C,Samuel Dalembert,Utah Jazz,L,02/06/2013,26:24,4,8,0.5,0,0,0.0,2,2,1.0,3,8,11,0,4,4,3,3,10,-1
+Milwaukee Bucks,G,Monta Ellis,Utah Jazz,L,02/06/2013,33:22,5,9,0.556,0,2,0.0,3,4,0.75,0,3,3,5,1,1,1,2,13,-8
+Milwaukee Bucks,G,Brandon Jennings,Utah Jazz,L,02/06/2013,35:21,5,16,0.313,2,4,0.5,5,9,0.556,1,4,5,4,4,0,3,1,17,-5
+Milwaukee Bucks,F,Luc Mbah a Moute,Detroit Pistons,L,02/09/2013,28:12,5,9,0.556,0,0,0.0,1,2,0.5,3,3,6,2,1,0,2,2,11,-9
+Milwaukee Bucks,F,Ersan Ilyasova,Detroit Pistons,L,02/09/2013,35:27,5,8,0.625,2,3,0.667,3,3,1.0,0,10,10,1,3,0,0,1,15,-9
+Milwaukee Bucks,C,Samuel Dalembert,Detroit Pistons,L,02/09/2013,33:22,5,10,0.5,0,0,0.0,4,4,1.0,5,7,12,0,2,5,3,2,14,-8
+Milwaukee Bucks,G,Monta Ellis,Detroit Pistons,L,02/09/2013,37:47,3,9,0.333,0,0,0.0,2,2,1.0,0,2,2,2,1,1,3,2,8,-3
+Milwaukee Bucks,G,Brandon Jennings,Detroit Pistons,L,02/09/2013,37:48,8,27,0.296,4,10,0.4,6,6,1.0,0,2,2,7,3,0,3,1,26,-8
+Milwaukee Bucks,F,Luc Mbah a Moute,Washington Wizards,L,02/11/2013,13:57,3,5,0.6,1,1,1.0,1,2,0.5,1,0,1,1,0,0,2,0,8,2
+Milwaukee Bucks,F,Ersan Ilyasova,Washington Wizards,L,02/11/2013,34:27,8,17,0.471,1,4,0.25,2,4,0.5,4,5,9,4,3,2,1,2,19,-1
+Milwaukee Bucks,C,Samuel Dalembert,Washington Wizards,L,02/11/2013,17:15,3,5,0.6,0,0,0.0,0,1,0.0,2,5,7,0,1,0,1,6,6,8
+Milwaukee Bucks,G,Monta Ellis,Washington Wizards,L,02/11/2013,43:20,9,21,0.429,0,4,0.0,6,9,0.667,2,5,7,8,6,1,2,2,24,-11
+Milwaukee Bucks,G,Brandon Jennings,Washington Wizards,L,02/11/2013,39:25,3,17,0.176,1,7,0.143,0,2,0.0,0,1,1,7,1,0,1,0,7,-3
+Milwaukee Bucks,F,Luc Mbah a Moute,Philadelphia 76ers,W,02/13/2013,39:00,3,11,0.273,0,2,0.0,4,6,0.667,3,5,8,0,0,2,2,4,10,6
+Milwaukee Bucks,F,Ersan Ilyasova,Philadelphia 76ers,W,02/13/2013,18:32,3,7,0.429,1,1,1.0,0,0,0.0,0,2,2,1,2,0,2,4,7,-2
+Milwaukee Bucks,C,Samuel Dalembert,Philadelphia 76ers,W,02/13/2013,32:10,8,13,0.615,0,0,0.0,1,2,0.5,7,7,14,2,0,3,3,3,17,1
+Milwaukee Bucks,G,Monta Ellis,Philadelphia 76ers,W,02/13/2013,46:09,11,24,0.458,0,3,0.0,5,6,0.833,2,2,4,5,1,0,1,3,27,3
+Milwaukee Bucks,G,Brandon Jennings,Philadelphia 76ers,W,02/13/2013,42:26,8,21,0.381,2,8,0.25,3,3,1.0,2,2,4,5,4,0,4,1,21,5
+Milwaukee Bucks,F,Luc Mbah a Moute,Brooklyn Nets,L,02/19/2013,36:60,4,10,0.4,0,0,0.0,1,2,0.5,3,2,5,1,1,0,0,1,9,-8
+Milwaukee Bucks,F,Ersan Ilyasova,Brooklyn Nets,L,02/19/2013,44:05,9,16,0.563,2,5,0.4,1,2,0.5,4,5,9,3,1,1,0,3,21,-1
+Milwaukee Bucks,C,Larry Sanders,Brooklyn Nets,L,02/19/2013,27:23,7,12,0.583,0,0,0.0,0,0,0.0,3,5,8,1,0,6,0,5,14,-3
+Milwaukee Bucks,G,Monta Ellis,Brooklyn Nets,L,02/19/2013,48:40,7,18,0.389,1,5,0.2,3,4,0.75,0,8,8,8,1,1,1,4,18,2
+Milwaukee Bucks,G,Brandon Jennings,Brooklyn Nets,L,02/19/2013,48:13,13,26,0.5,3,8,0.375,5,6,0.833,0,6,6,7,0,0,3,3,34,-3
+Milwaukee Bucks,F,Luc Mbah a Moute,Brooklyn Nets,L,02/20/2013,28:46,0,6,0.0,0,0,0.0,1,2,0.5,1,5,6,0,1,0,0,1,1,-3
+Milwaukee Bucks,F,Ersan Ilyasova,Brooklyn Nets,L,02/20/2013,35:44,5,11,0.455,2,3,0.667,0,0,0.0,1,11,12,2,0,2,1,4,12,0
+Milwaukee Bucks,C,Larry Sanders,Brooklyn Nets,L,02/20/2013,28:49,5,10,0.5,0,0,0.0,2,3,0.667,4,9,13,3,0,5,1,4,12,-2
+Milwaukee Bucks,G,Monta Ellis,Brooklyn Nets,L,02/20/2013,40:10,5,15,0.333,0,2,0.0,4,9,0.444,0,4,4,5,2,0,6,3,14,3
+Milwaukee Bucks,G,Brandon Jennings,Brooklyn Nets,L,02/20/2013,42:06,12,18,0.667,4,6,0.667,3,3,1.0,0,2,2,11,1,0,4,4,31,-3
+Milwaukee Bucks,F,Luc Mbah a Moute,Atlanta Hawks,L,02/23/2013,14:34,3,7,0.429,0,0,0.0,0,0,0.0,3,1,4,0,1,0,2,1,6,1
+Milwaukee Bucks,F,Ersan Ilyasova,Atlanta Hawks,L,02/23/2013,28:45,9,15,0.6,1,1,1.0,0,0,0.0,3,6,9,1,2,0,3,3,19,-6
+Milwaukee Bucks,C,Larry Sanders,Atlanta Hawks,L,02/23/2013,36:39,5,12,0.417,0,0,0.0,2,4,0.5,5,14,19,2,0,1,1,2,12,-6
+Milwaukee Bucks,G,Monta Ellis,Atlanta Hawks,L,02/23/2013,43:36,7,15,0.467,0,1,0.0,0,0,0.0,0,4,4,10,2,0,4,0,14,5
+Milwaukee Bucks,G,Brandon Jennings,Atlanta Hawks,L,02/23/2013,30:01,4,11,0.364,1,4,0.25,2,2,1.0,1,1,2,5,1,0,2,3,11,-10
+Milwaukee Bucks,F,Luc Mbah a Moute,Dallas Mavericks,W,02/26/2013,27:59,2,4,0.5,0,0,0.0,3,5,0.6,1,4,5,2,1,0,1,2,7,-11
+Milwaukee Bucks,F,Ersan Ilyasova,Dallas Mavericks,W,02/26/2013,29:02,3,9,0.333,1,4,0.25,3,4,0.75,2,5,7,1,0,0,2,3,10,5
+Milwaukee Bucks,C,Larry Sanders,Dallas Mavericks,W,02/26/2013,25:42,5,12,0.417,0,0,0.0,3,4,0.75,5,8,13,0,1,1,2,3,13,8
+Milwaukee Bucks,G,Monta Ellis,Dallas Mavericks,W,02/26/2013,44:19,8,17,0.471,2,5,0.4,4,5,0.8,0,3,3,9,6,0,2,2,22,2
+Milwaukee Bucks,G,Brandon Jennings,Dallas Mavericks,W,02/26/2013,32:01,3,11,0.273,0,1,0.0,2,2,1.0,0,3,3,6,0,0,2,2,8,-5
+Milwaukee Bucks,F,Luc Mbah a Moute,Houston Rockets,W,02/27/2013,22:49,1,4,0.25,0,0,0.0,1,2,0.5,0,2,2,0,0,1,3,3,3,-19
+Milwaukee Bucks,F,Ersan Ilyasova,Houston Rockets,W,02/27/2013,32:46,8,13,0.615,1,2,0.5,3,3,1.0,2,8,10,0,0,1,0,2,20,2
+Milwaukee Bucks,C,Larry Sanders,Houston Rockets,W,02/27/2013,34:40,5,11,0.455,0,0,0.0,0,0,0.0,3,6,9,2,2,2,2,3,10,-4
+Milwaukee Bucks,G,Monta Ellis,Houston Rockets,W,02/27/2013,44:37,9,24,0.375,2,6,0.333,7,11,0.636,2,4,6,13,6,0,3,3,27,5
+Milwaukee Bucks,G,Brandon Jennings,Houston Rockets,W,02/27/2013,30:15,3,8,0.375,2,5,0.4,0,0,0.0,0,4,4,6,0,0,1,4,8,1
+Milwaukee Bucks,F,Luc Mbah a Moute,Toronto Raptors,W,03/02/2013,24:02,2,5,0.4,0,0,0.0,6,10,0.6,3,2,5,0,1,0,1,0,10,9
+Milwaukee Bucks,F,Ersan Ilyasova,Toronto Raptors,W,03/02/2013,42:24,12,21,0.571,0,3,0.0,5,5,1.0,3,8,11,1,2,1,1,2,29,3
+Milwaukee Bucks,C,Larry Sanders,Toronto Raptors,W,03/02/2013,34:34,6,8,0.75,0,0,0.0,1,1,1.0,5,7,12,2,0,5,1,2,13,19
+Milwaukee Bucks,G,Monta Ellis,Toronto Raptors,W,03/02/2013,37:45,9,18,0.5,0,0,0.0,5,6,0.833,0,5,5,5,3,0,2,5,23,8
+Milwaukee Bucks,G,Brandon Jennings,Toronto Raptors,W,03/02/2013,45:15,3,12,0.25,1,2,0.5,4,4,1.0,0,5,5,19,1,1,3,0,11,22
+Milwaukee Bucks,F,Luc Mbah a Moute,Utah Jazz,W,03/04/2013,20:11,3,5,0.6,1,1,1.0,0,0,0.0,1,3,4,0,0,0,3,0,7,10
+Milwaukee Bucks,F,Ersan Ilyasova,Utah Jazz,W,03/04/2013,31:06,3,13,0.231,1,3,0.333,0,0,0.0,2,2,4,4,2,1,0,4,7,1
+Milwaukee Bucks,C,Larry Sanders,Utah Jazz,W,03/04/2013,39:43,3,9,0.333,0,0,0.0,2,4,0.5,5,11,16,3,1,6,2,5,8,5
+Milwaukee Bucks,G,Monta Ellis,Utah Jazz,W,03/04/2013,43:54,15,21,0.714,1,3,0.333,3,5,0.6,1,3,4,3,4,1,5,3,34,8
+Milwaukee Bucks,G,Brandon Jennings,Utah Jazz,W,03/04/2013,46:32,8,14,0.571,4,5,0.8,0,0,0.0,0,1,1,17,3,0,3,2,20,4
+Milwaukee Bucks,F,Luc Mbah a Moute,Los Angeles Clippers,L,03/06/2013,17:30,3,7,0.429,0,1,0.0,0,0,0.0,0,2,2,0,2,0,0,0,6,0
+Milwaukee Bucks,F,Ersan Ilyasova,Los Angeles Clippers,L,03/06/2013,30:33,7,12,0.583,3,5,0.6,3,3,1.0,2,3,5,3,0,0,0,1,20,-5
+Milwaukee Bucks,C,Larry Sanders,Los Angeles Clippers,L,03/06/2013,30:01,5,11,0.455,0,0,0.0,1,1,1.0,1,6,7,3,1,0,3,2,11,-9
+Milwaukee Bucks,G,Monta Ellis,Los Angeles Clippers,L,03/06/2013,35:26,9,15,0.6,2,6,0.333,2,2,1.0,0,2,2,6,0,0,5,2,22,-18
+Milwaukee Bucks,G,Brandon Jennings,Los Angeles Clippers,L,03/06/2013,39:29,6,12,0.5,5,10,0.5,1,1,1.0,0,1,1,12,1,0,1,4,18,-7
+Milwaukee Bucks,F,Mike Dunleavy,Golden State Warriors,W,03/09/2013,31:07,3,8,0.375,2,4,0.5,1,1,1.0,0,8,8,2,0,1,0,2,9,-7
+Milwaukee Bucks,F,Luc Mbah a Moute,Golden State Warriors,W,03/09/2013,31:24,3,9,0.333,1,1,1.0,0,0,0.0,3,3,6,2,3,0,2,2,7,8
+Milwaukee Bucks,C,Larry Sanders,Golden State Warriors,W,03/09/2013,28:23,3,7,0.429,0,0,0.0,0,0,0.0,2,7,9,2,0,3,1,5,6,5
+Milwaukee Bucks,G,Monta Ellis,Golden State Warriors,W,03/09/2013,36:11,10,19,0.526,2,6,0.333,4,6,0.667,0,5,5,5,2,0,3,3,26,10
+Milwaukee Bucks,G,Brandon Jennings,Golden State Warriors,W,03/09/2013,43:12,10,16,0.625,6,11,0.545,5,6,0.833,0,3,3,10,1,0,5,2,31,11
+Milwaukee Bucks,F,Luc Mbah a Moute,Sacramento Kings,W,03/10/2013,17:14,3,6,0.5,1,1,1.0,0,0,0.0,0,2,2,0,0,0,0,1,7,-3
+Milwaukee Bucks,F,Ekpe Udoh,Sacramento Kings,W,03/10/2013,24:56,4,7,0.571,0,0,0.0,2,4,0.5,1,6,7,1,1,4,1,3,10,-9
+Milwaukee Bucks,C,Samuel Dalembert,Sacramento Kings,W,03/10/2013,26:04,4,6,0.667,0,0,0.0,2,4,0.5,2,9,11,0,2,2,0,5,10,-7
+Milwaukee Bucks,G,Monta Ellis,Sacramento Kings,W,03/10/2013,41:54,9,24,0.375,0,5,0.0,11,12,0.917,0,4,4,9,0,1,3,3,29,5
+Milwaukee Bucks,G,Brandon Jennings,Sacramento Kings,W,03/10/2013,37:29,4,11,0.364,1,4,0.25,7,8,0.875,1,0,1,8,0,0,1,3,16,-8
+Milwaukee Bucks,F,Mike Dunleavy,Dallas Mavericks,L,03/12/2013,38:05,7,12,0.583,4,5,0.8,0,0,0.0,0,6,6,1,1,0,2,4,18,1
+Milwaukee Bucks,F,Ersan Ilyasova,Dallas Mavericks,L,03/12/2013,22:57,3,9,0.333,1,2,0.5,0,0,0.0,1,2,3,2,3,0,0,3,7,-4
+Milwaukee Bucks,C,Larry Sanders,Dallas Mavericks,L,03/12/2013,29:39,5,11,0.455,0,0,0.0,3,4,0.75,1,11,12,2,1,4,1,3,13,7
+Milwaukee Bucks,G,Monta Ellis,Dallas Mavericks,L,03/12/2013,41:26,12,24,0.5,2,6,0.333,6,6,1.0,0,2,2,9,2,0,4,0,32,-6
+Milwaukee Bucks,G,Brandon Jennings,Dallas Mavericks,L,03/12/2013,27:26,2,7,0.286,0,1,0.0,0,0,0.0,0,5,5,5,0,0,2,4,4,-21
+Milwaukee Bucks,F,Mike Dunleavy,Washington Wizards,L,03/13/2013,26:16,0,6,0.0,0,3,0.0,0,0,0.0,0,4,4,0,0,0,1,2,0,14
+Milwaukee Bucks,F,Ersan Ilyasova,Washington Wizards,L,03/13/2013,34:53,9,17,0.529,2,3,0.667,1,2,0.5,2,10,12,1,2,0,2,5,21,-13
+Milwaukee Bucks,C,Larry Sanders,Washington Wizards,L,03/13/2013,28:52,8,13,0.615,0,0,0.0,1,1,1.0,3,8,11,0,1,2,2,3,17,-12
+Milwaukee Bucks,G,Monta Ellis,Washington Wizards,L,03/13/2013,42:54,12,19,0.632,1,2,0.5,1,1,1.0,1,3,4,8,2,0,2,4,26,-21
+Milwaukee Bucks,G,Brandon Jennings,Washington Wizards,L,03/13/2013,41:28,2,8,0.25,0,3,0.0,4,4,1.0,0,3,3,10,2,0,2,1,8,-14
+Milwaukee Bucks,F,Marquis Daniels,Miami Heat,L,03/15/2013,26:35,6,11,0.545,1,3,0.333,1,2,0.5,1,2,3,3,2,0,1,4,14,-7
+Milwaukee Bucks,F,Ersan Ilyasova,Miami Heat,L,03/15/2013,41:16,10,20,0.5,1,3,0.333,5,5,1.0,7,10,17,0,0,0,2,2,26,-8
+Milwaukee Bucks,C,Larry Sanders,Miami Heat,L,03/15/2013,28:13,2,9,0.222,0,0,0.0,2,2,1.0,4,6,10,1,1,1,0,3,6,-10
+Milwaukee Bucks,G,Monta Ellis,Miami Heat,L,03/15/2013,34:00,3,11,0.273,1,3,0.333,0,0,0.0,0,3,3,7,2,0,2,0,7,-8
+Milwaukee Bucks,G,Brandon Jennings,Miami Heat,L,03/15/2013,40:34,6,15,0.4,3,7,0.429,6,7,0.857,2,3,5,6,0,1,4,0,21,-12
+Milwaukee Bucks,F,Marquis Daniels,Orlando Magic,W,03/17/2013,20:56,2,5,0.4,0,0,0.0,2,2,1.0,0,4,4,2,1,0,1,1,6,2
+Milwaukee Bucks,F,Ersan Ilyasova,Orlando Magic,W,03/17/2013,36:14,7,13,0.538,2,5,0.4,4,4,1.0,3,8,11,0,0,1,1,1,20,5
+Milwaukee Bucks,C,Larry Sanders,Orlando Magic,W,03/17/2013,33:05,6,13,0.462,0,0,0.0,1,1,1.0,4,7,11,0,0,0,3,2,13,14
+Milwaukee Bucks,G,Monta Ellis,Orlando Magic,W,03/17/2013,40:09,13,22,0.591,5,6,0.833,8,8,1.0,0,6,6,5,3,0,6,1,39,10
+Milwaukee Bucks,G,Brandon Jennings,Orlando Magic,W,03/17/2013,43:35,4,15,0.267,3,8,0.375,4,5,0.8,1,1,2,14,2,0,1,4,15,3
+Milwaukee Bucks,F,Marquis Daniels,Portland Trail Blazers,W,03/19/2013,17:08,2,3,0.667,0,1,0.0,0,0,0.0,0,1,1,2,1,0,0,0,4,-9
+Milwaukee Bucks,F,Samuel Dalembert,Portland Trail Blazers,W,03/19/2013,19:47,8,14,0.571,0,0,0.0,0,0,0.0,5,2,7,1,0,0,1,1,16,2
+Milwaukee Bucks,C,Larry Sanders,Portland Trail Blazers,W,03/19/2013,40:09,4,9,0.444,0,0,0.0,0,0,0.0,5,8,13,3,2,2,0,2,8,-5
+Milwaukee Bucks,G,Monta Ellis,Portland Trail Blazers,W,03/19/2013,43:47,8,18,0.444,2,4,0.5,3,6,0.5,3,6,9,8,3,3,2,2,21,7
+Milwaukee Bucks,G,Brandon Jennings,Portland Trail Blazers,W,03/19/2013,39:29,9,20,0.45,4,7,0.571,2,2,1.0,0,4,4,7,0,1,6,2,24,-3
+Milwaukee Bucks,F,Marquis Daniels,Atlanta Hawks,L,03/20/2013,19:31,3,8,0.375,0,2,0.0,0,0,0.0,1,3,4,0,0,0,1,5,6,-7
+Milwaukee Bucks,F,Samuel Dalembert,Atlanta Hawks,L,03/20/2013,18:02,1,7,0.143,0,0,0.0,0,0,0.0,3,4,7,2,0,0,0,1,2,-14
+Milwaukee Bucks,C,Larry Sanders,Atlanta Hawks,L,03/20/2013,35:11,9,19,0.474,0,0,0.0,1,2,0.5,6,8,14,2,1,4,0,1,19,-13
+Milwaukee Bucks,G,Monta Ellis,Atlanta Hawks,L,03/20/2013,39:59,2,14,0.143,1,2,0.5,0,0,0.0,0,1,1,1,0,0,2,1,5,-8
+Milwaukee Bucks,G,Brandon Jennings,Atlanta Hawks,L,03/20/2013,38:37,8,18,0.444,3,6,0.5,2,3,0.667,0,1,1,5,1,0,4,3,21,-8
+Milwaukee Bucks,F,Marquis Daniels,Indiana Pacers,L,03/22/2013,21:32,2,11,0.182,0,1,0.0,4,4,1.0,4,3,7,0,0,0,0,2,8,-15
+Milwaukee Bucks,F,Samuel Dalembert,Indiana Pacers,L,03/22/2013,25:33,5,13,0.385,0,0,0.0,0,2,0.0,6,7,13,1,0,0,1,4,10,-12
+Milwaukee Bucks,C,Larry Sanders,Indiana Pacers,L,03/22/2013,18:38,3,10,0.3,0,0,0.0,0,0,0.0,6,6,12,2,0,2,0,2,6,-7
+Milwaukee Bucks,G,Monta Ellis,Indiana Pacers,L,03/22/2013,37:00,9,22,0.409,2,7,0.286,2,5,0.4,0,3,3,6,0,0,2,2,22,-25
+Milwaukee Bucks,G,Brandon Jennings,Indiana Pacers,L,03/22/2013,31:14,1,15,0.067,0,7,0.0,2,3,0.667,0,2,2,3,1,0,3,2,4,-24
+Milwaukee Bucks,F,Marquis Daniels,Atlanta Hawks,L,03/24/2013,15:02,1,7,0.143,0,0,0.0,0,0,0.0,1,3,4,1,0,0,0,0,2,-1
+Milwaukee Bucks,F,Ersan Ilyasova,Atlanta Hawks,L,03/24/2013,28:19,7,16,0.438,0,4,0.0,5,8,0.625,6,4,10,1,0,0,1,6,19,1
+Milwaukee Bucks,C,Larry Sanders,Atlanta Hawks,L,03/24/2013,32:12,7,10,0.7,0,0,0.0,1,2,0.5,3,9,12,0,1,3,1,3,15,5
+Milwaukee Bucks,G,Monta Ellis,Atlanta Hawks,L,03/24/2013,38:39,8,15,0.533,3,4,0.75,1,2,0.5,1,3,4,4,1,0,4,0,20,-4
+Milwaukee Bucks,G,Brandon Jennings,Atlanta Hawks,L,03/24/2013,42:41,4,15,0.267,1,5,0.2,3,5,0.6,1,2,3,13,3,0,3,3,12,0
+Milwaukee Bucks,F,Marquis Daniels,Philadelphia 76ers,L,03/27/2013,15:50,2,7,0.286,0,0,0.0,0,0,0.0,1,1,2,1,1,0,0,2,4,-10
+Milwaukee Bucks,F,Ersan Ilyasova,Philadelphia 76ers,L,03/27/2013,35:10,5,17,0.294,1,4,0.25,2,2,1.0,6,12,18,2,1,1,4,0,13,1
+Milwaukee Bucks,C,Larry Sanders,Philadelphia 76ers,L,03/27/2013,32:47,6,13,0.462,0,0,0.0,3,4,0.75,4,5,9,1,2,0,4,0,15,3
+Milwaukee Bucks,G,Monta Ellis,Philadelphia 76ers,L,03/27/2013,41:32,12,21,0.571,2,9,0.222,3,3,1.0,0,0,0,7,2,1,4,2,29,1
+Milwaukee Bucks,G,Brandon Jennings,Philadelphia 76ers,L,03/27/2013,17:16,0,3,0.0,0,2,0.0,0,0,0.0,0,0,0,3,1,0,0,2,0,-25
+Milwaukee Bucks,F,Marquis Daniels,Los Angeles Lakers,W,03/28/2013,30:28,7,12,0.583,1,1,1.0,1,1,1.0,1,0,1,1,3,0,0,4,16,14
+Milwaukee Bucks,F,Ersan Ilyasova,Los Angeles Lakers,W,03/28/2013,30:40,8,17,0.471,2,5,0.4,2,2,1.0,1,3,4,2,4,1,1,1,20,20
+Milwaukee Bucks,C,Larry Sanders,Los Angeles Lakers,W,03/28/2013,29:36,8,11,0.727,0,0,0.0,5,10,0.5,6,7,13,1,1,2,0,5,21,22
+Milwaukee Bucks,G,Monta Ellis,Los Angeles Lakers,W,03/28/2013,35:59,8,16,0.5,0,2,0.0,2,2,1.0,1,6,7,9,2,0,3,3,18,26
+Milwaukee Bucks,G,Brandon Jennings,Los Angeles Lakers,W,03/28/2013,32:29,7,14,0.5,3,6,0.5,3,3,1.0,1,1,2,7,0,0,2,1,20,11
+Milwaukee Bucks,F,Marquis Daniels,Oklahoma City Thunder,L,03/30/2013,32:19,4,12,0.333,1,3,0.333,3,4,0.75,3,0,3,3,3,0,3,3,12,-4
+Milwaukee Bucks,F,Ersan Ilyasova,Oklahoma City Thunder,L,03/30/2013,33:56,12,22,0.545,4,6,0.667,1,1,1.0,4,10,14,2,1,0,1,3,29,4
+Milwaukee Bucks,C,Larry Sanders,Oklahoma City Thunder,L,03/30/2013,29:51,5,9,0.556,0,0,0.0,2,2,1.0,4,6,10,1,0,0,0,3,12,-9
+Milwaukee Bucks,G,Monta Ellis,Oklahoma City Thunder,L,03/30/2013,39:10,3,17,0.176,2,5,0.4,1,2,0.5,1,1,2,7,2,0,2,3,9,-2
+Milwaukee Bucks,G,Brandon Jennings,Oklahoma City Thunder,L,03/30/2013,37:36,3,13,0.231,2,8,0.25,0,0,0.0,0,1,1,4,0,0,2,2,8,-21
+Milwaukee Bucks,F,Marquis Daniels,Charlotte Bobcats,W,04/01/2013,17:08,2,4,0.5,0,0,0.0,0,0,0.0,1,0,1,2,0,0,1,2,4,6
+Milwaukee Bucks,F,Ersan Ilyasova,Charlotte Bobcats,W,04/01/2013,30:49,8,13,0.615,4,4,1.0,2,2,1.0,3,5,8,3,1,0,1,3,22,16
+Milwaukee Bucks,C,Larry Sanders,Charlotte Bobcats,W,04/01/2013,31:15,11,19,0.579,0,0,0.0,2,4,0.5,6,7,13,2,0,0,0,1,24,23
+Milwaukee Bucks,G,Monta Ellis,Charlotte Bobcats,W,04/01/2013,40:54,7,14,0.5,3,5,0.6,2,2,1.0,0,4,4,14,6,1,4,4,19,24
+Milwaukee Bucks,G,Brandon Jennings,Charlotte Bobcats,W,04/01/2013,24:25,6,15,0.4,4,9,0.444,3,3,1.0,0,3,3,6,0,0,1,1,19,8
+Milwaukee Bucks,F,Marquis Daniels,Minnesota Timberwolves,L,04/03/2013,15:48,1,4,0.25,0,0,0.0,0,0,0.0,1,1,2,0,0,1,0,1,2,-13
+Milwaukee Bucks,F,Ersan Ilyasova,Minnesota Timberwolves,L,04/03/2013,37:11,12,21,0.571,3,5,0.6,2,2,1.0,8,4,12,0,2,2,3,3,29,-6
+Milwaukee Bucks,C,Larry Sanders,Minnesota Timberwolves,L,04/03/2013,34:06,5,12,0.417,0,0,0.0,1,2,0.5,5,5,10,4,1,2,2,2,11,-4
+Milwaukee Bucks,G,Monta Ellis,Minnesota Timberwolves,L,04/03/2013,39:16,7,20,0.35,2,7,0.286,2,4,0.5,0,5,5,3,1,1,6,1,18,-8
+Milwaukee Bucks,G,Brandon Jennings,Minnesota Timberwolves,L,04/03/2013,36:27,6,14,0.429,0,4,0.0,1,1,1.0,1,2,3,8,3,0,3,1,13,-11
+Milwaukee Bucks,F,Marquis Daniels,New York Knicks,L,04/05/2013,17:29,1,5,0.2,0,0,0.0,0,0,0.0,1,4,5,0,2,0,1,3,2,-1
+Milwaukee Bucks,F,Ersan Ilyasova,New York Knicks,L,04/05/2013,34:28,2,9,0.222,1,3,0.333,2,2,1.0,0,7,7,1,0,0,3,3,7,-28
+Milwaukee Bucks,C,Larry Sanders,New York Knicks,L,04/05/2013,30:53,3,7,0.429,0,0,0.0,3,3,1.0,4,8,12,1,1,1,1,2,9,-16
+Milwaukee Bucks,G,Monta Ellis,New York Knicks,L,04/05/2013,31:51,4,13,0.308,1,7,0.143,2,4,0.5,0,0,0,6,0,0,2,3,11,-13
+Milwaukee Bucks,G,Brandon Jennings,New York Knicks,L,04/05/2013,37:10,9,20,0.45,4,10,0.4,3,5,0.6,2,2,4,3,1,0,2,1,25,-22
+Milwaukee Bucks,F,Marquis Daniels,Toronto Raptors,W,04/06/2013,21:31,2,3,0.667,0,0,0.0,0,0,0.0,1,0,1,1,0,1,1,3,4,14
+Milwaukee Bucks,F,Ersan Ilyasova,Toronto Raptors,W,04/06/2013,26:14,3,10,0.3,0,4,0.0,3,4,0.75,1,7,8,1,0,1,1,3,9,27
+Milwaukee Bucks,C,Larry Sanders,Toronto Raptors,W,04/06/2013,27:28,5,7,0.714,0,0,0.0,2,2,1.0,0,9,9,1,1,6,1,3,12,27
+Milwaukee Bucks,G,Monta Ellis,Toronto Raptors,W,04/06/2013,39:08,5,14,0.357,2,5,0.4,10,10,1.0,0,4,4,9,6,0,5,1,22,23
+Milwaukee Bucks,G,Brandon Jennings,Toronto Raptors,W,04/06/2013,28:09,7,14,0.5,2,4,0.5,0,1,0.0,1,1,2,7,3,0,0,1,16,21
+Milwaukee Bucks,F,Marquis Daniels,Miami Heat,L,04/09/2013,19:18,3,9,0.333,0,1,0.0,1,4,0.25,0,2,2,1,1,0,1,1,7,-12
+Milwaukee Bucks,F,Ersan Ilyasova,Miami Heat,L,04/09/2013,21:01,2,5,0.4,0,1,0.0,0,0,0.0,1,4,5,3,0,1,1,1,4,-14
+Milwaukee Bucks,C,Larry Sanders,Miami Heat,L,04/09/2013,30:27,4,10,0.4,0,0,0.0,0,0,0.0,2,7,9,2,2,1,2,3,8,-12
+Milwaukee Bucks,G,Monta Ellis,Miami Heat,L,04/09/2013,27:38,3,8,0.375,1,3,0.333,1,2,0.5,0,4,4,2,4,0,6,1,8,-9
+Milwaukee Bucks,G,Brandon Jennings,Miami Heat,L,04/09/2013,35:39,10,16,0.625,4,9,0.444,6,6,1.0,0,3,3,4,1,0,4,5,30,-24
+Milwaukee Bucks,F,Marquis Daniels,Orlando Magic,L,04/10/2013,36:48,6,12,0.5,2,4,0.5,0,0,0.0,2,5,7,0,3,0,2,3,14,-21
+Milwaukee Bucks,F,Luc Mbah a Moute,Orlando Magic,L,04/10/2013,7:05,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-8
+Milwaukee Bucks,C,Larry Sanders,Orlando Magic,L,04/10/2013,15:19,2,9,0.222,0,0,0.0,1,2,0.5,2,1,3,0,0,0,2,1,5,-16
+Milwaukee Bucks,G,Monta Ellis,Orlando Magic,L,04/10/2013,47:11,7,27,0.259,1,8,0.125,6,10,0.6,2,5,7,11,2,1,2,1,21,-11
+Milwaukee Bucks,G,Brandon Jennings,Orlando Magic,L,04/10/2013,6:13,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,0,0,0,0,0,3,-8
+Milwaukee Bucks,F,Marquis Daniels,Atlanta Hawks,L,04/12/2013,16:37,1,5,0.2,0,2,0.0,0,0,0.0,1,4,5,0,0,0,1,1,2,-5
+Milwaukee Bucks,F,Ersan Ilyasova,Atlanta Hawks,L,04/12/2013,27:56,9,15,0.6,6,8,0.75,1,1,1.0,1,6,7,1,1,0,0,3,25,2
+Milwaukee Bucks,C,John Henson,Atlanta Hawks,L,04/12/2013,25:46,3,8,0.375,0,0,0.0,2,4,0.5,5,3,8,1,3,2,3,1,8,-1
+Milwaukee Bucks,G,JJ Redick,Atlanta Hawks,L,04/12/2013,30:00,3,11,0.273,2,6,0.333,2,2,1.0,0,0,0,2,0,0,4,1,10,-6
+Milwaukee Bucks,G,Monta Ellis,Atlanta Hawks,L,04/12/2013,44:12,9,23,0.391,5,9,0.556,4,5,0.8,0,8,8,17,5,0,4,4,27,-1
+Milwaukee Bucks,F,Luc Mbah a Moute,Charlotte Bobcats,L,04/13/2013,22:06,2,6,0.333,0,0,0.0,0,0,0.0,2,0,2,0,1,0,0,0,4,-15
+Milwaukee Bucks,F,Ersan Ilyasova,Charlotte Bobcats,L,04/13/2013,26:50,4,10,0.4,2,3,0.667,0,0,0.0,0,4,4,2,0,0,0,2,10,-6
+Milwaukee Bucks,C,John Henson,Charlotte Bobcats,L,04/13/2013,28:12,4,7,0.571,0,0,0.0,0,0,0.0,3,8,11,0,0,1,4,5,8,1
+Milwaukee Bucks,G,JJ Redick,Charlotte Bobcats,L,04/13/2013,41:45,3,14,0.214,2,11,0.182,4,4,1.0,0,1,1,5,1,1,1,2,12,-3
+Milwaukee Bucks,G,Monta Ellis,Charlotte Bobcats,L,04/13/2013,30:08,7,18,0.389,1,5,0.2,1,2,0.5,0,3,3,4,1,0,1,0,16,-10
+Milwaukee Bucks,F,Luc Mbah a Moute,Denver Nuggets,L,04/15/2013,17:36,0,5,0.0,0,0,0.0,1,2,0.5,0,1,1,0,0,0,1,0,1,-7
+Milwaukee Bucks,F,Ersan Ilyasova,Denver Nuggets,L,04/15/2013,32:17,7,13,0.538,0,3,0.0,0,0,0.0,5,5,10,1,1,0,3,5,14,-6
+Milwaukee Bucks,C,John Henson,Denver Nuggets,L,04/15/2013,30:50,6,13,0.462,0,0,0.0,2,6,0.333,8,7,15,2,3,4,0,1,14,0
+Milwaukee Bucks,G,Brandon Jennings,Denver Nuggets,L,04/15/2013,28:49,1,11,0.091,0,5,0.0,2,2,1.0,2,1,3,4,0,0,1,3,4,-16
+Milwaukee Bucks,G,Monta Ellis,Denver Nuggets,L,04/15/2013,36:04,14,25,0.56,6,11,0.545,4,5,0.8,0,2,2,4,3,0,4,5,38,0
+Milwaukee Bucks,F,Ekpe Udoh,Oklahoma City Thunder,W,04/17/2013,24:10,1,3,0.333,0,0,0.0,2,4,0.5,2,4,6,1,1,1,3,1,4,-8
+Milwaukee Bucks,F,Luc Mbah a Moute,Oklahoma City Thunder,W,04/17/2013,5:39,0,3,0.0,0,1,0.0,0,0,0.0,0,1,1,1,0,0,0,1,0,-9
+Milwaukee Bucks,C,John Henson,Oklahoma City Thunder,W,04/17/2013,44:22,11,19,0.579,0,0,0.0,6,8,0.75,8,8,16,1,0,0,2,0,28,6
+Milwaukee Bucks,G,Monta Ellis,Oklahoma City Thunder,W,04/17/2013,11:08,1,3,0.333,0,2,0.0,0,0,0.0,0,0,0,2,0,0,1,0,2,-6
+Milwaukee Bucks,G,Brandon Jennings,Oklahoma City Thunder,W,04/17/2013,22:57,6,14,0.429,5,8,0.625,0,0,0.0,0,2,2,2,0,0,2,2,17,-10

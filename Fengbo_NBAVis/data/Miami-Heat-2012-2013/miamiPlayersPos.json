@@ -1,0 +1,77 @@
+{
+	"team": "Miami Heat",
+	"players": [
+		{
+			"name": "Dwyane Wade",
+			"positions": ["Shooting guard"]
+		},
+		{
+			"name": "LeBron James",
+			"positions": ["Power forward"]
+		},
+		{
+			"name": "Chris Bosh",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Mario Chalmers",
+			"positions": ["Point guard"]
+		},
+		{
+			"name": "Udonis Haslem",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Shane Battier",
+			"positions": ["Small forward"]
+		},
+		{
+			"name": "Mike Miller",
+			"positions": ["Small forward"]
+		},
+		{
+			"name": "Norris Cole",
+			"positions": ["Point guard"]
+		},
+		{
+			"name": "Rashard Lewis",
+			"positions": ["Small forward", "Power forward"]
+		},
+		{
+			"name": "Joel Anthony",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Ray Allen",
+			"positions": ["Shooting guard"]
+		},
+		{
+			"name": "Josh Harrellson",
+			"positions": ["Center", "Power forward"]
+		},
+		{
+			"name": "James Jones",
+			"positions": ["Small forward", "Point guard"]
+		},
+		{
+			"name": "Jarvis Varnado",
+			"positions": ["Small forward", "Power forward"]
+		},
+		{
+			"name": "Chris Andersen",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Juwan Howard",
+			"positions": ["Power forward"]
+		},
+		{
+			"name": "Terrel Harris",
+			"positions": ["Shooting guard"]
+		},
+		{
+			"name": "Dexter Pittman",
+			"positions": ["Center"]
+		}
+	]
+}

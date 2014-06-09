@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Orlando Magic,F,Hedo Turkoglu,Denver Nuggets,W,11/02/2012,16:42,3,4,0.75,0,1,0.0,0,0,0.0,1,1,2,1,2,0,0,3,6,-2
+Orlando Magic,F,Glen Davis,Denver Nuggets,W,11/02/2012,33:47,13,25,0.52,0,0,0.0,3,5,0.6,4,6,10,0,0,2,1,3,29,17
+Orlando Magic,C,Nikola Vucevic,Denver Nuggets,W,11/02/2012,16:04,3,6,0.5,0,0,0.0,0,0,0.0,1,3,4,0,1,2,1,4,6,-5
+Orlando Magic,G,Arron Afflalo,Denver Nuggets,W,11/02/2012,32:11,3,13,0.231,0,3,0.0,1,2,0.5,0,6,6,2,1,1,1,1,7,2
+Orlando Magic,G,Jameer Nelson,Denver Nuggets,W,11/02/2012,35:00,2,9,0.222,1,4,0.25,4,4,1.0,0,4,4,7,1,0,2,2,9,2
+Orlando Magic,F,DeQuan Jones,Phoenix Suns,W,11/04/2012,16:04,1,3,0.333,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,0,2,6
+Orlando Magic,F,Glen Davis,Phoenix Suns,W,11/04/2012,32:07,9,22,0.409,0,0,0.0,4,4,1.0,1,7,8,5,2,0,0,3,22,7
+Orlando Magic,C,Nikola Vucevic,Phoenix Suns,W,11/04/2012,36:42,9,16,0.563,0,0,0.0,0,0,0.0,6,7,13,3,1,0,2,3,18,26
+Orlando Magic,G,Arron Afflalo,Phoenix Suns,W,11/04/2012,38:15,8,16,0.5,3,3,1.0,3,3,1.0,1,3,4,1,0,0,1,3,22,7
+Orlando Magic,G,E'Twaun Moore,Phoenix Suns,W,11/04/2012,38:00,6,11,0.545,3,3,1.0,0,0,0.0,2,1,3,6,3,0,3,2,15,15
+Orlando Magic,F,DeQuan Jones,Chicago Bulls,L,11/06/2012,11:51,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,0,1,1,0,0,2,-9
+Orlando Magic,F,Glen Davis,Chicago Bulls,L,11/06/2012,35:45,7,22,0.318,0,1,0.0,2,5,0.4,4,6,10,1,1,0,1,6,16,-8
+Orlando Magic,C,Nikola Vucevic,Chicago Bulls,L,11/06/2012,41:32,5,13,0.385,0,0,0.0,6,7,0.857,3,7,10,0,1,2,2,3,16,1
+Orlando Magic,G,Arron Afflalo,Chicago Bulls,L,11/06/2012,34:08,10,17,0.588,3,7,0.429,5,5,1.0,1,4,5,5,1,1,0,3,28,-4
+Orlando Magic,G,E'Twaun Moore,Chicago Bulls,L,11/06/2012,33:27,7,13,0.538,3,4,0.75,0,0,0.0,3,2,5,2,0,0,1,4,17,-4
+Orlando Magic,F,Josh McRoberts,Minnesota Timberwolves,L,11/07/2012,22:22,3,8,0.375,1,1,1.0,0,0,0.0,2,2,4,1,1,1,1,1,7,-23
+Orlando Magic,F,Glen Davis,Minnesota Timberwolves,L,11/07/2012,19:18,2,9,0.222,0,0,0.0,0,1,0.0,2,4,6,3,0,0,4,3,4,-16
+Orlando Magic,C,Nikola Vucevic,Minnesota Timberwolves,L,11/07/2012,17:58,1,4,0.25,0,0,0.0,0,0,0.0,1,3,4,0,0,0,0,2,2,-15
+Orlando Magic,G,Arron Afflalo,Minnesota Timberwolves,L,11/07/2012,28:07,5,11,0.455,1,3,0.333,1,1,1.0,0,3,3,0,0,0,2,3,12,-19
+Orlando Magic,G,E'Twaun Moore,Minnesota Timberwolves,L,11/07/2012,35:47,4,14,0.286,0,3,0.0,2,4,0.5,2,3,5,5,1,0,4,0,10,-16
+Orlando Magic,F,Josh McRoberts,Brooklyn Nets,L,11/09/2012,12:16,1,3,0.333,0,1,0.0,0,0,0.0,0,2,2,0,0,1,0,1,2,-15
+Orlando Magic,F,Glen Davis,Brooklyn Nets,L,11/09/2012,32:28,4,13,0.308,0,0,0.0,0,0,0.0,1,2,3,5,1,0,2,2,8,-33
+Orlando Magic,C,Nikola Vucevic,Brooklyn Nets,L,11/09/2012,31:36,5,10,0.5,0,0,0.0,0,0,0.0,1,4,5,3,0,1,2,4,10,-35
+Orlando Magic,G,Arron Afflalo,Brooklyn Nets,L,11/09/2012,32:21,6,12,0.5,0,3,0.0,0,0,0.0,1,4,5,0,0,0,1,2,12,-25
+Orlando Magic,G,E'Twaun Moore,Brooklyn Nets,L,11/09/2012,40:15,7,15,0.467,4,6,0.667,0,0,0.0,1,3,4,5,0,0,6,3,18,-19
+Orlando Magic,F,Arron Afflalo,Brooklyn Nets,L,11/11/2012,40:48,7,17,0.412,0,3,0.0,5,5,1.0,0,7,7,5,1,1,1,1,19,4
+Orlando Magic,F,Glen Davis,Brooklyn Nets,L,11/11/2012,38:03,9,21,0.429,0,0,0.0,1,2,0.5,2,8,10,1,3,2,2,4,19,0
+Orlando Magic,C,Nikola Vucevic,Brooklyn Nets,L,11/11/2012,39:45,6,15,0.4,0,0,0.0,2,2,1.0,4,9,13,3,0,1,1,4,14,0
+Orlando Magic,G,JJ Redick,Brooklyn Nets,L,11/11/2012,37:57,3,12,0.25,0,4,0.0,4,5,0.8,0,2,2,9,1,0,1,3,10,3
+Orlando Magic,G,E'Twaun Moore,Brooklyn Nets,L,11/11/2012,40:39,3,11,0.273,1,5,0.2,1,2,0.5,1,1,2,1,0,0,4,4,8,-8
+Orlando Magic,F,Arron Afflalo,New York Knicks,L,11/13/2012,38:29,4,14,0.286,2,4,0.5,3,5,0.6,0,4,4,5,1,0,7,4,13,-13
+Orlando Magic,F,Glen Davis,New York Knicks,L,11/13/2012,30:48,5,5,1.0,0,0,0.0,0,0,0.0,1,5,6,3,1,0,2,2,10,-4
+Orlando Magic,C,Nikola Vucevic,New York Knicks,L,11/13/2012,36:25,6,10,0.6,0,0,0.0,0,0,0.0,1,9,10,2,2,0,4,1,12,-8
+Orlando Magic,G,JJ Redick,New York Knicks,L,11/13/2012,38:10,7,13,0.538,1,3,0.333,3,4,0.75,1,3,4,7,1,0,4,0,18,-5
+Orlando Magic,G,E'Twaun Moore,New York Knicks,L,11/13/2012,39:00,5,14,0.357,2,6,0.333,0,0,0.0,0,3,3,8,0,1,0,0,12,-5
+Orlando Magic,F,Arron Afflalo,Detroit Pistons,W,11/16/2012,37:03,7,14,0.5,2,4,0.5,3,3,1.0,0,2,2,1,2,0,2,2,19,0
+Orlando Magic,F,Glen Davis,Detroit Pistons,W,11/16/2012,35:53,8,14,0.571,0,0,0.0,1,2,0.5,6,7,13,2,0,0,2,2,17,3
+Orlando Magic,C,Nikola Vucevic,Detroit Pistons,W,11/16/2012,27:53,5,12,0.417,0,0,0.0,1,2,0.5,4,9,13,3,0,2,3,2,11,1
+Orlando Magic,G,JJ Redick,Detroit Pistons,W,11/16/2012,38:15,7,13,0.538,3,7,0.429,6,6,1.0,0,1,1,5,1,0,4,1,23,0
+Orlando Magic,G,Jameer Nelson,Detroit Pistons,W,11/16/2012,32:14,4,11,0.364,1,4,0.25,4,4,1.0,0,4,4,10,2,0,1,5,13,2
+Orlando Magic,F,DeQuan Jones,Toronto Raptors,L,11/18/2012,22:44,3,5,0.6,1,1,1.0,0,0,0.0,1,4,5,1,0,0,1,3,7,-1
+Orlando Magic,F,Glen Davis,Toronto Raptors,L,11/18/2012,33:28,8,17,0.471,0,0,0.0,0,0,0.0,4,8,12,1,0,0,2,2,16,-14
+Orlando Magic,C,Nikola Vucevic,Toronto Raptors,L,11/18/2012,32:59,5,11,0.455,0,0,0.0,2,4,0.5,0,6,6,1,0,1,0,3,12,-19
+Orlando Magic,G,Arron Afflalo,Toronto Raptors,L,11/18/2012,35:06,4,10,0.4,1,1,1.0,6,6,1.0,0,0,0,2,0,0,3,2,15,-8
+Orlando Magic,G,Jameer Nelson,Toronto Raptors,L,11/18/2012,35:17,3,13,0.231,0,5,0.0,2,2,1.0,1,3,4,9,2,0,4,2,8,-13
+Orlando Magic,F,Arron Afflalo,Atlanta Hawks,L,11/19/2012,25:54,3,10,0.3,0,1,0.0,0,0,0.0,1,3,4,2,0,0,3,0,6,-17
+Orlando Magic,F,Glen Davis,Atlanta Hawks,L,11/19/2012,23:42,5,13,0.385,0,0,0.0,1,3,0.333,2,5,7,1,2,0,2,3,11,-17
+Orlando Magic,C,Nikola Vucevic,Atlanta Hawks,L,11/19/2012,25:41,2,4,0.5,0,0,0.0,1,2,0.5,3,10,13,2,1,1,1,1,5,-19
+Orlando Magic,G,JJ Redick,Atlanta Hawks,L,11/19/2012,17:37,1,7,0.143,0,1,0.0,0,0,0.0,0,1,1,1,0,0,3,3,2,-24
+Orlando Magic,G,Jameer Nelson,Atlanta Hawks,L,11/19/2012,28:01,3,8,0.375,2,6,0.333,0,0,0.0,0,3,3,1,1,0,1,2,8,-16
+Orlando Magic,F,Maurice Harkless,Detroit Pistons,W,11/21/2012,21:16,3,7,0.429,0,0,0.0,1,2,0.5,2,2,4,2,0,1,1,3,7,4
+Orlando Magic,F,Glen Davis,Detroit Pistons,W,11/21/2012,27:12,4,9,0.444,0,0,0.0,3,4,0.75,3,11,14,1,0,0,1,2,11,18
+Orlando Magic,C,Nikola Vucevic,Detroit Pistons,W,11/21/2012,22:23,3,6,0.5,0,0,0.0,0,0,0.0,1,5,6,0,1,1,3,4,6,10
+Orlando Magic,G,Arron Afflalo,Detroit Pistons,W,11/21/2012,25:58,5,13,0.385,0,3,0.0,2,4,0.5,0,7,7,1,0,0,1,0,12,24
+Orlando Magic,G,Jameer Nelson,Detroit Pistons,W,11/21/2012,32:09,3,7,0.429,2,5,0.4,2,2,1.0,0,6,6,7,1,0,2,3,10,28
+Orlando Magic,F,Maurice Harkless,Cleveland Cavaliers,W,11/23/2012,15:54,3,4,0.75,0,0,0.0,0,0,0.0,3,1,4,0,1,0,0,2,6,-6
+Orlando Magic,F,Glen Davis,Cleveland Cavaliers,W,11/23/2012,35:11,5,14,0.357,0,0,0.0,6,7,0.857,1,7,8,2,0,0,1,3,16,6
+Orlando Magic,C,Nikola Vucevic,Cleveland Cavaliers,W,11/23/2012,32:21,5,11,0.455,0,0,0.0,0,0,0.0,4,4,8,2,0,2,3,3,10,11
+Orlando Magic,G,Arron Afflalo,Cleveland Cavaliers,W,11/23/2012,36:33,7,12,0.583,4,6,0.667,1,3,0.333,1,0,1,2,1,0,4,5,19,-2
+Orlando Magic,G,Jameer Nelson,Cleveland Cavaliers,W,11/23/2012,34:44,9,18,0.5,4,8,0.5,0,0,0.0,2,4,6,6,2,0,3,3,22,10
+Orlando Magic,F,Maurice Harkless,Boston Celtics,L,11/25/2012,14:37,2,3,0.667,1,1,1.0,0,0,0.0,0,3,3,0,1,1,1,0,5,-9
+Orlando Magic,F,Glen Davis,Boston Celtics,L,11/25/2012,39:46,3,12,0.25,0,1,0.0,9,10,0.9,1,6,7,3,3,0,1,3,15,3
+Orlando Magic,C,Nikola Vucevic,Boston Celtics,L,11/25/2012,16:53,3,4,0.75,0,0,0.0,0,0,0.0,0,3,3,1,1,1,1,2,6,-8
+Orlando Magic,G,Arron Afflalo,Boston Celtics,L,11/25/2012,43:29,7,19,0.368,1,5,0.2,0,0,0.0,1,1,2,7,2,2,1,2,15,-7
+Orlando Magic,G,Jameer Nelson,Boston Celtics,L,11/25/2012,34:48,8,17,0.471,3,8,0.375,1,1,1.0,1,4,5,2,1,1,5,6,20,-7
+Orlando Magic,F,Maurice Harkless,San Antonio Spurs,L,11/28/2012,21:26,2,4,0.5,0,1,0.0,0,0,0.0,2,2,4,0,1,0,0,1,4,-10
+Orlando Magic,F,Glen Davis,San Antonio Spurs,L,11/28/2012,27:39,6,16,0.375,0,0,0.0,0,0,0.0,2,3,5,0,0,1,0,1,12,-9
+Orlando Magic,C,Nikola Vucevic,San Antonio Spurs,L,11/28/2012,15:43,1,4,0.25,0,0,0.0,0,0,0.0,3,2,5,1,1,1,2,0,2,-1
+Orlando Magic,G,Arron Afflalo,San Antonio Spurs,L,11/28/2012,29:52,8,16,0.5,0,4,0.0,0,0,0.0,2,3,5,2,2,0,4,1,16,-10
+Orlando Magic,G,Jameer Nelson,San Antonio Spurs,L,11/28/2012,28:57,7,14,0.5,0,2,0.0,0,0,0.0,2,3,5,3,2,0,2,3,14,-3
+Orlando Magic,F,Maurice Harkless,Brooklyn Nets,L,11/30/2012,27:33,4,8,0.5,0,0,0.0,0,0,0.0,0,7,7,0,1,1,2,3,8,-3
+Orlando Magic,F,Glen Davis,Brooklyn Nets,L,11/30/2012,28:59,6,11,0.545,0,0,0.0,4,5,0.8,0,3,3,2,0,0,3,1,16,-9
+Orlando Magic,C,Nikola Vucevic,Brooklyn Nets,L,11/30/2012,28:11,5,12,0.417,0,0,0.0,2,2,1.0,1,5,6,3,2,1,0,3,12,-18
+Orlando Magic,G,Arron Afflalo,Brooklyn Nets,L,11/30/2012,34:09,2,10,0.2,0,3,0.0,1,2,0.5,0,1,1,2,0,0,0,2,5,-19
+Orlando Magic,G,E'Twaun Moore,Brooklyn Nets,L,11/30/2012,31:21,6,10,0.6,1,3,0.333,0,0,0.0,1,3,4,4,0,0,0,1,13,-18
+Orlando Magic,F,Maurice Harkless,Los Angeles Lakers,W,12/02/2012,21:30,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,1,1,1,1,2,2,-5
+Orlando Magic,F,Glen Davis,Los Angeles Lakers,W,12/02/2012,35:30,8,15,0.533,0,0,0.0,7,8,0.875,0,12,12,2,1,2,3,3,23,22
+Orlando Magic,C,Nikola Vucevic,Los Angeles Lakers,W,12/02/2012,40:27,8,15,0.533,0,0,0.0,1,1,1.0,3,9,12,1,0,4,1,5,17,15
+Orlando Magic,G,Arron Afflalo,Los Angeles Lakers,W,12/02/2012,40:27,11,18,0.611,4,8,0.5,4,4,1.0,0,5,5,5,1,0,5,2,30,15
+Orlando Magic,G,Jameer Nelson,Los Angeles Lakers,W,12/02/2012,38:48,6,14,0.429,2,6,0.333,5,5,1.0,0,5,5,13,2,0,2,2,19,19
+Orlando Magic,F,Maurice Harkless,Golden State Warriors,W,12/03/2012,21:45,1,5,0.2,0,2,0.0,0,0,0.0,0,5,5,2,0,0,1,2,2,-14
+Orlando Magic,F,Glen Davis,Golden State Warriors,W,12/03/2012,34:41,10,20,0.5,0,0,0.0,4,4,1.0,2,4,6,4,1,2,0,3,24,10
+Orlando Magic,C,Nikola Vucevic,Golden State Warriors,W,12/03/2012,37:23,6,12,0.5,0,0,0.0,2,3,0.667,6,9,15,3,2,2,2,2,14,10
+Orlando Magic,G,Arron Afflalo,Golden State Warriors,W,12/03/2012,37:18,9,16,0.563,2,5,0.4,4,4,1.0,1,3,4,1,2,0,1,2,24,14
+Orlando Magic,G,Jameer Nelson,Golden State Warriors,W,12/03/2012,33:16,3,12,0.25,1,6,0.167,0,1,0.0,1,2,3,9,2,0,3,2,7,2
+Orlando Magic,F,Maurice Harkless,Utah Jazz,L,12/05/2012,15:13,0,2,0.0,0,1,0.0,0,0,0.0,0,3,3,0,1,0,0,1,0,-5
+Orlando Magic,F,Glen Davis,Utah Jazz,L,12/05/2012,38:40,7,16,0.438,0,0,0.0,4,6,0.667,2,10,12,1,0,2,3,4,18,2
+Orlando Magic,C,Nikola Vucevic,Utah Jazz,L,12/05/2012,38:17,3,9,0.333,0,0,0.0,0,0,0.0,7,9,16,1,0,2,2,2,6,0
+Orlando Magic,G,Arron Afflalo,Utah Jazz,L,12/05/2012,36:26,7,12,0.583,0,3,0.0,2,2,1.0,0,3,3,2,1,0,2,0,16,0
+Orlando Magic,G,Jameer Nelson,Utah Jazz,L,12/05/2012,39:24,7,16,0.438,1,4,0.25,2,2,1.0,2,3,5,5,2,0,3,3,17,0
+Orlando Magic,F,Maurice Harkless,Sacramento Kings,L,12/07/2012,19:10,0,3,0.0,0,1,0.0,2,2,1.0,0,2,2,0,0,1,0,1,2,-4
+Orlando Magic,F,Glen Davis,Sacramento Kings,L,12/07/2012,40:15,8,19,0.421,0,0,0.0,4,5,0.8,0,11,11,2,3,2,5,6,20,-9
+Orlando Magic,C,Nikola Vucevic,Sacramento Kings,L,12/07/2012,20:59,1,5,0.2,0,0,0.0,1,2,0.5,2,5,7,0,0,0,2,4,3,-13
+Orlando Magic,G,Arron Afflalo,Sacramento Kings,L,12/07/2012,38:06,6,15,0.4,1,5,0.2,5,6,0.833,0,3,3,3,0,0,1,4,18,-11
+Orlando Magic,G,Jameer Nelson,Sacramento Kings,L,12/07/2012,36:26,7,13,0.538,3,5,0.6,0,0,0.0,0,3,3,6,1,0,4,5,17,-10
+Orlando Magic,F,Maurice Harkless,Phoenix Suns,W,12/09/2012,7:24,2,2,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,4,-8
+Orlando Magic,F,Glen Davis,Phoenix Suns,W,12/09/2012,33:03,7,11,0.636,0,0,0.0,1,4,0.25,0,7,7,3,0,0,3,0,15,-4
+Orlando Magic,C,Nikola Vucevic,Phoenix Suns,W,12/09/2012,28:30,6,9,0.667,0,0,0.0,0,0,0.0,3,6,9,3,1,0,2,3,12,-7
+Orlando Magic,G,Arron Afflalo,Phoenix Suns,W,12/09/2012,37:30,5,11,0.455,0,1,0.0,4,4,1.0,1,3,4,3,0,0,4,0,14,-1
+Orlando Magic,G,Jameer Nelson,Phoenix Suns,W,12/09/2012,25:15,1,7,0.143,0,3,0.0,2,2,1.0,0,4,4,3,0,0,3,2,4,-8
+Orlando Magic,F,Maurice Harkless,Atlanta Hawks,L,12/12/2012,11:11,0,4,0.0,0,2,0.0,0,0,0.0,1,0,1,0,0,0,1,0,0,-13
+Orlando Magic,F,Glen Davis,Atlanta Hawks,L,12/12/2012,35:00,2,11,0.182,0,0,0.0,6,6,1.0,1,6,7,0,4,1,2,2,10,-4
+Orlando Magic,C,Nikola Vucevic,Atlanta Hawks,L,12/12/2012,19:12,4,7,0.571,0,0,0.0,0,0,0.0,3,3,6,0,1,0,0,1,8,-19
+Orlando Magic,G,Arron Afflalo,Atlanta Hawks,L,12/12/2012,40:26,6,16,0.375,3,7,0.429,1,1,1.0,0,3,3,4,0,0,3,1,16,-16
+Orlando Magic,G,Jameer Nelson,Atlanta Hawks,L,12/12/2012,31:31,5,9,0.556,2,5,0.4,0,0,0.0,0,3,3,2,1,0,1,2,12,-3
+Orlando Magic,F,Maurice Harkless,Golden State Warriors,W,12/14/2012,23:39,3,8,0.375,0,1,0.0,1,2,0.5,4,3,7,0,2,4,0,2,7,0
+Orlando Magic,F,Glen Davis,Golden State Warriors,W,12/14/2012,27:44,4,9,0.444,0,0,0.0,0,0,0.0,0,2,2,0,1,1,2,1,8,14
+Orlando Magic,C,Nikola Vucevic,Golden State Warriors,W,12/14/2012,33:51,6,10,0.6,0,0,0.0,0,0,0.0,5,12,17,2,1,0,4,0,12,-6
+Orlando Magic,G,Arron Afflalo,Golden State Warriors,W,12/14/2012,34:43,5,12,0.417,2,3,0.667,2,2,1.0,2,5,7,2,2,0,3,3,14,9
+Orlando Magic,G,Jameer Nelson,Golden State Warriors,W,12/14/2012,29:57,4,14,0.286,0,5,0.0,2,3,0.667,0,3,3,11,1,0,1,2,10,14
+Orlando Magic,F,Maurice Harkless,Charlotte Bobcats,W,12/15/2012,20:59,1,1,1.0,0,0,0.0,0,0,0.0,0,3,3,1,0,4,1,3,2,4
+Orlando Magic,F,Glen Davis,Charlotte Bobcats,W,12/15/2012,34:21,7,11,0.636,0,0,0.0,6,8,0.75,1,3,4,2,0,0,2,5,20,10
+Orlando Magic,C,Nikola Vucevic,Charlotte Bobcats,W,12/15/2012,31:21,6,10,0.6,0,0,0.0,1,1,1.0,4,9,13,2,0,1,4,1,13,7
+Orlando Magic,G,Arron Afflalo,Charlotte Bobcats,W,12/15/2012,37:24,8,14,0.571,1,2,0.5,3,3,1.0,1,5,6,3,0,0,2,3,20,4
+Orlando Magic,G,Jameer Nelson,Charlotte Bobcats,W,12/15/2012,30:52,7,13,0.538,1,4,0.25,1,2,0.5,1,3,4,6,0,1,1,5,16,10
+Orlando Magic,F,Maurice Harkless,Minnesota Timberwolves,W,12/17/2012,14:59,2,3,0.667,1,1,1.0,0,0,0.0,0,2,2,0,1,0,0,1,5,-9
+Orlando Magic,F,Glen Davis,Minnesota Timberwolves,W,12/17/2012,32:02,13,17,0.765,0,0,0.0,2,2,1.0,2,3,5,1,2,0,2,4,28,9
+Orlando Magic,C,Nikola Vucevic,Minnesota Timberwolves,W,12/17/2012,32:59,7,13,0.538,0,0,0.0,0,0,0.0,2,9,11,2,1,2,3,3,14,7
+Orlando Magic,G,Arron Afflalo,Minnesota Timberwolves,W,12/17/2012,30:37,5,11,0.455,2,2,1.0,1,1,1.0,0,5,5,3,1,0,0,1,13,1
+Orlando Magic,G,Jameer Nelson,Minnesota Timberwolves,W,12/17/2012,34:48,2,11,0.182,0,3,0.0,2,2,1.0,0,4,4,12,1,0,4,2,6,-3
+Orlando Magic,F,Maurice Harkless,Washington Wizards,W,12/19/2012,17:51,3,6,0.5,0,1,0.0,3,4,0.75,2,5,7,0,2,0,2,0,9,4
+Orlando Magic,F,Glen Davis,Washington Wizards,W,12/19/2012,38:31,6,18,0.333,0,0,0.0,0,0,0.0,2,7,9,1,1,2,4,3,12,-6
+Orlando Magic,C,Nikola Vucevic,Washington Wizards,W,12/19/2012,34:07,4,9,0.444,0,1,0.0,0,0,0.0,3,10,13,0,0,1,0,2,8,-2
+Orlando Magic,G,Arron Afflalo,Washington Wizards,W,12/19/2012,39:19,6,18,0.333,0,5,0.0,3,4,0.75,0,3,3,3,2,0,1,0,15,-5
+Orlando Magic,G,Jameer Nelson,Washington Wizards,W,12/19/2012,31:26,2,5,0.4,0,1,0.0,4,4,1.0,0,2,2,5,3,0,1,1,8,-3
+Orlando Magic,F,Maurice Harkless,Toronto Raptors,L,12/21/2012,12:34,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,-6
+Orlando Magic,F,Andrew Nicholson,Toronto Raptors,L,12/21/2012,19:45,3,10,0.3,0,0,0.0,0,0,0.0,0,4,4,1,1,0,3,2,6,-14
+Orlando Magic,C,Nikola Vucevic,Toronto Raptors,L,12/21/2012,30:40,8,12,0.667,0,0,0.0,0,0,0.0,4,8,12,2,1,2,0,1,16,-3
+Orlando Magic,G,Arron Afflalo,Toronto Raptors,L,12/21/2012,41:52,7,11,0.636,3,3,1.0,9,9,1.0,0,1,1,5,0,0,5,4,26,3
+Orlando Magic,G,Jameer Nelson,Toronto Raptors,L,12/21/2012,41:33,4,10,0.4,1,3,0.333,0,0,0.0,0,6,6,7,0,0,5,0,9,4
+Orlando Magic,F,Maurice Harkless,Utah Jazz,L,12/23/2012,17:54,3,4,0.75,1,1,1.0,0,2,0.0,1,1,2,1,2,1,1,2,7,3
+Orlando Magic,F,Gustavo Ayon,Utah Jazz,L,12/23/2012,37:03,3,7,0.429,0,0,0.0,3,6,0.5,3,9,12,3,0,0,1,3,9,4
+Orlando Magic,C,Nikola Vucevic,Utah Jazz,L,12/23/2012,40:07,7,10,0.7,0,0,0.0,2,2,1.0,4,12,16,1,0,1,2,3,16,-1
+Orlando Magic,G,Arron Afflalo,Utah Jazz,L,12/23/2012,38:02,9,19,0.474,1,3,0.333,1,2,0.5,1,3,4,3,0,0,3,0,20,-3
+Orlando Magic,G,Jameer Nelson,Utah Jazz,L,12/23/2012,43:32,5,13,0.385,4,7,0.571,0,0,0.0,1,3,4,9,1,0,4,4,14,-3
+Orlando Magic,F,Maurice Harkless,New Orleans Hornets,L,12/26/2012,21:34,1,5,0.2,0,1,0.0,0,0,0.0,1,6,7,1,1,0,1,1,2,-11
+Orlando Magic,F,Gustavo Ayon,New Orleans Hornets,L,12/26/2012,27:31,2,4,0.5,0,0,0.0,0,0,0.0,1,2,3,2,1,2,1,4,4,1
+Orlando Magic,C,Nikola Vucevic,New Orleans Hornets,L,12/26/2012,32:46,8,17,0.471,0,1,0.0,3,5,0.6,4,5,9,1,0,0,0,3,19,-11
+Orlando Magic,G,Arron Afflalo,New Orleans Hornets,L,12/26/2012,39:08,6,14,0.429,2,7,0.286,0,0,0.0,1,2,3,2,0,0,3,2,14,0
+Orlando Magic,G,Jameer Nelson,New Orleans Hornets,L,12/26/2012,38:11,11,17,0.647,4,8,0.5,2,2,1.0,0,5,5,10,0,0,6,3,28,3
+Orlando Magic,F,Maurice Harkless,Washington Wizards,L,12/28/2012,16:18,3,3,1.0,0,0,0.0,0,0,0.0,1,2,3,0,0,0,0,0,6,12
+Orlando Magic,F,Gustavo Ayon,Washington Wizards,L,12/28/2012,35:10,4,8,0.5,0,0,0.0,0,0,0.0,3,4,7,3,0,0,3,3,8,2
+Orlando Magic,C,Nikola Vucevic,Washington Wizards,L,12/28/2012,34:57,4,8,0.5,0,0,0.0,0,2,0.0,1,10,11,3,0,1,3,3,8,-7
+Orlando Magic,G,Arron Afflalo,Washington Wizards,L,12/28/2012,38:14,9,21,0.429,1,6,0.167,7,7,1.0,1,3,4,2,2,0,1,2,26,1
+Orlando Magic,G,Jameer Nelson,Washington Wizards,L,12/28/2012,34:11,6,15,0.4,4,7,0.571,0,0,0.0,0,3,3,8,1,0,3,2,16,-1
+Orlando Magic,F,Maurice Harkless,Toronto Raptors,L,12/29/2012,22:12,0,3,0.0,0,0,0.0,0,0,0.0,2,0,2,0,1,3,0,0,0,-4
+Orlando Magic,F,Andrew Nicholson,Toronto Raptors,L,12/29/2012,26:26,10,14,0.714,0,0,0.0,2,4,0.5,0,7,7,0,1,0,0,3,22,-10
+Orlando Magic,C,Nikola Vucevic,Toronto Raptors,L,12/29/2012,28:25,4,7,0.571,0,0,0.0,0,2,0.0,4,5,9,1,1,1,0,1,8,-4
+Orlando Magic,G,Arron Afflalo,Toronto Raptors,L,12/29/2012,37:41,5,14,0.357,1,6,0.167,3,4,0.75,0,2,2,6,1,0,3,3,14,-24
+Orlando Magic,G,Ish Smith,Toronto Raptors,L,12/29/2012,33:23,6,12,0.5,1,2,0.5,0,2,0.0,3,1,4,6,2,2,0,0,13,-20
+Orlando Magic,F,DeQuan Jones,Miami Heat,L,12/31/2012,23:38,2,6,0.333,0,1,0.0,2,2,1.0,0,1,1,1,1,0,1,3,6,-14
+Orlando Magic,F,Andrew Nicholson,Miami Heat,L,12/31/2012,17:10,5,10,0.5,0,0,0.0,0,1,0.0,2,1,3,0,0,0,0,2,10,-11
+Orlando Magic,C,Nikola Vucevic,Miami Heat,L,12/31/2012,46:34,9,17,0.529,0,0,0.0,2,4,0.5,11,18,29,2,3,2,0,4,20,6
+Orlando Magic,G,Arron Afflalo,Miami Heat,L,12/31/2012,46:10,9,19,0.474,2,6,0.333,8,9,0.889,0,4,4,3,1,1,2,5,28,11
+Orlando Magic,G,Ish Smith,Miami Heat,L,12/31/2012,14:20,1,4,0.25,0,0,0.0,0,0,0.0,2,0,2,2,0,0,4,1,2,-11
+Orlando Magic,F,DeQuan Jones,Chicago Bulls,L,01/02/2013,10:31,2,4,0.5,0,0,0.0,0,0,0.0,1,1,2,0,0,1,0,0,4,4
+Orlando Magic,F,Andrew Nicholson,Chicago Bulls,L,01/02/2013,12:07,3,5,0.6,0,0,0.0,0,0,0.0,0,4,4,1,0,1,0,3,6,3
+Orlando Magic,C,Nikola Vucevic,Chicago Bulls,L,01/02/2013,39:24,8,14,0.571,0,0,0.0,4,6,0.667,5,7,12,0,1,1,3,5,20,2
+Orlando Magic,G,Arron Afflalo,Chicago Bulls,L,01/02/2013,40:46,7,13,0.538,2,4,0.5,3,4,0.75,0,1,1,3,0,0,2,4,19,0
+Orlando Magic,G,Jameer Nelson,Chicago Bulls,L,01/02/2013,40:12,11,20,0.55,6,9,0.667,4,4,1.0,0,5,5,4,2,0,4,2,32,-2
+Orlando Magic,F,DeQuan Jones,New York Knicks,L,01/05/2013,24:05,4,8,0.5,0,2,0.0,0,1,0.0,1,5,6,1,0,0,0,3,8,13
+Orlando Magic,F,Andrew Nicholson,New York Knicks,L,01/05/2013,13:46,5,6,0.833,0,0,0.0,1,1,1.0,0,2,2,1,1,1,1,0,11,14
+Orlando Magic,C,Nikola Vucevic,New York Knicks,L,01/05/2013,36:38,5,12,0.417,0,0,0.0,1,1,1.0,6,12,18,2,1,1,2,4,11,-1
+Orlando Magic,G,Arron Afflalo,New York Knicks,L,01/05/2013,38:13,10,14,0.714,2,3,0.667,7,9,0.778,0,1,1,4,0,0,3,2,29,6
+Orlando Magic,G,Jameer Nelson,New York Knicks,L,01/05/2013,40:06,10,20,0.5,5,9,0.556,4,4,1.0,0,3,3,8,1,1,3,4,29,-8
+Orlando Magic,F,DeQuan Jones,Portland Trail Blazers,L,01/07/2013,18:59,3,6,0.5,0,1,0.0,0,0,0.0,0,1,1,0,0,1,1,0,6,-11
+Orlando Magic,F,Andrew Nicholson,Portland Trail Blazers,L,01/07/2013,16:44,3,5,0.6,0,0,0.0,2,2,1.0,2,4,6,0,1,0,1,4,8,-1
+Orlando Magic,C,Nikola Vucevic,Portland Trail Blazers,L,01/07/2013,47:17,8,16,0.5,0,0,0.0,1,1,1.0,2,11,13,5,0,1,2,6,17,-8
+Orlando Magic,G,Arron Afflalo,Portland Trail Blazers,L,01/07/2013,46:38,9,18,0.5,1,4,0.25,5,6,0.833,1,4,5,3,0,0,2,1,24,-1
+Orlando Magic,G,Jameer Nelson,Portland Trail Blazers,L,01/07/2013,47:37,7,21,0.333,2,11,0.182,5,6,0.833,1,2,3,12,1,0,1,5,21,-5
+Orlando Magic,F,DeQuan Jones,Denver Nuggets,L,01/09/2013,26:23,5,7,0.714,1,1,1.0,0,0,0.0,2,3,5,2,1,1,0,2,11,-4
+Orlando Magic,F,Andrew Nicholson,Denver Nuggets,L,01/09/2013,19:44,6,10,0.6,0,0,0.0,0,0,0.0,1,2,3,1,0,0,1,1,12,-8
+Orlando Magic,C,Nikola Vucevic,Denver Nuggets,L,01/09/2013,32:23,5,9,0.556,0,0,0.0,0,0,0.0,3,11,14,0,1,2,2,6,10,11
+Orlando Magic,G,Arron Afflalo,Denver Nuggets,L,01/09/2013,32:55,4,14,0.286,1,5,0.2,3,4,0.75,0,3,3,1,0,0,4,6,12,-11
+Orlando Magic,G,Jameer Nelson,Denver Nuggets,L,01/09/2013,39:11,8,18,0.444,1,5,0.2,3,3,1.0,0,2,2,8,1,1,3,3,20,-9
+Orlando Magic,F,DeQuan Jones,Los Angeles Clippers,W,01/12/2013,13:26,0,2,0.0,0,0,0.0,0,0,0.0,0,3,3,0,0,0,1,1,0,-2
+Orlando Magic,F,Andrew Nicholson,Los Angeles Clippers,W,01/12/2013,28:44,4,8,0.5,0,0,0.0,0,0,0.0,1,4,5,1,1,0,4,2,8,-11
+Orlando Magic,C,Nikola Vucevic,Los Angeles Clippers,W,01/12/2013,35:24,7,9,0.778,0,0,0.0,4,6,0.667,5,10,15,1,1,1,1,2,18,-3
+Orlando Magic,G,Arron Afflalo,Los Angeles Clippers,W,01/12/2013,40:05,10,19,0.526,3,3,1.0,7,8,0.875,3,4,7,7,1,0,1,1,30,-3
+Orlando Magic,G,Jameer Nelson,Los Angeles Clippers,W,01/12/2013,36:23,4,14,0.286,2,7,0.286,1,1,1.0,0,3,3,9,2,0,2,3,11,-6
+Orlando Magic,F,DeQuan Jones,Washington Wizards,L,01/14/2013,20:05,3,5,0.6,0,0,0.0,0,0,0.0,0,2,2,0,0,0,2,0,6,-18
+Orlando Magic,F,Andrew Nicholson,Washington Wizards,L,01/14/2013,15:38,3,8,0.375,0,0,0.0,0,0,0.0,1,1,2,0,1,0,1,4,6,-14
+Orlando Magic,C,Nikola Vucevic,Washington Wizards,L,01/14/2013,33:03,6,10,0.6,0,0,0.0,1,2,0.5,3,10,13,1,1,0,1,4,13,-7
+Orlando Magic,G,Arron Afflalo,Washington Wizards,L,01/14/2013,37:06,1,11,0.091,0,1,0.0,0,0,0.0,0,2,2,3,1,0,0,2,2,-19
+Orlando Magic,G,Jameer Nelson,Washington Wizards,L,01/14/2013,34:10,6,17,0.353,3,7,0.429,4,4,1.0,0,2,2,12,3,0,4,2,19,-11
+Orlando Magic,F,DeQuan Jones,Indiana Pacers,W,01/16/2013,22:18,2,3,0.667,0,0,0.0,0,0,0.0,0,5,5,2,1,0,1,3,4,-5
+Orlando Magic,F,Glen Davis,Indiana Pacers,W,01/16/2013,24:42,5,14,0.357,0,0,0.0,1,1,1.0,1,3,4,1,1,0,1,0,11,7
+Orlando Magic,C,Nikola Vucevic,Indiana Pacers,W,01/16/2013,34:36,7,13,0.538,0,0,0.0,2,2,1.0,4,11,15,1,1,0,0,1,16,10
+Orlando Magic,G,Arron Afflalo,Indiana Pacers,W,01/16/2013,34:30,7,13,0.538,1,3,0.333,0,0,0.0,0,5,5,5,1,0,4,1,15,8
+Orlando Magic,G,Jameer Nelson,Indiana Pacers,W,01/16/2013,33:26,5,12,0.417,4,6,0.667,0,0,0.0,0,0,0,6,4,0,1,4,14,11
+Orlando Magic,F,DeQuan Jones,Charlotte Bobcats,L,01/18/2013,20:21,3,5,0.6,1,2,0.5,0,0,0.0,1,0,1,0,1,0,2,0,7,-2
+Orlando Magic,F,Glen Davis,Charlotte Bobcats,L,01/18/2013,23:49,1,5,0.2,0,0,0.0,2,4,0.5,0,8,8,3,1,0,2,5,4,-1
+Orlando Magic,C,Nikola Vucevic,Charlotte Bobcats,L,01/18/2013,39:39,5,8,0.625,0,0,0.0,1,2,0.5,5,4,9,3,0,3,0,3,11,-4
+Orlando Magic,G,Arron Afflalo,Charlotte Bobcats,L,01/18/2013,39:44,8,20,0.4,1,6,0.167,6,7,0.857,2,2,4,2,1,0,3,5,23,-6
+Orlando Magic,G,Jameer Nelson,Charlotte Bobcats,L,01/18/2013,37:44,8,17,0.471,4,10,0.4,2,2,1.0,0,5,5,7,0,0,1,3,22,-1
+Orlando Magic,F,DeQuan Jones,Dallas Mavericks,L,01/20/2013,13:07,1,1,1.0,1,1,1.0,0,0,0.0,1,2,3,1,0,0,1,0,3,-2
+Orlando Magic,F,Glen Davis,Dallas Mavericks,L,01/20/2013,34:54,10,16,0.625,0,0,0.0,4,6,0.667,0,6,6,6,2,1,2,1,24,11
+Orlando Magic,C,Nikola Vucevic,Dallas Mavericks,L,01/20/2013,40:39,6,11,0.545,0,0,0.0,2,2,1.0,2,9,11,3,1,1,3,3,14,2
+Orlando Magic,G,Arron Afflalo,Dallas Mavericks,L,01/20/2013,38:47,5,13,0.385,1,2,0.5,5,6,0.833,0,6,6,3,0,0,1,2,16,3
+Orlando Magic,G,Jameer Nelson,Dallas Mavericks,L,01/20/2013,37:52,7,17,0.412,4,9,0.444,2,2,1.0,2,4,6,5,0,0,3,4,20,6
+Orlando Magic,F,Arron Afflalo,Detroit Pistons,L,01/22/2013,37:43,0,4,0.0,0,1,0.0,0,0,0.0,0,9,9,5,1,0,0,2,0,-17
+Orlando Magic,F,Glen Davis,Detroit Pistons,L,01/22/2013,23:15,4,16,0.25,0,0,0.0,3,4,0.75,0,3,3,1,0,0,1,1,11,-12
+Orlando Magic,C,Nikola Vucevic,Detroit Pistons,L,01/22/2013,28:20,5,10,0.5,0,0,0.0,0,0,0.0,0,9,9,1,0,1,0,3,10,1
+Orlando Magic,G,JJ Redick,Detroit Pistons,L,01/22/2013,37:16,9,10,0.9,5,6,0.833,3,4,0.75,0,2,2,3,0,0,2,1,26,-2
+Orlando Magic,G,Jameer Nelson,Detroit Pistons,L,01/22/2013,33:29,6,18,0.333,2,10,0.2,0,0,0.0,0,3,3,9,1,0,2,3,14,-4
+Orlando Magic,F,Arron Afflalo,Toronto Raptors,L,01/24/2013,41:32,6,16,0.375,2,4,0.5,2,2,1.0,0,4,4,2,0,0,4,0,16,-6
+Orlando Magic,F,Glen Davis,Toronto Raptors,L,01/24/2013,34:23,7,12,0.583,0,0,0.0,1,2,0.5,2,5,7,2,1,1,1,5,15,5
+Orlando Magic,C,Nikola Vucevic,Toronto Raptors,L,01/24/2013,29:38,8,14,0.571,0,0,0.0,3,4,0.75,4,10,14,1,0,3,0,0,19,-3
+Orlando Magic,G,JJ Redick,Toronto Raptors,L,01/24/2013,39:53,4,11,0.364,2,3,0.667,4,4,1.0,0,2,2,3,0,0,2,2,14,1
+Orlando Magic,G,Jameer Nelson,Toronto Raptors,L,01/24/2013,42:35,5,13,0.385,3,7,0.429,1,2,0.5,1,6,7,11,3,0,3,1,14,6
+Orlando Magic,F,Arron Afflalo,Detroit Pistons,L,01/27/2013,26:00,2,7,0.286,0,1,0.0,0,0,0.0,0,1,1,4,1,0,1,3,4,-3
+Orlando Magic,F,Glen Davis,Detroit Pistons,L,01/27/2013,38:16,8,22,0.364,0,0,0.0,1,2,0.5,5,7,12,4,0,0,5,2,17,-3
+Orlando Magic,C,Nikola Vucevic,Detroit Pistons,L,01/27/2013,40:25,6,13,0.462,0,0,0.0,0,0,0.0,8,9,17,3,0,1,1,4,12,-4
+Orlando Magic,G,JJ Redick,Detroit Pistons,L,01/27/2013,39:45,10,17,0.588,8,11,0.727,3,5,0.6,2,4,6,2,3,0,5,3,31,0
+Orlando Magic,G,Jameer Nelson,Detroit Pistons,L,01/27/2013,37:29,6,14,0.429,1,6,0.167,5,6,0.833,1,5,6,8,1,0,2,5,18,-7
+Orlando Magic,F,Maurice Harkless,Brooklyn Nets,L,01/28/2013,34:05,7,10,0.7,2,4,0.5,0,0,0.0,1,3,4,2,3,0,2,1,16,-14
+Orlando Magic,F,Glen Davis,Brooklyn Nets,L,01/28/2013,38:57,6,13,0.462,0,0,0.0,3,5,0.6,2,3,5,3,1,0,1,2,15,-13
+Orlando Magic,C,Nikola Vucevic,Brooklyn Nets,L,01/28/2013,37:47,9,13,0.692,0,0,0.0,0,0,0.0,3,6,9,1,0,2,1,3,18,-17
+Orlando Magic,G,JJ Redick,Brooklyn Nets,L,01/28/2013,37:32,2,13,0.154,1,8,0.125,0,0,0.0,1,5,6,10,1,0,3,0,5,-8
+Orlando Magic,G,Jameer Nelson,Brooklyn Nets,L,01/28/2013,37:56,3,12,0.25,3,8,0.375,0,0,0.0,1,3,4,7,2,0,3,3,9,-10
+Orlando Magic,F,Glen Davis,New York Knicks,L,01/30/2013,4:20,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,3,0,0,0,0,2,5
+Orlando Magic,F,Maurice Harkless,New York Knicks,L,01/30/2013,36:29,1,5,0.2,0,1,0.0,4,5,0.8,2,1,3,0,1,0,1,3,6,-9
+Orlando Magic,C,Nikola Vucevic,New York Knicks,L,01/30/2013,29:46,6,8,0.75,0,0,0.0,0,0,0.0,3,8,11,0,0,0,1,3,12,-7
+Orlando Magic,G,Jameer Nelson,New York Knicks,L,01/30/2013,34:31,8,17,0.471,2,7,0.286,3,4,0.75,0,3,3,9,0,0,2,3,21,-16
+Orlando Magic,G,JJ Redick,New York Knicks,L,01/30/2013,35:44,9,14,0.643,4,9,0.444,7,7,1.0,0,3,3,1,0,0,3,0,29,-9
+Orlando Magic,F,Maurice Harkless,Boston Celtics,L,02/01/2013,30:17,4,10,0.4,0,2,0.0,0,0,0.0,4,4,8,2,2,0,0,2,8,-2
+Orlando Magic,F,Andrew Nicholson,Boston Celtics,L,02/01/2013,32:50,6,13,0.462,0,0,0.0,2,2,1.0,0,10,10,1,1,2,3,0,14,7
+Orlando Magic,C,Nikola Vucevic,Boston Celtics,L,02/01/2013,32:15,6,12,0.5,0,0,0.0,2,2,1.0,5,9,14,1,0,2,1,4,14,-10
+Orlando Magic,G,JJ Redick,Boston Celtics,L,02/01/2013,32:59,5,15,0.333,2,5,0.4,3,3,1.0,0,2,2,5,2,0,3,0,15,-7
+Orlando Magic,G,Jameer Nelson,Boston Celtics,L,02/01/2013,18:30,1,6,0.167,0,3,0.0,0,0,0.0,0,0,0,2,1,0,2,1,2,-5
+Orlando Magic,F,Maurice Harkless,Milwaukee Bucks,L,02/02/2013,42:00,7,16,0.438,0,1,0.0,5,9,0.556,6,8,14,1,4,1,0,3,19,-9
+Orlando Magic,F,Andrew Nicholson,Milwaukee Bucks,L,02/02/2013,10:13,3,3,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,3,4,6,-6
+Orlando Magic,C,Nikola Vucevic,Milwaukee Bucks,L,02/02/2013,33:34,10,16,0.625,0,0,0.0,0,0,0.0,5,7,12,6,2,2,2,2,20,3
+Orlando Magic,G,JJ Redick,Milwaukee Bucks,L,02/02/2013,39:06,5,16,0.313,2,9,0.222,3,4,0.75,0,1,1,8,1,0,2,0,15,0
+Orlando Magic,G,E'Twaun Moore,Milwaukee Bucks,L,02/02/2013,34:36,3,14,0.214,1,4,0.25,0,0,0.0,4,3,7,6,1,0,4,4,7,-13
+Orlando Magic,F,Maurice Harkless,Philadelphia 76ers,L,02/04/2013,43:18,4,13,0.308,0,2,0.0,2,2,1.0,1,4,5,2,2,1,2,1,10,-15
+Orlando Magic,F,Josh McRoberts,Philadelphia 76ers,L,02/04/2013,33:23,2,12,0.167,1,5,0.2,0,0,0.0,1,5,6,6,0,0,2,0,5,-24
+Orlando Magic,C,Nikola Vucevic,Philadelphia 76ers,L,02/04/2013,30:45,3,10,0.3,0,0,0.0,3,4,0.75,4,10,14,0,0,0,1,1,9,-18
+Orlando Magic,G,Ish Smith,Philadelphia 76ers,L,02/04/2013,25:58,2,10,0.2,0,0,0.0,0,0,0.0,1,2,3,2,0,0,3,0,4,-20
+Orlando Magic,G,E'Twaun Moore,Philadelphia 76ers,L,02/04/2013,37:20,9,17,0.529,0,4,0.0,0,0,0.0,0,3,3,2,1,0,1,0,18,-14
+Orlando Magic,F,Maurice Harkless,Los Angeles Clippers,L,02/06/2013,38:12,2,11,0.182,0,2,0.0,2,2,1.0,1,8,9,0,1,2,1,3,6,-18
+Orlando Magic,F,Andrew Nicholson,Los Angeles Clippers,L,02/06/2013,26:39,3,5,0.6,0,0,0.0,0,0,0.0,2,3,5,1,0,1,2,1,6,-9
+Orlando Magic,C,Nikola Vucevic,Los Angeles Clippers,L,02/06/2013,34:49,7,21,0.333,0,0,0.0,1,2,0.5,5,9,14,1,2,1,2,2,15,-22
+Orlando Magic,G,E'Twaun Moore,Los Angeles Clippers,L,02/06/2013,38:24,3,16,0.188,1,6,0.167,0,0,0.0,0,3,3,5,1,0,5,2,7,-16
+Orlando Magic,G,Jameer Nelson,Los Angeles Clippers,L,02/06/2013,38:17,6,16,0.375,3,9,0.333,3,3,1.0,0,5,5,4,1,0,4,5,18,-11
+Orlando Magic,F,Maurice Harkless,Cleveland Cavaliers,L,02/08/2013,43:19,4,5,0.8,0,1,0.0,1,1,1.0,1,3,4,3,1,2,2,3,9,-9
+Orlando Magic,F,Andrew Nicholson,Cleveland Cavaliers,L,02/08/2013,30:41,9,13,0.692,0,0,0.0,3,5,0.6,2,6,8,3,0,2,2,5,21,0
+Orlando Magic,C,Nikola Vucevic,Cleveland Cavaliers,L,02/08/2013,43:23,12,19,0.632,0,0,0.0,1,1,1.0,5,8,13,3,0,1,1,4,25,-8
+Orlando Magic,G,Arron Afflalo,Cleveland Cavaliers,L,02/08/2013,36:26,9,17,0.529,2,6,0.333,3,3,1.0,0,4,4,3,0,0,3,0,23,-11
+Orlando Magic,G,Jameer Nelson,Cleveland Cavaliers,L,02/08/2013,40:40,5,16,0.313,4,9,0.444,1,1,1.0,0,5,5,13,1,2,6,5,15,-2
+Orlando Magic,F,Maurice Harkless,Portland Trail Blazers,W,02/10/2013,30:13,2,5,0.4,0,0,0.0,0,0,0.0,1,3,4,0,0,0,0,0,4,-5
+Orlando Magic,F,Andrew Nicholson,Portland Trail Blazers,W,02/10/2013,22:22,5,9,0.556,0,0,0.0,4,4,1.0,2,3,5,1,1,1,2,0,14,4
+Orlando Magic,C,Nikola Vucevic,Portland Trail Blazers,W,02/10/2013,30:47,8,12,0.667,0,0,0.0,1,2,0.5,6,13,19,3,0,0,3,5,17,13
+Orlando Magic,G,Arron Afflalo,Portland Trail Blazers,W,02/10/2013,31:45,5,12,0.417,1,1,1.0,3,4,0.75,1,1,2,3,1,0,0,1,14,4
+Orlando Magic,G,Jameer Nelson,Portland Trail Blazers,W,02/10/2013,37:59,4,18,0.222,2,9,0.222,0,0,0.0,1,3,4,15,0,0,2,3,10,8
+Orlando Magic,F,Maurice Harkless,Atlanta Hawks,L,02/13/2013,21:12,2,7,0.286,0,2,0.0,0,0,0.0,0,4,4,1,2,1,1,0,4,-17
+Orlando Magic,F,Andrew Nicholson,Atlanta Hawks,L,02/13/2013,28:15,5,9,0.556,0,0,0.0,0,0,0.0,1,5,6,1,0,0,1,1,10,-11
+Orlando Magic,C,Nikola Vucevic,Atlanta Hawks,L,02/13/2013,25:52,3,7,0.429,0,0,0.0,0,0,0.0,1,6,7,3,1,0,3,3,6,-23
+Orlando Magic,G,Arron Afflalo,Atlanta Hawks,L,02/13/2013,27:39,4,10,0.4,0,2,0.0,1,2,0.5,1,2,3,1,1,0,3,1,9,-24
+Orlando Magic,G,Jameer Nelson,Atlanta Hawks,L,02/13/2013,26:39,4,9,0.444,1,3,0.333,1,1,1.0,0,1,1,4,0,0,1,2,10,-20
+Orlando Magic,F,Maurice Harkless,Charlotte Bobcats,L,02/19/2013,30:32,6,14,0.429,1,3,0.333,2,2,1.0,3,3,6,2,1,1,0,2,15,-8
+Orlando Magic,F,Andrew Nicholson,Charlotte Bobcats,L,02/19/2013,32:03,5,13,0.385,0,0,0.0,3,3,1.0,3,9,12,2,1,0,0,2,13,-10
+Orlando Magic,C,Nikola Vucevic,Charlotte Bobcats,L,02/19/2013,42:05,9,16,0.563,0,1,0.0,0,2,0.0,3,8,11,4,1,0,3,5,18,-16
+Orlando Magic,G,Arron Afflalo,Charlotte Bobcats,L,02/19/2013,35:51,5,11,0.455,1,5,0.2,7,8,0.875,0,4,4,2,0,1,3,3,18,-21
+Orlando Magic,G,Jameer Nelson,Charlotte Bobcats,L,02/19/2013,30:07,4,11,0.364,2,8,0.25,0,0,0.0,0,3,3,6,0,0,3,4,10,-14
+Orlando Magic,F,Maurice Harkless,Dallas Mavericks,L,02/20/2013,28:28,9,15,0.6,1,2,0.5,1,4,0.25,5,3,8,0,1,1,1,0,20,1
+Orlando Magic,F,Andrew Nicholson,Dallas Mavericks,L,02/20/2013,30:48,4,11,0.364,0,0,0.0,2,6,0.333,2,5,7,2,0,0,2,1,10,-4
+Orlando Magic,C,Nikola Vucevic,Dallas Mavericks,L,02/20/2013,37:49,7,11,0.636,0,0,0.0,2,2,1.0,3,10,13,2,0,2,1,2,16,-11
+Orlando Magic,G,Arron Afflalo,Dallas Mavericks,L,02/20/2013,39:50,8,15,0.533,1,4,0.25,4,4,1.0,0,5,5,7,0,0,5,2,21,-3
+Orlando Magic,G,Jameer Nelson,Dallas Mavericks,L,02/20/2013,35:27,2,9,0.222,1,3,0.333,1,2,0.5,0,2,2,7,4,0,1,2,6,7
+Orlando Magic,F,Maurice Harkless,Memphis Grizzlies,L,02/22/2013,45:50,8,17,0.471,1,3,0.333,2,3,0.667,6,3,9,1,1,1,2,4,19,-12
+Orlando Magic,F,Andrew Nicholson,Memphis Grizzlies,L,02/22/2013,32:41,7,13,0.538,0,0,0.0,0,0,0.0,0,1,1,1,1,2,2,6,14,-6
+Orlando Magic,C,Nikola Vucevic,Memphis Grizzlies,L,02/22/2013,25:19,2,8,0.25,0,0,0.0,0,0,0.0,4,7,11,1,1,0,3,6,4,-8
+Orlando Magic,G,Arron Afflalo,Memphis Grizzlies,L,02/22/2013,43:59,8,16,0.5,2,5,0.4,2,2,1.0,0,6,6,7,1,2,1,3,20,-1
+Orlando Magic,G,E'Twaun Moore,Memphis Grizzlies,L,02/22/2013,39:09,5,18,0.278,1,4,0.25,1,2,0.5,0,4,4,7,2,2,2,2,12,2
+Orlando Magic,F,Maurice Harkless,Cleveland Cavaliers,L,02/23/2013,35:14,6,13,0.462,1,2,0.5,0,3,0.0,3,2,5,0,1,1,0,3,13,-38
+Orlando Magic,F,Andrew Nicholson,Cleveland Cavaliers,L,02/23/2013,21:45,4,10,0.4,0,0,0.0,0,0,0.0,1,1,2,1,0,0,2,0,8,-17
+Orlando Magic,C,Nikola Vucevic,Cleveland Cavaliers,L,02/23/2013,29:51,3,3,1.0,0,0,0.0,0,0,0.0,1,6,7,3,0,0,2,1,6,-23
+Orlando Magic,G,Arron Afflalo,Cleveland Cavaliers,L,02/23/2013,29:54,6,12,0.5,1,5,0.2,3,5,0.6,1,2,3,3,0,1,3,3,16,-22
+Orlando Magic,G,E'Twaun Moore,Cleveland Cavaliers,L,02/23/2013,27:45,5,12,0.417,2,5,0.4,0,0,0.0,0,1,1,5,1,1,4,3,12,-16
+Orlando Magic,F,Maurice Harkless,Philadelphia 76ers,W,02/26/2013,31:17,3,4,0.75,0,1,0.0,4,5,0.8,0,4,4,2,1,0,0,3,10,13
+Orlando Magic,F,Andrew Nicholson,Philadelphia 76ers,W,02/26/2013,17:28,6,8,0.75,0,0,0.0,1,1,1.0,1,1,2,0,0,1,2,1,13,9
+Orlando Magic,C,Nikola Vucevic,Philadelphia 76ers,W,02/26/2013,35:38,5,12,0.417,0,0,0.0,2,4,0.5,3,16,19,1,0,1,4,2,12,12
+Orlando Magic,G,Arron Afflalo,Philadelphia 76ers,W,02/26/2013,34:53,8,17,0.471,0,0,0.0,0,0,0.0,1,5,6,7,1,0,2,2,16,9
+Orlando Magic,G,E'Twaun Moore,Philadelphia 76ers,W,02/26/2013,33:10,4,9,0.444,3,5,0.6,1,2,0.5,0,0,0,10,1,0,2,0,12,24
+Orlando Magic,F,Maurice Harkless,Sacramento Kings,L,02/27/2013,27:53,5,7,0.714,1,2,0.5,1,2,0.5,0,4,4,0,0,0,1,5,12,-8
+Orlando Magic,F,Andrew Nicholson,Sacramento Kings,L,02/27/2013,17:04,3,6,0.5,0,0,0.0,2,2,1.0,2,2,4,0,1,2,0,2,8,-8
+Orlando Magic,C,Nikola Vucevic,Sacramento Kings,L,02/27/2013,21:46,2,7,0.286,0,0,0.0,0,0,0.0,0,2,2,2,0,0,2,1,4,-13
+Orlando Magic,G,Arron Afflalo,Sacramento Kings,L,02/27/2013,34:06,6,15,0.4,0,2,0.0,3,3,1.0,0,7,7,6,1,0,6,3,15,-12
+Orlando Magic,G,E'Twaun Moore,Sacramento Kings,L,02/27/2013,23:05,4,8,0.5,3,5,0.6,0,0,0.0,0,1,1,5,0,0,1,2,11,-12
+Orlando Magic,F,Maurice Harkless,Houston Rockets,L,03/01/2013,29:17,5,7,0.714,3,4,0.75,0,0,0.0,1,3,4,3,1,0,1,1,13,5
+Orlando Magic,F,Andrew Nicholson,Houston Rockets,L,03/01/2013,16:35,7,8,0.875,0,0,0.0,3,3,1.0,0,0,0,1,0,0,2,4,17,-8
+Orlando Magic,C,Nikola Vucevic,Houston Rockets,L,03/01/2013,35:16,8,13,0.615,0,0,0.0,2,2,1.0,3,7,10,2,3,0,3,1,18,-8
+Orlando Magic,G,Arron Afflalo,Houston Rockets,L,03/01/2013,42:09,6,14,0.429,1,5,0.2,6,9,0.667,0,3,3,4,0,0,3,3,19,-3
+Orlando Magic,G,E'Twaun Moore,Houston Rockets,L,03/01/2013,33:17,4,9,0.444,1,3,0.333,0,0,0.0,1,2,3,11,1,1,1,2,9,-23
+Orlando Magic,F,Maurice Harkless,Memphis Grizzlies,L,03/03/2013,32:20,5,6,0.833,1,1,1.0,0,0,0.0,3,3,6,0,0,0,2,1,11,-24
+Orlando Magic,F,Andrew Nicholson,Memphis Grizzlies,L,03/03/2013,26:51,4,6,0.667,0,0,0.0,4,4,1.0,0,4,4,1,0,1,2,1,12,-22
+Orlando Magic,C,Nikola Vucevic,Memphis Grizzlies,L,03/03/2013,23:08,3,7,0.429,0,0,0.0,0,0,0.0,1,3,4,2,0,0,1,0,6,-19
+Orlando Magic,G,Arron Afflalo,Memphis Grizzlies,L,03/03/2013,30:13,2,6,0.333,0,3,0.0,8,8,1.0,0,2,2,3,0,0,0,2,12,-17
+Orlando Magic,G,E'Twaun Moore,Memphis Grizzlies,L,03/03/2013,33:43,4,10,0.4,0,0,0.0,4,4,1.0,2,3,5,6,2,0,2,3,12,-14
+Orlando Magic,F,Maurice Harkless,New Orleans Hornets,W,03/04/2013,37:01,6,13,0.462,0,3,0.0,1,1,1.0,2,2,4,1,2,1,0,2,13,-7
+Orlando Magic,F,Andrew Nicholson,New Orleans Hornets,W,03/04/2013,15:54,4,7,0.571,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,3,8,-9
+Orlando Magic,C,Nikola Vucevic,New Orleans Hornets,W,03/04/2013,28:23,3,6,0.5,0,0,0.0,3,4,0.75,4,7,11,1,0,0,2,2,9,-10
+Orlando Magic,G,Arron Afflalo,New Orleans Hornets,W,03/04/2013,40:13,10,20,0.5,1,5,0.2,5,6,0.833,0,5,5,5,1,0,0,3,26,-1
+Orlando Magic,G,Jameer Nelson,New Orleans Hornets,W,03/04/2013,36:30,6,15,0.4,2,5,0.4,1,1,1.0,1,3,4,7,1,0,4,2,15,-2
+Orlando Magic,F,Maurice Harkless,Miami Heat,L,03/06/2013,38:52,5,9,0.556,2,4,0.5,0,0,0.0,1,2,3,0,3,2,2,6,12,8
+Orlando Magic,F,Andrew Nicholson,Miami Heat,L,03/06/2013,16:51,4,5,0.8,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,1,8,1
+Orlando Magic,C,Nikola Vucevic,Miami Heat,L,03/06/2013,42:08,11,16,0.688,0,0,0.0,3,3,1.0,9,12,21,4,1,0,2,6,25,9
+Orlando Magic,G,Arron Afflalo,Miami Heat,L,03/06/2013,35:09,5,16,0.313,0,5,0.0,3,3,1.0,0,4,4,5,2,0,2,3,13,-13
+Orlando Magic,G,Jameer Nelson,Miami Heat,L,03/06/2013,43:07,6,18,0.333,3,11,0.273,1,1,1.0,1,1,2,14,3,0,6,2,16,9
+Orlando Magic,F,Maurice Harkless,Indiana Pacers,L,03/08/2013,26:55,0,8,0.0,0,2,0.0,3,4,0.75,3,3,6,0,3,0,4,4,3,-14
+Orlando Magic,F,Tobias Harris,Indiana Pacers,L,03/08/2013,21:22,2,8,0.25,1,1,1.0,2,2,1.0,0,8,8,0,0,2,4,5,7,-23
+Orlando Magic,C,Nikola Vucevic,Indiana Pacers,L,03/08/2013,33:41,6,11,0.545,0,0,0.0,0,0,0.0,3,3,6,1,2,2,5,3,12,-23
+Orlando Magic,G,Arron Afflalo,Indiana Pacers,L,03/08/2013,29:26,6,13,0.462,2,3,0.667,5,5,1.0,0,2,2,1,0,0,1,0,19,-20
+Orlando Magic,G,Jameer Nelson,Indiana Pacers,L,03/08/2013,30:12,3,10,0.3,2,5,0.4,2,2,1.0,1,2,3,6,3,0,3,3,10,-22
+Orlando Magic,F,Maurice Harkless,Philadelphia 76ers,W,03/10/2013,24:15,2,6,0.333,0,1,0.0,0,0,0.0,0,3,3,0,1,2,1,2,4,-19
+Orlando Magic,F,Tobias Harris,Philadelphia 76ers,W,03/10/2013,37:36,7,16,0.438,1,4,0.25,0,0,0.0,1,6,7,3,0,2,1,0,15,11
+Orlando Magic,C,Nikola Vucevic,Philadelphia 76ers,W,03/10/2013,41:41,7,13,0.538,0,0,0.0,0,0,0.0,2,15,17,2,1,2,4,2,14,-1
+Orlando Magic,G,Arron Afflalo,Philadelphia 76ers,W,03/10/2013,34:32,7,14,0.5,2,3,0.667,1,2,0.5,0,0,0,4,0,0,1,1,17,5
+Orlando Magic,G,Jameer Nelson,Philadelphia 76ers,W,03/10/2013,38:57,9,17,0.529,5,9,0.556,1,1,1.0,0,5,5,10,1,0,4,4,24,7
+Orlando Magic,F,Maurice Harkless,Los Angeles Lakers,L,03/12/2013,26:37,4,7,0.571,1,2,0.5,3,5,0.6,2,2,4,0,2,0,3,6,12,-6
+Orlando Magic,F,Tobias Harris,Los Angeles Lakers,L,03/12/2013,40:27,7,17,0.412,3,5,0.6,0,1,0.0,5,10,15,2,1,3,0,3,17,-4
+Orlando Magic,C,Nikola Vucevic,Los Angeles Lakers,L,03/12/2013,29:53,3,9,0.333,0,0,0.0,0,0,0.0,3,8,11,3,0,1,1,4,6,3
+Orlando Magic,G,Arron Afflalo,Los Angeles Lakers,L,03/12/2013,44:47,6,18,0.333,1,5,0.2,4,4,1.0,0,3,3,2,0,0,1,4,17,-6
+Orlando Magic,G,Jameer Nelson,Los Angeles Lakers,L,03/12/2013,43:22,9,19,0.474,1,8,0.125,2,3,0.667,0,3,3,7,1,0,6,4,21,-6
+Orlando Magic,F,Maurice Harkless,Oklahoma City Thunder,L,03/15/2013,32:20,5,9,0.556,1,3,0.333,1,4,0.25,1,1,2,0,6,0,1,5,12,-10
+Orlando Magic,F,Tobias Harris,Oklahoma City Thunder,L,03/15/2013,40:05,4,10,0.4,1,3,0.333,10,10,1.0,0,6,6,0,3,0,2,3,19,1
+Orlando Magic,C,Nikola Vucevic,Oklahoma City Thunder,L,03/15/2013,41:27,8,15,0.533,0,0,0.0,5,5,1.0,3,11,14,1,1,0,1,3,21,-1
+Orlando Magic,G,Arron Afflalo,Oklahoma City Thunder,L,03/15/2013,41:34,10,24,0.417,0,6,0.0,0,0,0.0,1,2,3,3,0,0,1,3,20,-3
+Orlando Magic,G,Jameer Nelson,Oklahoma City Thunder,L,03/15/2013,44:55,10,22,0.455,5,12,0.417,1,2,0.5,0,4,4,7,0,0,3,5,26,-3
+Orlando Magic,F,Maurice Harkless,Milwaukee Bucks,L,03/17/2013,43:12,9,17,0.529,2,4,0.5,3,5,0.6,4,5,9,1,2,2,1,2,23,-4
+Orlando Magic,F,Tobias Harris,Milwaukee Bucks,L,03/17/2013,31:54,4,8,0.5,1,4,0.25,5,6,0.833,1,7,8,1,1,2,3,6,14,2
+Orlando Magic,C,Nikola Vucevic,Milwaukee Bucks,L,03/17/2013,41:30,10,16,0.625,0,0,0.0,0,0,0.0,3,12,15,4,2,0,3,2,20,-8
+Orlando Magic,G,Arron Afflalo,Milwaukee Bucks,L,03/17/2013,39:42,11,20,0.55,1,6,0.167,1,2,0.5,1,3,4,4,1,0,3,2,24,-9
+Orlando Magic,G,Jameer Nelson,Milwaukee Bucks,L,03/17/2013,39:28,7,19,0.368,1,6,0.167,1,2,0.5,0,2,2,7,4,0,1,2,16,-6
+Orlando Magic,F,Maurice Harkless,Indiana Pacers,L,03/19/2013,31:09,4,12,0.333,1,2,0.5,1,2,0.5,4,4,8,0,4,1,0,3,10,-12
+Orlando Magic,F,Tobias Harris,Indiana Pacers,L,03/19/2013,32:22,3,13,0.231,0,4,0.0,0,2,0.0,3,6,9,2,0,2,1,4,6,-11
+Orlando Magic,C,Nikola Vucevic,Indiana Pacers,L,03/19/2013,30:31,4,12,0.333,0,0,0.0,1,4,0.25,2,9,11,1,1,0,2,4,9,-11
+Orlando Magic,G,Arron Afflalo,Indiana Pacers,L,03/19/2013,32:49,3,13,0.231,0,2,0.0,4,4,1.0,0,3,3,3,0,1,2,2,10,-12
+Orlando Magic,G,Jameer Nelson,Indiana Pacers,L,03/19/2013,32:51,2,13,0.154,2,5,0.4,2,2,1.0,0,1,1,1,0,0,2,2,8,-11
+Orlando Magic,F,Tobias Harris,New York Knicks,L,03/20/2013,30:43,7,10,0.7,0,1,0.0,0,0,0.0,2,3,5,0,0,0,5,3,14,-26
+Orlando Magic,F,E'Twaun Moore,New York Knicks,L,03/20/2013,28:13,2,7,0.286,1,3,0.333,0,0,0.0,2,0,2,0,0,0,0,1,5,-19
+Orlando Magic,C,Maurice Harkless,New York Knicks,L,03/20/2013,35:22,5,13,0.385,1,3,0.333,0,0,0.0,3,3,6,0,3,0,0,2,11,-18
+Orlando Magic,G,Arron Afflalo,New York Knicks,L,03/20/2013,29:28,1,9,0.111,0,3,0.0,2,2,1.0,0,2,2,3,1,0,1,2,4,-19
+Orlando Magic,G,Jameer Nelson,New York Knicks,L,03/20/2013,24:00,2,7,0.286,1,5,0.2,1,2,0.5,0,3,3,1,1,0,1,0,6,-24
+Orlando Magic,F,Maurice Harkless,Oklahoma City Thunder,L,03/22/2013,44:53,11,18,0.611,2,3,0.667,1,1,1.0,3,6,9,1,4,4,2,3,25,-9
+Orlando Magic,F,Tobias Harris,Oklahoma City Thunder,L,03/22/2013,43:09,3,17,0.176,0,2,0.0,4,4,1.0,3,12,15,3,0,1,3,6,10,-8
+Orlando Magic,C,Kyle O'Quinn,Oklahoma City Thunder,L,03/22/2013,26:47,5,11,0.455,0,0,0.0,1,2,0.5,3,6,9,0,1,0,3,3,11,8
+Orlando Magic,G,Arron Afflalo,Oklahoma City Thunder,L,03/22/2013,12:37,3,6,0.5,0,2,0.0,0,0,0.0,1,2,3,1,0,0,2,2,6,-5
+Orlando Magic,G,Jameer Nelson,Oklahoma City Thunder,L,03/22/2013,40:59,7,17,0.412,2,7,0.286,0,0,0.0,1,4,5,10,0,0,1,3,16,-7
+Orlando Magic,F,Maurice Harkless,Miami Heat,L,03/25/2013,41:27,3,15,0.2,1,5,0.2,0,2,0.0,5,4,9,0,1,0,2,5,7,-10
+Orlando Magic,F,Tobias Harris,Miami Heat,L,03/25/2013,40:31,8,14,0.571,2,3,0.667,2,5,0.4,0,5,5,1,0,2,1,3,20,-13
+Orlando Magic,C,Kyle O'Quinn,Miami Heat,L,03/25/2013,23:23,6,7,0.857,0,0,0.0,0,0,0.0,2,4,6,0,0,1,2,3,12,2
+Orlando Magic,G,E'Twaun Moore,Miami Heat,L,03/25/2013,39:11,6,13,0.462,1,3,0.333,0,0,0.0,0,9,9,7,3,1,2,3,13,-6
+Orlando Magic,G,Jameer Nelson,Miami Heat,L,03/25/2013,41:29,9,20,0.45,5,10,0.5,4,5,0.8,0,5,5,12,2,0,3,2,27,-21
+Orlando Magic,F,Maurice Harkless,Charlotte Bobcats,L,03/27/2013,43:45,7,12,0.583,2,3,0.667,2,4,0.5,2,2,4,1,0,0,0,4,18,-4
+Orlando Magic,F,Tobias Harris,Charlotte Bobcats,L,03/27/2013,45:07,10,20,0.5,2,5,0.4,7,8,0.875,1,8,9,6,1,3,1,3,29,3
+Orlando Magic,C,Kyle O'Quinn,Charlotte Bobcats,L,03/27/2013,42:15,11,14,0.786,0,0,0.0,1,2,0.5,3,8,11,6,1,0,0,5,23,-8
+Orlando Magic,G,DeQuan Jones,Charlotte Bobcats,L,03/27/2013,31:24,6,9,0.667,0,1,0.0,1,2,0.5,0,2,2,2,1,2,1,2,13,1
+Orlando Magic,G,Jameer Nelson,Charlotte Bobcats,L,03/27/2013,42:15,6,19,0.316,1,6,0.167,0,0,0.0,1,5,6,11,0,0,5,4,13,-8
+Orlando Magic,F,Maurice Harkless,Washington Wizards,W,03/29/2013,41:35,6,17,0.353,1,5,0.2,5,6,0.833,6,3,9,0,0,1,1,2,18,-9
+Orlando Magic,F,Tobias Harris,Washington Wizards,W,03/29/2013,45:05,11,21,0.524,2,3,0.667,6,7,0.857,2,9,11,0,3,3,1,2,30,-3
+Orlando Magic,C,Kyle O'Quinn,Washington Wizards,W,03/29/2013,22:00,2,4,0.5,0,0,0.0,0,0,0.0,3,1,4,4,0,2,1,3,4,-6
+Orlando Magic,G,DeQuan Jones,Washington Wizards,W,03/29/2013,20:34,1,4,0.25,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,4,2,-12
+Orlando Magic,G,Jameer Nelson,Washington Wizards,W,03/29/2013,8:19,1,3,0.333,0,2,0.0,0,0,0.0,0,3,3,3,0,0,1,0,2,-4
+Orlando Magic,F,Maurice Harkless,Atlanta Hawks,L,03/30/2013,42:38,6,10,0.6,1,3,0.333,4,8,0.5,2,2,4,2,3,1,3,3,17,-10
+Orlando Magic,F,Tobias Harris,Atlanta Hawks,L,03/30/2013,39:42,5,18,0.278,1,4,0.25,0,0,0.0,2,8,10,1,2,0,2,4,11,-1
+Orlando Magic,C,Nikola Vucevic,Atlanta Hawks,L,03/30/2013,39:04,8,17,0.471,0,0,0.0,1,3,0.333,5,10,15,0,2,1,3,4,17,-7
+Orlando Magic,G,DeQuan Jones,Atlanta Hawks,L,03/30/2013,19:58,3,4,0.75,0,0,0.0,2,3,0.667,1,2,3,0,1,1,0,2,8,2
+Orlando Magic,G,Beno Udrih,Atlanta Hawks,L,03/30/2013,41:14,8,23,0.348,2,5,0.4,2,3,0.667,3,4,7,8,1,0,2,2,20,2
+Orlando Magic,F,Maurice Harkless,Houston Rockets,L,04/01/2013,41:59,10,18,0.556,2,4,0.5,6,7,0.857,4,2,6,1,1,0,2,3,28,-3
+Orlando Magic,F,Tobias Harris,Houston Rockets,L,04/01/2013,40:22,6,17,0.353,0,6,0.0,6,7,0.857,2,9,11,4,0,3,1,3,18,-9
+Orlando Magic,C,Nikola Vucevic,Houston Rockets,L,04/01/2013,35:21,5,19,0.263,0,0,0.0,2,2,1.0,4,9,13,2,0,2,0,4,12,-10
+Orlando Magic,G,DeQuan Jones,Houston Rockets,L,04/01/2013,23:19,1,5,0.2,0,0,0.0,0,0,0.0,0,2,2,0,3,2,1,1,2,-20
+Orlando Magic,G,Beno Udrih,Houston Rockets,L,04/01/2013,36:52,6,10,0.6,3,3,1.0,2,2,1.0,0,1,1,10,1,0,1,2,17,-13
+Orlando Magic,F,Maurice Harkless,San Antonio Spurs,L,04/03/2013,42:11,8,21,0.381,0,2,0.0,2,2,1.0,3,6,9,2,0,2,2,0,18,-12
+Orlando Magic,F,Tobias Harris,San Antonio Spurs,L,04/03/2013,41:28,5,19,0.263,1,6,0.167,0,0,0.0,1,6,7,5,1,3,4,2,11,-7
+Orlando Magic,C,Nikola Vucevic,San Antonio Spurs,L,04/03/2013,35:57,7,13,0.538,0,0,0.0,2,2,1.0,4,10,14,2,4,2,0,3,16,-3
+Orlando Magic,G,Andrew Nicholson,San Antonio Spurs,L,04/03/2013,9:54,1,4,0.25,0,0,0.0,0,0,0.0,0,3,3,0,1,0,1,0,2,-13
+Orlando Magic,G,Beno Udrih,San Antonio Spurs,L,04/03/2013,39:31,5,11,0.455,2,3,0.667,2,2,1.0,0,3,3,8,3,0,4,4,14,-16
+Orlando Magic,F,Maurice Harkless,Chicago Bulls,L,04/05/2013,8:22,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,2,0,1,0,-3
+Orlando Magic,F,Tobias Harris,Chicago Bulls,L,04/05/2013,44:32,5,17,0.294,0,1,0.0,2,2,1.0,2,9,11,3,1,2,2,3,12,2
+Orlando Magic,C,Nikola Vucevic,Chicago Bulls,L,04/05/2013,40:13,8,14,0.571,0,0,0.0,0,0,0.0,4,11,15,3,2,2,4,2,16,0
+Orlando Magic,G,Andrew Nicholson,Chicago Bulls,L,04/05/2013,25:10,2,4,0.5,0,0,0.0,2,2,1.0,1,4,5,0,0,0,1,1,6,1
+Orlando Magic,G,Beno Udrih,Chicago Bulls,L,04/05/2013,36:08,10,17,0.588,3,5,0.6,4,4,1.0,1,4,5,7,2,0,4,1,27,4
+Orlando Magic,F,Tobias Harris,Cleveland Cavaliers,L,04/07/2013,41:07,11,19,0.579,0,3,0.0,4,6,0.667,5,7,12,2,2,0,1,2,26,-1
+Orlando Magic,F,Andrew Nicholson,Cleveland Cavaliers,L,04/07/2013,25:32,4,12,0.333,0,0,0.0,0,0,0.0,1,3,4,4,0,2,3,1,8,-2
+Orlando Magic,C,Nikola Vucevic,Cleveland Cavaliers,L,04/07/2013,42:25,10,20,0.5,0,0,0.0,1,3,0.333,8,13,21,6,0,2,2,3,21,0
+Orlando Magic,G,Maurice Harkless,Cleveland Cavaliers,L,04/07/2013,38:57,3,12,0.25,0,2,0.0,1,2,0.5,1,3,4,1,2,1,3,2,7,9
+Orlando Magic,G,Beno Udrih,Cleveland Cavaliers,L,04/07/2013,42:39,4,12,0.333,0,3,0.0,5,5,1.0,1,3,4,6,2,0,2,4,13,-5
+Orlando Magic,F,Maurice Harkless,Milwaukee Bucks,W,04/10/2013,50:58,7,13,0.538,0,4,0.0,0,1,0.0,0,4,4,1,1,1,2,3,14,18
+Orlando Magic,F,Tobias Harris,Milwaukee Bucks,W,04/10/2013,45:01,13,20,0.65,3,4,0.75,1,3,0.333,7,12,19,5,0,0,2,4,30,12
+Orlando Magic,C,Nikola Vucevic,Milwaukee Bucks,W,04/10/2013,40:15,14,26,0.538,0,0,0.0,2,3,0.667,6,14,20,5,1,2,4,3,30,16
+Orlando Magic,G,E'Twaun Moore,Milwaukee Bucks,W,04/10/2013,23:00,2,6,0.333,0,0,0.0,0,0,0.0,1,1,2,2,1,0,1,0,4,3
+Orlando Magic,G,Beno Udrih,Milwaukee Bucks,W,04/10/2013,46:43,6,22,0.273,1,1,1.0,0,0,0.0,1,3,4,11,2,0,5,3,13,21
+Orlando Magic,F,Tobias Harris,Boston Celtics,L,04/13/2013,34:20,7,16,0.438,2,4,0.5,6,8,0.75,4,2,6,2,0,2,4,1,22,-21
+Orlando Magic,F,Kyle O'Quinn,Boston Celtics,L,04/13/2013,24:17,2,10,0.2,0,0,0.0,0,0,0.0,1,5,6,3,1,0,3,6,4,-19
+Orlando Magic,C,Nikola Vucevic,Boston Celtics,L,04/13/2013,28:37,8,14,0.571,0,0,0.0,0,0,0.0,4,8,12,2,1,1,4,4,16,-25
+Orlando Magic,G,Maurice Harkless,Boston Celtics,L,04/13/2013,35:41,5,14,0.357,0,4,0.0,2,2,1.0,0,4,4,2,2,0,0,2,12,-37
+Orlando Magic,G,Beno Udrih,Boston Celtics,L,04/13/2013,35:06,2,8,0.25,1,2,0.5,2,2,1.0,0,5,5,8,0,1,3,1,7,-17
+Orlando Magic,F,Maurice Harkless,Chicago Bulls,L,04/15/2013,40:41,6,12,0.5,0,1,0.0,4,7,0.571,2,3,5,2,2,2,3,2,16,-18
+Orlando Magic,F,Tobias Harris,Chicago Bulls,L,04/15/2013,40:13,8,17,0.471,0,2,0.0,4,7,0.571,3,1,4,4,1,1,1,1,20,-15
+Orlando Magic,C,Nikola Vucevic,Chicago Bulls,L,04/15/2013,31:25,6,13,0.462,0,0,0.0,5,6,0.833,7,7,14,2,3,1,3,1,17,-25
+Orlando Magic,G,E'Twaun Moore,Chicago Bulls,L,04/15/2013,26:50,2,7,0.286,0,2,0.0,1,2,0.5,0,2,2,2,1,1,2,2,5,-14
+Orlando Magic,G,Beno Udrih,Chicago Bulls,L,04/15/2013,23:24,2,7,0.286,1,2,0.5,0,0,0.0,0,0,0,1,0,0,2,2,5,-17
+Orlando Magic,F,Maurice Harkless,Miami Heat,L,04/17/2013,42:35,5,14,0.357,0,4,0.0,0,4,0.0,0,1,1,1,1,1,4,2,10,-1
+Orlando Magic,F,Tobias Harris,Miami Heat,L,04/17/2013,38:13,7,16,0.438,0,3,0.0,5,11,0.455,2,6,8,2,1,0,0,5,19,-8
+Orlando Magic,C,Nikola Vucevic,Miami Heat,L,04/17/2013,36:36,9,13,0.692,0,0,0.0,2,3,0.667,1,12,13,0,1,0,2,5,20,-1
+Orlando Magic,G,E'Twaun Moore,Miami Heat,L,04/17/2013,30:26,5,9,0.556,1,2,0.5,0,0,0.0,1,2,3,4,0,0,0,2,11,3
+Orlando Magic,G,Beno Udrih,Miami Heat,L,04/17/2013,36:03,5,8,0.625,1,2,0.5,2,4,0.5,1,2,3,14,1,0,4,4,13,-12

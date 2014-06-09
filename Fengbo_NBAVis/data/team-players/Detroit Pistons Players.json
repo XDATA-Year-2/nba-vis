@@ -1,0 +1,69 @@
+{
+	"team": "Detroit Pistons",
+	"players": [
+		{
+			"name": "Tayshaun Prince",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jason Maxiell",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Greg Monroe",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Rodney Stuckey",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Brandon Knight",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Kyle Singler",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jose Calderon",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jonas Jerebko",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Andre Drummond",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Kim English",
+			"positions": [""]
+		},
+		{
+			"name": "Will Bynum",
+			"positions": [""]
+		},
+		{
+			"name": "Charlie Villanueva",
+			"positions": [""]
+		},
+		{
+			"name": "Khris Middleton",
+			"positions": [""]
+		},
+		{
+			"name": "Austin Daye",
+			"positions": [""]
+		},
+		{
+			"name": "Corey Maggette",
+			"positions": [""]
+		},
+		{
+			"name": "Viacheslav Kravtsov",
+			"positions": [""]
+		}
+	]
+}

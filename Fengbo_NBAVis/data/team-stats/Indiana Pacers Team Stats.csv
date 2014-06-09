@@ -1,0 +1,82 @@
+G,Date0,Date,Opponent,WinLoss,TmScore,OppScore,W,L,Streak
+1,Wed Oct 31 2012,10/31/2012,Toronto Raptors,W,90,88,1,0,W 1
+2,Fri Nov 2 2012,11/02/2012,Charlotte Bobcats,L,89,90,1,1,L 1
+3,Sat Nov 3 2012,11/03/2012,Sacramento Kings,W,106,98,2,1,W 1
+4,Mon Nov 5 2012,11/05/2012,San Antonio Spurs,L,79,101,2,2,L 1
+5,Wed Nov 7 2012,11/07/2012,Atlanta Hawks,L,86,89,2,3,L 2
+6,Fri Nov 9 2012,11/09/2012,Minnesota Timberwolves,L,94,96,2,4,L 3
+7,Sat Nov 10 2012,11/10/2012,Washington Wizards,W,89,85,3,4,W 1
+8,Tue Nov 13 2012,11/13/2012,Toronto Raptors,L,72,74,3,5,L 1
+9,Wed Nov 14 2012,11/14/2012,Milwaukee Bucks,L,85,99,3,6,L 2
+10,Fri Nov 16 2012,11/16/2012,Dallas Mavericks,W,103,83,4,6,W 1
+11,Sun Nov 18 2012,11/18/2012,New York Knicks,L,76,88,4,7,L 1
+12,Mon Nov 19 2012,11/19/2012,Washington Wizards,W,96,89,5,7,W 1
+13,Wed Nov 21 2012,11/21/2012,New Orleans Hornets,W,115,107,6,7,W 2
+14,Fri Nov 23 2012,11/23/2012,San Antonio Spurs,L,97,104,6,8,L 1
+15,Tue Nov 27 2012,11/27/2012,Los Angeles Lakers,W,79,77,7,8,W 1
+16,Fri Nov 30 2012,11/30/2012,Sacramento Kings,W,97,92,8,8,W 2
+17,Sat Dec 1 2012,12/01/2012,Golden State Warriors,L,92,103,8,9,L 1
+18,Tue Dec 4 2012,12/04/2012,Chicago Bulls,W,80,76,9,9,W 1
+19,Wed Dec 5 2012,12/05/2012,Portland Trail Blazers,W,99,92,10,9,W 2
+20,Fri Dec 7 2012,12/07/2012,Denver Nuggets,L,89,92,10,10,L 1
+21,Sun Dec 9 2012,12/09/2012,Oklahoma City Thunder,L,93,104,10,11,L 2
+22,Wed Dec 12 2012,12/12/2012,Cleveland Cavaliers,W,96,81,11,11,W 1
+23,Fri Dec 14 2012,12/14/2012,Philadelphia 76ers,W,95,85,12,11,W 2
+24,Sat Dec 15 2012,12/15/2012,Detroit Pistons,W,88,77,13,11,W 3
+25,Tue Dec 18 2012,12/18/2012,Milwaukee Bucks,L,93,98,13,12,L 1
+26,Wed Dec 19 2012,12/19/2012,Utah Jazz,W,104,84,14,12,W 1
+27,Fri Dec 21 2012,12/21/2012,Cleveland Cavaliers,W,99,89,15,12,W 2
+28,Sat Dec 22 2012,12/22/2012,New Orleans Hornets,W,81,75,16,12,W 3
+29,Fri Dec 28 2012,12/28/2012,Phoenix Suns,W,97,91,17,12,W 4
+30,Sat Dec 29 2012,12/29/2012,Atlanta Hawks,L,100,109,17,13,L 1
+31,Mon Dec 31 2012,12/31/2012,Memphis Grizzlies,W,88,83,18,13,W 1
+32,Wed Jan 2 2013,01/02/2013,Washington Wizards,W,89,81,19,13,W 2
+33,Fri Jan 4 2013,01/04/2013,Boston Celtics,L,75,94,19,14,L 1
+34,Sat Jan 5 2013,01/05/2013,Milwaukee Bucks,W,95,80,20,14,W 1
+35,Tue Jan 8 2013,01/08/2013,Miami Heat,W,87,77,21,14,W 2
+36,Thu Jan 10 2013,01/10/2013,New York Knicks,W,81,76,22,14,W 3
+37,Sat Jan 12 2013,01/12/2013,Charlotte Bobcats,W,96,88,23,14,W 4
+38,Sun Jan 13 2013,01/13/2013,Brooklyn Nets,L,86,97,23,15,L 1
+39,Tue Jan 15 2013,01/15/2013,Charlotte Bobcats,W,103,76,24,15,W 1
+40,Wed Jan 16 2013,01/16/2013,Orlando Magic,L,86,97,24,16,L 1
+41,Fri Jan 18 2013,01/18/2013,Houston Rockets,W,105,95,25,16,W 1
+42,Mon Jan 21 2013,01/21/2013,Memphis Grizzlies,W,82,81,26,16,W 2
+43,Wed Jan 23 2013,01/23/2013,Portland Trail Blazers,L,80,100,26,17,L 1
+44,Sat Jan 26 2013,01/26/2013,Utah Jazz,L,110,114,26,18,L 2
+45,Mon Jan 28 2013,01/28/2013,Denver Nuggets,L,101,102,26,19,L 3
+46,Wed Jan 30 2013,01/30/2013,Detroit Pistons,W,98,79,27,19,W 1
+47,Fri Feb 1 2013,02/01/2013,Miami Heat,W,102,89,28,19,W 2
+48,Mon Feb 4 2013,02/04/2013,Chicago Bulls,W,111,101,29,19,W 3
+49,Tue Feb 5 2013,02/05/2013,Atlanta Hawks,W,114,103,30,19,W 4
+50,Wed Feb 6 2013,02/06/2013,Philadelphia 76ers,W,88,69,31,19,W 5
+51,Fri Feb 8 2013,02/08/2013,Toronto Raptors,L,98,100,31,20,L 1
+52,Mon Feb 11 2013,02/11/2013,Brooklyn Nets,L,84,89,31,21,L 2
+53,Wed Feb 13 2013,02/13/2013,Charlotte Bobcats,W,101,77,32,21,W 1
+54,Wed Feb 20 2013,02/20/2013,New York Knicks,W,125,91,33,21,W 2
+55,Fri Feb 22 2013,02/22/2013,Detroit Pistons,W,114,82,34,21,W 3
+56,Sat Feb 23 2013,02/23/2013,Detroit Pistons,W,90,72,35,21,W 4
+57,Tue Feb 26 2013,02/26/2013,Golden State Warriors,W,108,97,36,21,W 5
+58,Thu Feb 28 2013,02/28/2013,Los Angeles Clippers,L,91,99,36,22,L 1
+59,Fri Mar 1 2013,03/01/2013,Toronto Raptors,W,93,81,37,22,W 1
+60,Sun Mar 3 2013,03/03/2013,Chicago Bulls,W,97,92,38,22,W 2
+61,Wed Mar 6 2013,03/06/2013,Boston Celtics,L,81,83,38,23,L 1
+62,Fri Mar 8 2013,03/08/2013,Orlando Magic,W,115,86,39,23,W 1
+63,Sun Mar 10 2013,03/10/2013,Miami Heat,L,91,105,39,24,L 1
+64,Wed Mar 13 2013,03/13/2013,Minnesota Timberwolves,W,107,91,40,24,W 1
+65,Fri Mar 15 2013,03/15/2013,Los Angeles Lakers,L,93,99,40,25,L 1
+66,Sat Mar 16 2013,03/16/2013,Philadelphia 76ers,L,91,98,40,26,L 2
+67,Mon Mar 18 2013,03/18/2013,Cleveland Cavaliers,W,111,90,41,26,W 1
+68,Tue Mar 19 2013,03/19/2013,Orlando Magic,W,95,73,42,26,W 2
+69,Fri Mar 22 2013,03/22/2013,Milwaukee Bucks,W,102,78,43,26,W 3
+70,Sat Mar 23 2013,03/23/2013,Chicago Bulls,L,84,87,43,27,L 1
+71,Mon Mar 25 2013,03/25/2013,Atlanta Hawks,W,100,94,44,27,W 1
+72,Wed Mar 27 2013,03/27/2013,Houston Rockets,W,100,91,45,27,W 2
+73,Thu Mar 28 2013,03/28/2013,Dallas Mavericks,W,103,78,46,27,W 3
+74,Sat Mar 30 2013,03/30/2013,Phoenix Suns,W,112,104,47,27,W 4
+75,Mon Apr 1 2013,04/01/2013,Los Angeles Clippers,W,109,106,48,27,W 5
+76,Fri Apr 5 2013,04/05/2013,Oklahoma City Thunder,L,75,97,48,28,L 1
+77,Sat Apr 6 2013,04/06/2013,Washington Wizards,L,85,104,48,29,L 2
+78,Tue Apr 9 2013,04/09/2013,Cleveland Cavaliers,W,99,94,49,29,W 1
+79,Fri Apr 12 2013,04/12/2013,Brooklyn Nets,L,109,117,49,30,L 1
+80,Sun Apr 14 2013,04/14/2013,New York Knicks,L,80,90,49,31,L 2
+81,Wed Apr 17 2013,04/17/2013,Philadelphia 76ers,L,95,105,49,32,L 3

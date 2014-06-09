@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Minnesota Timberwolves,F,Andrei Kirilenko,Sacramento Kings,W,11/02/2012,30:36,4,7,0.571,0,0,0.0,2,3,0.667,2,5,7,5,0,1,2,0,10,7
+Minnesota Timberwolves,F,Derrick Williams,Sacramento Kings,W,11/02/2012,21:10,3,12,0.25,0,1,0.0,2,4,0.5,4,3,7,0,0,1,0,1,8,-11
+Minnesota Timberwolves,C,Nikola Pekovic,Sacramento Kings,W,11/02/2012,31:49,2,8,0.25,0,0,0.0,5,8,0.625,3,2,5,0,0,1,1,2,9,5
+Minnesota Timberwolves,G,Brandon Roy,Sacramento Kings,W,11/02/2012,30:14,4,14,0.286,0,5,0.0,2,4,0.5,2,3,5,6,1,0,1,0,10,-4
+Minnesota Timberwolves,G,Luke Ridnour,Sacramento Kings,W,11/02/2012,20:29,4,7,0.571,1,2,0.5,0,0,0.0,0,3,3,1,1,1,2,2,9,-14
+Minnesota Timberwolves,F,Andrei Kirilenko,Toronto Raptors,L,11/04/2012,28:33,6,7,0.857,1,1,1.0,4,5,0.8,1,5,6,3,1,3,2,1,17,-10
+Minnesota Timberwolves,F,Derrick Williams,Toronto Raptors,L,11/04/2012,25:39,3,7,0.429,1,1,1.0,2,4,0.5,1,7,8,1,0,0,1,1,9,-5
+Minnesota Timberwolves,C,Nikola Pekovic,Toronto Raptors,L,11/04/2012,28:56,6,11,0.545,0,0,0.0,3,4,0.75,1,2,3,1,1,1,3,1,15,-5
+Minnesota Timberwolves,G,Brandon Roy,Toronto Raptors,L,11/04/2012,21:50,0,3,0.0,0,1,0.0,4,4,1.0,0,1,1,0,1,0,5,2,4,-4
+Minnesota Timberwolves,G,Luke Ridnour,Toronto Raptors,L,11/04/2012,32:22,3,5,0.6,0,2,0.0,2,2,1.0,0,5,5,5,3,0,4,2,8,-4
+Minnesota Timberwolves,F,Andrei Kirilenko,Brooklyn Nets,W,11/05/2012,32:52,7,11,0.636,1,2,0.5,1,2,0.5,3,7,10,6,1,4,2,0,16,4
+Minnesota Timberwolves,F,Derrick Williams,Brooklyn Nets,W,11/05/2012,18:18,3,12,0.25,0,1,0.0,2,2,1.0,1,1,2,1,0,0,0,0,8,-12
+Minnesota Timberwolves,C,Nikola Pekovic,Brooklyn Nets,W,11/05/2012,26:11,9,14,0.643,0,0,0.0,3,3,1.0,6,1,7,1,1,2,3,4,21,3
+Minnesota Timberwolves,G,Brandon Roy,Brooklyn Nets,W,11/05/2012,28:56,3,7,0.429,0,2,0.0,0,0,0.0,0,2,2,7,0,0,0,1,6,-2
+Minnesota Timberwolves,G,Luke Ridnour,Brooklyn Nets,W,11/05/2012,19:01,2,4,0.5,2,3,0.667,3,4,0.75,0,2,2,2,2,0,1,4,9,-5
+Minnesota Timberwolves,F,Andrei Kirilenko,Orlando Magic,W,11/07/2012,30:40,3,5,0.6,0,1,0.0,1,2,0.5,2,3,5,0,3,2,3,1,7,19
+Minnesota Timberwolves,F,Derrick Williams,Orlando Magic,W,11/07/2012,30:00,5,10,0.5,2,5,0.4,2,2,1.0,2,4,6,1,2,0,0,0,14,24
+Minnesota Timberwolves,C,Nikola Pekovic,Orlando Magic,W,11/07/2012,25:04,5,9,0.556,0,0,0.0,1,2,0.5,1,4,5,0,1,2,5,3,11,10
+Minnesota Timberwolves,G,Brandon Roy,Orlando Magic,W,11/07/2012,26:04,1,6,0.167,0,1,0.0,1,2,0.5,1,4,5,9,0,0,1,2,3,19
+Minnesota Timberwolves,G,Luke Ridnour,Orlando Magic,W,11/07/2012,30:36,6,9,0.667,3,4,0.75,4,5,0.8,1,4,5,3,1,1,3,1,19,18
+Minnesota Timberwolves,F,Andrei Kirilenko,Indiana Pacers,W,11/09/2012,33:14,2,5,0.4,0,0,0.0,2,3,0.667,1,5,6,4,3,1,2,0,6,0
+Minnesota Timberwolves,F,Derrick Williams,Indiana Pacers,W,11/09/2012,26:29,6,9,0.667,1,2,0.5,2,2,1.0,0,1,1,1,0,0,3,1,15,7
+Minnesota Timberwolves,C,Nikola Pekovic,Indiana Pacers,W,11/09/2012,36:28,4,10,0.4,0,0,0.0,5,6,0.833,1,7,8,2,2,1,2,3,13,-6
+Minnesota Timberwolves,G,Brandon Roy,Indiana Pacers,W,11/09/2012,14:48,3,5,0.6,0,0,0.0,0,0,0.0,0,1,1,1,1,0,0,0,6,-3
+Minnesota Timberwolves,G,Luke Ridnour,Indiana Pacers,W,11/09/2012,34:39,4,12,0.333,0,1,0.0,0,0,0.0,0,3,3,4,0,1,1,2,8,2
+Minnesota Timberwolves,F,Andrei Kirilenko,Chicago Bulls,L,11/10/2012,42:08,3,9,0.333,0,3,0.0,5,6,0.833,4,8,12,6,2,1,3,1,11,-8
+Minnesota Timberwolves,F,Derrick Williams,Chicago Bulls,L,11/10/2012,21:09,0,10,0.0,0,1,0.0,2,2,1.0,1,5,6,0,0,0,1,1,2,-6
+Minnesota Timberwolves,C,Nikola Pekovic,Chicago Bulls,L,11/10/2012,35:18,8,13,0.615,0,0,0.0,2,4,0.5,3,5,8,0,0,0,1,4,18,1
+Minnesota Timberwolves,G,Chase Budinger,Chicago Bulls,L,11/10/2012,27:53,4,8,0.5,1,3,0.333,0,0,0.0,0,3,3,4,3,0,3,2,9,-10
+Minnesota Timberwolves,G,Luke Ridnour,Chicago Bulls,L,11/10/2012,36:27,4,12,0.333,1,2,0.5,1,1,1.0,1,0,1,3,2,0,1,3,10,0
+Minnesota Timberwolves,F,Andrei Kirilenko,Dallas Mavericks,W,11/12/2012,44:15,7,12,0.583,1,2,0.5,1,2,0.5,2,9,11,2,2,2,4,2,16,12
+Minnesota Timberwolves,F,Derrick Williams,Dallas Mavericks,W,11/12/2012,12:23,1,2,0.5,0,0,0.0,2,2,1.0,0,5,5,0,0,2,3,1,4,2
+Minnesota Timberwolves,C,Nikola Pekovic,Dallas Mavericks,W,11/12/2012,27:31,8,13,0.615,0,0,0.0,4,5,0.8,2,4,6,3,1,0,1,1,20,21
+Minnesota Timberwolves,G,Malcolm Lee,Dallas Mavericks,W,11/12/2012,23:13,2,6,0.333,0,2,0.0,0,0,0.0,0,3,3,1,1,0,1,2,4,5
+Minnesota Timberwolves,G,Luke Ridnour,Dallas Mavericks,W,11/12/2012,40:36,3,9,0.333,2,5,0.4,7,8,0.875,0,8,8,7,4,0,3,3,15,13
+Minnesota Timberwolves,F,Andrei Kirilenko,Charlotte Bobcats,L,11/14/2012,44:11,9,12,0.75,3,3,1.0,5,9,0.556,3,9,12,2,1,2,5,1,26,8
+Minnesota Timberwolves,F,Derrick Williams,Charlotte Bobcats,L,11/14/2012,23:14,3,12,0.25,0,1,0.0,4,7,0.571,3,6,9,2,0,1,2,1,10,-6
+Minnesota Timberwolves,C,Greg Stiemsma,Charlotte Bobcats,L,11/14/2012,21:31,0,6,0.0,0,0,0.0,1,4,0.25,1,6,7,0,1,2,3,2,1,0
+Minnesota Timberwolves,G,Malcolm Lee,Charlotte Bobcats,L,11/14/2012,35:22,3,12,0.25,0,5,0.0,4,6,0.667,2,2,4,3,1,0,0,2,10,-2
+Minnesota Timberwolves,G,Luke Ridnour,Charlotte Bobcats,L,11/14/2012,37:10,6,16,0.375,1,6,0.167,3,5,0.6,2,3,5,10,2,0,0,3,16,0
+Minnesota Timberwolves,F,Andrei Kirilenko,Golden State Warriors,L,11/16/2012,38:52,5,9,0.556,2,3,0.667,6,8,0.75,3,3,6,0,0,4,3,2,18,-12
+Minnesota Timberwolves,F,Derrick Williams,Golden State Warriors,L,11/16/2012,37:01,8,16,0.5,1,2,0.5,6,6,1.0,1,6,7,2,0,4,3,1,23,-8
+Minnesota Timberwolves,C,Greg Stiemsma,Golden State Warriors,L,11/16/2012,16:31,1,3,0.333,0,0,0.0,3,4,0.75,1,3,4,1,0,1,2,3,5,-5
+Minnesota Timberwolves,G,Malcolm Lee,Golden State Warriors,L,11/16/2012,18:55,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,2,0,0,1,3,0,12
+Minnesota Timberwolves,G,Luke Ridnour,Golden State Warriors,L,11/16/2012,39:15,3,11,0.273,1,4,0.25,2,3,0.667,0,3,3,5,2,0,1,5,9,-21
+Minnesota Timberwolves,F,Andrei Kirilenko,Denver Nuggets,L,11/21/2012,34:54,2,7,0.286,0,1,0.0,3,4,0.75,3,5,8,2,3,1,2,2,7,-1
+Minnesota Timberwolves,F,Kevin Love,Denver Nuggets,L,11/21/2012,34:51,12,25,0.48,2,9,0.222,8,14,0.571,5,9,14,2,2,1,3,4,34,7
+Minnesota Timberwolves,C,Nikola Pekovic,Denver Nuggets,L,11/21/2012,30:16,4,8,0.5,0,0,0.0,2,2,1.0,2,5,7,0,0,1,2,2,10,-3
+Minnesota Timberwolves,G,Malcolm Lee,Denver Nuggets,L,11/21/2012,24:36,1,8,0.125,0,2,0.0,0,2,0.0,2,1,3,3,2,0,0,1,2,1
+Minnesota Timberwolves,G,Luke Ridnour,Denver Nuggets,L,11/21/2012,30:50,3,8,0.375,1,2,0.5,1,1,1.0,0,0,0,6,0,0,3,4,8,1
+Minnesota Timberwolves,F,Andrei Kirilenko,Portland Trail Blazers,L,11/23/2012,35:41,3,9,0.333,1,2,0.5,3,4,0.75,2,4,6,5,1,0,1,2,10,0
+Minnesota Timberwolves,F,Kevin Love,Portland Trail Blazers,L,11/23/2012,35:48,6,15,0.4,0,2,0.0,12,16,0.75,2,11,13,1,3,0,1,3,24,-2
+Minnesota Timberwolves,C,Nikola Pekovic,Portland Trail Blazers,L,11/23/2012,32:48,4,13,0.308,0,0,0.0,10,12,0.833,7,3,10,2,1,0,3,4,18,0
+Minnesota Timberwolves,G,Malcolm Lee,Portland Trail Blazers,L,11/23/2012,18:32,3,4,0.75,1,2,0.5,0,0,0.0,0,0,0,1,0,0,2,3,7,3
+Minnesota Timberwolves,G,Luke Ridnour,Portland Trail Blazers,L,11/23/2012,33:05,6,10,0.6,1,4,0.25,1,3,0.333,1,1,2,2,0,0,0,3,14,6
+Minnesota Timberwolves,F,Andrei Kirilenko,Golden State Warriors,L,11/24/2012,35:28,4,13,0.308,0,5,0.0,3,4,0.75,1,5,6,3,3,0,1,1,11,-8
+Minnesota Timberwolves,F,Kevin Love,Golden State Warriors,L,11/24/2012,33:50,6,20,0.3,1,5,0.2,2,4,0.5,6,9,15,2,0,0,2,1,15,-15
+Minnesota Timberwolves,C,Nikola Pekovic,Golden State Warriors,L,11/24/2012,30:07,7,13,0.538,0,0,0.0,3,4,0.75,1,5,6,0,0,0,0,3,17,-11
+Minnesota Timberwolves,G,Malcolm Lee,Golden State Warriors,L,11/24/2012,15:26,0,3,0.0,0,1,0.0,0,0,0.0,2,1,3,0,1,0,1,2,0,-1
+Minnesota Timberwolves,G,Luke Ridnour,Golden State Warriors,L,11/24/2012,24:25,1,7,0.143,0,3,0.0,0,0,0.0,0,0,0,4,0,0,0,2,2,-7
+Minnesota Timberwolves,F,Andrei Kirilenko,Sacramento Kings,W,11/27/2012,41:20,5,12,0.417,0,1,0.0,4,4,1.0,1,5,6,5,0,3,4,2,14,8
+Minnesota Timberwolves,F,Kevin Love,Sacramento Kings,W,11/27/2012,43:51,8,17,0.471,2,8,0.25,5,6,0.833,3,21,24,2,2,1,2,4,23,10
+Minnesota Timberwolves,C,Nikola Pekovic,Sacramento Kings,W,11/27/2012,35:57,6,13,0.462,0,0,0.0,4,6,0.667,3,5,8,4,0,1,4,4,16,10
+Minnesota Timberwolves,G,Malcolm Lee,Sacramento Kings,W,11/27/2012,21:00,4,6,0.667,2,3,0.667,0,0,0.0,0,0,0,1,1,1,2,1,10,2
+Minnesota Timberwolves,G,Luke Ridnour,Sacramento Kings,W,11/27/2012,30:04,8,13,0.615,0,3,0.0,2,2,1.0,1,1,2,5,1,1,2,3,18,3
+Minnesota Timberwolves,F,Josh Howard,Los Angeles Clippers,L,11/28/2012,26:09,3,9,0.333,1,2,0.5,0,0,0.0,1,2,3,1,0,2,1,1,7,-2
+Minnesota Timberwolves,F,Kevin Love,Los Angeles Clippers,L,11/28/2012,35:27,3,12,0.25,1,5,0.2,12,16,0.75,3,9,12,3,0,1,3,3,19,-9
+Minnesota Timberwolves,C,Nikola Pekovic,Los Angeles Clippers,L,11/28/2012,32:56,5,13,0.385,0,0,0.0,1,2,0.5,4,6,10,2,2,1,2,4,11,-11
+Minnesota Timberwolves,G,Malcolm Lee,Los Angeles Clippers,L,11/28/2012,25:15,4,7,0.571,1,1,1.0,1,2,0.5,5,2,7,1,1,1,1,6,10,4
+Minnesota Timberwolves,G,Luke Ridnour,Los Angeles Clippers,L,11/28/2012,31:55,5,9,0.556,0,1,0.0,3,4,0.75,0,1,1,7,1,0,4,1,13,-11
+Minnesota Timberwolves,F,Josh Howard,Milwaukee Bucks,W,11/30/2012,24:04,3,8,0.375,0,0,0.0,2,2,1.0,1,3,4,2,1,0,1,5,8,2
+Minnesota Timberwolves,F,Kevin Love,Milwaukee Bucks,W,11/30/2012,30:19,5,19,0.263,1,7,0.143,4,7,0.571,4,10,14,0,1,0,1,1,15,14
+Minnesota Timberwolves,C,Nikola Pekovic,Milwaukee Bucks,W,11/30/2012,35:47,5,12,0.417,0,0,0.0,4,6,0.667,5,11,16,1,2,3,2,2,14,8
+Minnesota Timberwolves,G,Jose Juan Barea,Milwaukee Bucks,W,11/30/2012,31:29,6,10,0.6,1,1,1.0,2,2,1.0,1,0,1,5,0,0,3,0,15,1
+Minnesota Timberwolves,G,Luke Ridnour,Milwaukee Bucks,W,11/30/2012,35:52,6,13,0.462,1,2,0.5,3,4,0.75,0,4,4,2,0,0,2,0,16,10
+Minnesota Timberwolves,F,Josh Howard,Philadelphia 76ers,W,12/04/2012,29:01,7,12,0.583,2,3,0.667,0,2,0.0,2,8,10,0,1,0,4,2,16,10
+Minnesota Timberwolves,F,Kevin Love,Philadelphia 76ers,W,12/04/2012,25:51,2,10,0.2,1,5,0.2,1,2,0.5,2,8,10,5,0,0,1,0,6,9
+Minnesota Timberwolves,C,Nikola Pekovic,Philadelphia 76ers,W,12/04/2012,26:50,3,7,0.429,0,0,0.0,0,0,0.0,1,4,5,2,0,0,2,1,6,11
+Minnesota Timberwolves,G,Malcolm Lee,Philadelphia 76ers,W,12/04/2012,18:33,4,4,1.0,2,2,1.0,0,0,0.0,1,1,2,1,0,0,0,1,10,8
+Minnesota Timberwolves,G,Luke Ridnour,Philadelphia 76ers,W,12/04/2012,21:20,4,8,0.5,0,1,0.0,2,2,1.0,0,0,0,4,2,0,1,3,10,5
+Minnesota Timberwolves,F,Josh Howard,Boston Celtics,L,12/05/2012,33:10,5,14,0.357,1,3,0.333,1,2,0.5,0,0,0,0,3,0,0,1,12,-5
+Minnesota Timberwolves,F,Kevin Love,Boston Celtics,L,12/05/2012,34:59,6,15,0.4,1,5,0.2,6,12,0.5,4,9,13,4,0,0,5,2,19,-9
+Minnesota Timberwolves,C,Nikola Pekovic,Boston Celtics,L,12/05/2012,31:55,6,13,0.462,0,0,0.0,2,2,1.0,4,5,9,1,2,0,0,1,14,-10
+Minnesota Timberwolves,G,Malcolm Lee,Boston Celtics,L,12/05/2012,23:33,2,5,0.4,1,2,0.5,1,2,0.5,1,1,2,3,2,1,0,1,6,-1
+Minnesota Timberwolves,G,Luke Ridnour,Boston Celtics,L,12/05/2012,24:42,5,8,0.625,1,1,1.0,0,0,0.0,0,1,1,5,1,0,2,2,11,-10
+Minnesota Timberwolves,F,Andrei Kirilenko,Cleveland Cavaliers,W,12/07/2012,30:50,4,5,0.8,0,1,0.0,0,0,0.0,3,4,7,6,4,3,3,1,8,23
+Minnesota Timberwolves,F,Kevin Love,Cleveland Cavaliers,W,12/07/2012,35:11,10,19,0.526,2,5,0.4,14,18,0.778,6,7,13,0,1,1,3,0,36,18
+Minnesota Timberwolves,C,Nikola Pekovic,Cleveland Cavaliers,W,12/07/2012,24:30,0,3,0.0,0,0,0.0,4,4,1.0,1,0,1,1,0,1,2,4,4,15
+Minnesota Timberwolves,G,Malcolm Lee,Cleveland Cavaliers,W,12/07/2012,20:19,1,5,0.2,0,3,0.0,4,6,0.667,0,8,8,0,1,1,2,2,6,5
+Minnesota Timberwolves,G,Luke Ridnour,Cleveland Cavaliers,W,12/07/2012,30:33,6,12,0.5,0,1,0.0,0,0,0.0,1,4,5,7,1,0,1,3,12,15
+Minnesota Timberwolves,F,Andrei Kirilenko,Denver Nuggets,W,12/12/2012,35:30,6,12,0.5,0,2,0.0,6,6,1.0,1,3,4,2,4,1,3,3,18,-5
+Minnesota Timberwolves,F,Kevin Love,Denver Nuggets,W,12/12/2012,31:12,3,17,0.176,0,3,0.0,2,4,0.5,5,9,14,1,0,0,2,5,8,1
+Minnesota Timberwolves,C,Nikola Pekovic,Denver Nuggets,W,12/12/2012,31:33,7,10,0.7,0,0,0.0,8,8,1.0,5,6,11,2,0,2,2,2,22,8
+Minnesota Timberwolves,G,Malcolm Lee,Denver Nuggets,W,12/12/2012,10:15,0,2,0.0,0,0,0.0,0,0,0.0,1,0,1,1,2,1,0,0,0,1
+Minnesota Timberwolves,G,Luke Ridnour,Denver Nuggets,W,12/12/2012,27:45,5,12,0.417,2,3,0.667,3,4,0.75,0,1,1,4,1,0,3,3,15,6
+Minnesota Timberwolves,F,Andrei Kirilenko,New Orleans Hornets,W,12/14/2012,39:13,10,16,0.625,0,2,0.0,1,1,1.0,2,9,11,2,1,1,1,0,21,13
+Minnesota Timberwolves,F,Kevin Love,New Orleans Hornets,W,12/14/2012,35:32,4,18,0.222,1,4,0.25,5,7,0.714,3,6,9,3,0,0,1,1,14,9
+Minnesota Timberwolves,C,Nikola Pekovic,New Orleans Hornets,W,12/14/2012,31:52,14,18,0.778,0,0,0.0,3,4,0.75,4,1,5,1,1,0,2,3,31,14
+Minnesota Timberwolves,G,Alexey Shved,New Orleans Hornets,W,12/14/2012,34:53,5,8,0.625,3,4,0.75,0,1,0.0,0,2,2,8,2,0,2,2,13,7
+Minnesota Timberwolves,G,Luke Ridnour,New Orleans Hornets,W,12/14/2012,37:54,5,6,0.833,3,3,1.0,2,2,1.0,1,2,3,10,4,0,1,2,15,9
+Minnesota Timberwolves,F,Andrei Kirilenko,Dallas Mavericks,W,12/15/2012,40:51,4,10,0.4,0,3,0.0,6,7,0.857,3,7,10,3,2,2,2,1,14,0
+Minnesota Timberwolves,F,Dante Cunningham,Dallas Mavericks,W,12/15/2012,25:51,2,7,0.286,0,0,0.0,0,0,0.0,2,3,5,0,3,0,1,2,4,-15
+Minnesota Timberwolves,C,Nikola Pekovic,Dallas Mavericks,W,12/15/2012,42:36,10,21,0.476,0,0,0.0,1,1,1.0,7,2,9,3,0,0,1,0,21,-5
+Minnesota Timberwolves,G,Alexey Shved,Dallas Mavericks,W,12/15/2012,44:27,6,12,0.5,3,5,0.6,3,6,0.5,0,2,2,6,2,0,3,4,18,12
+Minnesota Timberwolves,G,Luke Ridnour,Dallas Mavericks,W,12/15/2012,40:23,7,17,0.412,1,7,0.143,0,0,0.0,1,5,6,4,1,0,2,3,15,3
+Minnesota Timberwolves,F,Andrei Kirilenko,Orlando Magic,L,12/17/2012,35:08,5,13,0.385,0,3,0.0,3,4,0.75,2,2,4,6,2,0,2,1,13,-6
+Minnesota Timberwolves,F,Kevin Love,Orlando Magic,L,12/17/2012,37:59,10,20,0.5,2,6,0.333,1,2,0.5,2,13,15,0,3,0,2,0,23,-4
+Minnesota Timberwolves,C,Nikola Pekovic,Orlando Magic,L,12/17/2012,35:40,8,18,0.444,0,0,0.0,3,5,0.6,7,5,12,0,0,0,4,4,19,-6
+Minnesota Timberwolves,G,Alexey Shved,Orlando Magic,L,12/17/2012,28:24,1,8,0.125,1,6,0.167,0,0,0.0,0,0,0,5,0,0,4,2,3,0
+Minnesota Timberwolves,G,Luke Ridnour,Orlando Magic,L,12/17/2012,31:44,4,7,0.571,2,3,0.667,1,1,1.0,0,2,2,3,0,0,2,2,11,5
+Minnesota Timberwolves,F,Andrei Kirilenko,Miami Heat,L,12/18/2012,30:12,10,16,0.625,2,3,0.667,0,0,0.0,1,3,4,2,1,0,0,0,22,-6
+Minnesota Timberwolves,F,Kevin Love,Miami Heat,L,12/18/2012,32:57,2,10,0.2,0,0,0.0,7,8,0.875,3,15,18,3,0,0,3,3,11,-15
+Minnesota Timberwolves,C,Nikola Pekovic,Miami Heat,L,12/18/2012,33:17,9,19,0.474,0,0,0.0,0,0,0.0,9,3,12,0,1,0,6,2,18,-20
+Minnesota Timberwolves,G,Alexey Shved,Miami Heat,L,12/18/2012,30:57,1,7,0.143,0,4,0.0,0,2,0.0,1,0,1,8,0,0,3,4,2,-4
+Minnesota Timberwolves,G,Luke Ridnour,Miami Heat,L,12/18/2012,32:59,6,13,0.462,0,4,0.0,1,1,1.0,1,2,3,1,1,0,3,4,13,-8
+Minnesota Timberwolves,F,Andrei Kirilenko,Oklahoma City Thunder,W,12/20/2012,39:30,3,10,0.3,0,1,0.0,3,4,0.75,3,1,4,2,0,0,5,6,9,9
+Minnesota Timberwolves,F,Kevin Love,Oklahoma City Thunder,W,12/20/2012,39:40,9,20,0.45,4,9,0.444,6,8,0.75,2,9,11,7,0,2,1,1,28,2
+Minnesota Timberwolves,C,Nikola Pekovic,Oklahoma City Thunder,W,12/20/2012,37:42,10,18,0.556,0,0,0.0,4,4,1.0,2,8,10,0,1,2,2,2,24,12
+Minnesota Timberwolves,G,Alexey Shved,Oklahoma City Thunder,W,12/20/2012,33:19,5,10,0.5,2,4,0.5,0,0,0.0,2,5,7,12,1,0,1,4,12,6
+Minnesota Timberwolves,G,Luke Ridnour,Oklahoma City Thunder,W,12/20/2012,23:14,1,4,0.25,0,1,0.0,2,2,1.0,0,3,3,1,2,0,1,2,4,11
+Minnesota Timberwolves,F,Andrei Kirilenko,New York Knicks,L,12/23/2012,20:02,2,6,0.333,0,1,0.0,0,0,0.0,1,2,3,2,2,0,1,6,4,-2
+Minnesota Timberwolves,F,Alexey Shved,New York Knicks,L,12/23/2012,38:41,7,16,0.438,4,9,0.444,0,0,0.0,1,4,5,4,1,0,5,2,18,-2
+Minnesota Timberwolves,C,Nikola Pekovic,New York Knicks,L,12/23/2012,39:53,7,16,0.438,0,0,0.0,7,8,0.875,6,11,17,2,0,0,1,2,21,0
+Minnesota Timberwolves,G,Jose Juan Barea,New York Knicks,L,12/23/2012,37:55,4,14,0.286,1,5,0.2,3,3,1.0,1,4,5,4,0,0,2,2,12,1
+Minnesota Timberwolves,G,Luke Ridnour,New York Knicks,L,12/23/2012,38:02,5,13,0.385,1,5,0.2,3,3,1.0,0,1,1,5,0,0,0,2,14,-4
+Minnesota Timberwolves,F,Andrei Kirilenko,Houston Rockets,L,12/26/2012,29:16,2,6,0.333,0,1,0.0,4,6,0.667,2,3,5,1,2,1,2,0,8,-2
+Minnesota Timberwolves,F,Kevin Love,Houston Rockets,L,12/26/2012,36:11,3,14,0.214,0,7,0.0,1,1,1.0,3,9,12,3,0,1,5,1,7,-4
+Minnesota Timberwolves,C,Nikola Pekovic,Houston Rockets,L,12/26/2012,23:02,1,7,0.143,0,0,0.0,0,0,0.0,2,5,7,0,0,0,1,1,2,3
+Minnesota Timberwolves,G,Alexey Shved,Houston Rockets,L,12/26/2012,29:56,7,15,0.467,2,7,0.286,0,0,0.0,0,2,2,3,2,0,1,2,16,-1
+Minnesota Timberwolves,G,Luke Ridnour,Houston Rockets,L,12/26/2012,19:10,3,10,0.3,1,3,0.333,1,2,0.5,1,3,4,4,1,0,1,0,8,-1
+Minnesota Timberwolves,F,Andrei Kirilenko,Phoenix Suns,W,12/29/2012,34:08,10,13,0.769,0,0,0.0,0,0,0.0,2,3,5,4,0,0,1,2,20,9
+Minnesota Timberwolves,F,Kevin Love,Phoenix Suns,W,12/29/2012,40:33,8,20,0.4,2,6,0.333,5,7,0.714,2,16,18,1,0,0,2,3,23,6
+Minnesota Timberwolves,C,Nikola Pekovic,Phoenix Suns,W,12/29/2012,34:20,13,20,0.65,0,0,0.0,2,4,0.5,6,5,11,1,1,1,0,1,28,5
+Minnesota Timberwolves,G,Alexey Shved,Phoenix Suns,W,12/29/2012,34:04,3,6,0.5,1,4,0.25,5,6,0.833,0,4,4,10,0,0,3,4,12,3
+Minnesota Timberwolves,G,Luke Ridnour,Phoenix Suns,W,12/29/2012,30:35,2,7,0.286,0,2,0.0,0,0,0.0,0,2,2,4,0,0,1,1,4,8
+Minnesota Timberwolves,F,Andrei Kirilenko,Utah Jazz,L,01/02/2013,30:27,4,7,0.571,0,1,0.0,4,4,1.0,3,4,7,2,0,2,0,1,12,-2
+Minnesota Timberwolves,F,Kevin Love,Utah Jazz,L,01/02/2013,30:11,4,14,0.286,0,4,0.0,5,5,1.0,4,6,10,3,1,2,1,1,13,-4
+Minnesota Timberwolves,C,Nikola Pekovic,Utah Jazz,L,01/02/2013,29:42,4,9,0.444,0,0,0.0,3,4,0.75,3,1,4,0,1,4,1,1,11,-1
+Minnesota Timberwolves,G,Alexey Shved,Utah Jazz,L,01/02/2013,36:07,3,10,0.3,2,7,0.286,5,6,0.833,0,3,3,2,0,1,2,1,13,-17
+Minnesota Timberwolves,G,Luke Ridnour,Utah Jazz,L,01/02/2013,30:33,4,11,0.364,0,1,0.0,0,0,0.0,0,3,3,2,0,0,2,3,8,-14
+Minnesota Timberwolves,F,Andrei Kirilenko,Denver Nuggets,W,01/03/2013,32:58,4,9,0.444,1,2,0.5,5,8,0.625,0,4,4,3,0,3,1,1,14,-1
+Minnesota Timberwolves,F,Kevin Love,Denver Nuggets,W,01/03/2013,23:36,4,13,0.308,0,2,0.0,4,5,0.8,5,12,17,2,0,0,1,1,12,-12
+Minnesota Timberwolves,C,Nikola Pekovic,Denver Nuggets,W,01/03/2013,28:58,4,9,0.444,0,0,0.0,3,5,0.6,3,3,6,0,0,0,0,5,11,-13
+Minnesota Timberwolves,G,Alexey Shved,Denver Nuggets,W,01/03/2013,33:44,7,13,0.538,1,4,0.25,2,2,1.0,2,2,4,5,0,0,5,1,17,-7
+Minnesota Timberwolves,G,Luke Ridnour,Denver Nuggets,W,01/03/2013,37:10,6,14,0.429,2,4,0.5,0,0,0.0,1,3,4,2,1,0,2,2,14,-6
+Minnesota Timberwolves,F,Andrei Kirilenko,Portland Trail Blazers,L,01/05/2013,42:25,7,13,0.538,1,1,1.0,0,0,0.0,3,4,7,2,1,0,2,0,15,4
+Minnesota Timberwolves,F,Dante Cunningham,Portland Trail Blazers,L,01/05/2013,42:25,5,13,0.385,0,0,0.0,0,0,0.0,4,8,12,2,2,3,0,1,10,4
+Minnesota Timberwolves,C,Nikola Pekovic,Portland Trail Blazers,L,01/05/2013,21:49,9,14,0.643,0,0,0.0,3,3,1.0,8,7,15,0,0,2,0,2,21,-4
+Minnesota Timberwolves,G,Alexey Shved,Portland Trail Blazers,L,01/05/2013,29:32,1,11,0.091,0,3,0.0,0,0,0.0,1,2,3,7,0,1,3,1,2,-11
+Minnesota Timberwolves,G,Luke Ridnour,Portland Trail Blazers,L,01/05/2013,34:43,4,11,0.364,0,3,0.0,7,8,0.875,1,1,2,4,1,0,2,3,15,0
+Minnesota Timberwolves,F,Andrei Kirilenko,Atlanta Hawks,W,01/08/2013,34:12,7,11,0.636,2,2,1.0,5,5,1.0,1,5,6,5,0,0,0,0,21,7
+Minnesota Timberwolves,F,Dante Cunningham,Atlanta Hawks,W,01/08/2013,26:38,3,9,0.333,0,0,0.0,0,0,0.0,2,3,5,1,3,0,1,2,6,0
+Minnesota Timberwolves,C,Nikola Pekovic,Atlanta Hawks,W,01/08/2013,35:20,9,15,0.6,0,0,0.0,7,8,0.875,6,12,18,1,0,1,1,2,25,4
+Minnesota Timberwolves,G,Alexey Shved,Atlanta Hawks,W,01/08/2013,41:53,6,15,0.4,2,5,0.4,1,3,0.333,0,2,2,7,2,2,3,2,15,0
+Minnesota Timberwolves,G,Luke Ridnour,Atlanta Hawks,W,01/08/2013,30:22,4,11,0.364,0,0,0.0,2,2,1.0,2,3,5,4,0,0,1,2,10,-4
+Minnesota Timberwolves,F,Andrei Kirilenko,Oklahoma City Thunder,L,01/09/2013,29:40,3,9,0.333,1,4,0.25,3,4,0.75,2,3,5,4,0,2,3,2,10,-2
+Minnesota Timberwolves,F,Dante Cunningham,Oklahoma City Thunder,L,01/09/2013,32:35,2,6,0.333,0,0,0.0,0,1,0.0,2,3,5,1,1,1,2,1,4,-7
+Minnesota Timberwolves,C,Nikola Pekovic,Oklahoma City Thunder,L,01/09/2013,27:07,6,10,0.6,0,0,0.0,5,6,0.833,5,5,10,0,0,0,0,1,17,-3
+Minnesota Timberwolves,G,Alexey Shved,Oklahoma City Thunder,L,01/09/2013,38:37,6,13,0.462,2,5,0.4,4,5,0.8,0,1,1,3,2,0,7,1,18,-19
+Minnesota Timberwolves,G,Luke Ridnour,Oklahoma City Thunder,L,01/09/2013,31:08,4,9,0.444,0,1,0.0,3,4,0.75,0,2,2,6,4,0,3,3,11,-11
+Minnesota Timberwolves,F,Andrei Kirilenko,New Orleans Hornets,L,01/11/2013,37:06,4,8,0.5,1,4,0.25,8,10,0.8,0,5,5,2,2,1,3,1,17,-9
+Minnesota Timberwolves,F,Dante Cunningham,New Orleans Hornets,L,01/11/2013,38:42,5,12,0.417,0,0,0.0,2,2,1.0,2,7,9,1,1,0,3,2,12,-12
+Minnesota Timberwolves,C,Nikola Pekovic,New Orleans Hornets,L,01/11/2013,28:34,7,13,0.538,0,0,0.0,4,7,0.571,2,4,6,2,0,2,1,1,18,-10
+Minnesota Timberwolves,G,Alexey Shved,New Orleans Hornets,L,01/11/2013,36:53,4,12,0.333,1,5,0.2,2,2,1.0,0,0,0,7,2,1,1,0,11,-4
+Minnesota Timberwolves,G,Luke Ridnour,New Orleans Hornets,L,01/11/2013,34:32,6,12,0.5,2,6,0.333,6,7,0.857,0,4,4,4,0,0,1,3,20,-6
+Minnesota Timberwolves,F,Andrei Kirilenko,San Antonio Spurs,L,01/13/2013,32:42,4,8,0.5,1,2,0.5,0,0,0.0,4,7,11,2,3,1,0,1,9,-13
+Minnesota Timberwolves,F,Dante Cunningham,San Antonio Spurs,L,01/13/2013,28:46,5,11,0.455,0,0,0.0,1,2,0.5,3,2,5,1,1,0,0,2,11,-3
+Minnesota Timberwolves,C,Nikola Pekovic,San Antonio Spurs,L,01/13/2013,28:47,6,12,0.5,0,0,0.0,2,2,1.0,1,3,4,0,0,2,2,0,14,-3
+Minnesota Timberwolves,G,Alexey Shved,San Antonio Spurs,L,01/13/2013,25:25,0,7,0.0,0,2,0.0,2,4,0.5,0,1,1,5,2,1,0,0,2,-6
+Minnesota Timberwolves,G,Luke Ridnour,San Antonio Spurs,L,01/13/2013,25:56,6,11,0.545,1,2,0.5,0,1,0.0,0,1,1,6,1,0,1,2,13,6
+Minnesota Timberwolves,F,Andrei Kirilenko,Dallas Mavericks,L,01/14/2013,31:35,3,9,0.333,0,3,0.0,4,4,1.0,6,3,9,3,1,1,1,0,10,-22
+Minnesota Timberwolves,F,Dante Cunningham,Dallas Mavericks,L,01/14/2013,38:55,6,18,0.333,0,0,0.0,0,0,0.0,3,3,6,0,0,0,1,0,12,-9
+Minnesota Timberwolves,C,Nikola Pekovic,Dallas Mavericks,L,01/14/2013,32:06,8,11,0.727,0,0,0.0,4,10,0.4,4,8,12,0,1,0,1,3,20,-24
+Minnesota Timberwolves,G,Alexey Shved,Dallas Mavericks,L,01/14/2013,21:55,1,7,0.143,1,3,0.333,4,4,1.0,0,1,1,3,0,1,1,3,7,-22
+Minnesota Timberwolves,G,Luke Ridnour,Dallas Mavericks,L,01/14/2013,21:49,3,9,0.333,1,4,0.25,0,0,0.0,0,1,1,2,0,0,2,2,7,-18
+Minnesota Timberwolves,F,Andrei Kirilenko,Los Angeles Clippers,L,01/17/2013,35:39,7,12,0.583,1,5,0.2,0,2,0.0,1,4,5,2,4,0,3,2,15,-7
+Minnesota Timberwolves,F,Derrick Williams,Los Angeles Clippers,L,01/17/2013,31:03,3,9,0.333,0,2,0.0,4,4,1.0,3,4,7,1,1,2,2,4,10,-15
+Minnesota Timberwolves,C,Nikola Pekovic,Los Angeles Clippers,L,01/17/2013,25:43,1,8,0.125,0,0,0.0,2,4,0.5,3,6,9,0,0,0,1,1,4,-3
+Minnesota Timberwolves,G,Luke Ridnour,Los Angeles Clippers,L,01/17/2013,34:24,9,17,0.529,3,6,0.5,0,0,0.0,0,4,4,5,1,1,1,1,21,-9
+Minnesota Timberwolves,G,Ricky Rubio,Los Angeles Clippers,L,01/17/2013,27:25,2,9,0.222,0,1,0.0,0,0,0.0,1,2,3,6,1,0,2,0,4,-5
+Minnesota Timberwolves,F,Andrei Kirilenko,Houston Rockets,W,01/19/2013,41:54,8,11,0.727,0,2,0.0,5,8,0.625,5,6,11,2,3,0,3,0,21,19
+Minnesota Timberwolves,F,Derrick Williams,Houston Rockets,W,01/19/2013,29:22,3,9,0.333,1,3,0.333,4,4,1.0,0,5,5,1,1,0,3,1,11,12
+Minnesota Timberwolves,C,Greg Stiemsma,Houston Rockets,W,01/19/2013,21:51,0,4,0.0,0,0,0.0,0,0,0.0,0,5,5,0,0,2,0,2,0,20
+Minnesota Timberwolves,G,Luke Ridnour,Houston Rockets,W,01/19/2013,36:42,6,13,0.462,1,3,0.333,3,3,1.0,0,2,2,1,0,1,3,4,16,21
+Minnesota Timberwolves,G,Ricky Rubio,Houston Rockets,W,01/19/2013,30:08,1,3,0.333,0,1,0.0,5,6,0.833,0,1,1,6,0,0,2,2,7,16
+Minnesota Timberwolves,F,Andrei Kirilenko,Atlanta Hawks,L,01/21/2013,35:28,3,8,0.375,1,3,0.333,6,6,1.0,2,4,6,5,2,0,6,1,13,-6
+Minnesota Timberwolves,F,Derrick Williams,Atlanta Hawks,L,01/21/2013,37:20,7,14,0.5,1,4,0.25,2,2,1.0,2,2,4,0,1,1,1,3,17,-16
+Minnesota Timberwolves,C,Greg Stiemsma,Atlanta Hawks,L,01/21/2013,28:19,3,7,0.429,0,0,0.0,5,8,0.625,1,4,5,1,0,2,0,2,11,5
+Minnesota Timberwolves,G,Luke Ridnour,Atlanta Hawks,L,01/21/2013,34:18,5,13,0.385,0,1,0.0,2,4,0.5,2,1,3,2,3,0,3,4,12,-6
+Minnesota Timberwolves,G,Ricky Rubio,Atlanta Hawks,L,01/21/2013,25:07,1,4,0.25,0,0,0.0,3,4,0.75,0,2,2,6,2,0,2,1,5,-14
+Minnesota Timberwolves,F,Andrei Kirilenko,Brooklyn Nets,L,01/23/2013,40:37,6,10,0.6,1,3,0.333,2,3,0.667,1,5,6,4,1,0,2,1,15,-8
+Minnesota Timberwolves,F,Derrick Williams,Brooklyn Nets,L,01/23/2013,23:59,4,11,0.364,0,0,0.0,1,1,1.0,2,4,6,0,0,0,0,0,9,-2
+Minnesota Timberwolves,C,Greg Stiemsma,Brooklyn Nets,L,01/23/2013,17:07,1,5,0.2,0,0,0.0,0,0,0.0,1,3,4,1,0,2,1,3,2,-11
+Minnesota Timberwolves,G,Luke Ridnour,Brooklyn Nets,L,01/23/2013,30:35,6,15,0.4,1,4,0.25,0,0,0.0,0,4,4,3,0,1,1,4,13,-8
+Minnesota Timberwolves,G,Ricky Rubio,Brooklyn Nets,L,01/23/2013,24:08,2,5,0.4,0,1,0.0,1,2,0.5,0,1,1,6,3,0,4,1,5,-8
+Minnesota Timberwolves,F,Andrei Kirilenko,Washington Wizards,L,01/25/2013,28:55,5,9,0.556,1,3,0.333,6,8,0.75,2,2,4,2,0,1,3,3,17,-13
+Minnesota Timberwolves,F,Derrick Williams,Washington Wizards,L,01/25/2013,30:48,6,17,0.353,1,3,0.333,5,8,0.625,3,8,11,1,1,0,0,1,18,0
+Minnesota Timberwolves,C,Greg Stiemsma,Washington Wizards,L,01/25/2013,18:32,1,3,0.333,0,0,0.0,0,0,0.0,1,1,2,6,2,0,1,3,2,-6
+Minnesota Timberwolves,G,Luke Ridnour,Washington Wizards,L,01/25/2013,30:13,7,12,0.583,0,0,0.0,0,0,0.0,3,1,4,4,2,0,0,1,14,-16
+Minnesota Timberwolves,G,Ricky Rubio,Washington Wizards,L,01/25/2013,31:01,1,8,0.125,0,2,0.0,2,2,1.0,3,2,5,6,1,0,5,1,4,-14
+Minnesota Timberwolves,F,Andrei Kirilenko,Charlotte Bobcats,L,01/26/2013,32:37,2,6,0.333,0,1,0.0,6,6,1.0,1,2,3,2,2,1,1,4,10,-7
+Minnesota Timberwolves,F,Derrick Williams,Charlotte Bobcats,L,01/26/2013,18:05,2,8,0.25,1,2,0.5,0,2,0.0,0,2,2,1,0,0,2,0,5,11
+Minnesota Timberwolves,C,Greg Stiemsma,Charlotte Bobcats,L,01/26/2013,23:50,4,4,1.0,0,0,0.0,3,4,0.75,2,5,7,0,0,2,2,3,11,5
+Minnesota Timberwolves,G,Luke Ridnour,Charlotte Bobcats,L,01/26/2013,40:39,9,14,0.643,3,5,0.6,1,1,1.0,0,7,7,7,1,1,3,1,22,7
+Minnesota Timberwolves,G,Ricky Rubio,Charlotte Bobcats,L,01/26/2013,29:03,4,9,0.444,1,2,0.5,5,6,0.833,1,0,1,8,5,0,2,4,14,23
+Minnesota Timberwolves,F,Andrei Kirilenko,Los Angeles Clippers,L,01/30/2013,32:08,3,10,0.3,1,4,0.25,7,8,0.875,0,4,4,4,2,1,1,0,14,-10
+Minnesota Timberwolves,F,Derrick Williams,Los Angeles Clippers,L,01/30/2013,12:33,2,3,0.667,1,2,0.5,0,0,0.0,0,0,0,0,0,0,1,5,5,-11
+Minnesota Timberwolves,C,Nikola Pekovic,Los Angeles Clippers,L,01/30/2013,37:07,8,15,0.533,0,0,0.0,1,2,0.5,2,10,12,1,0,1,1,3,17,-14
+Minnesota Timberwolves,G,Luke Ridnour,Los Angeles Clippers,L,01/30/2013,23:34,3,7,0.429,1,2,0.5,1,1,1.0,0,2,2,2,0,0,3,2,8,-11
+Minnesota Timberwolves,G,Ricky Rubio,Los Angeles Clippers,L,01/30/2013,27:28,4,9,0.444,0,1,0.0,1,2,0.5,1,2,3,4,2,0,2,3,9,-18
+Minnesota Timberwolves,F,Andrei Kirilenko,Los Angeles Lakers,L,02/01/2013,31:38,5,8,0.625,1,2,0.5,1,2,0.5,0,0,0,3,1,1,0,1,12,1
+Minnesota Timberwolves,F,Derrick Williams,Los Angeles Lakers,L,02/01/2013,31:52,6,14,0.429,2,4,0.5,1,4,0.25,2,7,9,0,1,0,1,2,15,-4
+Minnesota Timberwolves,C,Nikola Pekovic,Los Angeles Lakers,L,02/01/2013,34:05,6,13,0.462,0,0,0.0,2,5,0.4,1,8,9,0,1,1,0,1,14,-10
+Minnesota Timberwolves,G,Luke Ridnour,Los Angeles Lakers,L,02/01/2013,24:44,2,7,0.286,0,1,0.0,0,0,0.0,0,0,0,2,1,1,0,4,4,-5
+Minnesota Timberwolves,G,Ricky Rubio,Los Angeles Lakers,L,02/01/2013,28:59,4,9,0.444,0,0,0.0,1,2,0.5,0,4,4,7,2,0,3,3,9,-12
+Minnesota Timberwolves,F,Andrei Kirilenko,New Orleans Hornets,W,02/02/2013,26:32,4,7,0.571,1,2,0.5,3,6,0.5,1,5,6,3,2,0,3,1,12,15
+Minnesota Timberwolves,F,Derrick Williams,New Orleans Hornets,W,02/02/2013,13:53,1,3,0.333,0,1,0.0,3,4,0.75,1,2,3,0,1,0,1,1,5,6
+Minnesota Timberwolves,C,Nikola Pekovic,New Orleans Hornets,W,02/02/2013,23:51,5,10,0.5,0,0,0.0,4,5,0.8,3,4,7,0,1,1,3,4,14,13
+Minnesota Timberwolves,G,Luke Ridnour,New Orleans Hornets,W,02/02/2013,23:54,3,8,0.375,1,3,0.333,0,0,0.0,0,1,1,4,2,0,3,1,7,8
+Minnesota Timberwolves,G,Ricky Rubio,New Orleans Hornets,W,02/02/2013,22:31,3,5,0.6,0,0,0.0,3,4,0.75,2,1,3,7,1,0,1,3,9,8
+Minnesota Timberwolves,F,Andrei Kirilenko,Portland Trail Blazers,L,02/04/2013,14:28,1,4,0.25,0,0,0.0,0,0,0.0,0,0,0,0,1,0,1,1,2,-9
+Minnesota Timberwolves,F,Derrick Williams,Portland Trail Blazers,L,02/04/2013,19:04,0,5,0.0,0,1,0.0,1,2,0.5,2,2,4,0,3,0,1,3,1,-6
+Minnesota Timberwolves,C,Nikola Pekovic,Portland Trail Blazers,L,02/04/2013,35:15,5,11,0.455,0,0,0.0,3,3,1.0,4,7,11,1,1,0,2,3,13,-8
+Minnesota Timberwolves,G,Luke Ridnour,Portland Trail Blazers,L,02/04/2013,24:18,5,9,0.556,0,2,0.0,0,0,0.0,1,0,1,2,1,0,0,1,10,-15
+Minnesota Timberwolves,G,Ricky Rubio,Portland Trail Blazers,L,02/04/2013,33:27,4,9,0.444,0,0,0.0,7,8,0.875,0,2,2,14,1,0,4,3,15,9
+Minnesota Timberwolves,F,Mickael Gelabale,San Antonio Spurs,L,02/06/2013,33:44,4,7,0.571,2,3,0.667,0,0,0.0,2,1,3,0,0,0,0,2,10,0
+Minnesota Timberwolves,F,Derrick Williams,San Antonio Spurs,L,02/06/2013,27:52,5,12,0.417,2,5,0.4,3,4,0.75,1,11,12,0,0,0,1,1,15,-4
+Minnesota Timberwolves,C,Nikola Pekovic,San Antonio Spurs,L,02/06/2013,35:17,5,9,0.556,0,0,0.0,11,12,0.917,4,6,10,0,0,1,4,2,21,-6
+Minnesota Timberwolves,G,Luke Ridnour,San Antonio Spurs,L,02/06/2013,27:36,4,7,0.571,0,0,0.0,2,2,1.0,0,5,5,1,2,0,2,3,10,-8
+Minnesota Timberwolves,G,Ricky Rubio,San Antonio Spurs,L,02/06/2013,36:33,3,13,0.231,0,1,0.0,3,4,0.75,0,4,4,11,3,0,3,4,9,-5
+Minnesota Timberwolves,F,Mickael Gelabale,New York Knicks,L,02/08/2013,12:54,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,2,1,0,0,0,0,-4
+Minnesota Timberwolves,F,Derrick Williams,New York Knicks,L,02/08/2013,33:23,8,17,0.471,0,6,0.0,3,4,0.75,1,5,6,1,1,1,0,5,19,4
+Minnesota Timberwolves,C,Nikola Pekovic,New York Knicks,L,02/08/2013,36:05,6,10,0.6,0,0,0.0,4,5,0.8,6,5,11,1,1,0,3,1,16,-11
+Minnesota Timberwolves,G,Luke Ridnour,New York Knicks,L,02/08/2013,36:19,9,15,0.6,0,2,0.0,2,2,1.0,1,1,2,3,1,0,1,2,20,-7
+Minnesota Timberwolves,G,Ricky Rubio,New York Knicks,L,02/08/2013,38:59,6,14,0.429,1,1,1.0,5,9,0.556,0,2,2,11,1,0,1,0,18,-4
+Minnesota Timberwolves,F,Mickael Gelabale,Memphis Grizzlies,L,02/10/2013,36:18,5,7,0.714,2,3,0.667,2,2,1.0,1,2,3,1,0,0,1,3,14,-19
+Minnesota Timberwolves,F,Derrick Williams,Memphis Grizzlies,L,02/10/2013,25:29,4,11,0.364,0,3,0.0,1,2,0.5,0,6,6,1,2,0,1,3,9,-15
+Minnesota Timberwolves,C,Nikola Pekovic,Memphis Grizzlies,L,02/10/2013,30:08,2,5,0.4,0,0,0.0,4,6,0.667,1,5,6,2,1,0,3,3,8,-18
+Minnesota Timberwolves,G,Luke Ridnour,Memphis Grizzlies,L,02/10/2013,33:31,7,13,0.538,2,6,0.333,1,1,1.0,3,1,4,4,1,0,4,1,17,-14
+Minnesota Timberwolves,G,Ricky Rubio,Memphis Grizzlies,L,02/10/2013,28:23,6,11,0.545,0,1,0.0,5,8,0.625,0,1,1,4,0,0,3,1,17,-10
+Minnesota Timberwolves,F,Mickael Gelabale,Cleveland Cavaliers,W,02/11/2013,28:24,3,4,0.75,3,3,1.0,2,2,1.0,2,4,6,2,0,0,1,2,11,16
+Minnesota Timberwolves,F,Derrick Williams,Cleveland Cavaliers,W,02/11/2013,16:13,4,9,0.444,1,2,0.5,4,5,0.8,0,5,5,1,0,1,1,4,13,1
+Minnesota Timberwolves,C,Nikola Pekovic,Cleveland Cavaliers,W,02/11/2013,40:28,6,14,0.429,0,0,0.0,4,6,0.667,5,5,10,2,2,0,2,0,16,12
+Minnesota Timberwolves,G,Luke Ridnour,Cleveland Cavaliers,W,02/11/2013,37:25,9,14,0.643,1,2,0.5,2,2,1.0,1,3,4,3,1,0,3,2,21,6
+Minnesota Timberwolves,G,Ricky Rubio,Cleveland Cavaliers,W,02/11/2013,33:14,5,9,0.556,1,1,1.0,2,2,1.0,0,3,3,10,5,0,7,5,13,3
+Minnesota Timberwolves,F,Mickael Gelabale,Utah Jazz,L,02/13/2013,24:04,1,3,0.333,0,2,0.0,0,0,0.0,0,2,2,0,0,0,1,2,2,4
+Minnesota Timberwolves,F,Derrick Williams,Utah Jazz,L,02/13/2013,36:34,7,17,0.412,2,5,0.4,8,11,0.727,4,12,16,0,0,1,1,3,24,6
+Minnesota Timberwolves,C,Nikola Pekovic,Utah Jazz,L,02/13/2013,39:42,7,16,0.438,0,0,0.0,5,8,0.625,7,6,13,0,1,1,1,2,19,10
+Minnesota Timberwolves,G,Luke Ridnour,Utah Jazz,L,02/13/2013,37:20,7,15,0.467,2,6,0.333,2,2,1.0,1,2,3,2,0,0,1,6,18,14
+Minnesota Timberwolves,G,Ricky Rubio,Utah Jazz,L,02/13/2013,40:16,3,13,0.231,0,3,0.0,12,13,0.923,2,7,9,10,4,1,2,1,18,0
+Minnesota Timberwolves,F,Andrei Kirilenko,Philadelphia 76ers,W,02/20/2013,36:40,4,8,0.5,1,1,1.0,6,6,1.0,0,5,5,5,2,3,2,4,15,0
+Minnesota Timberwolves,F,Derrick Williams,Philadelphia 76ers,W,02/20/2013,35:38,7,12,0.583,2,4,0.5,1,2,0.5,0,8,8,1,1,0,2,0,17,0
+Minnesota Timberwolves,C,Nikola Pekovic,Philadelphia 76ers,W,02/20/2013,41:10,9,16,0.563,0,0,0.0,9,15,0.6,7,11,18,0,1,2,2,5,27,10
+Minnesota Timberwolves,G,Luke Ridnour,Philadelphia 76ers,W,02/20/2013,30:56,2,8,0.25,1,4,0.25,3,4,0.75,1,1,2,5,1,0,2,3,8,7
+Minnesota Timberwolves,G,Ricky Rubio,Philadelphia 76ers,W,02/20/2013,29:07,1,4,0.25,0,0,0.0,9,12,0.75,1,5,6,6,3,0,6,5,11,10
+Minnesota Timberwolves,F,Andrei Kirilenko,Oklahoma City Thunder,L,02/22/2013,23:60,5,9,0.556,2,3,0.667,3,4,0.75,2,1,3,0,1,0,1,2,15,-20
+Minnesota Timberwolves,F,Derrick Williams,Oklahoma City Thunder,L,02/22/2013,22:47,3,14,0.214,0,2,0.0,3,3,1.0,3,2,5,2,1,0,1,2,9,-16
+Minnesota Timberwolves,C,Nikola Pekovic,Oklahoma City Thunder,L,02/22/2013,22:19,1,4,0.25,0,0,0.0,3,4,0.75,1,1,2,0,2,0,0,1,5,-20
+Minnesota Timberwolves,G,Luke Ridnour,Oklahoma City Thunder,L,02/22/2013,26:48,3,8,0.375,1,2,0.5,3,3,1.0,0,0,0,6,0,0,2,1,10,-15
+Minnesota Timberwolves,G,Ricky Rubio,Oklahoma City Thunder,L,02/22/2013,32:53,5,12,0.417,0,0,0.0,3,4,0.75,2,3,5,9,5,0,1,4,13,-5
+Minnesota Timberwolves,F,Andrei Kirilenko,Golden State Warriors,L,02/24/2013,40:40,5,10,0.5,0,2,0.0,4,5,0.8,1,4,5,3,3,0,1,2,14,2
+Minnesota Timberwolves,F,Derrick Williams,Golden State Warriors,L,02/24/2013,37:41,9,15,0.6,0,1,0.0,5,5,1.0,4,8,12,0,0,1,1,3,23,12
+Minnesota Timberwolves,C,Nikola Pekovic,Golden State Warriors,L,02/24/2013,33:25,10,18,0.556,0,0,0.0,1,3,0.333,5,3,8,1,2,1,3,5,21,8
+Minnesota Timberwolves,G,Luke Ridnour,Golden State Warriors,L,02/24/2013,32:22,6,14,0.429,1,3,0.333,1,1,1.0,0,2,2,5,1,0,1,5,14,4
+Minnesota Timberwolves,G,Ricky Rubio,Golden State Warriors,L,02/24/2013,38:52,3,10,0.3,0,2,0.0,10,11,0.909,1,7,8,11,6,0,6,1,16,9
+Minnesota Timberwolves,F,Andrei Kirilenko,Phoenix Suns,L,02/26/2013,10:06,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,1,1,0,1,1,0,-2
+Minnesota Timberwolves,F,Derrick Williams,Phoenix Suns,L,02/26/2013,39:33,8,16,0.5,2,6,0.333,3,10,0.3,1,11,12,0,2,1,3,3,21,2
+Minnesota Timberwolves,C,Nikola Pekovic,Phoenix Suns,L,02/26/2013,40:15,6,11,0.545,0,0,0.0,6,6,1.0,5,7,12,2,3,3,1,4,18,11
+Minnesota Timberwolves,G,Luke Ridnour,Phoenix Suns,L,02/26/2013,29:26,3,11,0.273,0,1,0.0,4,4,1.0,1,3,4,4,1,0,1,0,10,4
+Minnesota Timberwolves,G,Ricky Rubio,Phoenix Suns,L,02/26/2013,38:55,2,12,0.167,0,0,0.0,1,2,0.5,0,5,5,10,4,0,6,4,5,10
+Minnesota Timberwolves,F,Dante Cunningham,Los Angeles Lakers,L,02/28/2013,32:41,2,7,0.286,0,0,0.0,1,2,0.5,0,3,3,0,2,1,0,2,5,-8
+Minnesota Timberwolves,F,Derrick Williams,Los Angeles Lakers,L,02/28/2013,39:19,6,14,0.429,1,4,0.25,2,2,1.0,0,8,8,1,0,1,3,2,15,-26
+Minnesota Timberwolves,C,Nikola Pekovic,Los Angeles Lakers,L,02/28/2013,9:19,4,6,0.667,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,0,8,-3
+Minnesota Timberwolves,G,Luke Ridnour,Los Angeles Lakers,L,02/28/2013,32:50,7,10,0.7,2,4,0.5,3,3,1.0,0,1,1,4,1,3,0,1,19,-15
+Minnesota Timberwolves,G,Ricky Rubio,Los Angeles Lakers,L,02/28/2013,32:57,5,11,0.455,1,3,0.333,2,2,1.0,3,5,8,13,1,0,4,2,13,-16
+Minnesota Timberwolves,F,Mickael Gelabale,Portland Trail Blazers,L,03/02/2013,22:35,2,4,0.5,0,1,0.0,0,0,0.0,1,2,3,0,0,0,0,2,4,-15
+Minnesota Timberwolves,F,Derrick Williams,Portland Trail Blazers,L,03/02/2013,39:53,9,20,0.45,0,4,0.0,5,8,0.625,1,7,8,0,0,3,1,2,23,-9
+Minnesota Timberwolves,C,Greg Stiemsma,Portland Trail Blazers,L,03/02/2013,14:13,0,2,0.0,0,0,0.0,0,0,0.0,4,2,6,0,1,0,1,4,0,-8
+Minnesota Timberwolves,G,Luke Ridnour,Portland Trail Blazers,L,03/02/2013,38:24,7,15,0.467,0,1,0.0,4,6,0.667,0,2,2,6,0,0,0,3,18,-8
+Minnesota Timberwolves,G,Ricky Rubio,Portland Trail Blazers,L,03/02/2013,37:51,3,10,0.3,0,1,0.0,6,6,1.0,2,7,9,9,3,0,5,4,12,-20
+Minnesota Timberwolves,F,Mickael Gelabale,Miami Heat,L,03/04/2013,23:46,2,8,0.25,0,2,0.0,2,2,1.0,1,2,3,1,3,0,0,0,6,-10
+Minnesota Timberwolves,F,Derrick Williams,Miami Heat,L,03/04/2013,45:17,10,22,0.455,1,3,0.333,4,4,1.0,3,7,10,1,0,0,3,3,25,-15
+Minnesota Timberwolves,C,Greg Stiemsma,Miami Heat,L,03/04/2013,9:11,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,2,0,-6
+Minnesota Timberwolves,G,Luke Ridnour,Miami Heat,L,03/04/2013,33:46,4,14,0.286,0,4,0.0,1,1,1.0,1,1,2,5,3,0,2,3,9,-23
+Minnesota Timberwolves,G,Ricky Rubio,Miami Heat,L,03/04/2013,38:38,6,11,0.545,2,4,0.5,0,3,0.0,2,3,5,8,6,0,6,2,14,-15
+Minnesota Timberwolves,F,Mickael Gelabale,Washington Wizards,W,03/06/2013,24:36,3,4,0.75,0,0,0.0,0,0,0.0,4,3,7,1,0,0,1,1,6,0
+Minnesota Timberwolves,F,Derrick Williams,Washington Wizards,W,03/06/2013,36:46,4,12,0.333,1,3,0.333,7,11,0.636,0,8,8,0,2,0,2,2,16,8
+Minnesota Timberwolves,C,Greg Stiemsma,Washington Wizards,W,03/06/2013,21:56,1,4,0.25,0,0,0.0,0,0,0.0,1,2,3,0,0,0,1,3,2,-4
+Minnesota Timberwolves,G,Luke Ridnour,Washington Wizards,W,03/06/2013,37:11,5,13,0.385,1,3,0.333,4,4,1.0,0,0,0,2,0,0,4,2,15,-4
+Minnesota Timberwolves,G,Ricky Rubio,Washington Wizards,W,03/06/2013,37:56,4,15,0.267,0,2,0.0,7,10,0.7,0,7,7,11,6,0,3,3,15,15
+Minnesota Timberwolves,F,Mickael Gelabale,Denver Nuggets,L,03/09/2013,31:24,8,10,0.8,2,2,1.0,1,1,1.0,1,3,4,3,0,1,0,4,19,-7
+Minnesota Timberwolves,F,Derrick Williams,Denver Nuggets,L,03/09/2013,28:44,4,14,0.286,0,1,0.0,5,9,0.556,1,5,6,1,0,0,1,2,13,-11
+Minnesota Timberwolves,C,Greg Stiemsma,Denver Nuggets,L,03/09/2013,29:14,4,7,0.571,0,0,0.0,0,0,0.0,2,2,4,2,1,2,3,2,8,-11
+Minnesota Timberwolves,G,Luke Ridnour,Denver Nuggets,L,03/09/2013,29:49,2,7,0.286,0,4,0.0,3,3,1.0,0,3,3,3,1,2,2,0,7,-15
+Minnesota Timberwolves,G,Ricky Rubio,Denver Nuggets,L,03/09/2013,29:00,4,9,0.444,0,1,0.0,3,4,0.75,0,4,4,6,0,0,3,3,11,-14
+Minnesota Timberwolves,F,Mickael Gelabale,Dallas Mavericks,L,03/10/2013,27:54,6,10,0.6,0,2,0.0,1,1,1.0,0,3,3,2,1,1,0,5,13,-3
+Minnesota Timberwolves,F,Derrick Williams,Dallas Mavericks,L,03/10/2013,37:03,7,17,0.412,0,2,0.0,4,5,0.8,1,8,9,3,0,0,2,2,18,-9
+Minnesota Timberwolves,C,Greg Stiemsma,Dallas Mavericks,L,03/10/2013,30:50,5,10,0.5,0,0,0.0,0,0,0.0,1,6,7,0,2,0,1,2,10,-1
+Minnesota Timberwolves,G,Luke Ridnour,Dallas Mavericks,L,03/10/2013,30:45,3,9,0.333,1,3,0.333,0,0,0.0,1,4,5,5,1,0,0,2,7,-2
+Minnesota Timberwolves,G,Ricky Rubio,Dallas Mavericks,L,03/10/2013,31:23,3,12,0.25,1,4,0.25,0,0,0.0,3,2,5,5,2,0,2,2,7,-17
+Minnesota Timberwolves,F,Mickael Gelabale,San Antonio Spurs,W,03/12/2013,26:11,2,5,0.4,1,1,1.0,0,0,0.0,3,2,5,2,0,1,0,3,5,9
+Minnesota Timberwolves,F,Derrick Williams,San Antonio Spurs,W,03/12/2013,23:59,5,10,0.5,0,1,0.0,3,7,0.429,1,4,5,0,0,1,3,0,13,-2
+Minnesota Timberwolves,C,Greg Stiemsma,San Antonio Spurs,W,03/12/2013,23:52,3,5,0.6,0,0,0.0,0,0,0.0,1,6,7,0,1,1,2,4,6,-4
+Minnesota Timberwolves,G,Luke Ridnour,San Antonio Spurs,W,03/12/2013,27:25,6,9,0.667,2,2,1.0,0,0,0.0,0,1,1,2,0,0,1,0,14,-3
+Minnesota Timberwolves,G,Ricky Rubio,San Antonio Spurs,W,03/12/2013,34:48,9,17,0.529,1,5,0.2,2,3,0.667,1,12,13,12,0,1,4,4,21,23
+Minnesota Timberwolves,F,Mickael Gelabale,Indiana Pacers,L,03/13/2013,16:08,0,3,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-15
+Minnesota Timberwolves,F,Derrick Williams,Indiana Pacers,L,03/13/2013,27:54,4,9,0.444,1,1,1.0,1,2,0.5,1,4,5,1,0,1,0,3,10,-17
+Minnesota Timberwolves,C,Greg Stiemsma,Indiana Pacers,L,03/13/2013,35:09,5,13,0.385,0,0,0.0,3,4,0.75,4,5,9,0,1,2,2,5,13,-23
+Minnesota Timberwolves,G,Luke Ridnour,Indiana Pacers,L,03/13/2013,37:29,8,15,0.533,1,4,0.25,0,0,0.0,0,3,3,0,0,0,1,4,17,-18
+Minnesota Timberwolves,G,Ricky Rubio,Indiana Pacers,L,03/13/2013,36:31,6,14,0.429,2,3,0.667,7,8,0.875,2,4,6,10,3,0,4,1,21,-18
+Minnesota Timberwolves,F,Mickael Gelabale,Houston Rockets,L,03/15/2013,30:36,5,8,0.625,0,2,0.0,0,0,0.0,3,4,7,5,1,0,0,2,10,-9
+Minnesota Timberwolves,F,Derrick Williams,Houston Rockets,L,03/15/2013,31:09,7,14,0.5,2,5,0.4,3,4,0.75,3,1,4,1,0,0,4,3,19,-12
+Minnesota Timberwolves,C,Greg Stiemsma,Houston Rockets,L,03/15/2013,31:55,6,7,0.857,0,0,0.0,0,0,0.0,1,4,5,1,0,4,0,4,12,-5
+Minnesota Timberwolves,G,Luke Ridnour,Houston Rockets,L,03/15/2013,28:53,4,8,0.5,1,4,0.25,1,1,1.0,0,6,6,3,0,0,3,5,10,-17
+Minnesota Timberwolves,G,Ricky Rubio,Houston Rockets,L,03/15/2013,38:50,4,13,0.308,0,3,0.0,6,8,0.75,1,6,7,7,2,1,3,3,14,-7
+Minnesota Timberwolves,F,Andrei Kirilenko,New Orleans Hornets,W,03/17/2013,24:47,3,6,0.5,0,2,0.0,2,3,0.667,0,5,5,1,1,2,3,0,8,-11
+Minnesota Timberwolves,F,Derrick Williams,New Orleans Hornets,W,03/17/2013,37:24,9,16,0.563,3,5,0.6,7,10,0.7,2,5,7,0,1,1,5,3,28,12
+Minnesota Timberwolves,C,Nikola Pekovic,New Orleans Hornets,W,03/17/2013,24:22,5,8,0.625,0,0,0.0,3,6,0.5,4,2,6,0,0,2,2,4,13,-14
+Minnesota Timberwolves,G,Luke Ridnour,New Orleans Hornets,W,03/17/2013,31:42,5,8,0.625,0,2,0.0,0,0,0.0,0,0,0,6,1,0,1,3,10,6
+Minnesota Timberwolves,G,Ricky Rubio,New Orleans Hornets,W,03/17/2013,34:55,7,11,0.636,1,1,1.0,1,1,1.0,0,2,2,6,2,2,3,4,16,5
+Minnesota Timberwolves,F,Andrei Kirilenko,Memphis Grizzlies,L,03/18/2013,16:14,4,6,0.667,0,1,0.0,0,1,0.0,0,1,1,0,0,0,1,0,8,-12
+Minnesota Timberwolves,F,Derrick Williams,Memphis Grizzlies,L,03/18/2013,26:09,3,12,0.25,1,5,0.2,1,1,1.0,1,5,6,1,0,0,2,1,8,-16
+Minnesota Timberwolves,C,Nikola Pekovic,Memphis Grizzlies,L,03/18/2013,24:14,3,9,0.333,0,0,0.0,3,4,0.75,3,2,5,0,0,1,0,2,9,-22
+Minnesota Timberwolves,G,Luke Ridnour,Memphis Grizzlies,L,03/18/2013,24:16,2,10,0.2,1,3,0.333,1,2,0.5,2,3,5,3,0,1,2,1,6,-19
+Minnesota Timberwolves,G,Ricky Rubio,Memphis Grizzlies,L,03/18/2013,21:03,1,6,0.167,0,1,0.0,0,0,0.0,0,2,2,3,1,0,0,2,2,-15
+Minnesota Timberwolves,F,Andrei Kirilenko,Sacramento Kings,L,03/21/2013,26:53,3,9,0.333,0,2,0.0,0,0,0.0,1,3,4,3,0,0,1,4,6,-3
+Minnesota Timberwolves,F,Derrick Williams,Sacramento Kings,L,03/21/2013,25:33,6,16,0.375,0,3,0.0,0,0,0.0,2,1,3,1,0,1,0,0,12,-8
+Minnesota Timberwolves,C,Nikola Pekovic,Sacramento Kings,L,03/21/2013,34:07,6,12,0.5,0,0,0.0,6,8,0.75,7,5,12,0,1,0,1,4,18,-7
+Minnesota Timberwolves,G,Luke Ridnour,Sacramento Kings,L,03/21/2013,30:20,1,7,0.143,0,1,0.0,2,2,1.0,1,1,2,4,1,0,1,1,4,-3
+Minnesota Timberwolves,G,Ricky Rubio,Sacramento Kings,L,03/21/2013,32:13,4,13,0.308,0,3,0.0,4,4,1.0,0,7,7,9,3,0,1,4,12,-6
+Minnesota Timberwolves,F,Andrei Kirilenko,Phoenix Suns,W,03/22/2013,25:01,6,10,0.6,0,2,0.0,8,10,0.8,1,6,7,1,0,1,1,1,20,12
+Minnesota Timberwolves,F,Derrick Williams,Phoenix Suns,W,03/22/2013,14:22,0,2,0.0,0,1,0.0,4,4,1.0,0,6,6,1,0,0,1,0,4,9
+Minnesota Timberwolves,C,Nikola Pekovic,Phoenix Suns,W,03/22/2013,13:45,5,7,0.714,0,0,0.0,1,4,0.25,1,1,2,0,1,0,0,5,11,13
+Minnesota Timberwolves,G,Luke Ridnour,Phoenix Suns,W,03/22/2013,29:59,4,8,0.5,0,1,0.0,4,4,1.0,0,2,2,7,0,0,1,2,12,21
+Minnesota Timberwolves,G,Ricky Rubio,Phoenix Suns,W,03/22/2013,29:04,3,7,0.429,0,0,0.0,6,7,0.857,2,4,6,8,5,0,4,3,12,20
+Minnesota Timberwolves,F,Andrei Kirilenko,Chicago Bulls,L,03/24/2013,25:47,2,6,0.333,0,0,0.0,0,0,0.0,1,2,3,1,1,0,3,0,4,-3
+Minnesota Timberwolves,F,Derrick Williams,Chicago Bulls,L,03/24/2013,38:23,11,18,0.611,3,5,0.6,3,4,0.75,0,5,5,0,2,2,3,3,28,-3
+Minnesota Timberwolves,C,Nikola Pekovic,Chicago Bulls,L,03/24/2013,30:59,6,9,0.667,0,0,0.0,3,3,1.0,2,6,8,1,0,1,1,2,15,-3
+Minnesota Timberwolves,G,Luke Ridnour,Chicago Bulls,L,03/24/2013,28:10,2,6,0.333,0,1,0.0,0,0,0.0,1,3,4,4,0,0,0,2,4,2
+Minnesota Timberwolves,G,Ricky Rubio,Chicago Bulls,L,03/24/2013,32:19,4,8,0.5,0,0,0.0,7,10,0.7,2,3,5,8,1,0,1,3,15,-7
+Minnesota Timberwolves,F,Andrei Kirilenko,Detroit Pistons,W,03/26/2013,23:44,4,9,0.444,1,2,0.5,0,0,0.0,0,1,1,2,1,0,0,0,9,23
+Minnesota Timberwolves,F,Derrick Williams,Detroit Pistons,W,03/26/2013,17:25,2,3,0.667,2,3,0.667,0,0,0.0,0,5,5,0,0,0,1,3,6,18
+Minnesota Timberwolves,C,Nikola Pekovic,Detroit Pistons,W,03/26/2013,29:47,7,10,0.7,0,0,0.0,4,5,0.8,3,8,11,2,0,1,2,1,18,28
+Minnesota Timberwolves,G,Luke Ridnour,Detroit Pistons,W,03/26/2013,25:32,6,7,0.857,2,3,0.667,1,1,1.0,1,0,1,3,3,0,1,1,15,16
+Minnesota Timberwolves,G,Ricky Rubio,Detroit Pistons,W,03/26/2013,27:28,6,9,0.667,2,2,1.0,0,0,0.0,0,4,4,9,2,0,3,1,14,26
+Minnesota Timberwolves,F,Andrei Kirilenko,Los Angeles Lakers,L,03/27/2013,27:26,3,8,0.375,0,1,0.0,5,7,0.714,0,2,2,3,3,0,1,1,11,-10
+Minnesota Timberwolves,F,Derrick Williams,Los Angeles Lakers,L,03/27/2013,29:16,6,12,0.5,1,2,0.5,2,5,0.4,3,3,6,0,0,0,3,0,15,-7
+Minnesota Timberwolves,C,Nikola Pekovic,Los Angeles Lakers,L,03/27/2013,41:04,6,14,0.429,0,0,0.0,7,8,0.875,7,9,16,1,2,1,4,3,19,1
+Minnesota Timberwolves,G,Luke Ridnour,Los Angeles Lakers,L,03/27/2013,27:10,4,7,0.571,2,2,1.0,1,1,1.0,1,1,2,2,0,0,1,3,11,-1
+Minnesota Timberwolves,G,Ricky Rubio,Los Angeles Lakers,L,03/27/2013,28:43,5,13,0.385,0,1,0.0,3,4,0.75,0,3,3,7,3,0,2,4,13,-4
+Minnesota Timberwolves,F,Andrei Kirilenko,Oklahoma City Thunder,W,03/29/2013,31:48,5,11,0.455,1,3,0.333,1,2,0.5,3,1,4,3,2,1,1,2,12,1
+Minnesota Timberwolves,F,Derrick Williams,Oklahoma City Thunder,W,03/29/2013,26:11,2,8,0.25,1,2,0.5,1,2,0.5,1,8,9,2,0,0,0,2,6,3
+Minnesota Timberwolves,C,Nikola Pekovic,Oklahoma City Thunder,W,03/29/2013,36:11,10,16,0.625,0,0,0.0,2,2,1.0,7,8,15,1,0,0,1,1,22,10
+Minnesota Timberwolves,G,Luke Ridnour,Oklahoma City Thunder,W,03/29/2013,28:22,3,7,0.429,0,2,0.0,5,7,0.714,1,0,1,2,0,0,1,3,11,2
+Minnesota Timberwolves,G,Ricky Rubio,Oklahoma City Thunder,W,03/29/2013,30:14,4,11,0.364,1,1,1.0,8,8,1.0,0,2,2,7,4,0,2,3,17,4
+Minnesota Timberwolves,F,Andrei Kirilenko,Memphis Grizzlies,L,03/30/2013,28:20,1,3,0.333,0,1,0.0,3,6,0.5,0,4,4,1,0,0,2,1,5,2
+Minnesota Timberwolves,F,Derrick Williams,Memphis Grizzlies,L,03/30/2013,36:52,6,16,0.375,0,4,0.0,7,12,0.583,1,3,4,1,0,0,2,3,19,-15
+Minnesota Timberwolves,C,Greg Stiemsma,Memphis Grizzlies,L,03/30/2013,40:04,5,7,0.714,0,0,0.0,2,2,1.0,3,4,7,1,2,2,2,3,12,-6
+Minnesota Timberwolves,G,Luke Ridnour,Memphis Grizzlies,L,03/30/2013,32:48,3,7,0.429,1,3,0.333,0,0,0.0,0,4,4,4,0,0,3,3,7,-11
+Minnesota Timberwolves,G,Ricky Rubio,Memphis Grizzlies,L,03/30/2013,39:34,6,12,0.5,1,2,0.5,10,12,0.833,3,7,10,9,1,0,5,5,23,-9
+Minnesota Timberwolves,F,Andrei Kirilenko,Boston Celtics,W,04/01/2013,26:35,6,7,0.857,1,1,1.0,4,4,1.0,2,7,9,5,2,0,2,2,17,2
+Minnesota Timberwolves,F,Derrick Williams,Boston Celtics,W,04/01/2013,24:31,5,9,0.556,1,2,0.5,0,0,0.0,0,3,3,2,1,3,0,1,11,20
+Minnesota Timberwolves,C,Nikola Pekovic,Boston Celtics,W,04/01/2013,41:21,9,15,0.6,0,0,0.0,11,11,1.0,1,4,5,1,1,1,0,2,29,-2
+Minnesota Timberwolves,G,Luke Ridnour,Boston Celtics,W,04/01/2013,19:57,1,7,0.143,0,3,0.0,0,0,0.0,0,1,1,1,2,0,2,1,2,7
+Minnesota Timberwolves,G,Ricky Rubio,Boston Celtics,W,04/01/2013,34:30,2,11,0.182,0,2,0.0,5,6,0.833,0,3,3,10,2,0,2,4,9,12
+Minnesota Timberwolves,F,Andrei Kirilenko,Milwaukee Bucks,W,04/03/2013,33:45,5,9,0.556,1,1,1.0,1,4,0.25,1,3,4,4,0,0,1,0,12,15
+Minnesota Timberwolves,F,Derrick Williams,Milwaukee Bucks,W,04/03/2013,18:41,7,12,0.583,1,2,0.5,0,0,0.0,3,3,6,3,0,0,1,2,15,8
+Minnesota Timberwolves,C,Nikola Pekovic,Milwaukee Bucks,W,04/03/2013,36:40,11,14,0.786,0,0,0.0,5,7,0.714,3,5,8,3,1,0,1,1,27,22
+Minnesota Timberwolves,G,Luke Ridnour,Milwaukee Bucks,W,04/03/2013,34:31,5,8,0.625,0,0,0.0,3,3,1.0,1,1,2,2,0,0,0,1,13,12
+Minnesota Timberwolves,G,Ricky Rubio,Milwaukee Bucks,W,04/03/2013,34:26,7,12,0.583,5,6,0.833,0,0,0.0,0,4,4,12,8,0,8,3,19,12
+Minnesota Timberwolves,F,Andrei Kirilenko,Toronto Raptors,L,04/05/2013,34:47,8,10,0.8,1,3,0.333,3,6,0.5,0,6,6,1,3,1,1,1,20,2
+Minnesota Timberwolves,F,Derrick Williams,Toronto Raptors,L,04/05/2013,20:13,1,4,0.25,0,1,0.0,6,6,1.0,2,3,5,1,0,0,2,0,8,11
+Minnesota Timberwolves,C,Nikola Pekovic,Toronto Raptors,L,04/05/2013,41:03,6,12,0.5,0,0,0.0,12,16,0.75,2,6,8,0,1,0,1,2,24,-1
+Minnesota Timberwolves,G,Luke Ridnour,Toronto Raptors,L,04/05/2013,23:15,3,6,0.5,0,1,0.0,2,2,1.0,0,1,1,4,0,0,2,3,8,9
+Minnesota Timberwolves,G,Ricky Rubio,Toronto Raptors,L,04/05/2013,36:44,3,10,0.3,1,3,0.333,6,8,0.75,0,5,5,12,1,0,4,3,13,5
+Minnesota Timberwolves,F,Andrei Kirilenko,Detroit Pistons,W,04/06/2013,42:59,4,10,0.4,1,2,0.5,4,4,1.0,2,4,6,3,7,2,2,0,13,8
+Minnesota Timberwolves,F,Derrick Williams,Detroit Pistons,W,04/06/2013,17:30,6,9,0.667,1,2,0.5,1,1,1.0,0,2,2,0,0,0,1,4,14,-6
+Minnesota Timberwolves,C,Nikola Pekovic,Detroit Pistons,W,04/06/2013,35:58,7,15,0.467,0,0,0.0,6,8,0.75,6,7,13,2,0,0,1,2,20,20
+Minnesota Timberwolves,G,Luke Ridnour,Detroit Pistons,W,04/06/2013,19:58,1,6,0.167,0,1,0.0,3,4,0.75,1,0,1,3,2,0,2,2,5,16
+Minnesota Timberwolves,G,Ricky Rubio,Detroit Pistons,W,04/06/2013,31:56,1,13,0.077,0,2,0.0,8,9,0.889,1,4,5,6,5,0,3,2,10,17
+Minnesota Timberwolves,F,Andrei Kirilenko,Golden State Warriors,L,04/09/2013,21:24,4,7,0.571,1,1,1.0,6,6,1.0,0,4,4,2,0,2,1,2,15,-17
+Minnesota Timberwolves,F,Derrick Williams,Golden State Warriors,L,04/09/2013,20:21,2,8,0.25,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,1,5,-21
+Minnesota Timberwolves,C,Nikola Pekovic,Golden State Warriors,L,04/09/2013,25:48,2,8,0.25,0,0,0.0,1,2,0.5,1,6,7,0,1,2,1,3,5,-20
+Minnesota Timberwolves,G,Luke Ridnour,Golden State Warriors,L,04/09/2013,21:08,4,6,0.667,0,0,0.0,0,0,0.0,1,2,3,3,1,0,0,1,8,-20
+Minnesota Timberwolves,G,Ricky Rubio,Golden State Warriors,L,04/09/2013,22:08,0,10,0.0,0,3,0.0,5,6,0.833,0,5,5,6,1,0,2,2,5,-18
+Minnesota Timberwolves,F,Andrei Kirilenko,Los Angeles Clippers,L,04/10/2013,30:00,3,10,0.3,0,2,0.0,2,4,0.5,3,4,7,3,1,2,1,1,8,-9
+Minnesota Timberwolves,F,Derrick Williams,Los Angeles Clippers,L,04/10/2013,36:00,3,12,0.25,1,4,0.25,6,6,1.0,4,6,10,1,3,1,1,1,13,-16
+Minnesota Timberwolves,C,Nikola Pekovic,Los Angeles Clippers,L,04/10/2013,25:20,7,13,0.538,0,0,0.0,6,7,0.857,3,2,5,0,0,0,1,1,20,-13
+Minnesota Timberwolves,G,Luke Ridnour,Los Angeles Clippers,L,04/10/2013,26:44,4,9,0.444,1,2,0.5,2,2,1.0,0,0,0,3,1,0,0,3,11,-15
+Minnesota Timberwolves,G,Ricky Rubio,Los Angeles Clippers,L,04/10/2013,23:17,2,8,0.25,0,1,0.0,2,2,1.0,0,2,2,7,1,0,1,3,6,-13
+Minnesota Timberwolves,F,Andrei Kirilenko,Utah Jazz,L,04/12/2013,23:33,3,6,0.5,0,1,0.0,2,2,1.0,1,2,3,3,0,0,0,2,8,-6
+Minnesota Timberwolves,F,Derrick Williams,Utah Jazz,L,04/12/2013,22:20,4,9,0.444,1,2,0.5,2,2,1.0,3,3,6,0,0,0,1,1,11,-5
+Minnesota Timberwolves,C,Greg Stiemsma,Utah Jazz,L,04/12/2013,40:34,4,9,0.444,0,0,0.0,2,2,1.0,1,6,7,1,3,2,1,4,10,-4
+Minnesota Timberwolves,G,Luke Ridnour,Utah Jazz,L,04/12/2013,23:51,4,7,0.571,0,1,0.0,2,2,1.0,0,1,1,4,2,0,4,1,10,0
+Minnesota Timberwolves,G,Ricky Rubio,Utah Jazz,L,04/12/2013,25:29,4,7,0.571,2,3,0.667,3,3,1.0,0,2,2,3,2,0,2,4,13,1
+Minnesota Timberwolves,F,Andrei Kirilenko,Phoenix Suns,W,04/13/2013,37:32,6,9,0.667,0,2,0.0,2,3,0.667,0,7,7,1,2,1,4,0,14,5
+Minnesota Timberwolves,F,Derrick Williams,Phoenix Suns,W,04/13/2013,23:23,7,12,0.583,1,2,0.5,0,0,0.0,2,4,6,0,4,0,3,1,15,-2
+Minnesota Timberwolves,C,Dante Cunningham,Phoenix Suns,W,04/13/2013,34:11,6,12,0.5,0,0,0.0,1,2,0.5,4,4,8,1,2,1,2,3,13,6
+Minnesota Timberwolves,G,Luke Ridnour,Phoenix Suns,W,04/13/2013,29:49,3,8,0.375,1,1,1.0,5,5,1.0,0,0,0,4,2,0,0,2,12,8
+Minnesota Timberwolves,G,Ricky Rubio,Phoenix Suns,W,04/13/2013,35:57,8,18,0.444,1,3,0.333,7,7,1.0,1,4,5,10,5,0,4,2,24,4
+Minnesota Timberwolves,F,Andrei Kirilenko,Utah Jazz,L,04/15/2013,23:09,2,7,0.286,0,2,0.0,3,4,0.75,1,6,7,4,1,1,2,1,7,-9
+Minnesota Timberwolves,F,Derrick Williams,Utah Jazz,L,04/15/2013,40:11,7,13,0.538,0,2,0.0,4,6,0.667,1,5,6,0,1,0,0,3,18,-16
+Minnesota Timberwolves,C,Greg Stiemsma,Utah Jazz,L,04/15/2013,23:30,3,7,0.429,0,0,0.0,0,0,0.0,0,8,8,0,0,0,1,4,6,-9
+Minnesota Timberwolves,G,Luke Ridnour,Utah Jazz,L,04/15/2013,21:27,3,7,0.429,0,1,0.0,0,0,0.0,0,1,1,3,2,0,1,0,6,-8
+Minnesota Timberwolves,G,Ricky Rubio,Utah Jazz,L,04/15/2013,28:40,2,9,0.222,0,2,0.0,2,2,1.0,1,3,4,4,2,0,1,1,6,-16
+Minnesota Timberwolves,F,Andrei Kirilenko,San Antonio Spurs,W,04/17/2013,20:21,2,6,0.333,0,0,0.0,1,1,1.0,3,3,6,4,2,0,0,0,5,13
+Minnesota Timberwolves,F,Derrick Williams,San Antonio Spurs,W,04/17/2013,32:57,7,15,0.467,2,4,0.5,5,6,0.833,0,6,6,4,1,0,2,3,21,17
+Minnesota Timberwolves,C,Greg Stiemsma,San Antonio Spurs,W,04/17/2013,32:31,6,8,0.75,0,0,0.0,0,0,0.0,1,8,9,0,5,1,0,3,12,12
+Minnesota Timberwolves,G,Luke Ridnour,San Antonio Spurs,W,04/17/2013,22:16,4,10,0.4,1,3,0.333,0,0,0.0,0,1,1,6,0,0,2,3,9,12
+Minnesota Timberwolves,G,Ricky Rubio,San Antonio Spurs,W,04/17/2013,25:59,4,10,0.4,3,5,0.6,1,2,0.5,0,3,3,3,2,0,4,1,12,11

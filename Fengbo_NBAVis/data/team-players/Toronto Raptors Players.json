@@ -1,0 +1,77 @@
+{
+	"team": "Toronto Raptors",
+	"players": [
+		{
+			"name": "Landry Fields",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Andrea Bargnani",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jonas Valanciunas",
+			"positions": ["Center"]
+		},
+		{
+			"name": "DeMar DeRozan",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Kyle Lowry",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jose Calderson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Alan Anderson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Dominic McGuire",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Linas Kleiza",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Ed Davis",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Mickael Pietrus",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Aaron Gray",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Amir Johnson",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Rudy Gay",
+			"positions": ["Foward"]
+		},
+		{
+			"name": "Terrence Ross",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "John Lucas III",
+			"positions": [""]
+		},
+		{
+			"name": "Quincy Acy",
+			"positions": [""]
+		},
+		{
+			"name": "Sebastian Telfair",
+			"positions": [""]
+		}
+	]
+}

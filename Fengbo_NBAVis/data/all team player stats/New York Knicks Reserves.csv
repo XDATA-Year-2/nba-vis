@@ -1,0 +1,446 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+New York Knicks,,Rasheed Wallace,Brooklyn Nets,L,11/26/2012,22:40,2,11,0.182,2,6,0.333,0,0,0.0,2,6,8,1,1,0,0,0,6,-8
+New York Knicks,,J.R. Smith,Brooklyn Nets,L,11/26/2012,41:28,2,7,0.286,0,3,0.0,1,2,0.5,1,6,7,2,0,0,1,3,5,-8
+New York Knicks,,Pablo Prigioni,Brooklyn Nets,L,11/26/2012,10:45,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,1,0,0,0,1,0,1
+New York Knicks,,Marcus Camby,Brooklyn Nets,L,11/26/2012,5:20,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,2,2,0,1
+New York Knicks,,Steve Novak,Brooklyn Nets,L,11/26/2012,18:22,1,3,0.333,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-4
+New York Knicks,,James White,Brooklyn Nets,L,11/26/2012,2:06,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,-1
+New York Knicks,,J.R. Smith,Miami Heat,W,11/02/2012,34:11,3,11,0.273,2,4,0.5,3,3,1.0,0,3,3,6,1,0,1,4,11,13
+New York Knicks,,Pablo Prigioni,Miami Heat,W,11/02/2012,16:23,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,3,0,0,3,1,0,-3
+New York Knicks,,Kurt Thomas,Miami Heat,W,11/02/2012,16:21,0,2,0.0,0,0,0.0,0,0,0.0,1,2,3,0,1,0,1,2,0,-1
+New York Knicks,,Steve Novak,Miami Heat,W,11/02/2012,25:51,6,10,0.6,5,8,0.625,0,0,0.0,0,2,2,1,0,0,0,1,17,9
+New York Knicks,,Rasheed Wallace,Miami Heat,W,11/02/2012,3:06,1,2,0.5,1,1,1.0,0,0,0.0,0,1,1,0,0,0,0,0,3,1
+New York Knicks,,James White,Miami Heat,W,11/02/2012,1:58,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-2
+New York Knicks,,Chris Copeland,Miami Heat,W,11/02/2012,1:58,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+New York Knicks,,J.R. Smith,Philadelphia 76ers,W,11/04/2012,34:51,8,15,0.533,4,5,0.8,0,0,0.0,1,8,9,2,2,0,3,0,20,10
+New York Knicks,,Kurt Thomas,Philadelphia 76ers,W,11/04/2012,18:10,2,4,0.5,0,0,0.0,1,1,1.0,1,4,5,2,0,1,0,1,5,5
+New York Knicks,,Pablo Prigioni,Philadelphia 76ers,W,11/04/2012,15:23,1,4,0.25,0,1,0.0,0,0,0.0,0,0,0,4,2,0,2,1,2,9
+New York Knicks,,Steve Novak,Philadelphia 76ers,W,11/04/2012,23:40,2,5,0.4,2,5,0.4,0,0,0.0,0,1,1,0,1,0,2,1,6,-4
+New York Knicks,,Rasheed Wallace,Philadelphia 76ers,W,11/04/2012,3:40,1,1,1.0,0,0,0.0,1,2,0.5,0,2,2,1,1,0,0,0,3,5
+New York Knicks,,James White,Philadelphia 76ers,W,11/04/2012,1:53,0,0,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,0,0,1,4
+New York Knicks,,Chris Copeland,Philadelphia 76ers,W,11/04/2012,1:53,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,4
+New York Knicks,,J.R. Smith,Philadelphia 76ers,W,11/05/2012,33:53,7,15,0.467,2,4,0.5,1,1,1.0,0,7,7,5,2,1,0,2,17,15
+New York Knicks,,Kurt Thomas,Philadelphia 76ers,W,11/05/2012,6:03,0,2,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,5
+New York Knicks,,Pablo Prigioni,Philadelphia 76ers,W,11/05/2012,24:46,3,5,0.6,1,3,0.333,4,4,1.0,1,0,1,6,2,0,2,4,11,10
+New York Knicks,,Steve Novak,Philadelphia 76ers,W,11/05/2012,22:17,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,1,0,0,0,1,0,3
+New York Knicks,,Rasheed Wallace,Philadelphia 76ers,W,11/05/2012,13:33,4,9,0.444,2,6,0.333,0,0,0.0,0,3,3,0,0,2,1,3,10,3
+New York Knicks,,James White,Philadelphia 76ers,W,11/05/2012,3:25,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,0
+New York Knicks,,Chris Copeland,Philadelphia 76ers,W,11/05/2012,3:25,1,2,0.5,1,1,1.0,2,2,1.0,0,0,0,0,0,0,0,0,5,0
+New York Knicks,,J.R. Smith,Dallas Mavericks,W,11/09/2012,32:56,8,16,0.5,3,3,1.0,3,3,1.0,0,1,1,0,4,1,0,3,22,3
+New York Knicks,,Rasheed Wallace,Dallas Mavericks,W,11/09/2012,17:50,2,6,0.333,0,4,0.0,2,2,1.0,0,6,6,0,0,0,1,2,6,-4
+New York Knicks,,Steve Novak,Dallas Mavericks,W,11/09/2012,15:57,2,6,0.333,1,4,0.25,0,0,0.0,0,2,2,1,0,0,1,1,5,-1
+New York Knicks,,Pablo Prigioni,Dallas Mavericks,W,11/09/2012,10:20,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,1,0,0,0,1,0,-7
+New York Knicks,,Marcus Camby,Dallas Mavericks,W,11/09/2012,8:02,0,0,0.0,0,0,0.0,2,2,1.0,1,3,4,0,0,0,0,0,2,-8
+New York Knicks,,J.R. Smith,Orlando Magic,W,11/13/2012,32:02,9,14,0.643,2,2,1.0,1,2,0.5,1,3,4,3,2,0,1,2,21,9
+New York Knicks,,Pablo Prigioni,Orlando Magic,W,11/13/2012,6:59,2,3,0.667,1,1,1.0,0,0,0.0,0,0,0,1,1,0,0,1,5,1
+New York Knicks,,Steve Novak,Orlando Magic,W,11/13/2012,19:56,1,2,0.5,1,2,0.5,0,0,0.0,0,2,2,0,1,0,0,1,3,4
+New York Knicks,,Rasheed Wallace,Orlando Magic,W,11/13/2012,14:27,2,7,0.286,0,5,0.0,0,0,0.0,1,3,4,0,1,1,0,1,4,0
+New York Knicks,,Marcus Camby,Orlando Magic,W,11/13/2012,3:50,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+New York Knicks,,J.R. Smith,San Antonio Spurs,W,11/15/2012,37:05,6,13,0.462,1,1,1.0,4,5,0.8,0,5,5,2,1,1,0,3,17,6
+New York Knicks,,Steve Novak,San Antonio Spurs,W,11/15/2012,20:39,2,6,0.333,1,5,0.2,0,0,0.0,0,1,1,0,0,0,0,2,5,-1
+New York Knicks,,Rasheed Wallace,San Antonio Spurs,W,11/15/2012,14:54,4,8,0.5,2,3,0.667,0,0,0.0,0,3,3,0,1,1,0,2,10,-4
+New York Knicks,,Pablo Prigioni,San Antonio Spurs,W,11/15/2012,6:40,1,2,0.5,0,1,0.0,0,0,0.0,0,1,1,2,1,0,0,1,2,4
+New York Knicks,,J.R. Smith,Memphis Grizzlies,L,11/16/2012,34:09,4,10,0.4,0,3,0.0,1,2,0.5,0,7,7,3,0,1,3,3,9,-8
+New York Knicks,,Rasheed Wallace,Memphis Grizzlies,L,11/16/2012,24:18,6,10,0.6,0,3,0.0,1,2,0.5,1,3,4,1,1,3,1,5,13,-15
+New York Knicks,,Steve Novak,Memphis Grizzlies,L,11/16/2012,17:53,1,3,0.333,1,3,0.333,2,2,1.0,1,2,3,1,0,1,0,1,5,6
+New York Knicks,,Pablo Prigioni,Memphis Grizzlies,L,11/16/2012,7:17,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,1,1,0,0,1,2,7
+New York Knicks,,Kurt Thomas,Memphis Grizzlies,L,11/16/2012,9:12,1,3,0.333,0,0,0.0,1,2,0.5,2,2,4,0,0,1,0,1,3,-3
+New York Knicks,,James White,Memphis Grizzlies,L,11/16/2012,1:14,1,1,1.0,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,0,3,4
+New York Knicks,,Chris Copeland,Memphis Grizzlies,L,11/16/2012,1:14,0,2,0.0,0,0,0.0,1,2,0.5,1,0,1,1,0,0,0,0,1,4
+New York Knicks,,J.R. Smith,Indiana Pacers,W,11/18/2012,30:29,5,10,0.5,1,3,0.333,2,2,1.0,0,7,7,2,1,1,2,3,13,5
+New York Knicks,,Rasheed Wallace,Indiana Pacers,W,11/18/2012,16:35,3,7,0.429,1,2,0.5,2,2,1.0,0,7,7,0,0,1,1,1,9,7
+New York Knicks,,Pablo Prigioni,Indiana Pacers,W,11/18/2012,16:10,0,5,0.0,0,2,0.0,0,0,0.0,0,1,1,4,1,0,1,0,0,1
+New York Knicks,,Steve Novak,Indiana Pacers,W,11/18/2012,24:06,3,10,0.3,3,8,0.375,0,0,0.0,0,2,2,0,1,0,0,2,9,-2
+New York Knicks,,Marcus Camby,Indiana Pacers,W,11/18/2012,12:55,0,0,0.0,0,0,0.0,0,2,0.0,2,2,4,0,0,1,1,1,0,-3
+New York Knicks,,James White,Indiana Pacers,W,11/18/2012,3:39,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-7
+New York Knicks,,Chris Copeland,Indiana Pacers,W,11/18/2012,3:39,1,4,0.25,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-7
+New York Knicks,,Rasheed Wallace,New Orleans Hornets,W,11/20/2012,18:28,2,8,0.25,0,1,0.0,2,2,1.0,2,5,7,0,0,1,1,5,6,13
+New York Knicks,,J.R. Smith,New Orleans Hornets,W,11/20/2012,29:31,6,14,0.429,1,3,0.333,2,2,1.0,2,3,5,1,2,0,1,1,15,1
+New York Knicks,,Steve Novak,New Orleans Hornets,W,11/20/2012,24:52,3,12,0.25,2,10,0.2,0,0,0.0,0,0,0,0,0,0,0,1,8,2
+New York Knicks,,Pablo Prigioni,New Orleans Hornets,W,11/20/2012,13:16,0,0,0.0,0,0,0.0,0,0,0.0,0,2,2,2,1,0,3,1,0,-9
+New York Knicks,,Marcus Camby,New Orleans Hornets,W,11/20/2012,10:28,0,3,0.0,0,0,0.0,0,0,0.0,2,2,4,1,0,1,1,3,0,-9
+New York Knicks,,James White,New Orleans Hornets,W,11/20/2012,14:59,3,4,0.75,1,2,0.5,0,0,0.0,0,4,4,0,1,0,0,1,7,4
+New York Knicks,,Chris Copeland,New Orleans Hornets,W,11/20/2012,3:29,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,1,0,0,1,1,2,1
+New York Knicks,,J.R. Smith,Dallas Mavericks,L,11/21/2012,32:10,5,13,0.385,1,4,0.25,3,3,1.0,0,3,3,2,1,0,1,2,14,-19
+New York Knicks,,Steve Novak,Dallas Mavericks,L,11/21/2012,13:14,1,2,0.5,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,1,3,-9
+New York Knicks,,Rasheed Wallace,Dallas Mavericks,L,11/21/2012,17:34,4,9,0.444,3,7,0.429,0,0,0.0,0,7,7,1,2,1,0,0,11,-2
+New York Knicks,,J.R. Smith,Houston Rockets,L,11/23/2012,34:59,2,13,0.154,1,2,0.5,7,8,0.875,0,5,5,2,2,1,1,5,12,-21
+New York Knicks,,Steve Novak,Houston Rockets,L,11/23/2012,25:12,3,8,0.375,3,7,0.429,0,0,0.0,0,2,2,0,0,1,0,2,9,-10
+New York Knicks,,Pablo Prigioni,Houston Rockets,L,11/23/2012,17:34,2,7,0.286,1,6,0.167,0,0,0.0,1,3,4,4,2,0,2,1,5,-15
+New York Knicks,,Kurt Thomas,Houston Rockets,L,11/23/2012,9:34,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,1,0,1,0,-4
+New York Knicks,,James White,Houston Rockets,L,11/23/2012,8:39,0,4,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-9
+New York Knicks,,Chris Copeland,Houston Rockets,L,11/23/2012,7:57,3,6,0.5,0,2,0.0,0,0,0.0,0,0,0,0,1,0,0,1,6,-2
+New York Knicks,,J.R. Smith,Detroit Pistons,W,11/25/2012,30:46,3,8,0.375,1,4,0.25,8,8,1.0,2,8,10,5,1,0,1,3,15,18
+New York Knicks,,Pablo Prigioni,Detroit Pistons,W,11/25/2012,9:55,1,2,0.5,0,1,0.0,1,1,1.0,0,0,0,2,1,0,2,1,3,-1
+New York Knicks,,Rasheed Wallace,Detroit Pistons,W,11/25/2012,21:48,5,10,0.5,3,5,0.6,2,2,1.0,0,1,1,0,1,1,0,6,15,17
+New York Knicks,,Steve Novak,Detroit Pistons,W,11/25/2012,27:02,5,11,0.455,5,7,0.714,3,3,1.0,0,2,2,0,1,2,0,2,18,15
+New York Knicks,,Marcus Camby,Detroit Pistons,W,11/25/2012,4:59,0,1,0.0,0,0,0.0,0,0,0.0,0,3,3,0,0,0,0,0,0,5
+New York Knicks,,Chris Copeland,Detroit Pistons,W,11/25/2012,5:25,1,3,0.333,0,1,0.0,1,2,0.5,0,0,0,0,0,0,0,0,3,2
+New York Knicks,,James White,Detroit Pistons,W,11/25/2012,4:54,1,1,1.0,1,1,1.0,0,0,0.0,0,1,1,1,0,0,0,0,3,1
+New York Knicks,,J.R. Smith,Milwaukee Bucks,W,11/28/2012,18:01,1,5,0.2,0,0,0.0,0,0,0.0,0,2,2,0,1,0,1,5,2,2
+New York Knicks,,Steve Novak,Milwaukee Bucks,W,11/28/2012,39:42,7,10,0.7,5,7,0.714,0,0,0.0,1,3,4,1,2,0,0,3,19,13
+New York Knicks,,Rasheed Wallace,Milwaukee Bucks,W,11/28/2012,15:09,2,10,0.2,1,5,0.2,0,0,0.0,0,5,5,0,0,0,1,2,5,0
+New York Knicks,,Chris Copeland,Milwaukee Bucks,W,11/28/2012,10:57,2,5,0.4,0,0,0.0,1,2,0.5,0,1,1,0,0,0,0,0,5,3
+New York Knicks,,Pablo Prigioni,Milwaukee Bucks,W,11/28/2012,28:08,4,5,0.8,2,2,1.0,1,2,0.5,1,2,3,7,1,0,4,3,11,11
+New York Knicks,,James White,Milwaukee Bucks,W,11/28/2012,3:40,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0
+New York Knicks,,J.R. Smith,Washington Wizards,W,11/30/2012,38:17,9,14,0.643,2,3,0.667,0,0,0.0,0,2,2,6,0,0,1,1,20,26
+New York Knicks,,Steve Novak,Washington Wizards,W,11/30/2012,29:49,3,6,0.5,3,6,0.5,0,0,0.0,0,5,5,0,1,0,0,3,9,10
+New York Knicks,,Pablo Prigioni,Washington Wizards,W,11/30/2012,25:16,3,4,0.75,2,3,0.667,0,0,0.0,0,1,1,5,1,0,0,1,8,13
+New York Knicks,,Rasheed Wallace,Washington Wizards,W,11/30/2012,17:09,3,5,0.6,1,3,0.333,0,0,0.0,0,4,4,0,1,0,1,3,7,8
+New York Knicks,,Chris Copeland,Washington Wizards,W,11/30/2012,12:52,3,5,0.6,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,3,6,1
+New York Knicks,,James White,Washington Wizards,W,11/30/2012,9:03,1,4,0.25,0,2,0.0,1,2,0.5,0,2,2,1,0,0,0,2,3,1
+New York Knicks,,J.R. Smith,Phoenix Suns,W,12/02/2012,37:09,1,11,0.091,0,2,0.0,2,2,1.0,0,5,5,4,0,0,0,1,4,-7
+New York Knicks,,Steve Novak,Phoenix Suns,W,12/02/2012,31:33,4,10,0.4,4,9,0.444,0,0,0.0,0,2,2,1,2,0,0,0,12,-4
+New York Knicks,,Rasheed Wallace,Phoenix Suns,W,12/02/2012,1:25,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,1
+New York Knicks,,Chris Copeland,Phoenix Suns,W,12/02/2012,9:38,4,5,0.8,0,0,0.0,0,0,0.0,2,1,3,2,1,1,0,0,8,3
+New York Knicks,,Pablo Prigioni,Phoenix Suns,W,12/02/2012,8:46,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,3,0,0,3
+New York Knicks,,J.R. Smith,Charlotte Bobcats,W,12/05/2012,31:43,6,16,0.375,1,9,0.111,0,0,0.0,0,1,1,4,1,2,3,4,13,-4
+New York Knicks,,Jason Kidd,Charlotte Bobcats,W,12/05/2012,25:26,2,3,0.667,2,3,0.667,1,2,0.5,0,2,2,1,2,3,0,2,7,-1
+New York Knicks,,Rasheed Wallace,Charlotte Bobcats,W,12/05/2012,13:23,1,5,0.2,0,1,0.0,0,0,0.0,1,2,3,1,0,0,1,1,2,-8
+New York Knicks,,Steve Novak,Charlotte Bobcats,W,12/05/2012,25:40,3,8,0.375,3,8,0.375,0,0,0.0,0,2,2,1,0,0,0,1,9,-2
+New York Knicks,,Pablo Prigioni,Charlotte Bobcats,W,12/05/2012,12:07,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,2,1,0,0,1,2,-6
+New York Knicks,,James White,Charlotte Bobcats,W,12/05/2012,0:08,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+New York Knicks,,J.R. Smith,Miami Heat,W,12/06/2012,22:37,4,15,0.267,3,8,0.375,2,4,0.5,0,6,6,4,1,0,1,4,13,7
+New York Knicks,,Steve Novak,Miami Heat,W,12/06/2012,34:14,7,13,0.538,4,9,0.444,0,0,0.0,1,2,3,1,0,0,0,0,18,13
+New York Knicks,,Rasheed Wallace,Miami Heat,W,12/06/2012,14:15,4,13,0.308,0,6,0.0,4,6,0.667,3,4,7,0,0,1,0,1,12,-1
+New York Knicks,,James White,Miami Heat,W,12/06/2012,16:39,3,3,1.0,1,1,1.0,0,0,0.0,0,1,1,0,0,0,0,4,7,0
+New York Knicks,,Pablo Prigioni,Miami Heat,W,12/06/2012,13:15,3,3,1.0,1,1,1.0,0,0,0.0,1,5,6,1,2,0,0,2,7,2
+New York Knicks,,Chris Copeland,Miami Heat,W,12/06/2012,2:18,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+New York Knicks,,J.R. Smith,Chicago Bulls,L,12/08/2012,34:57,4,14,0.286,2,8,0.25,5,6,0.833,1,1,2,1,0,2,5,5,15,-14
+New York Knicks,,Rasheed Wallace,Chicago Bulls,L,12/08/2012,15:43,2,6,0.333,2,4,0.5,0,0,0.0,0,3,3,0,2,1,2,0,6,-5
+New York Knicks,,Steve Novak,Chicago Bulls,L,12/08/2012,30:44,1,4,0.25,1,3,0.333,4,4,1.0,0,3,3,1,1,0,0,1,7,-4
+New York Knicks,,Pablo Prigioni,Chicago Bulls,L,12/08/2012,10:16,0,3,0.0,0,0,0.0,0,0,0.0,0,0,0,2,0,0,1,1,0,4
+New York Knicks,,James White,Chicago Bulls,L,12/08/2012,12:24,2,3,0.667,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,2,4,10
+New York Knicks,,J.R. Smith,Denver Nuggets,W,12/09/2012,34:20,5,19,0.263,2,7,0.286,3,6,0.5,1,8,9,0,2,0,2,4,15,12
+New York Knicks,,Steve Novak,Denver Nuggets,W,12/09/2012,19:30,2,5,0.4,2,4,0.5,1,1,1.0,1,0,1,0,0,0,0,0,7,8
+New York Knicks,,Pablo Prigioni,Denver Nuggets,W,12/09/2012,12:21,1,1,1.0,1,1,1.0,0,0,0.0,0,0,0,5,0,0,0,2,3,-3
+New York Knicks,,Kurt Thomas,Denver Nuggets,W,12/09/2012,9:09,1,1,1.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,2,2,-4
+New York Knicks,,James White,Denver Nuggets,W,12/09/2012,0:05,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+New York Knicks,,J.R. Smith,Brooklyn Nets,W,12/11/2012,31:59,7,15,0.467,0,4,0.0,2,2,1.0,0,4,4,1,0,0,1,3,16,11
+New York Knicks,,James White,Brooklyn Nets,W,12/11/2012,6:11,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,-2
+New York Knicks,,Rasheed Wallace,Brooklyn Nets,W,12/11/2012,14:13,3,7,0.429,2,2,1.0,0,0,0.0,1,4,5,1,1,2,0,3,8,7
+New York Knicks,,Pablo Prigioni,Brooklyn Nets,W,12/11/2012,9:36,0,1,0.0,0,1,0.0,0,0,0.0,1,2,3,1,0,0,0,1,0,0
+New York Knicks,,Steve Novak,Brooklyn Nets,W,12/11/2012,21:32,0,1,0.0,0,1,0.0,0,0,0.0,0,3,3,0,0,0,0,0,0,12
+New York Knicks,,J.R. Smith,Los Angeles Lakers,W,12/13/2012,26:16,7,14,0.5,2,4,0.5,2,2,1.0,0,3,3,2,0,0,1,4,18,8
+New York Knicks,,Steve Novak,Los Angeles Lakers,W,12/13/2012,25:36,4,5,0.8,4,5,0.8,0,0,0.0,0,3,3,4,0,0,0,2,12,8
+New York Knicks,,Rasheed Wallace,Los Angeles Lakers,W,12/13/2012,12:02,3,5,0.6,2,4,0.5,0,2,0.0,0,3,3,0,1,0,0,4,8,-2
+New York Knicks,,Pablo Prigioni,Los Angeles Lakers,W,12/13/2012,11:58,0,0,0.0,0,0,0.0,0,0,0.0,1,2,3,1,2,0,1,0,0,0
+New York Knicks,,James White,Los Angeles Lakers,W,12/13/2012,3:50,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,1,0,-8
+New York Knicks,,J.R. Smith,Cleveland Cavaliers,W,12/15/2012,34:39,6,20,0.3,1,5,0.2,3,4,0.75,0,3,3,4,2,0,2,4,16,-1
+New York Knicks,,Steve Novak,Cleveland Cavaliers,W,12/15/2012,33:28,4,9,0.444,4,7,0.571,1,2,0.5,1,4,5,2,0,1,1,2,13,5
+New York Knicks,,Kurt Thomas,Cleveland Cavaliers,W,12/15/2012,14:29,1,2,0.5,0,0,0.0,2,4,0.5,4,1,5,2,0,1,0,1,4,9
+New York Knicks,,Pablo Prigioni,Cleveland Cavaliers,W,12/15/2012,11:53,0,2,0.0,0,2,0.0,0,0,0.0,0,3,3,1,1,0,0,2,0,2
+New York Knicks,,J.R. Smith,Houston Rockets,L,12/17/2012,19:56,7,13,0.538,2,5,0.4,1,2,0.5,0,3,3,0,0,0,2,3,17,1
+New York Knicks,,Steve Novak,Houston Rockets,L,12/17/2012,33:14,1,5,0.2,1,5,0.2,0,0,0.0,1,0,1,1,1,0,0,2,3,-9
+New York Knicks,,James White,Houston Rockets,L,12/17/2012,22:50,2,5,0.4,0,0,0.0,0,0,0.0,0,3,3,0,0,0,2,2,4,-2
+New York Knicks,,Kurt Thomas,Houston Rockets,L,12/17/2012,4:52,0,1,0.0,0,0,0.0,0,2,0.0,0,1,1,0,0,0,0,0,0,-9
+New York Knicks,,Pablo Prigioni,Houston Rockets,L,12/17/2012,16:40,5,10,0.5,2,6,0.333,2,2,1.0,1,2,3,5,2,0,1,1,14,0
+New York Knicks,,J.R. Smith,Brooklyn Nets,W,12/19/2012,36:44,7,11,0.636,1,1,1.0,4,4,1.0,1,4,5,3,0,1,1,2,19,24
+New York Knicks,,Chris Copeland,Brooklyn Nets,W,12/19/2012,23:29,3,4,0.75,2,2,1.0,0,0,0.0,0,1,1,0,0,0,1,2,8,10
+New York Knicks,,Kurt Thomas,Brooklyn Nets,W,12/19/2012,8:26,0,0,0.0,0,0,0.0,1,2,0.5,0,1,1,0,0,0,0,0,1,-3
+New York Knicks,,Pablo Prigioni,Brooklyn Nets,W,12/19/2012,14:23,2,5,0.4,2,4,0.5,0,0,0.0,0,0,0,2,0,0,1,1,6,-4
+New York Knicks,,James White,Brooklyn Nets,W,12/19/2012,2:04,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+New York Knicks,,J.R. Smith,Chicago Bulls,L,12/21/2012,31:41,9,20,0.45,4,6,0.667,4,4,1.0,1,9,10,2,1,0,0,6,26,0
+New York Knicks,,Steve Novak,Chicago Bulls,L,12/21/2012,31:25,0,3,0.0,0,1,0.0,0,0,0.0,0,3,3,1,0,0,0,2,0,7
+New York Knicks,,Pablo Prigioni,Chicago Bulls,L,12/21/2012,14:01,2,4,0.5,0,1,0.0,1,1,1.0,0,2,2,3,2,0,1,4,5,15
+New York Knicks,,Kurt Thomas,Chicago Bulls,L,12/21/2012,6:22,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,2,-5
+New York Knicks,,Chris Copeland,Chicago Bulls,L,12/21/2012,9:55,3,7,0.429,1,3,0.333,3,4,0.75,0,1,1,0,0,0,0,2,10,14
+New York Knicks,,James White,Chicago Bulls,L,12/21/2012,0:18,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,2
+New York Knicks,,J.R. Smith,Minnesota Timberwolves,W,12/23/2012,39:18,7,15,0.467,2,6,0.333,3,4,0.75,1,4,5,7,3,0,3,3,19,8
+New York Knicks,,Kurt Thomas,Minnesota Timberwolves,W,12/23/2012,9:47,2,2,1.0,0,0,0.0,0,0,0.0,0,2,2,0,1,0,0,2,4,-3
+New York Knicks,,Steve Novak,Minnesota Timberwolves,W,12/23/2012,18:42,1,3,0.333,0,2,0.0,2,2,1.0,0,1,1,0,0,0,0,1,4,2
+New York Knicks,,Pablo Prigioni,Minnesota Timberwolves,W,12/23/2012,4:15,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,1,0,0,0,1,3,4
+New York Knicks,,Ronnie Brewer,Los Angeles Lakers,L,12/25/2012,8:18,0,3,0.0,0,2,0.0,0,0,0.0,0,1,1,1,1,0,0,2,0,-2
+New York Knicks,,J.R. Smith,Los Angeles Lakers,L,12/25/2012,37:07,10,23,0.435,3,8,0.375,2,4,0.5,1,4,5,0,2,0,1,4,25,-18
+New York Knicks,,Steve Novak,Los Angeles Lakers,L,12/25/2012,15:13,1,2,0.5,1,2,0.5,0,0,0.0,1,1,2,0,0,0,1,1,3,-7
+New York Knicks,,Marcus Camby,Los Angeles Lakers,L,12/25/2012,8:07,1,3,0.333,0,0,0.0,2,4,0.5,1,3,4,0,0,1,1,2,4,3
+New York Knicks,,Pablo Prigioni,Los Angeles Lakers,L,12/25/2012,5:10,0,1,0.0,0,1,0.0,0,0,0.0,1,0,1,1,0,0,0,1,0,4
+New York Knicks,,J.R. Smith,Phoenix Suns,W,12/26/2012,37:05,11,27,0.407,0,4,0.0,5,6,0.833,1,5,6,5,5,1,4,3,27,-2
+New York Knicks,,Pablo Prigioni,Phoenix Suns,W,12/26/2012,17:15,2,4,0.5,1,2,0.5,0,0,0.0,0,0,0,3,2,0,4,2,5,-11
+New York Knicks,,Steve Novak,Phoenix Suns,W,12/26/2012,27:32,1,3,0.333,1,1,1.0,0,0,0.0,0,1,1,1,0,0,0,1,3,7
+New York Knicks,,Marcus Camby,Phoenix Suns,W,12/26/2012,13:00,2,7,0.286,0,0,0.0,0,2,0.0,4,5,9,0,0,1,0,0,4,6
+New York Knicks,,Chris Copeland,Phoenix Suns,W,12/26/2012,29:40,6,12,0.5,2,5,0.4,0,0,0.0,0,2,2,0,0,2,1,4,14,0
+New York Knicks,,J.R. Smith,Sacramento Kings,L,12/28/2012,43:00,11,25,0.44,1,3,0.333,5,5,1.0,3,4,7,5,0,0,4,2,28,1
+New York Knicks,,Chris Copeland,Sacramento Kings,L,12/28/2012,40:41,8,16,0.5,3,8,0.375,4,4,1.0,0,1,1,1,0,1,1,2,23,0
+New York Knicks,,Pablo Prigioni,Sacramento Kings,L,12/28/2012,18:19,0,2,0.0,0,1,0.0,0,0,0.0,1,1,2,9,1,0,2,2,0,17
+New York Knicks,,Steve Novak,Sacramento Kings,L,12/28/2012,25:46,4,7,0.571,3,5,0.6,0,0,0.0,1,1,2,1,1,0,0,2,11,15
+New York Knicks,,Marcus Camby,Sacramento Kings,L,12/28/2012,11:06,1,3,0.333,0,0,0.0,0,0,0.0,1,1,2,0,0,4,1,1,2,-1
+New York Knicks,,J.R. Smith,Portland Trail Blazers,L,01/01/2013,40:13,10,22,0.455,4,12,0.333,4,6,0.667,3,8,11,5,3,0,2,2,28,-2
+New York Knicks,,Steve Novak,Portland Trail Blazers,L,01/01/2013,20:26,0,5,0.0,0,4,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-12
+New York Knicks,,Pablo Prigioni,Portland Trail Blazers,L,01/01/2013,22:20,1,3,0.333,0,2,0.0,0,0,0.0,1,2,3,3,1,0,0,3,2,-10
+New York Knicks,,Amar'e Stoudemire,Portland Trail Blazers,L,01/01/2013,16:41,3,8,0.375,0,0,0.0,0,2,0.0,0,1,1,0,0,1,2,2,6,-9
+New York Knicks,,Chris Copeland,Portland Trail Blazers,L,01/01/2013,7:11,1,5,0.2,0,3,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-3
+New York Knicks,,Marcus Camby,Portland Trail Blazers,L,01/01/2013,9:14,1,1,1.0,0,0,0.0,0,0,0.0,1,2,3,1,0,0,0,1,2,7
+New York Knicks,,Amar'e Stoudemire,San Antonio Spurs,W,01/03/2013,20:57,4,10,0.4,0,0,0.0,2,4,0.5,1,1,2,0,1,0,2,2,10,9
+New York Knicks,,J.R. Smith,San Antonio Spurs,W,01/03/2013,27:15,9,17,0.529,1,6,0.167,1,3,0.333,2,3,5,3,1,1,0,3,20,27
+New York Knicks,,Pablo Prigioni,San Antonio Spurs,W,01/03/2013,27:19,3,9,0.333,0,1,0.0,0,0,0.0,0,2,2,9,3,1,1,2,6,16
+New York Knicks,,Chris Copeland,San Antonio Spurs,W,01/03/2013,18:25,1,5,0.2,1,2,0.5,0,0,0.0,1,2,3,2,1,1,2,3,3,-2
+New York Knicks,,Steve Novak,San Antonio Spurs,W,01/03/2013,21:48,5,7,0.714,5,7,0.714,0,0,0.0,0,2,2,0,2,0,0,1,15,10
+New York Knicks,,James White,San Antonio Spurs,W,01/03/2013,4:35,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,0,0,-6
+New York Knicks,,J.R. Smith,Orlando Magic,W,01/05/2013,31:19,8,18,0.444,0,4,0.0,2,3,0.667,0,6,6,2,2,0,0,5,18,20
+New York Knicks,,Amar'e Stoudemire,Orlando Magic,W,01/05/2013,16:57,3,7,0.429,0,0,0.0,5,5,1.0,2,2,4,1,0,0,2,2,11,0
+New York Knicks,,Pablo Prigioni,Orlando Magic,W,01/05/2013,13:33,2,6,0.333,1,3,0.333,0,0,0.0,0,1,1,2,1,0,0,1,5,-6
+New York Knicks,,Chris Copeland,Orlando Magic,W,01/05/2013,4:08,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-3
+New York Knicks,,Steve Novak,Orlando Magic,W,01/05/2013,28:04,2,6,0.333,2,6,0.333,1,1,1.0,0,2,2,0,0,0,0,0,7,26
+New York Knicks,,J.R. Smith,Boston Celtics,L,01/07/2013,38:34,7,18,0.389,4,9,0.444,6,7,0.857,0,3,3,4,2,1,1,3,24,-4
+New York Knicks,,Amar'e Stoudemire,Boston Celtics,L,01/07/2013,27:50,4,6,0.667,0,0,0.0,5,6,0.833,0,2,2,2,0,1,0,1,13,-15
+New York Knicks,,Pablo Prigioni,Boston Celtics,L,01/07/2013,14:47,1,3,0.333,0,2,0.0,0,0,0.0,1,2,3,0,0,0,4,1,2,-19
+New York Knicks,,Steve Novak,Boston Celtics,L,01/07/2013,16:06,3,4,0.75,3,3,1.0,0,0,0.0,0,2,2,0,0,0,0,4,9,-5
+New York Knicks,,Chris Copeland,Boston Celtics,L,01/07/2013,3:34,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,-4
+New York Knicks,,James White,Boston Celtics,L,01/07/2013,0:04,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+New York Knicks,,J.R. Smith,Indiana Pacers,L,01/10/2013,40:12,10,29,0.345,1,4,0.25,4,5,0.8,1,2,3,6,1,0,2,2,25,-4
+New York Knicks,,Amar'e Stoudemire,Indiana Pacers,L,01/10/2013,21:31,4,11,0.364,0,0,0.0,1,2,0.5,3,5,8,0,0,1,0,3,9,0
+New York Knicks,,Pablo Prigioni,Indiana Pacers,L,01/10/2013,19:33,0,2,0.0,0,1,0.0,0,0,0.0,0,2,2,4,0,0,0,2,0,5
+New York Knicks,,Steve Novak,Indiana Pacers,L,01/10/2013,24:22,1,4,0.25,1,3,0.333,0,0,0.0,0,5,5,0,0,0,0,1,3,-6
+New York Knicks,,Kurt Thomas,Indiana Pacers,L,01/10/2013,15:55,2,5,0.4,0,0,0.0,0,0,0.0,1,2,3,0,0,2,0,1,4,2
+New York Knicks,,J.R. Smith,Chicago Bulls,L,01/11/2013,38:51,4,17,0.235,1,3,0.333,4,4,1.0,3,0,3,1,0,1,1,6,13,-7
+New York Knicks,,Amar'e Stoudemire,Chicago Bulls,L,01/11/2013,18:35,2,4,0.5,0,0,0.0,1,2,0.5,0,1,1,0,0,0,0,5,5,-11
+New York Knicks,,Pablo Prigioni,Chicago Bulls,L,01/11/2013,30:29,5,7,0.714,2,3,0.667,0,0,0.0,0,1,1,8,3,0,5,6,12,5
+New York Knicks,,Steve Novak,Chicago Bulls,L,01/11/2013,16:55,2,3,0.667,2,3,0.667,0,0,0.0,0,2,2,0,1,0,0,2,6,19
+New York Knicks,,Chris Copeland,Chicago Bulls,L,01/11/2013,5:34,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+New York Knicks,,J.R. Smith,New Orleans Hornets,W,01/13/2013,27:01,3,11,0.273,0,3,0.0,2,3,0.667,0,4,4,6,2,0,2,3,8,9
+New York Knicks,,Pablo Prigioni,New Orleans Hornets,W,01/13/2013,29:29,3,4,0.75,1,1,1.0,1,2,0.5,2,2,4,5,1,0,2,4,8,18
+New York Knicks,,Amar'e Stoudemire,New Orleans Hornets,W,01/13/2013,23:02,3,6,0.5,0,0,0.0,6,6,1.0,2,1,3,0,0,0,0,5,12,4
+New York Knicks,,Ronnie Brewer,New Orleans Hornets,W,01/13/2013,13:32,1,3,0.333,0,0,0.0,0,0,0.0,1,1,2,0,1,1,0,0,2,2
+New York Knicks,,Steve Novak,New Orleans Hornets,W,01/13/2013,17:04,3,8,0.375,3,7,0.429,0,0,0.0,0,1,1,0,0,0,0,2,9,13
+New York Knicks,,J.R. Smith,Detroit Pistons,W,01/17/2013,38:15,6,15,0.4,1,6,0.167,3,4,0.75,1,5,6,4,3,0,4,1,16,0
+New York Knicks,,Pablo Prigioni,Detroit Pistons,W,01/17/2013,20:35,0,0,0.0,0,0,0.0,0,0,0.0,1,3,4,2,1,0,0,1,0,9
+New York Knicks,,Amar'e Stoudemire,Detroit Pistons,W,01/17/2013,20:23,3,5,0.6,0,0,0.0,11,12,0.917,1,3,4,1,1,0,2,5,17,3
+New York Knicks,,Steve Novak,Detroit Pistons,W,01/17/2013,24:18,5,9,0.556,3,6,0.5,0,0,0.0,1,2,3,1,0,0,0,2,13,16
+New York Knicks,,Ronnie Brewer,Detroit Pistons,W,01/17/2013,4:06,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,3
+New York Knicks,,James White,Detroit Pistons,W,01/17/2013,1:29,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+New York Knicks,,J.R. Smith,Brooklyn Nets,L,01/21/2013,37:54,7,19,0.368,2,7,0.286,0,0,0.0,0,4,4,1,3,0,0,1,16,-4
+New York Knicks,,Pablo Prigioni,Brooklyn Nets,L,01/21/2013,8:31,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,0,1,0,1,2,0,1
+New York Knicks,,Steve Novak,Brooklyn Nets,L,01/21/2013,13:31,0,3,0.0,0,1,0.0,0,0,0.0,0,2,2,1,0,0,0,0,0,-9
+New York Knicks,,Amar'e Stoudemire,Brooklyn Nets,L,01/21/2013,26:31,6,10,0.6,0,0,0.0,3,6,0.5,1,5,6,0,0,0,2,3,15,4
+New York Knicks,,Ronnie Brewer,Brooklyn Nets,L,01/21/2013,3:07,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-2
+New York Knicks,,J.R. Smith,Boston Celtics,W,01/24/2013,34:36,3,16,0.188,1,6,0.167,2,3,0.667,0,6,6,0,1,1,2,2,9,9
+New York Knicks,,Amar'e Stoudemire,Boston Celtics,W,01/24/2013,20:28,4,7,0.571,0,0,0.0,7,8,0.875,4,5,9,0,0,2,1,5,15,11
+New York Knicks,,Pablo Prigioni,Boston Celtics,W,01/24/2013,15:55,2,3,0.667,2,3,0.667,0,0,0.0,1,1,2,4,0,0,1,0,6,8
+New York Knicks,,Steve Novak,Boston Celtics,W,01/24/2013,13:35,0,1,0.0,0,1,0.0,0,0,0.0,0,3,3,0,0,0,0,1,0,10
+New York Knicks,,Kurt Thomas,Boston Celtics,W,01/24/2013,1:42,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-8
+New York Knicks,,Ronnie Brewer,Boston Celtics,W,01/24/2013,0:39,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0
+New York Knicks,,J.R. Smith,Philadelphia 76ers,L,01/26/2013,27:04,0,8,0.0,0,4,0.0,0,0,0.0,1,5,6,3,0,1,4,4,0,-16
+New York Knicks,,Amar'e Stoudemire,Philadelphia 76ers,L,01/26/2013,26:30,8,13,0.615,0,0,0.0,4,4,1.0,2,2,4,1,1,1,1,3,20,-2
+New York Knicks,,Pablo Prigioni,Philadelphia 76ers,L,01/26/2013,19:16,2,3,0.667,2,3,0.667,0,0,0.0,0,4,4,2,2,0,2,2,6,3
+New York Knicks,,Steve Novak,Philadelphia 76ers,L,01/26/2013,14:50,1,3,0.333,1,3,0.333,1,1,1.0,0,1,1,1,0,0,0,1,4,0
+New York Knicks,,Ronnie Brewer,Philadelphia 76ers,L,01/26/2013,0:03,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+New York Knicks,,Chris Copeland,Philadelphia 76ers,L,01/26/2013,16:38,2,4,0.5,0,2,0.0,2,2,1.0,0,2,2,0,0,0,0,0,6,5
+New York Knicks,,James White,Philadelphia 76ers,L,01/26/2013,6:32,1,2,0.5,0,1,0.0,0,0,0.0,0,1,1,0,0,1,0,0,2,7
+New York Knicks,,Kurt Thomas,Philadelphia 76ers,L,01/26/2013,3:50,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,8
+New York Knicks,,J.R. Smith,Atlanta Hawks,W,01/27/2013,36:32,7,15,0.467,1,5,0.2,3,4,0.75,0,3,3,2,2,0,1,1,18,0
+New York Knicks,,Amar'e Stoudemire,Atlanta Hawks,W,01/27/2013,29:28,6,9,0.667,0,0,0.0,6,8,0.75,4,4,8,1,0,1,3,4,18,0
+New York Knicks,,Pablo Prigioni,Atlanta Hawks,W,01/27/2013,10:06,2,3,0.667,2,3,0.667,0,0,0.0,0,0,0,4,0,0,2,3,6,3
+New York Knicks,,Kurt Thomas,Atlanta Hawks,W,01/27/2013,4:19,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,8
+New York Knicks,,Ronnie Brewer,Atlanta Hawks,W,01/27/2013,0:05,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+New York Knicks,,Steve Novak,Atlanta Hawks,W,01/27/2013,13:01,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-2
+New York Knicks,,James White,Atlanta Hawks,W,01/27/2013,3:55,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,1
+New York Knicks,,J.R. Smith,Orlando Magic,W,01/30/2013,34:38,4,8,0.5,2,2,1.0,1,2,0.5,1,4,5,4,0,1,1,3,11,21
+New York Knicks,,Steve Novak,Orlando Magic,W,01/30/2013,23:01,3,7,0.429,2,6,0.333,0,0,0.0,0,1,1,1,0,0,0,1,8,13
+New York Knicks,,Amar'e Stoudemire,Orlando Magic,W,01/30/2013,20:38,7,7,1.0,0,0,0.0,0,0,0.0,1,3,4,1,0,2,3,2,14,3
+New York Knicks,,Chris Copeland,Orlando Magic,W,01/30/2013,7:35,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,1,0,0,1,2,3,-2
+New York Knicks,,Pablo Prigioni,Orlando Magic,W,01/30/2013,15:31,4,7,0.571,3,6,0.5,0,0,0.0,0,2,2,2,1,0,1,1,11,2
+New York Knicks,,Ronnie Brewer,Orlando Magic,W,01/30/2013,4:10,0,0,0.0,0,0,0.0,1,3,0.333,0,3,3,0,0,0,0,0,1,-2
+New York Knicks,,J.R. Smith,Milwaukee Bucks,W,02/01/2013,35:32,6,14,0.429,5,13,0.385,0,0,0.0,0,5,5,0,1,0,0,3,17,21
+New York Knicks,,Amar'e Stoudemire,Milwaukee Bucks,W,02/01/2013,24:17,5,10,0.5,0,0,0.0,7,8,0.875,2,5,7,0,1,1,2,3,17,5
+New York Knicks,,Steve Novak,Milwaukee Bucks,W,02/01/2013,7:39,1,3,0.333,1,3,0.333,0,0,0.0,0,0,0,0,0,0,0,1,3,-10
+New York Knicks,,Pablo Prigioni,Milwaukee Bucks,W,02/01/2013,11:12,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,1,0,0,-5
+New York Knicks,,James White,Milwaukee Bucks,W,02/01/2013,1:03,0,1,0.0,0,0,0.0,1,2,0.5,0,0,0,0,1,0,0,0,1,-4
+New York Knicks,,Chris Copeland,Milwaukee Bucks,W,02/01/2013,1:03,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+New York Knicks,,Ronnie Brewer,Milwaukee Bucks,W,02/01/2013,0:40,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-5
+New York Knicks,,J.R. Smith,Sacramento Kings,W,02/02/2013,21:56,9,16,0.563,7,14,0.5,0,0,0.0,0,6,6,4,2,0,0,2,25,36
+New York Knicks,,Amar'e Stoudemire,Sacramento Kings,W,02/02/2013,20:42,10,10,1.0,0,0,0.0,1,1,1.0,2,4,6,0,0,0,1,1,21,31
+New York Knicks,,Pablo Prigioni,Sacramento Kings,W,02/02/2013,21:31,1,1,1.0,1,1,1.0,0,0,0.0,0,1,1,7,2,0,3,2,3,20
+New York Knicks,,Steve Novak,Sacramento Kings,W,02/02/2013,16:58,5,7,0.714,5,7,0.714,0,0,0.0,0,0,0,0,0,0,0,1,15,31
+New York Knicks,,Kurt Thomas,Sacramento Kings,W,02/02/2013,12:30,5,6,0.833,1,1,1.0,0,0,0.0,0,2,2,0,0,0,1,2,11,-4
+New York Knicks,,James White,Sacramento Kings,W,02/02/2013,12:00,1,1,1.0,0,0,0.0,0,2,0.0,0,2,2,1,1,0,2,0,2,-6
+New York Knicks,,Chris Copeland,Sacramento Kings,W,02/02/2013,9:45,1,5,0.2,1,3,0.333,2,2,1.0,1,1,2,2,0,0,1,2,5,-5
+New York Knicks,,Ronnie Brewer,Sacramento Kings,W,02/02/2013,8:10,0,1,0.0,0,1,0.0,0,2,0.0,0,0,0,0,1,0,0,0,0,-10
+New York Knicks,,J.R. Smith,Detroit Pistons,W,02/04/2013,29:33,5,15,0.333,5,13,0.385,1,2,0.5,0,4,4,2,1,0,1,1,16,10
+New York Knicks,,Amar'e Stoudemire,Detroit Pistons,W,02/04/2013,28:18,8,14,0.571,0,0,0.0,4,4,1.0,2,1,3,0,2,1,2,4,20,-2
+New York Knicks,,Pablo Prigioni,Detroit Pistons,W,02/04/2013,13:59,1,2,0.5,1,1,1.0,0,0,0.0,0,0,0,1,0,0,2,1,3,3
+New York Knicks,,Steve Novak,Detroit Pistons,W,02/04/2013,20:05,2,5,0.4,2,5,0.4,0,0,0.0,1,1,2,0,0,0,0,0,6,4
+New York Knicks,,Chris Copeland,Detroit Pistons,W,02/04/2013,1:31,1,1,1.0,0,0,0.0,2,2,1.0,1,0,1,0,0,0,0,0,4,-2
+New York Knicks,,James White,Detroit Pistons,W,02/04/2013,1:31,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+New York Knicks,,Ronnie Brewer,Detroit Pistons,W,02/04/2013,1:31,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+New York Knicks,,J.R. Smith,Washington Wizards,L,02/06/2013,34:39,6,14,0.429,0,4,0.0,1,2,0.5,1,1,2,2,0,0,0,3,13,-2
+New York Knicks,,Amar'e Stoudemire,Washington Wizards,L,02/06/2013,28:06,6,11,0.545,0,0,0.0,7,9,0.778,2,4,6,0,1,3,1,2,19,-3
+New York Knicks,,Pablo Prigioni,Washington Wizards,L,02/06/2013,7:49,1,3,0.333,1,3,0.333,0,0,0.0,1,2,3,1,0,0,1,0,3,-11
+New York Knicks,,Steve Novak,Washington Wizards,L,02/06/2013,9:53,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-4
+New York Knicks,,J.R. Smith,Minnesota Timberwolves,W,02/08/2013,35:04,6,14,0.429,2,5,0.4,1,1,1.0,1,7,8,4,1,1,0,3,15,14
+New York Knicks,,Amar'e Stoudemire,Minnesota Timberwolves,W,02/08/2013,21:11,5,7,0.714,0,0,0.0,1,1,1.0,4,1,5,1,0,0,2,3,11,0
+New York Knicks,,Steve Novak,Minnesota Timberwolves,W,02/08/2013,13:51,4,9,0.444,2,6,0.333,1,1,1.0,0,1,1,0,0,0,0,0,11,-4
+New York Knicks,,Pablo Prigioni,Minnesota Timberwolves,W,02/08/2013,10:23,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,4,1,0,1,2,0,-5
+New York Knicks,,Kurt Thomas,Minnesota Timberwolves,W,02/08/2013,5:41,2,3,0.667,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,4,0
+New York Knicks,,J.R. Smith,Los Angeles Clippers,L,02/10/2013,34:28,1,9,0.111,1,5,0.2,3,4,0.75,1,2,3,3,1,0,2,4,6,-18
+New York Knicks,,Amar'e Stoudemire,Los Angeles Clippers,L,02/10/2013,25:20,4,9,0.444,0,0,0.0,1,1,1.0,2,4,6,1,1,1,3,4,9,-19
+New York Knicks,,Steve Novak,Los Angeles Clippers,L,02/10/2013,6:45,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-12
+New York Knicks,,Pablo Prigioni,Los Angeles Clippers,L,02/10/2013,4:30,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,-8
+New York Knicks,,Kurt Thomas,Los Angeles Clippers,L,02/10/2013,0:08,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+New York Knicks,,Amar'e Stoudemire,Toronto Raptors,L,02/13/2013,17:43,4,13,0.308,0,0,0.0,2,2,1.0,5,2,7,0,0,0,1,3,10,-13
+New York Knicks,,J.R. Smith,Toronto Raptors,L,02/13/2013,33:56,8,17,0.471,5,10,0.5,5,8,0.625,1,3,4,1,0,0,1,4,26,-12
+New York Knicks,,Steve Novak,Toronto Raptors,L,02/13/2013,11:58,3,4,0.75,3,4,0.75,0,0,0.0,1,3,4,0,0,0,0,1,9,3
+New York Knicks,,Pablo Prigioni,Toronto Raptors,L,02/13/2013,7:00,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,0,0,0,-7
+New York Knicks,,J.R. Smith,Indiana Pacers,L,02/20/2013,19:03,1,7,0.143,0,1,0.0,3,6,0.5,0,1,1,1,1,0,3,1,5,-26
+New York Knicks,,Amar'e Stoudemire,Indiana Pacers,L,02/20/2013,21:46,1,5,0.2,0,0,0.0,5,6,0.833,2,5,7,1,0,0,2,4,7,-14
+New York Knicks,,Steve Novak,Indiana Pacers,L,02/20/2013,22:41,3,7,0.429,3,7,0.429,2,2,1.0,0,6,6,0,2,1,0,2,11,-7
+New York Knicks,,Pablo Prigioni,Indiana Pacers,L,02/20/2013,20:12,1,2,0.5,1,2,0.5,2,2,1.0,2,0,2,8,2,0,2,1,5,-5
+New York Knicks,,Kurt Thomas,Indiana Pacers,L,02/20/2013,9:40,0,1,0.0,0,0,0.0,0,0,0.0,1,0,1,0,1,0,0,6,0,-17
+New York Knicks,,Chris Copeland,Indiana Pacers,L,02/20/2013,10:09,6,9,0.667,0,2,0.0,1,3,0.333,0,1,1,0,1,0,1,2,13,2
+New York Knicks,,Ronnie Brewer,Indiana Pacers,L,02/20/2013,2:02,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+New York Knicks,,James White,Indiana Pacers,L,02/20/2013,2:02,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+New York Knicks,,J.R. Smith,Toronto Raptors,L,02/22/2013,33:21,7,12,0.583,3,6,0.5,2,2,1.0,0,4,4,4,1,0,2,3,19,3
+New York Knicks,,Amar'e Stoudemire,Toronto Raptors,L,02/22/2013,26:42,6,10,0.6,0,0,0.0,2,4,0.5,1,5,6,0,0,1,3,4,14,3
+New York Knicks,,Steve Novak,Toronto Raptors,L,02/22/2013,12:04,2,4,0.5,2,4,0.5,0,0,0.0,0,1,1,1,0,0,0,1,6,9
+New York Knicks,,Pablo Prigioni,Toronto Raptors,L,02/22/2013,11:30,1,2,0.5,1,2,0.5,0,0,0.0,1,2,3,1,0,0,0,2,3,-3
+New York Knicks,,J.R. Smith,Philadelphia 76ers,W,02/24/2013,35:56,5,12,0.417,3,6,0.5,1,2,0.5,1,5,6,2,1,0,1,2,14,5
+New York Knicks,,Amar'e Stoudemire,Philadelphia 76ers,W,02/24/2013,21:40,9,10,0.9,0,0,0.0,4,6,0.667,2,3,5,0,2,0,1,5,22,11
+New York Knicks,,Steve Novak,Philadelphia 76ers,W,02/24/2013,18:54,1,2,0.5,1,2,0.5,1,1,1.0,0,6,6,0,1,0,0,1,4,20
+New York Knicks,,Pablo Prigioni,Philadelphia 76ers,W,02/24/2013,12:34,1,4,0.25,0,3,0.0,2,2,1.0,0,1,1,5,0,0,0,1,4,13
+New York Knicks,,J.R. Smith,Golden State Warriors,W,02/27/2013,35:03,10,19,0.526,6,11,0.545,0,0,0.0,0,5,5,1,0,0,1,5,26,4
+New York Knicks,,Amar'e Stoudemire,Golden State Warriors,W,02/27/2013,19:32,6,7,0.857,0,0,0.0,2,2,1.0,1,3,4,0,0,0,2,3,14,-4
+New York Knicks,,Steve Novak,Golden State Warriors,W,02/27/2013,8:48,0,4,0.0,0,2,0.0,3,3,1.0,0,1,1,1,0,0,0,1,3,-7
+New York Knicks,,Pablo Prigioni,Golden State Warriors,W,02/27/2013,8:37,1,2,0.5,1,2,0.5,0,0,0.0,1,0,1,1,0,0,0,2,3,-7
+New York Knicks,,Kenyon Martin,Golden State Warriors,W,02/27/2013,4:48,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-10
+New York Knicks,,James White,Golden State Warriors,W,02/27/2013,0:51,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+New York Knicks,,J.R. Smith,Washington Wizards,W,03/01/2013,33:00,5,13,0.385,3,8,0.375,0,0,0.0,1,11,12,2,3,0,1,6,13,5
+New York Knicks,,Jason Kidd,Washington Wizards,W,03/01/2013,28:01,2,6,0.333,0,4,0.0,0,0,0.0,1,2,3,5,1,0,0,5,4,11
+New York Knicks,,Amar'e Stoudemire,Washington Wizards,W,03/01/2013,24:24,5,8,0.625,0,0,0.0,2,2,1.0,0,2,2,0,0,0,3,2,12,7
+New York Knicks,,Steve Novak,Washington Wizards,W,03/01/2013,11:18,2,4,0.5,1,3,0.333,0,0,0.0,0,0,0,0,0,0,0,2,5,-6
+New York Knicks,,J.R. Smith,Miami Heat,L,03/03/2013,35:39,5,18,0.278,3,14,0.214,0,0,0.0,1,11,12,2,3,0,3,4,13,-2
+New York Knicks,,Amar'e Stoudemire,Miami Heat,L,03/03/2013,21:15,5,7,0.714,0,0,0.0,2,4,0.5,0,2,2,1,0,1,2,1,12,-2
+New York Knicks,,Jason Kidd,Miami Heat,L,03/03/2013,34:27,5,7,0.714,4,5,0.8,0,0,0.0,1,7,8,6,3,0,2,3,14,2
+New York Knicks,,Steve Novak,Miami Heat,L,03/03/2013,12:08,0,3,0.0,0,3,0.0,0,0,0.0,0,2,2,1,0,0,0,1,0,6
+New York Knicks,,Amar'e Stoudemire,Cleveland Cavaliers,W,03/04/2013,31:55,10,15,0.667,0,0,0.0,2,2,1.0,2,4,6,2,0,1,4,4,22,13
+New York Knicks,,J.R. Smith,Cleveland Cavaliers,W,03/04/2013,37:32,6,17,0.353,1,7,0.143,5,6,0.833,1,6,7,7,1,0,1,2,18,3
+New York Knicks,,Jason Kidd,Cleveland Cavaliers,W,03/04/2013,29:57,3,7,0.429,3,5,0.6,3,4,0.75,3,5,8,1,3,0,1,4,12,5
+New York Knicks,,Steve Novak,Cleveland Cavaliers,W,03/04/2013,20:10,4,7,0.571,4,7,0.571,3,3,1.0,1,2,3,0,1,0,0,3,15,-3
+New York Knicks,,Marcus Camby,Cleveland Cavaliers,W,03/04/2013,6:45,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,1,0,0,-6
+New York Knicks,,Pablo Prigioni,Cleveland Cavaliers,W,03/04/2013,8:18,1,2,0.5,1,2,0.5,0,0,0.0,1,1,2,1,0,0,2,0,3,1
+New York Knicks,,Amar'e Stoudemire,Detroit Pistons,W,03/06/2013,30:39,8,12,0.667,0,0,0.0,6,7,0.857,6,3,9,0,0,1,3,2,22,12
+New York Knicks,,J.R. Smith,Detroit Pistons,W,03/06/2013,40:11,7,22,0.318,4,11,0.364,2,2,1.0,1,3,4,5,4,0,3,2,20,14
+New York Knicks,,Jason Kidd,Detroit Pistons,W,03/06/2013,32:03,2,7,0.286,2,7,0.286,0,0,0.0,0,5,5,6,3,1,0,1,6,24
+New York Knicks,,Pablo Prigioni,Detroit Pistons,W,03/06/2013,17:10,0,3,0.0,0,3,0.0,0,0,0.0,1,1,2,3,1,0,1,1,0,15
+New York Knicks,,Steve Novak,Detroit Pistons,W,03/06/2013,16:18,0,5,0.0,0,5,0.0,0,0,0.0,1,1,2,0,1,0,1,0,0,-2
+New York Knicks,,Marcus Camby,Detroit Pistons,W,03/06/2013,5:30,0,1,0.0,0,0,0.0,2,2,1.0,1,0,1,0,0,0,0,1,2,2
+New York Knicks,,Amar'e Stoudemire,Oklahoma City Thunder,L,03/07/2013,28:55,5,16,0.313,0,0,0.0,6,6,1.0,6,2,8,0,0,2,0,2,16,6
+New York Knicks,,J.R. Smith,Oklahoma City Thunder,L,03/07/2013,36:11,14,29,0.483,6,13,0.462,2,2,1.0,0,3,3,3,3,0,2,3,36,7
+New York Knicks,,Jason Kidd,Oklahoma City Thunder,L,03/07/2013,26:49,0,2,0.0,0,1,0.0,0,0,0.0,1,9,10,3,2,1,1,0,0,2
+New York Knicks,,Steve Novak,Oklahoma City Thunder,L,03/07/2013,13:18,1,2,0.5,1,2,0.5,0,0,0.0,1,1,2,0,1,0,1,1,3,-1
+New York Knicks,,Kenyon Martin,Oklahoma City Thunder,L,03/07/2013,16:60,2,3,0.667,0,0,0.0,0,0,0.0,1,0,1,0,1,0,1,6,4,-1
+New York Knicks,,Kenyon Martin,Utah Jazz,W,03/09/2013,21:34,4,6,0.667,0,0,0.0,2,2,1.0,2,4,6,1,2,0,1,3,10,14
+New York Knicks,,J.R. Smith,Utah Jazz,W,03/09/2013,28:04,10,18,0.556,4,8,0.5,0,2,0.0,2,4,6,3,0,0,3,2,24,21
+New York Knicks,,Jason Kidd,Utah Jazz,W,03/09/2013,16:14,0,5,0.0,0,5,0.0,2,2,1.0,1,4,5,1,1,0,1,2,2,-13
+New York Knicks,,Steve Novak,Utah Jazz,W,03/09/2013,26:13,7,12,0.583,5,10,0.5,1,1,1.0,0,0,0,2,1,0,0,0,20,11
+New York Knicks,,Marcus Camby,Utah Jazz,W,03/09/2013,13:57,0,2,0.0,0,0,0.0,0,2,0.0,0,1,1,1,2,1,0,1,0,7
+New York Knicks,,Pablo Prigioni,Utah Jazz,W,03/09/2013,23:40,1,2,0.5,1,2,0.5,4,4,1.0,3,2,5,5,0,0,1,1,7,17
+New York Knicks,,Chris Copeland,Utah Jazz,W,03/09/2013,7:21,4,6,0.667,1,2,0.5,3,3,1.0,0,0,0,0,1,0,1,3,12,8
+New York Knicks,,J.R. Smith,Golden State Warriors,L,03/11/2013,21:21,3,11,0.273,0,3,0.0,3,4,0.75,0,0,0,1,0,0,2,2,9,-14
+New York Knicks,,Kenyon Martin,Golden State Warriors,L,03/11/2013,18:03,1,4,0.25,0,0,0.0,1,4,0.25,1,3,4,0,1,0,1,5,3,6
+New York Knicks,,Jason Kidd,Golden State Warriors,L,03/11/2013,19:17,0,3,0.0,0,3,0.0,0,0,0.0,0,3,3,2,1,1,0,1,0,-2
+New York Knicks,,Kurt Thomas,Golden State Warriors,L,03/11/2013,7:14,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,-6
+New York Knicks,,Steve Novak,Golden State Warriors,L,03/11/2013,16:32,0,6,0.0,0,4,0.0,0,0,0.0,0,3,3,1,0,0,0,2,0,-4
+New York Knicks,,Pablo Prigioni,Golden State Warriors,L,03/11/2013,17:14,0,4,0.0,0,4,0.0,0,0,0.0,1,1,2,1,2,0,2,0,0,-8
+New York Knicks,,Chris Copeland,Golden State Warriors,L,03/11/2013,18:51,5,11,0.455,3,5,0.6,2,2,1.0,1,5,6,1,0,0,4,5,15,-5
+New York Knicks,,J.R. Smith,Denver Nuggets,L,03/13/2013,31:38,5,12,0.417,3,5,0.6,2,3,0.667,0,5,5,8,1,0,1,3,15,-21
+New York Knicks,,Jason Kidd,Denver Nuggets,L,03/13/2013,8:55,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,1,0,0,1,0,3,-7
+New York Knicks,,Kenyon Martin,Denver Nuggets,L,03/13/2013,21:04,2,5,0.4,0,0,0.0,1,6,0.167,0,5,5,1,2,4,2,4,5,-5
+New York Knicks,,Chris Copeland,Denver Nuggets,L,03/13/2013,19:37,1,5,0.2,0,1,0.0,5,5,1.0,2,4,6,1,0,1,0,2,7,-5
+New York Knicks,,Steve Novak,Denver Nuggets,L,03/13/2013,18:55,2,7,0.286,0,5,0.0,0,0,0.0,1,1,2,0,0,0,1,1,4,-9
+New York Knicks,,Kurt Thomas,Denver Nuggets,L,03/13/2013,9:13,2,2,1.0,0,0,0.0,0,0,0.0,1,2,3,0,0,1,1,4,4,0
+New York Knicks,,Pablo Prigioni,Denver Nuggets,L,03/13/2013,14:12,1,3,0.333,1,2,0.5,2,2,1.0,1,1,2,3,0,0,3,2,5,4
+New York Knicks,,J.R. Smith,Portland Trail Blazers,L,03/14/2013,35:19,11,21,0.524,4,8,0.5,7,10,0.7,0,3,3,2,0,0,4,3,33,-12
+New York Knicks,,Marcus Camby,Portland Trail Blazers,L,03/14/2013,19:02,4,6,0.667,0,0,0.0,0,2,0.0,3,7,10,3,0,0,0,1,8,0
+New York Knicks,,Jason Kidd,Portland Trail Blazers,L,03/14/2013,33:48,1,8,0.125,1,7,0.143,0,0,0.0,0,2,2,2,1,0,2,0,3,-13
+New York Knicks,,Steve Novak,Portland Trail Blazers,L,03/14/2013,9:11,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,2
+New York Knicks,,Pablo Prigioni,Portland Trail Blazers,L,03/14/2013,14:34,1,3,0.333,0,1,0.0,0,0,0.0,3,2,5,5,4,0,1,3,2,6
+New York Knicks,,J.R. Smith,Los Angeles Clippers,L,03/17/2013,36:11,4,20,0.2,1,7,0.143,8,9,0.889,0,6,6,1,1,0,3,2,17,-19
+New York Knicks,,Marcus Camby,Los Angeles Clippers,L,03/17/2013,22:09,0,6,0.0,0,0,0.0,1,2,0.5,3,1,4,1,1,0,0,2,1,-16
+New York Knicks,,Jason Kidd,Los Angeles Clippers,L,03/17/2013,24:40,4,7,0.571,3,5,0.6,0,0,0.0,0,4,4,1,2,0,0,1,11,-9
+New York Knicks,,Steve Novak,Los Angeles Clippers,L,03/17/2013,15:56,3,3,1.0,3,3,1.0,0,0,0.0,1,1,2,0,1,0,0,2,9,9
+New York Knicks,,Pablo Prigioni,Los Angeles Clippers,L,03/17/2013,12:00,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,3,2,-1
+New York Knicks,,J.R. Smith,Utah Jazz,W,03/18/2013,31:25,5,13,0.385,1,4,0.25,9,10,0.9,2,3,5,1,1,0,4,3,20,10
+New York Knicks,,Jason Kidd,Utah Jazz,W,03/18/2013,27:51,2,5,0.4,1,4,0.25,2,2,1.0,0,3,3,5,1,0,1,1,7,8
+New York Knicks,,Marcus Camby,Utah Jazz,W,03/18/2013,6:52,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,0,2,1,1,1,0,2
+New York Knicks,,Kurt Thomas,Utah Jazz,W,03/18/2013,26:47,3,5,0.6,0,0,0.0,0,0,0.0,0,3,3,2,0,3,2,2,6,3
+New York Knicks,,Steve Novak,Utah Jazz,W,03/18/2013,16:39,0,3,0.0,0,3,0.0,4,5,0.8,0,0,0,0,1,0,1,2,4,2
+New York Knicks,,J.R. Smith,Orlando Magic,W,03/20/2013,37:41,8,16,0.5,2,6,0.333,4,5,0.8,1,6,7,2,0,1,0,0,22,12
+New York Knicks,,Chris Copeland,Orlando Magic,W,03/20/2013,20:19,4,10,0.4,1,4,0.25,0,0,0.0,2,1,3,0,0,0,2,6,9,-5
+New York Knicks,,Marcus Camby,Orlando Magic,W,03/20/2013,7:00,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,1,0,0,1,0,0,-7
+New York Knicks,,Jason Kidd,Orlando Magic,W,03/20/2013,22:39,2,3,0.667,1,2,0.5,0,0,0.0,2,0,2,5,3,0,2,1,5,-9
+New York Knicks,,Steve Novak,Orlando Magic,W,03/20/2013,25:58,4,8,0.5,3,7,0.429,0,0,0.0,0,3,3,0,1,0,1,1,11,-3
+New York Knicks,,James White,Orlando Magic,W,03/20/2013,6:25,3,4,0.75,1,2,0.5,0,0,0.0,0,0,0,0,1,0,1,1,7,-5
+New York Knicks,,J.R. Smith,Toronto Raptors,W,03/22/2013,38:12,5,10,0.5,1,3,0.333,3,7,0.429,1,4,5,3,1,0,1,3,14,8
+New York Knicks,,Jason Kidd,Toronto Raptors,W,03/22/2013,30:46,2,5,0.4,2,4,0.5,1,2,0.5,0,5,5,3,0,1,2,3,7,1
+New York Knicks,,Chris Copeland,Toronto Raptors,W,03/22/2013,4:56,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,0,0,0,1,2,3,5
+New York Knicks,,Marcus Camby,Toronto Raptors,W,03/22/2013,11:44,0,2,0.0,0,0,0.0,0,0,0.0,0,5,5,0,0,1,1,4,0,8
+New York Knicks,,Steve Novak,Toronto Raptors,W,03/22/2013,6:17,2,2,1.0,1,1,1.0,0,0,0.0,0,2,2,1,0,0,0,0,5,13
+New York Knicks,,J.R. Smith,Toronto Raptors,W,03/23/2013,31:09,9,16,0.563,0,3,0.0,7,8,0.875,0,5,5,3,2,0,3,1,25,12
+New York Knicks,,Jason Kidd,Toronto Raptors,W,03/23/2013,22:41,1,1,1.0,1,1,1.0,0,0,0.0,0,3,3,2,1,0,1,2,3,13
+New York Knicks,,Steve Novak,Toronto Raptors,W,03/23/2013,25:13,2,6,0.333,1,2,0.5,0,0,0.0,0,3,3,0,1,0,0,1,5,5
+New York Knicks,,Chris Copeland,Toronto Raptors,W,03/23/2013,20:33,5,7,0.714,2,2,1.0,0,0,0.0,1,4,5,0,0,0,1,5,12,7
+New York Knicks,,James White,Toronto Raptors,W,03/23/2013,5:27,0,2,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,2
+New York Knicks,,J.R. Smith,Boston Celtics,W,03/26/2013,34:29,13,24,0.542,1,3,0.333,5,5,1.0,4,3,7,1,3,0,0,3,32,17
+New York Knicks,,Jason Kidd,Boston Celtics,W,03/26/2013,23:03,2,4,0.5,1,3,0.333,0,0,0.0,0,6,6,0,1,0,0,2,5,16
+New York Knicks,,Chris Copeland,Boston Celtics,W,03/26/2013,12:50,0,4,0.0,0,2,0.0,1,2,0.5,0,5,5,0,0,0,2,3,1,2
+New York Knicks,,Steve Novak,Boston Celtics,W,03/26/2013,17:44,3,6,0.5,3,6,0.5,0,0,0.0,0,1,1,0,0,1,0,1,9,5
+New York Knicks,,James White,Boston Celtics,W,03/26/2013,2:40,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,0,0,0
+New York Knicks,,J.R. Smith,Memphis Grizzlies,W,03/27/2013,41:40,10,18,0.556,3,7,0.429,12,13,0.923,4,3,7,2,0,1,4,2,35,8
+New York Knicks,,Jason Kidd,Memphis Grizzlies,W,03/27/2013,29:05,1,2,0.5,1,2,0.5,0,1,0.0,0,1,1,3,4,1,0,2,3,4
+New York Knicks,,Steve Novak,Memphis Grizzlies,W,03/27/2013,15:49,3,8,0.375,3,8,0.375,0,0,0.0,0,3,3,1,0,0,0,0,9,7
+New York Knicks,,Marcus Camby,Memphis Grizzlies,W,03/27/2013,7:53,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,4,0,9
+New York Knicks,,Chris Copeland,Memphis Grizzlies,W,03/27/2013,6:09,2,4,0.5,0,1,0.0,0,0,0.0,1,0,1,1,0,0,0,0,4,-9
+New York Knicks,,James White,Memphis Grizzlies,W,03/27/2013,0:17,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+New York Knicks,,J.R. Smith,Charlotte Bobcats,W,03/29/2013,37:10,12,18,0.667,2,2,1.0,11,12,0.917,0,2,2,1,1,1,4,5,37,13
+New York Knicks,,Steve Novak,Charlotte Bobcats,W,03/29/2013,18:53,1,2,0.5,1,1,1.0,0,0,0.0,1,1,2,0,0,0,0,1,3,14
+New York Knicks,,Jason Kidd,Charlotte Bobcats,W,03/29/2013,23:02,1,4,0.25,1,4,0.25,0,0,0.0,2,5,7,3,1,0,1,2,3,-3
+New York Knicks,,Chris Copeland,Charlotte Bobcats,W,03/29/2013,11:28,1,2,0.5,0,0,0.0,0,0,0.0,1,1,2,0,0,0,1,3,2,2
+New York Knicks,,Marcus Camby,Charlotte Bobcats,W,03/29/2013,4:29,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,2,7
+New York Knicks,,James White,Charlotte Bobcats,W,03/29/2013,0:15,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+New York Knicks,,J.R. Smith,Boston Celtics,W,03/31/2013,32:56,4,12,0.333,0,1,0.0,7,10,0.7,2,10,12,4,2,0,1,1,15,20
+New York Knicks,,Jason Kidd,Boston Celtics,W,03/31/2013,21:12,1,4,0.25,1,4,0.25,0,0,0.0,1,4,5,2,1,0,3,3,3,25
+New York Knicks,,Steve Novak,Boston Celtics,W,03/31/2013,19:39,4,7,0.571,2,3,0.667,0,0,0.0,0,0,0,0,0,0,0,0,10,14
+New York Knicks,,Chris Copeland,Boston Celtics,W,03/31/2013,19:40,6,10,0.6,3,3,1.0,7,9,0.778,3,2,5,0,1,0,1,0,22,13
+New York Knicks,,James White,Boston Celtics,W,03/31/2013,5:53,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,-2
+New York Knicks,,Kenyon Martin,Miami Heat,W,04/02/2013,24:04,4,7,0.571,0,0,0.0,1,2,0.5,2,4,6,0,1,0,1,3,9,-1
+New York Knicks,,J.R. Smith,Miami Heat,W,04/02/2013,30:08,5,15,0.333,2,3,0.667,2,4,0.5,2,4,6,1,1,0,2,4,14,11
+New York Knicks,,Jason Kidd,Miami Heat,W,04/02/2013,26:38,0,2,0.0,0,2,0.0,0,0,0.0,1,2,3,1,2,0,0,3,0,9
+New York Knicks,,Steve Novak,Miami Heat,W,04/02/2013,13:16,1,2,0.5,1,2,0.5,0,1,0.0,0,0,0,0,0,0,0,1,3,-2
+New York Knicks,,Chris Copeland,Miami Heat,W,04/02/2013,7:37,1,2,0.5,0,1,0.0,1,1,1.0,0,1,1,0,0,0,1,2,3,-3
+New York Knicks,,James White,Miami Heat,W,04/02/2013,0:03,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+New York Knicks,,J.R. Smith,Atlanta Hawks,W,04/03/2013,30:58,8,15,0.533,1,4,0.25,2,4,0.5,0,1,1,1,1,0,5,3,19,16
+New York Knicks,,Kenyon Martin,Atlanta Hawks,W,04/03/2013,24:29,0,0,0.0,0,0,0.0,1,2,0.5,4,5,9,0,1,0,2,2,1,9
+New York Knicks,,Jason Kidd,Atlanta Hawks,W,04/03/2013,30:04,0,3,0.0,0,3,0.0,0,0,0.0,1,4,5,7,1,0,0,1,0,12
+New York Knicks,,Steve Novak,Atlanta Hawks,W,04/03/2013,15:29,3,3,1.0,3,3,1.0,0,0,0.0,0,2,2,1,0,0,0,1,9,6
+New York Knicks,,Chris Copeland,Atlanta Hawks,W,04/03/2013,2:11,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+New York Knicks,,J.R. Smith,Milwaukee Bucks,W,04/05/2013,33:43,11,22,0.5,5,11,0.455,3,4,0.75,1,9,10,3,2,0,0,0,30,14
+New York Knicks,,Jason Kidd,Milwaukee Bucks,W,04/05/2013,23:36,2,4,0.5,1,2,0.5,0,0,0.0,1,6,7,2,1,0,0,2,5,-5
+New York Knicks,,Chris Copeland,Milwaukee Bucks,W,04/05/2013,20:34,2,4,0.5,2,4,0.5,0,0,0.0,0,0,0,0,0,0,0,4,6,-5
+New York Knicks,,Steve Novak,Milwaukee Bucks,W,04/05/2013,14:42,1,4,0.25,0,3,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-8
+New York Knicks,,James White,Milwaukee Bucks,W,04/05/2013,1:28,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,3
+New York Knicks,,J.R. Smith,Oklahoma City Thunder,W,04/07/2013,34:56,7,18,0.389,2,9,0.222,6,8,0.75,1,6,7,4,0,0,3,3,22,6
+New York Knicks,,Jason Kidd,Oklahoma City Thunder,W,04/07/2013,30:43,5,8,0.625,4,6,0.667,0,0,0.0,1,5,6,2,2,0,0,0,14,7
+New York Knicks,,Chris Copeland,Oklahoma City Thunder,W,04/07/2013,18:32,5,9,0.556,2,3,0.667,1,2,0.5,2,1,3,3,0,1,0,4,13,0
+New York Knicks,,Steve Novak,Oklahoma City Thunder,W,04/07/2013,11:34,2,4,0.5,2,4,0.5,0,0,0.0,0,2,2,0,0,0,0,0,6,9
+New York Knicks,,J.R. Smith,Washington Wizards,W,04/09/2013,32:23,7,14,0.5,1,3,0.333,2,3,0.667,0,2,2,3,0,0,4,1,17,10
+New York Knicks,,Chris Copeland,Washington Wizards,W,04/09/2013,29:33,6,11,0.545,4,6,0.667,1,2,0.5,2,7,9,1,0,0,3,5,17,3
+New York Knicks,,Jason Kidd,Washington Wizards,W,04/09/2013,22:03,1,1,1.0,1,1,1.0,0,0,0.0,1,5,6,1,2,0,0,2,3,17
+New York Knicks,,Steve Novak,Washington Wizards,W,04/09/2013,22:29,4,8,0.5,4,8,0.5,0,0,0.0,0,1,1,0,0,0,0,2,12,3
+New York Knicks,,James White,Washington Wizards,W,04/09/2013,6:36,0,2,0.0,0,1,0.0,0,0,0.0,1,0,1,0,0,0,0,0,0,-2
+New York Knicks,,J.R. Smith,Chicago Bulls,L,04/11/2013,42:28,11,27,0.407,2,4,0.5,4,7,0.571,4,10,14,4,0,0,0,3,28,-32
+New York Knicks,,Jason Kidd,Chicago Bulls,L,04/11/2013,36:48,0,4,0.0,0,4,0.0,0,0,0.0,0,6,6,2,0,1,0,5,0,-21
+New York Knicks,,Steve Novak,Chicago Bulls,L,04/11/2013,12:26,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-9
+New York Knicks,,J.R. Smith,Cleveland Cavaliers,W,04/12/2013,29:23,13,16,0.813,2,3,0.667,3,5,0.6,0,5,5,1,2,1,0,2,31,21
+New York Knicks,,Solomon Jones,Cleveland Cavaliers,W,04/12/2013,12:18,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,1,0,-1
+New York Knicks,,Jason Kidd,Cleveland Cavaliers,W,04/12/2013,17:23,2,3,0.667,2,3,0.667,0,0,0.0,0,4,4,1,0,0,3,2,6,15
+New York Knicks,,Steve Novak,Cleveland Cavaliers,W,04/12/2013,25:12,1,7,0.143,1,6,0.167,0,0,0.0,0,1,1,0,1,1,0,3,3,7
+New York Knicks,,James White,Cleveland Cavaliers,W,04/12/2013,4:31,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,2,0,-9
+New York Knicks,,J.R. Smith,Indiana Pacers,W,04/14/2013,29:38,7,16,0.438,1,3,0.333,0,1,0.0,2,6,8,2,2,1,2,4,15,7
+New York Knicks,,Jason Kidd,Indiana Pacers,W,04/14/2013,30:01,0,4,0.0,0,4,0.0,0,0,0.0,1,3,4,5,4,0,0,3,0,17
+New York Knicks,,Chris Copeland,Indiana Pacers,W,04/14/2013,34:15,8,12,0.667,2,4,0.5,2,2,1.0,0,3,3,0,1,0,2,2,20,8
+New York Knicks,,Steve Novak,Indiana Pacers,W,04/14/2013,17:38,2,7,0.286,2,6,0.333,0,0,0.0,0,0,0,0,0,0,1,2,6,10
+New York Knicks,,James White,Indiana Pacers,W,04/14/2013,2:38,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+New York Knicks,,Jason Kidd,Charlotte Bobcats,L,04/15/2013,21:17,2,8,0.25,2,7,0.286,0,0,0.0,0,2,2,6,1,0,1,0,6,-14
+New York Knicks,,Rasheed Wallace,Charlotte Bobcats,L,04/15/2013,3:50,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-4
+New York Knicks,,Steve Novak,Atlanta Hawks,W,04/17/2013,41:07,1,8,0.125,1,6,0.167,0,0,0.0,0,1,1,3,1,0,0,3,3,-3
+New York Knicks,,Quentin Richardson,Atlanta Hawks,W,04/17/2013,28:55,1,11,0.091,1,4,0.25,2,2,1.0,5,5,10,1,0,0,2,1,5,-9

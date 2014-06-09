@@ -1,0 +1,73 @@
+{
+	"team": "Brooklyn Nets",
+	"players": [
+		{
+			"name": "Gerald Wallace",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kris Humphries",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Brook Lopez",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Joe Johnson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Deron Williams",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Keith Bogans",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Andray Blatche",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Reggie Evans",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "CJ Watson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "MarShon Brooks",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jerry Stackhouse",
+			"positions": [""]
+		},
+		{
+			"name": "Josh Childress",
+			"positions": [""]
+		},
+		{
+			"name": "Tyshawn Taylor",
+			"positions": [""]
+		},
+		{
+			"name": "Mirza Teletovic",
+			"positions": [""]
+		},
+		{
+			"name": "Tornike Shengelia",
+			"positions": [""]
+		},
+		{
+			"name": "Damion James",
+			"positions": [""]
+		},		
+		{
+			"name": "Kris Joseph",
+			"positions": [""]
+		}
+	]
+}

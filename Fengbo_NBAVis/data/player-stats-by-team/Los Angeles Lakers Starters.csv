@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Los Angeles Lakers,F,Metta World Peace,Dallas Mavericks,L,10/30/2012,36:29,1,8,0.125,0,3,0.0,1,2,0.5,2,6,8,4,3,0,3,1,3,-5
+Los Angeles Lakers,F,Pau Gasol,Dallas Mavericks,L,10/30/2012,40:19,8,19,0.421,1,1,1.0,6,8,0.75,4,9,13,6,0,3,2,2,23,3
+Los Angeles Lakers,C,Dwight Howard,Dallas Mavericks,L,10/30/2012,37:59,8,12,0.667,0,0,0.0,3,14,0.214,4,6,10,2,0,1,3,6,19,-13
+Los Angeles Lakers,G,Kobe Bryant,Dallas Mavericks,L,10/30/2012,34:52,11,14,0.786,0,0,0.0,0,0,0.0,0,1,1,0,1,0,2,3,22,-1
+Los Angeles Lakers,G,Steve Nash,Dallas Mavericks,L,10/30/2012,34:09,3,9,0.333,1,4,0.25,0,0,0.0,0,2,2,4,0,1,1,1,7,-3
+Los Angeles Lakers,F,Metta World Peace,Portland Trail Blazers,L,10/31/2012,32:32,4,5,0.8,2,3,0.667,0,0,0.0,0,3,3,2,1,1,6,6,10,10
+Los Angeles Lakers,F,Pau Gasol,Portland Trail Blazers,L,10/31/2012,39:51,7,14,0.5,0,0,0.0,2,2,1.0,3,6,9,2,1,0,2,3,16,6
+Los Angeles Lakers,C,Dwight Howard,Portland Trail Blazers,L,10/31/2012,41:21,9,15,0.6,0,0,0.0,15,19,0.789,6,8,14,5,1,1,3,5,33,-2
+Los Angeles Lakers,G,Kobe Bryant,Portland Trail Blazers,L,10/31/2012,38:29,10,20,0.5,4,9,0.444,6,7,0.857,2,4,6,3,0,0,7,5,30,9
+Los Angeles Lakers,G,Steve Nash,Portland Trail Blazers,L,10/31/2012,16:02,1,3,0.333,0,1,0.0,0,0,0.0,0,4,4,4,1,0,2,1,2,0
+Los Angeles Lakers,F,Metta World Peace,Los Angeles Clippers,L,11/02/2012,38:18,3,10,0.3,1,7,0.143,1,2,0.5,0,1,1,3,2,0,2,5,8,-2
+Los Angeles Lakers,F,Pau Gasol,Los Angeles Clippers,L,11/02/2012,38:50,5,9,0.556,0,0,0.0,0,0,0.0,3,11,14,3,1,0,1,3,10,-8
+Los Angeles Lakers,C,Dwight Howard,Los Angeles Clippers,L,11/02/2012,30:28,4,7,0.571,0,0,0.0,5,10,0.5,1,7,8,2,0,5,4,5,13,-3
+Los Angeles Lakers,G,Kobe Bryant,Los Angeles Clippers,L,11/02/2012,42:55,14,23,0.609,2,3,0.667,10,10,1.0,2,4,6,1,2,0,6,1,40,-7
+Los Angeles Lakers,G,Steve Blake,Los Angeles Clippers,L,11/02/2012,38:41,2,6,0.333,2,3,0.667,2,2,1.0,0,1,1,2,0,0,3,6,8,-2
+Los Angeles Lakers,F,Metta World Peace,Detroit Pistons,W,11/04/2012,30:25,7,11,0.636,3,6,0.5,1,2,0.5,1,4,5,4,1,0,2,1,18,25
+Los Angeles Lakers,F,Pau Gasol,Detroit Pistons,W,11/04/2012,32:30,6,16,0.375,0,1,0.0,2,2,1.0,3,2,5,2,0,3,1,3,14,38
+Los Angeles Lakers,C,Dwight Howard,Detroit Pistons,W,11/04/2012,32:50,12,14,0.857,0,0,0.0,4,9,0.444,4,3,7,0,2,3,4,1,28,29
+Los Angeles Lakers,G,Kobe Bryant,Detroit Pistons,W,11/04/2012,31:43,5,10,0.5,3,5,0.6,2,2,1.0,0,7,7,8,1,0,1,4,15,38
+Los Angeles Lakers,G,Steve Blake,Detroit Pistons,W,11/04/2012,30:05,2,4,0.5,2,3,0.667,0,0,0.0,0,5,5,6,5,0,2,2,6,25
+Los Angeles Lakers,F,Metta World Peace,Utah Jazz,L,11/07/2012,37:12,3,12,0.25,2,6,0.333,7,8,0.875,0,7,7,1,2,1,1,2,15,-3
+Los Angeles Lakers,F,Pau Gasol,Utah Jazz,L,11/07/2012,36:23,2,9,0.222,0,1,0.0,1,2,0.5,1,6,7,2,3,0,2,2,5,2
+Los Angeles Lakers,C,Dwight Howard,Utah Jazz,L,11/07/2012,37:01,7,11,0.636,0,0,0.0,5,12,0.417,4,5,9,2,2,2,5,1,19,-11
+Los Angeles Lakers,G,Kobe Bryant,Utah Jazz,L,11/07/2012,37:17,7,17,0.412,0,4,0.0,15,17,0.882,0,5,5,4,3,0,6,3,29,4
+Los Angeles Lakers,G,Steve Blake,Utah Jazz,L,11/07/2012,36:04,2,10,0.2,2,8,0.25,0,0,0.0,1,3,4,1,0,0,0,2,6,5
+Los Angeles Lakers,F,Metta World Peace,Golden State Warriors,W,11/09/2012,34:05,3,14,0.214,1,7,0.143,3,3,1.0,1,6,7,2,2,0,2,0,10,18
+Los Angeles Lakers,F,Pau Gasol,Golden State Warriors,W,11/09/2012,40:04,6,18,0.333,0,1,0.0,2,2,1.0,4,12,16,2,1,2,3,0,14,26
+Los Angeles Lakers,C,Dwight Howard,Golden State Warriors,W,11/09/2012,24:06,2,6,0.333,0,0,0.0,2,4,0.5,3,5,8,2,0,2,2,4,6,2
+Los Angeles Lakers,G,Kobe Bryant,Golden State Warriors,W,11/09/2012,32:43,10,18,0.556,2,4,0.5,5,6,0.833,1,8,9,7,2,0,4,2,27,18
+Los Angeles Lakers,G,Steve Blake,Golden State Warriors,W,11/09/2012,22:07,2,6,0.333,1,3,0.333,2,2,1.0,0,2,2,2,0,0,1,4,7,9
+Los Angeles Lakers,F,Metta World Peace,Sacramento Kings,W,11/11/2012,34:31,6,11,0.545,4,8,0.5,2,2,1.0,0,5,5,0,1,0,0,0,18,17
+Los Angeles Lakers,F,Pau Gasol,Sacramento Kings,W,11/11/2012,33:59,7,14,0.5,0,0,0.0,4,4,1.0,2,3,5,4,0,2,2,2,18,20
+Los Angeles Lakers,C,Dwight Howard,Sacramento Kings,W,11/11/2012,38:59,8,14,0.571,0,0,0.0,7,13,0.538,6,12,18,3,2,3,2,2,23,12
+Los Angeles Lakers,G,Kobe Bryant,Sacramento Kings,W,11/11/2012,33:30,6,15,0.4,2,5,0.4,6,6,1.0,2,4,6,6,1,0,2,2,20,18
+Los Angeles Lakers,G,Steve Blake,Sacramento Kings,W,11/11/2012,13:53,1,2,0.5,0,1,0.0,0,0,0.0,1,1,2,4,1,0,2,0,2,4
+Los Angeles Lakers,F,Metta World Peace,San Antonio Spurs,L,11/13/2012,36:42,4,14,0.286,2,8,0.25,2,2,1.0,2,2,4,0,0,1,1,1,12,6
+Los Angeles Lakers,F,Pau Gasol,San Antonio Spurs,L,11/13/2012,36:55,3,10,0.3,0,1,0.0,4,4,1.0,2,8,10,5,0,2,1,2,10,-4
+Los Angeles Lakers,C,Dwight Howard,San Antonio Spurs,L,11/13/2012,40:50,5,9,0.556,0,0,0.0,3,6,0.5,2,13,15,1,1,3,6,5,13,-1
+Los Angeles Lakers,G,Kobe Bryant,San Antonio Spurs,L,11/13/2012,38:05,12,19,0.632,2,4,0.5,2,2,1.0,0,4,4,8,1,0,2,0,28,10
+Los Angeles Lakers,G,Darius Morris,San Antonio Spurs,L,11/13/2012,20:46,0,5,0.0,0,2,0.0,1,4,0.25,2,0,2,1,0,0,0,1,1,1
+Los Angeles Lakers,F,Metta World Peace,Phoenix Suns,W,11/16/2012,32:59,7,14,0.5,5,10,0.5,3,4,0.75,0,6,6,3,3,1,1,2,22,6
+Los Angeles Lakers,F,Pau Gasol,Phoenix Suns,W,11/16/2012,36:55,7,11,0.636,0,0,0.0,2,2,1.0,2,8,10,3,0,2,2,0,16,12
+Los Angeles Lakers,C,Dwight Howard,Phoenix Suns,W,11/16/2012,35:27,7,14,0.5,0,0,0.0,4,8,0.5,6,6,12,0,1,4,4,4,18,-4
+Los Angeles Lakers,G,Kobe Bryant,Phoenix Suns,W,11/16/2012,38:26,10,24,0.417,1,5,0.2,10,11,0.909,1,1,2,6,1,0,1,2,31,7
+Los Angeles Lakers,G,Darius Morris,Phoenix Suns,W,11/16/2012,31:08,2,5,0.4,0,0,0.0,1,1,1.0,1,0,1,6,1,0,2,3,5,2
+Los Angeles Lakers,F,Metta World Peace,Houston Rockets,W,11/18/2012,29:14,5,8,0.625,1,3,0.333,4,5,0.8,0,3,3,2,1,0,1,4,15,13
+Los Angeles Lakers,F,Pau Gasol,Houston Rockets,W,11/18/2012,36:09,7,13,0.538,0,0,0.0,3,4,0.75,3,2,5,3,1,0,1,0,17,10
+Los Angeles Lakers,C,Dwight Howard,Houston Rockets,W,11/18/2012,38:54,11,18,0.611,0,0,0.0,6,12,0.5,2,11,13,1,1,3,1,1,28,-1
+Los Angeles Lakers,G,Kobe Bryant,Houston Rockets,W,11/18/2012,35:12,9,18,0.5,1,3,0.333,3,5,0.6,1,10,11,11,3,0,3,4,22,14
+Los Angeles Lakers,G,Darius Morris,Houston Rockets,W,11/18/2012,31:14,5,8,0.625,2,3,0.667,0,0,0.0,0,2,2,5,2,0,2,0,12,5
+Los Angeles Lakers,F,Metta World Peace,Brooklyn Nets,W,11/20/2012,38:47,6,13,0.462,4,9,0.444,1,2,0.5,1,7,8,0,2,0,2,2,17,7
+Los Angeles Lakers,F,Pau Gasol,Brooklyn Nets,W,11/20/2012,38:36,7,15,0.467,0,0,0.0,3,6,0.5,3,8,11,7,0,1,2,1,17,20
+Los Angeles Lakers,C,Dwight Howard,Brooklyn Nets,W,11/20/2012,40:53,8,11,0.727,0,0,0.0,7,19,0.368,4,11,15,3,1,4,3,5,23,-4
+Los Angeles Lakers,G,Kobe Bryant,Brooklyn Nets,W,11/20/2012,38:36,8,15,0.533,1,4,0.25,8,10,0.8,0,4,4,5,1,0,3,4,25,20
+Los Angeles Lakers,G,Darius Morris,Brooklyn Nets,W,11/20/2012,22:36,1,4,0.25,1,2,0.5,0,0,0.0,0,1,1,3,1,0,1,4,3,-1
+Los Angeles Lakers,F,Metta World Peace,Sacramento Kings,L,11/21/2012,36:31,4,10,0.4,2,5,0.4,3,4,0.75,1,5,6,1,0,1,1,3,13,-3
+Los Angeles Lakers,F,Pau Gasol,Sacramento Kings,L,11/21/2012,37:16,3,10,0.3,1,1,1.0,1,4,0.25,1,8,9,4,1,2,3,3,8,-14
+Los Angeles Lakers,C,Dwight Howard,Sacramento Kings,L,11/21/2012,40:39,2,4,0.5,0,0,0.0,3,4,0.75,1,8,9,3,2,1,2,4,7,-13
+Los Angeles Lakers,G,Kobe Bryant,Sacramento Kings,L,11/21/2012,38:46,11,20,0.55,5,9,0.556,11,13,0.846,0,3,3,3,2,0,7,3,38,1
+Los Angeles Lakers,G,Darius Morris,Sacramento Kings,L,11/21/2012,31:07,3,5,0.6,1,3,0.333,5,6,0.833,0,1,1,2,0,0,5,3,12,-12
+Los Angeles Lakers,F,Metta World Peace,Memphis Grizzlies,L,11/23/2012,39:57,5,9,0.556,2,5,0.4,4,4,1.0,1,2,3,3,2,0,2,4,16,-6
+Los Angeles Lakers,F,Pau Gasol,Memphis Grizzlies,L,11/23/2012,27:21,3,8,0.375,0,0,0.0,0,0,0.0,1,3,4,1,0,0,3,4,6,-23
+Los Angeles Lakers,C,Dwight Howard,Memphis Grizzlies,L,11/23/2012,39:17,2,7,0.286,0,0,0.0,3,6,0.5,3,1,4,3,1,4,5,5,7,1
+Los Angeles Lakers,G,Kobe Bryant,Memphis Grizzlies,L,11/23/2012,37:29,7,23,0.304,3,8,0.375,13,14,0.929,0,3,3,4,1,0,2,4,30,-22
+Los Angeles Lakers,G,Darius Morris,Memphis Grizzlies,L,11/23/2012,27:25,4,6,0.667,1,1,1.0,0,0,0.0,1,1,2,1,1,0,2,1,9,-10
+Los Angeles Lakers,F,Metta World Peace,Dallas Mavericks,W,11/24/2012,30:33,7,10,0.7,5,7,0.714,0,0,0.0,1,5,6,3,1,0,2,3,19,34
+Los Angeles Lakers,F,Pau Gasol,Dallas Mavericks,W,11/24/2012,28:27,4,7,0.571,0,0,0.0,5,8,0.625,1,8,9,3,0,1,2,3,13,14
+Los Angeles Lakers,C,Dwight Howard,Dallas Mavericks,W,11/24/2012,31:54,5,11,0.455,0,0,0.0,5,9,0.556,1,6,7,2,5,2,2,4,15,29
+Los Angeles Lakers,G,Kobe Bryant,Dallas Mavericks,W,11/24/2012,33:16,6,11,0.545,1,2,0.5,6,8,0.75,1,2,3,5,1,0,6,3,19,25
+Los Angeles Lakers,G,Darius Morris,Dallas Mavericks,W,11/24/2012,24:28,3,9,0.333,0,1,0.0,1,1,1.0,1,3,4,2,3,0,4,2,7,24
+Los Angeles Lakers,F,Metta World Peace,Indiana Pacers,L,11/27/2012,38:60,1,8,0.125,1,5,0.2,1,4,0.25,5,7,12,4,1,0,2,4,4,-7
+Los Angeles Lakers,F,Pau Gasol,Indiana Pacers,L,11/27/2012,31:54,2,9,0.222,0,1,0.0,6,6,1.0,4,5,9,3,0,1,1,3,10,-2
+Los Angeles Lakers,C,Dwight Howard,Indiana Pacers,L,11/27/2012,34:28,7,10,0.7,0,0,0.0,3,12,0.25,1,7,8,0,1,4,2,5,17,-9
+Los Angeles Lakers,G,Kobe Bryant,Indiana Pacers,L,11/27/2012,43:44,12,28,0.429,5,11,0.455,11,13,0.846,0,10,10,3,3,0,10,2,40,-4
+Los Angeles Lakers,G,Darius Morris,Indiana Pacers,L,11/27/2012,22:11,0,6,0.0,0,3,0.0,1,4,0.25,1,0,1,0,3,0,0,1,1,-16
+Los Angeles Lakers,F,Metta World Peace,Denver Nuggets,W,11/30/2012,40:42,3,11,0.273,2,7,0.286,2,2,1.0,0,2,2,2,3,0,2,1,10,19
+Los Angeles Lakers,F,Pau Gasol,Denver Nuggets,W,11/30/2012,27:53,3,7,0.429,0,0,0.0,0,0,0.0,4,3,7,8,0,1,2,0,6,3
+Los Angeles Lakers,C,Dwight Howard,Denver Nuggets,W,11/30/2012,31:47,12,16,0.75,1,1,1.0,3,9,0.333,8,12,20,0,0,3,1,1,28,11
+Los Angeles Lakers,G,Kobe Bryant,Denver Nuggets,W,11/30/2012,37:10,5,15,0.333,0,3,0.0,4,4,1.0,1,1,2,8,2,0,4,5,14,9
+Los Angeles Lakers,G,Darius Morris,Denver Nuggets,W,11/30/2012,18:02,1,3,0.333,1,1,1.0,0,0,0.0,0,1,1,3,0,1,2,2,3,-3
+Los Angeles Lakers,F,Metta World Peace,Orlando Magic,L,12/02/2012,36:57,5,13,0.385,3,6,0.5,2,2,1.0,2,3,5,5,3,0,1,2,15,-15
+Los Angeles Lakers,F,Pau Gasol,Orlando Magic,L,12/02/2012,28:48,4,11,0.364,0,0,0.0,3,4,0.75,1,6,7,2,0,1,1,2,11,-3
+Los Angeles Lakers,C,Dwight Howard,Orlando Magic,L,12/02/2012,38:43,6,13,0.462,0,0,0.0,9,21,0.429,6,9,15,0,0,0,3,5,21,-17
+Los Angeles Lakers,G,Kobe Bryant,Orlando Magic,L,12/02/2012,38:43,12,27,0.444,0,2,0.0,10,11,0.909,1,6,7,5,1,0,2,2,34,-17
+Los Angeles Lakers,G,Darius Morris,Orlando Magic,L,12/02/2012,18:03,1,5,0.2,0,2,0.0,0,0,0.0,1,1,2,3,1,0,1,2,2,-6
+Los Angeles Lakers,F,Metta World Peace,Houston Rockets,L,12/04/2012,35:16,4,7,0.571,1,2,0.5,0,0,0.0,2,2,4,0,1,0,2,4,9,1
+Los Angeles Lakers,F,Antawn Jamison,Houston Rockets,L,12/04/2012,36:33,6,12,0.5,3,4,0.75,0,0,0.0,4,6,10,2,1,3,2,4,15,2
+Los Angeles Lakers,C,Dwight Howard,Houston Rockets,L,12/04/2012,33:37,4,9,0.444,0,0,0.0,8,16,0.5,2,10,12,1,1,4,4,4,16,9
+Los Angeles Lakers,G,Kobe Bryant,Houston Rockets,L,12/04/2012,34:53,14,31,0.452,2,9,0.222,9,12,0.75,1,5,6,2,2,0,3,4,39,-4
+Los Angeles Lakers,G,Chris Duhon,Houston Rockets,L,12/04/2012,38:13,2,4,0.5,0,1,0.0,2,3,0.667,2,3,5,7,1,0,3,2,6,7
+Los Angeles Lakers,F,Metta World Peace,New Orleans Hornets,W,12/05/2012,35:00,4,12,0.333,3,7,0.429,0,0,0.0,3,6,9,1,2,0,2,4,11,18
+Los Angeles Lakers,F,Antawn Jamison,New Orleans Hornets,W,12/05/2012,26:29,6,12,0.5,3,6,0.5,0,0,0.0,1,3,4,0,1,0,0,3,15,15
+Los Angeles Lakers,C,Dwight Howard,New Orleans Hornets,W,12/05/2012,32:49,7,11,0.636,0,0,0.0,4,8,0.5,0,8,8,3,0,5,3,1,18,12
+Los Angeles Lakers,G,Kobe Bryant,New Orleans Hornets,W,12/05/2012,33:53,10,17,0.588,1,4,0.25,8,9,0.889,1,5,6,4,3,0,1,1,29,15
+Los Angeles Lakers,G,Chris Duhon,New Orleans Hornets,W,12/05/2012,32:59,1,3,0.333,1,2,0.5,0,0,0.0,1,4,5,10,0,0,0,2,3,9
+Los Angeles Lakers,F,Metta World Peace,Oklahoma City Thunder,L,12/07/2012,36:33,2,6,0.333,1,5,0.2,3,4,0.75,1,3,4,0,1,0,1,1,8,-5
+Los Angeles Lakers,F,Antawn Jamison,Oklahoma City Thunder,L,12/07/2012,29:29,4,11,0.364,0,4,0.0,1,2,0.5,4,1,5,1,2,0,1,2,9,-6
+Los Angeles Lakers,C,Dwight Howard,Oklahoma City Thunder,L,12/07/2012,41:14,9,17,0.529,0,1,0.0,5,7,0.714,6,12,18,3,0,1,6,4,23,-2
+Los Angeles Lakers,G,Kobe Bryant,Oklahoma City Thunder,L,12/07/2012,43:30,11,24,0.458,4,5,0.8,9,10,0.9,0,3,3,7,3,2,5,5,35,-3
+Los Angeles Lakers,G,Chris Duhon,Oklahoma City Thunder,L,12/07/2012,36:03,5,8,0.625,4,7,0.571,0,0,0.0,0,3,3,3,2,0,2,2,14,-2
+Los Angeles Lakers,F,Metta World Peace,Utah Jazz,L,12/09/2012,21:22,5,7,0.714,2,3,0.667,0,0,0.0,0,0,0,0,0,1,1,1,12,-7
+Los Angeles Lakers,F,Antawn Jamison,Utah Jazz,L,12/09/2012,15:59,1,6,0.167,1,3,0.333,0,0,0.0,2,1,3,4,0,0,3,2,3,-17
+Los Angeles Lakers,C,Dwight Howard,Utah Jazz,L,12/09/2012,41:46,5,10,0.5,0,0,0.0,1,2,0.5,4,12,16,4,2,2,4,5,11,1
+Los Angeles Lakers,G,Kobe Bryant,Utah Jazz,L,12/09/2012,43:03,9,24,0.375,4,9,0.444,12,14,0.857,0,0,0,3,1,0,2,2,34,-2
+Los Angeles Lakers,G,Chris Duhon,Utah Jazz,L,12/09/2012,31:20,4,6,0.667,4,5,0.8,0,0,0.0,3,2,5,11,0,0,2,0,12,2
+Los Angeles Lakers,F,Metta World Peace,Cleveland Cavaliers,L,12/11/2012,35:37,5,12,0.417,2,6,0.333,1,4,0.25,3,6,9,0,1,1,3,3,13,-9
+Los Angeles Lakers,F,Jordan Hill,Cleveland Cavaliers,L,12/11/2012,25:33,1,6,0.167,0,0,0.0,0,0,0.0,5,5,10,1,1,1,2,5,2,-9
+Los Angeles Lakers,C,Dwight Howard,Cleveland Cavaliers,L,12/11/2012,41:06,3,9,0.333,0,0,0.0,13,22,0.591,6,14,20,3,0,0,4,5,19,-10
+Los Angeles Lakers,G,Kobe Bryant,Cleveland Cavaliers,L,12/11/2012,40:43,16,28,0.571,3,9,0.333,7,10,0.7,1,4,5,2,1,1,5,1,42,-7
+Los Angeles Lakers,G,Chris Duhon,Cleveland Cavaliers,L,12/11/2012,33:02,1,2,0.5,0,1,0.0,0,0,0.0,0,3,3,2,1,0,2,1,2,-2
+Los Angeles Lakers,F,Antawn Jamison,New York Knicks,L,12/13/2012,21:28,1,3,0.333,1,3,0.333,0,0,0.0,0,6,6,1,0,0,0,2,3,-8
+Los Angeles Lakers,F,Metta World Peace,New York Knicks,L,12/13/2012,33:15,7,15,0.467,3,6,0.5,6,7,0.857,3,3,6,0,2,1,2,2,23,-12
+Los Angeles Lakers,C,Dwight Howard,New York Knicks,L,12/13/2012,37:51,8,11,0.727,0,0,0.0,4,6,0.667,3,4,7,1,0,1,2,4,20,-5
+Los Angeles Lakers,G,Kobe Bryant,New York Knicks,L,12/13/2012,44:02,10,24,0.417,5,11,0.455,6,6,1.0,2,8,10,6,1,1,5,5,31,0
+Los Angeles Lakers,G,Chris Duhon,New York Knicks,L,12/13/2012,29:05,1,6,0.167,1,5,0.2,0,0,0.0,0,2,2,4,1,0,0,0,3,-15
+Los Angeles Lakers,F,Metta World Peace,Washington Wizards,W,12/14/2012,39:11,5,11,0.455,0,6,0.0,3,3,1.0,1,5,6,2,3,0,0,1,13,11
+Los Angeles Lakers,F,Devin Ebanks,Washington Wizards,W,12/14/2012,27:12,4,10,0.4,0,1,0.0,0,0,0.0,0,5,5,0,1,0,1,5,8,-2
+Los Angeles Lakers,C,Dwight Howard,Washington Wizards,W,12/14/2012,32:13,4,8,0.5,0,0,0.0,4,8,0.5,5,9,14,2,1,4,4,4,12,1
+Los Angeles Lakers,G,Kobe Bryant,Washington Wizards,W,12/14/2012,43:36,9,29,0.31,1,8,0.125,11,13,0.846,3,4,7,7,2,1,3,1,30,17
+Los Angeles Lakers,G,Chris Duhon,Washington Wizards,W,12/14/2012,31:11,2,5,0.4,2,5,0.4,0,2,0.0,0,2,2,5,0,0,1,2,6,-4
+Los Angeles Lakers,F,Metta World Peace,Philadelphia 76ers,W,12/16/2012,34:06,6,10,0.6,3,4,0.75,4,6,0.667,5,11,16,1,4,2,1,1,19,11
+Los Angeles Lakers,F,Devin Ebanks,Philadelphia 76ers,W,12/16/2012,19:58,0,4,0.0,0,0,0.0,0,0,0.0,0,4,4,1,0,0,0,1,0,8
+Los Angeles Lakers,C,Dwight Howard,Philadelphia 76ers,W,12/16/2012,41:49,7,13,0.538,0,0,0.0,3,3,1.0,4,7,11,5,3,2,5,2,17,11
+Los Angeles Lakers,G,Kobe Bryant,Philadelphia 76ers,W,12/16/2012,40:02,12,21,0.571,2,6,0.333,8,9,0.889,0,4,4,6,1,0,5,0,34,10
+Los Angeles Lakers,G,Chris Duhon,Philadelphia 76ers,W,12/16/2012,29:35,5,11,0.455,4,10,0.4,0,0,0.0,0,0,0,4,1,0,1,3,14,7
+Los Angeles Lakers,F,Devin Ebanks,Charlotte Bobcats,W,12/18/2012,4:49,1,4,0.25,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,1,2,-6
+Los Angeles Lakers,F,Pau Gasol,Charlotte Bobcats,W,12/18/2012,29:25,3,10,0.3,0,0,0.0,4,6,0.667,2,7,9,5,0,4,2,2,10,-4
+Los Angeles Lakers,C,Dwight Howard,Charlotte Bobcats,W,12/18/2012,35:05,5,10,0.5,0,0,0.0,6,8,0.75,9,9,18,1,1,4,5,5,16,-17
+Los Angeles Lakers,G,Kobe Bryant,Charlotte Bobcats,W,12/18/2012,43:17,11,24,0.458,2,5,0.4,6,7,0.857,0,6,6,7,1,1,2,1,30,-7
+Los Angeles Lakers,G,Chris Duhon,Charlotte Bobcats,W,12/18/2012,23:06,1,3,0.333,0,2,0.0,0,0,0.0,0,0,0,3,0,0,0,2,2,-21
+Los Angeles Lakers,F,Darius Morris,Golden State Warriors,W,12/22/2012,9:24,3,7,0.429,0,2,0.0,0,0,0.0,0,0,0,0,1,0,1,2,6,-1
+Los Angeles Lakers,F,Pau Gasol,Golden State Warriors,W,12/22/2012,37:46,4,11,0.364,0,1,0.0,1,1,1.0,3,7,10,6,2,0,5,4,9,-2
+Los Angeles Lakers,C,Dwight Howard,Golden State Warriors,W,12/22/2012,29:07,4,8,0.5,0,0,0.0,3,4,0.75,1,5,6,3,1,2,3,6,11,9
+Los Angeles Lakers,G,Kobe Bryant,Golden State Warriors,W,12/22/2012,43:39,16,41,0.39,2,8,0.25,0,1,0.0,3,7,10,5,1,0,3,5,34,0
+Los Angeles Lakers,G,Steve Nash,Golden State Warriors,W,12/22/2012,40:54,5,8,0.625,2,2,1.0,0,0,0.0,0,3,3,9,2,0,3,1,12,-3
+Los Angeles Lakers,F,Kobe Bryant,New York Knicks,W,12/25/2012,43:37,14,24,0.583,1,5,0.2,5,7,0.714,1,4,5,1,0,1,1,2,34,11
+Los Angeles Lakers,F,Pau Gasol,New York Knicks,W,12/25/2012,34:17,5,13,0.385,1,3,0.333,2,4,0.5,0,8,8,6,1,1,1,2,13,2
+Los Angeles Lakers,C,Dwight Howard,New York Knicks,W,12/25/2012,38:15,4,8,0.5,0,0,0.0,6,9,0.667,2,10,12,1,2,2,1,1,14,-1
+Los Angeles Lakers,G,Darius Morris,New York Knicks,W,12/25/2012,6:55,0,2,0.0,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-4
+Los Angeles Lakers,G,Steve Nash,New York Knicks,W,12/25/2012,37:46,7,12,0.583,0,1,0.0,2,2,1.0,3,3,6,11,0,0,3,1,16,4
+Los Angeles Lakers,F,Kobe Bryant,Denver Nuggets,L,12/26/2012,44:01,13,24,0.542,5,9,0.556,9,11,0.818,0,4,4,6,0,2,2,2,40,-7
+Los Angeles Lakers,F,Pau Gasol,Denver Nuggets,L,12/26/2012,36:54,7,11,0.636,2,3,0.667,3,4,0.75,3,3,6,5,0,2,3,0,19,-16
+Los Angeles Lakers,C,Dwight Howard,Denver Nuggets,L,12/26/2012,27:10,4,6,0.667,0,0,0.0,4,9,0.444,1,6,7,3,0,1,1,4,12,-7
+Los Angeles Lakers,G,Darius Morris,Denver Nuggets,L,12/26/2012,6:55,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,3,0,0,-2
+Los Angeles Lakers,G,Steve Nash,Denver Nuggets,L,12/26/2012,30:58,6,8,0.75,2,3,0.667,1,1,1.0,0,2,2,8,1,0,2,3,15,-4
+Los Angeles Lakers,F,Kobe Bryant,Portland Trail Blazers,W,12/28/2012,30:40,9,18,0.5,1,6,0.167,8,11,0.727,2,3,5,4,2,0,1,3,27,21
+Los Angeles Lakers,F,Pau Gasol,Portland Trail Blazers,W,12/28/2012,30:14,6,9,0.667,2,3,0.667,1,2,0.5,1,8,9,5,0,3,1,2,15,26
+Los Angeles Lakers,C,Dwight Howard,Portland Trail Blazers,W,12/28/2012,29:30,7,13,0.538,0,0,0.0,7,13,0.538,6,8,14,1,1,3,4,2,21,17
+Los Angeles Lakers,G,Darius Morris,Portland Trail Blazers,W,12/28/2012,23:37,4,6,0.667,0,1,0.0,0,0,0.0,2,2,4,2,0,0,0,1,8,10
+Los Angeles Lakers,G,Steve Nash,Portland Trail Blazers,W,12/28/2012,26:17,3,7,0.429,0,1,0.0,0,0,0.0,0,0,0,10,0,0,2,1,6,18
+Los Angeles Lakers,F,Kobe Bryant,Philadelphia 76ers,L,01/01/2013,42:25,14,29,0.483,1,6,0.167,7,10,0.7,4,2,6,0,1,0,3,2,36,-4
+Los Angeles Lakers,F,Pau Gasol,Philadelphia 76ers,L,01/01/2013,35:43,2,12,0.167,0,2,0.0,7,8,0.875,2,7,9,4,0,1,1,2,11,-12
+Los Angeles Lakers,C,Dwight Howard,Philadelphia 76ers,L,01/01/2013,38:32,1,7,0.143,0,0,0.0,5,10,0.5,4,10,14,0,0,5,1,3,7,-1
+Los Angeles Lakers,G,Darius Morris,Philadelphia 76ers,L,01/01/2013,20:06,0,4,0.0,0,3,0.0,3,4,0.75,0,1,1,1,2,0,0,4,3,-18
+Los Angeles Lakers,G,Steve Nash,Philadelphia 76ers,L,01/01/2013,35:32,6,11,0.545,0,3,0.0,0,0,0.0,1,2,3,10,1,0,2,1,12,0
+Los Angeles Lakers,F,Metta World Peace,Los Angeles Clippers,L,01/04/2013,35:16,1,6,0.167,0,4,0.0,0,0,0.0,1,4,5,2,1,1,1,6,2,-6
+Los Angeles Lakers,F,Pau Gasol,Los Angeles Clippers,L,01/04/2013,27:16,1,6,0.167,0,2,0.0,0,0,0.0,0,4,4,2,0,2,1,2,2,-20
+Los Angeles Lakers,C,Dwight Howard,Los Angeles Clippers,L,01/04/2013,36:13,8,14,0.571,0,0,0.0,5,11,0.455,4,11,15,0,1,2,4,6,21,5
+Los Angeles Lakers,G,Kobe Bryant,Los Angeles Clippers,L,01/04/2013,43:39,15,25,0.6,1,6,0.167,7,8,0.875,0,0,0,3,5,0,1,3,38,6
+Los Angeles Lakers,G,Steve Nash,Los Angeles Clippers,L,01/04/2013,36:28,3,4,0.75,3,4,0.75,3,3,1.0,0,1,1,10,1,0,4,0,12,12
+Los Angeles Lakers,F,Metta World Peace,Denver Nuggets,L,01/06/2013,38:48,5,13,0.385,4,9,0.444,2,4,0.5,3,1,4,0,1,4,3,5,16,6
+Los Angeles Lakers,F,Pau Gasol,Denver Nuggets,L,01/06/2013,33:41,5,9,0.556,0,2,0.0,1,2,0.5,3,2,5,3,0,2,3,2,11,-3
+Los Angeles Lakers,C,Dwight Howard,Denver Nuggets,L,01/06/2013,41:19,6,7,0.857,0,1,0.0,2,6,0.333,3,23,26,0,1,4,4,3,14,5
+Los Angeles Lakers,G,Kobe Bryant,Denver Nuggets,L,01/06/2013,42:12,11,26,0.423,3,8,0.375,4,4,1.0,1,4,5,7,0,0,2,2,29,-12
+Los Angeles Lakers,G,Steve Nash,Denver Nuggets,L,01/06/2013,35:12,3,8,0.375,1,3,0.333,3,3,1.0,2,1,3,13,1,1,5,0,10,6
+Los Angeles Lakers,F,Kobe Bryant,Houston Rockets,L,01/08/2013,41:26,8,22,0.364,2,8,0.25,2,2,1.0,2,3,5,7,3,0,5,3,20,-15
+Los Angeles Lakers,F,Metta World Peace,Houston Rockets,L,01/08/2013,29:10,9,14,0.643,4,5,0.8,2,2,1.0,2,4,6,0,4,0,5,4,24,-4
+Los Angeles Lakers,C,Robert Sacre,Houston Rockets,L,01/08/2013,27:32,4,10,0.4,0,0,0.0,2,2,1.0,0,3,3,1,0,4,0,4,10,-1
+Los Angeles Lakers,G,Darius Morris,Houston Rockets,L,01/08/2013,17:02,5,7,0.714,2,2,1.0,0,0,0.0,1,1,2,2,0,0,1,2,12,6
+Los Angeles Lakers,G,Steve Nash,Houston Rockets,L,01/08/2013,33:55,6,10,0.6,0,3,0.0,4,4,1.0,1,4,5,10,0,0,2,1,16,-4
+Los Angeles Lakers,F,Kobe Bryant,San Antonio Spurs,L,01/09/2013,38:43,10,24,0.417,3,8,0.375,4,7,0.571,0,4,4,5,0,0,1,3,27,-4
+Los Angeles Lakers,F,Metta World Peace,San Antonio Spurs,L,01/09/2013,40:13,10,22,0.455,3,8,0.375,0,2,0.0,2,6,8,0,7,0,1,1,23,1
+Los Angeles Lakers,C,Robert Sacre,San Antonio Spurs,L,01/09/2013,25:12,2,9,0.222,0,0,0.0,0,0,0.0,0,2,2,1,0,1,1,4,4,2
+Los Angeles Lakers,G,Darius Morris,San Antonio Spurs,L,01/09/2013,10:14,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,0,1,0,1,2,2,-3
+Los Angeles Lakers,G,Steve Nash,San Antonio Spurs,L,01/09/2013,39:25,6,12,0.5,0,0,0.0,2,2,1.0,0,3,3,9,2,0,3,0,14,-4
+Los Angeles Lakers,F,Metta World Peace,Oklahoma City Thunder,L,01/11/2013,34:24,5,18,0.278,1,9,0.111,1,2,0.5,1,2,3,2,1,0,3,4,12,-34
+Los Angeles Lakers,F,Earl Clark,Oklahoma City Thunder,L,01/11/2013,36:41,5,12,0.417,0,0,0.0,0,0,0.0,2,8,10,3,1,3,1,1,10,-17
+Los Angeles Lakers,C,Robert Sacre,Oklahoma City Thunder,L,01/11/2013,21:30,3,6,0.5,0,0,0.0,0,0,0.0,3,1,4,0,0,1,3,6,6,-14
+Los Angeles Lakers,G,Kobe Bryant,Oklahoma City Thunder,L,01/11/2013,35:03,8,23,0.348,2,8,0.25,10,13,0.769,0,4,4,3,2,0,1,2,28,-24
+Los Angeles Lakers,G,Steve Nash,Oklahoma City Thunder,L,01/11/2013,29:40,3,6,0.5,1,3,0.333,0,0,0.0,3,1,4,7,1,0,2,3,7,-29
+Los Angeles Lakers,F,Metta World Peace,Cleveland Cavaliers,W,01/13/2013,27:00,2,5,0.4,1,4,0.25,3,3,1.0,0,4,4,1,4,1,0,2,8,16
+Los Angeles Lakers,F,Earl Clark,Cleveland Cavaliers,W,01/13/2013,36:09,5,9,0.556,1,1,1.0,2,2,1.0,2,7,9,4,0,3,4,1,13,15
+Los Angeles Lakers,C,Dwight Howard,Cleveland Cavaliers,W,01/13/2013,29:47,9,11,0.818,0,1,0.0,4,7,0.571,4,10,14,2,1,1,7,3,22,22
+Los Angeles Lakers,G,Kobe Bryant,Cleveland Cavaliers,W,01/13/2013,27:58,9,14,0.643,3,4,0.75,2,4,0.5,0,2,2,6,0,0,4,4,23,19
+Los Angeles Lakers,G,Steve Nash,Cleveland Cavaliers,W,01/13/2013,28:10,3,4,0.75,1,1,1.0,3,3,1.0,0,3,3,9,1,0,3,0,10,18
+Los Angeles Lakers,F,Metta World Peace,Milwaukee Bucks,W,01/15/2013,33:18,5,10,0.5,2,6,0.333,0,0,0.0,0,6,6,3,0,2,1,1,12,27
+Los Angeles Lakers,F,Earl Clark,Milwaukee Bucks,W,01/15/2013,24:27,3,7,0.429,0,0,0.0,0,0,0.0,2,7,9,4,0,1,0,4,6,5
+Los Angeles Lakers,C,Dwight Howard,Milwaukee Bucks,W,01/15/2013,40:05,14,18,0.778,0,0,0.0,3,8,0.375,3,13,16,0,0,4,2,3,31,24
+Los Angeles Lakers,G,Kobe Bryant,Milwaukee Bucks,W,01/15/2013,36:40,12,19,0.632,3,5,0.6,4,4,1.0,1,1,2,6,1,0,1,2,31,23
+Los Angeles Lakers,G,Steve Nash,Milwaukee Bucks,W,01/15/2013,32:51,3,10,0.3,0,4,0.0,2,2,1.0,0,2,2,11,2,0,3,3,8,17
+Los Angeles Lakers,F,Metta World Peace,Miami Heat,L,01/17/2013,37:14,5,11,0.455,2,4,0.5,4,4,1.0,0,3,3,3,0,0,1,5,16,-3
+Los Angeles Lakers,F,Earl Clark,Miami Heat,L,01/17/2013,22:28,2,5,0.4,2,2,1.0,0,0,0.0,0,7,7,2,0,0,3,0,6,-14
+Los Angeles Lakers,C,Dwight Howard,Miami Heat,L,01/17/2013,38:02,4,7,0.571,0,0,0.0,5,13,0.385,4,12,16,2,0,1,0,4,13,1
+Los Angeles Lakers,G,Kobe Bryant,Miami Heat,L,01/17/2013,42:55,8,25,0.32,4,9,0.444,2,2,1.0,1,3,4,1,1,0,6,4,22,-9
+Los Angeles Lakers,G,Steve Nash,Miami Heat,L,01/17/2013,34:31,4,8,0.5,1,2,0.5,0,0,0.0,0,1,1,7,1,0,4,2,9,-13
+Los Angeles Lakers,F,Metta World Peace,Toronto Raptors,L,01/20/2013,25:45,3,9,0.333,2,6,0.333,1,1,1.0,1,2,3,0,3,0,0,0,9,-11
+Los Angeles Lakers,F,Pau Gasol,Toronto Raptors,L,01/20/2013,32:32,10,15,0.667,0,0,0.0,5,6,0.833,3,2,5,2,0,1,1,1,25,-2
+Los Angeles Lakers,C,Dwight Howard,Toronto Raptors,L,01/20/2013,17:12,1,3,0.333,0,0,0.0,3,4,0.75,0,2,2,1,0,1,1,1,5,-7
+Los Angeles Lakers,G,Kobe Bryant,Toronto Raptors,L,01/20/2013,42:53,10,32,0.313,3,12,0.25,3,3,1.0,0,4,4,5,2,1,6,1,26,0
+Los Angeles Lakers,G,Steve Nash,Toronto Raptors,L,01/20/2013,37:01,5,11,0.455,2,3,0.667,4,4,1.0,0,1,1,9,1,0,3,4,16,-4
+Los Angeles Lakers,F,Metta World Peace,Chicago Bulls,L,01/21/2013,38:39,4,11,0.364,1,4,0.25,3,4,0.75,3,5,8,1,4,3,1,3,12,-8
+Los Angeles Lakers,F,Earl Clark,Chicago Bulls,L,01/21/2013,34:39,6,13,0.462,0,1,0.0,0,0,0.0,4,4,8,0,0,2,0,1,12,-12
+Los Angeles Lakers,C,Dwight Howard,Chicago Bulls,L,01/21/2013,29:46,2,5,0.4,0,0,0.0,4,8,0.5,3,6,9,0,0,2,4,5,8,-4
+Los Angeles Lakers,G,Kobe Bryant,Chicago Bulls,L,01/21/2013,41:58,7,22,0.318,0,6,0.0,2,3,0.667,0,4,4,5,0,0,3,2,16,-11
+Los Angeles Lakers,G,Steve Nash,Chicago Bulls,L,01/21/2013,35:48,7,12,0.583,2,3,0.667,2,2,1.0,0,4,4,6,0,0,2,1,18,-7
+Los Angeles Lakers,F,Metta World Peace,Memphis Grizzlies,L,01/23/2013,35:21,4,9,0.444,3,8,0.375,4,4,1.0,1,2,3,1,0,3,1,4,15,-16
+Los Angeles Lakers,F,Earl Clark,Memphis Grizzlies,L,01/23/2013,40:18,5,13,0.385,0,1,0.0,1,1,1.0,4,5,9,0,1,0,1,2,11,-5
+Los Angeles Lakers,C,Dwight Howard,Memphis Grizzlies,L,01/23/2013,14:10,0,4,0.0,0,0,0.0,2,4,0.5,0,2,2,0,1,1,0,2,2,-11
+Los Angeles Lakers,G,Kobe Bryant,Memphis Grizzlies,L,01/23/2013,38:34,11,23,0.478,0,1,0.0,7,8,0.875,0,3,3,3,1,0,2,1,29,-13
+Los Angeles Lakers,G,Steve Nash,Memphis Grizzlies,L,01/23/2013,34:32,2,6,0.333,2,3,0.667,1,2,0.5,1,2,3,8,1,0,6,0,7,-12
+Los Angeles Lakers,F,Metta World Peace,Utah Jazz,W,01/25/2013,38:35,5,16,0.313,5,11,0.455,2,2,1.0,3,2,5,0,1,0,1,0,17,22
+Los Angeles Lakers,F,Earl Clark,Utah Jazz,W,01/25/2013,26:40,3,8,0.375,1,3,0.333,0,0,0.0,3,3,6,0,1,0,2,5,7,1
+Los Angeles Lakers,C,Dwight Howard,Utah Jazz,W,01/25/2013,36:59,8,12,0.667,0,0,0.0,1,3,0.333,3,10,13,1,1,2,1,3,17,18
+Los Angeles Lakers,G,Kobe Bryant,Utah Jazz,W,01/25/2013,34:44,7,10,0.7,0,0,0.0,0,0,0.0,0,9,9,14,3,1,3,0,14,15
+Los Angeles Lakers,G,Steve Nash,Utah Jazz,W,01/25/2013,29:41,6,11,0.545,1,2,0.5,2,2,1.0,0,0,0,2,0,0,3,0,15,12
+Los Angeles Lakers,F,Metta World Peace,Oklahoma City Thunder,W,01/27/2013,42:36,6,14,0.429,3,8,0.375,0,0,0.0,1,9,10,3,2,0,2,3,15,15
+Los Angeles Lakers,F,Earl Clark,Oklahoma City Thunder,W,01/27/2013,22:45,5,9,0.556,1,1,1.0,0,0,0.0,2,2,4,0,1,0,0,3,11,-2
+Los Angeles Lakers,C,Dwight Howard,Oklahoma City Thunder,W,01/27/2013,29:25,3,7,0.429,0,0,0.0,2,10,0.2,2,8,10,1,2,0,3,5,8,2
+Los Angeles Lakers,G,Kobe Bryant,Oklahoma City Thunder,W,01/27/2013,38:47,8,12,0.667,0,0,0.0,5,6,0.833,0,9,9,14,1,1,3,1,21,11
+Los Angeles Lakers,G,Steve Nash,Oklahoma City Thunder,W,01/27/2013,35:58,6,11,0.545,2,4,0.5,3,3,1.0,0,2,2,5,0,0,1,2,17,11
+Los Angeles Lakers,F,Metta World Peace,New Orleans Hornets,W,01/29/2013,22:36,1,8,0.125,1,6,0.167,0,0,0.0,2,2,4,1,0,0,0,1,3,-3
+Los Angeles Lakers,F,Earl Clark,New Orleans Hornets,W,01/29/2013,35:16,8,11,0.727,4,5,0.8,0,0,0.0,1,11,12,4,0,0,6,2,20,-6
+Los Angeles Lakers,C,Dwight Howard,New Orleans Hornets,W,01/29/2013,36:42,9,13,0.692,0,0,0.0,6,11,0.545,0,4,4,2,5,4,3,3,24,-13
+Los Angeles Lakers,G,Kobe Bryant,New Orleans Hornets,W,01/29/2013,34:23,5,12,0.417,0,4,0.0,4,4,1.0,3,5,8,11,0,0,2,1,14,-5
+Los Angeles Lakers,G,Steve Nash,New Orleans Hornets,W,01/29/2013,34:35,4,5,0.8,3,4,0.75,1,2,0.5,0,4,4,5,0,0,1,2,12,-7
+Los Angeles Lakers,F,Metta World Peace,Phoenix Suns,L,01/30/2013,33:08,6,17,0.353,3,10,0.3,0,0,0.0,2,3,5,0,1,1,1,2,15,-8
+Los Angeles Lakers,F,Earl Clark,Phoenix Suns,L,01/30/2013,30:28,1,4,0.25,1,4,0.25,2,4,0.5,2,6,8,2,1,0,2,4,5,-10
+Los Angeles Lakers,C,Dwight Howard,Phoenix Suns,L,01/30/2013,28:36,4,9,0.444,0,0,0.0,1,2,0.5,5,9,14,1,1,1,1,4,9,5
+Los Angeles Lakers,G,Kobe Bryant,Phoenix Suns,L,01/30/2013,38:40,7,17,0.412,0,3,0.0,3,4,0.75,0,5,5,9,2,0,6,0,17,-8
+Los Angeles Lakers,G,Steve Nash,Phoenix Suns,L,01/30/2013,33:23,3,8,0.375,1,4,0.25,4,4,1.0,0,4,4,2,1,0,2,1,11,-8
+Los Angeles Lakers,F,Metta World Peace,Minnesota Timberwolves,W,02/01/2013,27:15,2,11,0.182,1,6,0.167,1,2,0.5,4,3,7,4,2,0,2,4,6,12
+Los Angeles Lakers,F,Earl Clark,Minnesota Timberwolves,W,02/01/2013,36:17,6,15,0.4,1,3,0.333,0,0,0.0,4,6,10,1,1,1,4,2,13,17
+Los Angeles Lakers,C,Pau Gasol,Minnesota Timberwolves,W,02/01/2013,37:19,8,15,0.533,1,1,1.0,5,5,1.0,2,10,12,2,0,3,1,0,22,6
+Los Angeles Lakers,G,Kobe Bryant,Minnesota Timberwolves,W,02/01/2013,38:30,4,13,0.308,1,4,0.25,8,10,0.8,2,10,12,8,0,0,4,2,17,-3
+Los Angeles Lakers,G,Steve Nash,Minnesota Timberwolves,W,02/01/2013,37:09,6,9,0.667,3,3,1.0,2,2,1.0,2,5,7,7,0,2,0,1,17,9
+Los Angeles Lakers,F,Metta World Peace,Detroit Pistons,W,02/03/2013,36:06,3,8,0.375,1,4,0.25,1,2,0.5,2,7,9,2,1,1,1,4,8,-4
+Los Angeles Lakers,F,Earl Clark,Detroit Pistons,W,02/03/2013,41:38,6,11,0.545,1,3,0.333,4,6,0.667,2,8,10,1,2,2,0,1,17,-8
+Los Angeles Lakers,C,Pau Gasol,Detroit Pistons,W,02/03/2013,40:29,10,18,0.556,0,0,0.0,3,4,0.75,2,8,10,3,2,0,2,1,23,10
+Los Angeles Lakers,G,Kobe Bryant,Detroit Pistons,W,02/03/2013,37:05,8,20,0.4,0,3,0.0,2,3,0.667,0,3,3,5,2,0,3,0,18,1
+Los Angeles Lakers,G,Steve Nash,Detroit Pistons,W,02/03/2013,33:33,5,10,0.5,0,2,0.0,1,3,0.333,1,4,5,10,0,0,4,4,11,2
+Los Angeles Lakers,F,Antawn Jamison,Brooklyn Nets,W,02/05/2013,37:13,4,8,0.5,1,3,0.333,0,0,0.0,0,8,8,1,0,1,0,3,9,0
+Los Angeles Lakers,F,Earl Clark,Brooklyn Nets,W,02/05/2013,40:31,6,9,0.667,0,1,0.0,2,3,0.667,2,10,12,0,1,1,0,3,14,18
+Los Angeles Lakers,C,Pau Gasol,Brooklyn Nets,W,02/05/2013,34:01,6,16,0.375,0,0,0.0,3,4,0.75,1,3,4,2,0,2,2,2,15,-3
+Los Angeles Lakers,G,Kobe Bryant,Brooklyn Nets,W,02/05/2013,37:16,9,24,0.375,0,2,0.0,3,3,1.0,1,7,8,4,4,1,5,1,21,5
+Los Angeles Lakers,G,Steve Nash,Brooklyn Nets,W,02/05/2013,34:00,6,11,0.545,0,1,0.0,5,6,0.833,0,4,4,8,0,0,2,2,17,3
+Los Angeles Lakers,F,Metta World Peace,Boston Celtics,L,02/07/2013,30:03,2,13,0.154,0,5,0.0,1,2,0.5,2,3,5,1,1,0,1,1,5,-20
+Los Angeles Lakers,F,Earl Clark,Boston Celtics,L,02/07/2013,34:18,2,6,0.333,0,2,0.0,1,2,0.5,0,7,7,1,0,2,0,4,5,-15
+Los Angeles Lakers,C,Dwight Howard,Boston Celtics,L,02/07/2013,28:14,4,8,0.5,0,0,0.0,1,6,0.167,3,6,9,1,0,0,4,6,9,-9
+Los Angeles Lakers,G,Kobe Bryant,Boston Celtics,L,02/07/2013,29:41,9,15,0.6,0,1,0.0,9,9,1.0,3,4,7,0,0,0,4,2,27,-20
+Los Angeles Lakers,G,Steve Nash,Boston Celtics,L,02/07/2013,27:44,4,9,0.444,1,2,0.5,0,0,0.0,0,1,1,5,0,0,0,0,9,-7
+Los Angeles Lakers,F,Metta World Peace,Charlotte Bobcats,W,02/08/2013,30:34,5,14,0.357,0,4,0.0,1,1,1.0,3,2,5,1,2,2,0,2,11,-4
+Los Angeles Lakers,F,Earl Clark,Charlotte Bobcats,W,02/08/2013,34:47,7,14,0.5,1,4,0.25,2,3,0.667,2,8,10,0,2,1,2,3,17,14
+Los Angeles Lakers,C,Dwight Howard,Charlotte Bobcats,W,02/08/2013,37:43,4,7,0.571,0,0,0.0,4,6,0.667,0,11,11,1,1,3,2,4,12,0
+Los Angeles Lakers,G,Kobe Bryant,Charlotte Bobcats,W,02/08/2013,37:33,6,15,0.4,0,2,0.0,8,8,1.0,0,7,7,8,0,1,3,0,20,-2
+Los Angeles Lakers,G,Steve Nash,Charlotte Bobcats,W,02/08/2013,33:02,6,12,0.5,2,6,0.333,3,3,1.0,0,2,2,7,1,0,4,3,17,-4
+Los Angeles Lakers,F,Metta World Peace,Miami Heat,L,02/10/2013,36:23,3,11,0.273,2,2,1.0,1,2,0.5,0,0,0,1,2,0,0,2,9,-12
+Los Angeles Lakers,F,Earl Clark,Miami Heat,L,02/10/2013,41:38,8,17,0.471,1,3,0.333,1,1,1.0,1,8,9,1,1,1,2,4,18,-13
+Los Angeles Lakers,C,Dwight Howard,Miami Heat,L,02/10/2013,41:18,6,9,0.667,0,0,0.0,3,5,0.6,2,7,9,1,2,2,3,4,15,-1
+Los Angeles Lakers,G,Kobe Bryant,Miami Heat,L,02/10/2013,37:03,11,19,0.579,0,0,0.0,6,8,0.75,1,5,6,9,1,0,4,2,28,-14
+Los Angeles Lakers,G,Steve Nash,Miami Heat,L,02/10/2013,32:52,3,5,0.6,1,1,1.0,8,8,1.0,0,2,2,2,1,0,3,1,15,-8
+Los Angeles Lakers,F,Metta World Peace,Phoenix Suns,W,02/12/2013,40:06,6,16,0.375,2,3,0.667,3,4,0.75,3,5,8,1,4,1,2,4,17,10
+Los Angeles Lakers,F,Earl Clark,Phoenix Suns,W,02/12/2013,27:51,4,9,0.444,1,3,0.333,2,3,0.667,0,4,4,1,3,0,2,2,11,3
+Los Angeles Lakers,C,Dwight Howard,Phoenix Suns,W,02/12/2013,40:37,8,15,0.533,0,0,0.0,3,6,0.5,3,15,18,0,1,2,2,4,19,6
+Los Angeles Lakers,G,Kobe Bryant,Phoenix Suns,W,02/12/2013,35:46,1,8,0.125,0,4,0.0,2,2,1.0,1,4,5,9,1,1,8,1,4,-2
+Los Angeles Lakers,G,Steve Nash,Phoenix Suns,W,02/12/2013,31:51,5,11,0.455,0,2,0.0,0,0,0.0,0,1,1,8,0,0,2,0,10,5
+Los Angeles Lakers,F,Metta World Peace,Los Angeles Clippers,L,02/14/2013,32:01,4,9,0.444,2,6,0.333,1,2,0.5,1,3,4,2,1,0,0,3,11,-19
+Los Angeles Lakers,F,Earl Clark,Los Angeles Clippers,L,02/14/2013,28:09,2,10,0.2,0,1,0.0,0,0,0.0,2,5,7,3,3,0,2,1,4,-17
+Los Angeles Lakers,C,Dwight Howard,Los Angeles Clippers,L,02/14/2013,32:02,7,10,0.7,0,0,0.0,4,8,0.5,3,5,8,0,2,1,3,2,18,-31
+Los Angeles Lakers,G,Kobe Bryant,Los Angeles Clippers,L,02/14/2013,38:39,7,13,0.538,0,0,0.0,6,6,1.0,3,2,5,11,0,0,6,2,20,-35
+Los Angeles Lakers,G,Steve Nash,Los Angeles Clippers,L,02/14/2013,24:55,3,9,0.333,0,4,0.0,1,1,1.0,0,1,1,5,0,0,3,2,7,-24
+Los Angeles Lakers,F,Metta World Peace,Boston Celtics,W,02/20/2013,41:01,5,14,0.357,2,7,0.286,0,0,0.0,0,4,4,3,2,1,0,1,12,14
+Los Angeles Lakers,F,Earl Clark,Boston Celtics,W,02/20/2013,37:42,6,14,0.429,0,3,0.0,2,4,0.5,5,11,16,0,1,1,0,3,14,0
+Los Angeles Lakers,C,Dwight Howard,Boston Celtics,W,02/20/2013,30:07,10,13,0.769,0,0,0.0,4,8,0.5,7,5,12,1,1,1,4,5,24,22
+Los Angeles Lakers,G,Kobe Bryant,Boston Celtics,W,02/20/2013,32:49,5,15,0.333,0,4,0.0,6,7,0.857,1,3,4,7,0,0,3,5,16,11
+Los Angeles Lakers,G,Steve Nash,Boston Celtics,W,02/20/2013,30:41,6,7,0.857,2,2,1.0,0,0,0.0,0,4,4,7,1,0,3,1,14,13
+Los Angeles Lakers,F,Metta World Peace,Portland Trail Blazers,W,02/22/2013,35:56,4,9,0.444,2,4,0.5,1,1,1.0,1,5,6,2,2,1,3,5,11,4
+Los Angeles Lakers,F,Earl Clark,Portland Trail Blazers,W,02/22/2013,30:07,4,8,0.5,1,3,0.333,2,2,1.0,0,5,5,0,0,1,1,2,11,-9
+Los Angeles Lakers,C,Dwight Howard,Portland Trail Blazers,W,02/22/2013,37:46,7,14,0.5,0,0,0.0,5,12,0.417,5,11,16,2,1,2,2,4,19,1
+Los Angeles Lakers,G,Kobe Bryant,Portland Trail Blazers,W,02/22/2013,35:51,15,23,0.652,1,3,0.333,9,9,1.0,2,5,7,4,2,0,5,1,40,2
+Los Angeles Lakers,G,Steve Nash,Portland Trail Blazers,W,02/22/2013,33:33,2,11,0.182,0,1,0.0,0,1,0.0,1,4,5,6,1,0,3,0,4,3
+Los Angeles Lakers,F,Metta World Peace,Dallas Mavericks,W,02/24/2013,36:47,0,6,0.0,0,1,0.0,1,2,0.5,0,2,2,1,1,0,0,4,1,3
+Los Angeles Lakers,F,Earl Clark,Dallas Mavericks,W,02/24/2013,29:11,3,5,0.6,0,0,0.0,0,0,0.0,2,4,6,2,1,0,3,1,6,-11
+Los Angeles Lakers,C,Dwight Howard,Dallas Mavericks,W,02/24/2013,32:42,2,7,0.286,0,0,0.0,5,10,0.5,1,12,13,1,2,1,4,5,9,15
+Los Angeles Lakers,G,Kobe Bryant,Dallas Mavericks,W,02/24/2013,38:16,13,21,0.619,4,5,0.8,8,10,0.8,1,11,12,7,0,1,5,2,38,7
+Los Angeles Lakers,G,Steve Nash,Dallas Mavericks,W,02/24/2013,33:49,7,12,0.583,4,5,0.8,2,2,1.0,0,2,2,4,1,0,3,0,20,2
+Los Angeles Lakers,F,Metta World Peace,Denver Nuggets,L,02/25/2013,30:53,6,11,0.545,2,5,0.4,1,2,0.5,2,0,2,0,3,0,2,3,15,-7
+Los Angeles Lakers,F,Earl Clark,Denver Nuggets,L,02/25/2013,22:40,4,9,0.444,0,2,0.0,0,2,0.0,0,1,1,0,1,1,0,2,8,-17
+Los Angeles Lakers,C,Dwight Howard,Denver Nuggets,L,02/25/2013,38:20,6,8,0.75,0,0,0.0,3,14,0.214,4,10,14,1,0,4,1,2,15,0
+Los Angeles Lakers,G,Kobe Bryant,Denver Nuggets,L,02/25/2013,38:44,12,23,0.522,0,1,0.0,5,6,0.833,0,6,6,9,0,0,4,3,29,-1
+Los Angeles Lakers,G,Steve Nash,Denver Nuggets,L,02/25/2013,34:03,6,8,0.75,0,1,0.0,4,5,0.8,0,3,3,5,0,0,6,3,16,-5
+Los Angeles Lakers,F,Metta World Peace,Minnesota Timberwolves,W,02/28/2013,28:22,2,7,0.286,2,4,0.5,0,0,0.0,0,4,4,2,1,0,1,4,6,10
+Los Angeles Lakers,F,Earl Clark,Minnesota Timberwolves,W,02/28/2013,29:51,1,3,0.333,0,0,0.0,2,2,1.0,1,3,4,4,3,2,2,2,4,18
+Los Angeles Lakers,C,Dwight Howard,Minnesota Timberwolves,W,02/28/2013,33:24,5,6,0.833,0,0,0.0,1,4,0.25,3,10,13,1,1,4,3,5,11,12
+Los Angeles Lakers,G,Kobe Bryant,Minnesota Timberwolves,W,02/28/2013,31:33,13,22,0.591,4,8,0.5,3,7,0.429,1,4,5,5,2,0,3,1,33,17
+Los Angeles Lakers,G,Steve Nash,Minnesota Timberwolves,W,02/28/2013,24:47,4,12,0.333,2,4,0.5,0,0,0.0,0,0,0,7,0,0,0,0,10,8
+Los Angeles Lakers,F,Metta World Peace,Atlanta Hawks,W,03/03/2013,28:47,5,8,0.625,2,4,0.5,1,2,0.5,0,3,3,1,2,0,1,4,13,2
+Los Angeles Lakers,F,Earl Clark,Atlanta Hawks,W,03/03/2013,20:13,3,6,0.5,1,1,1.0,0,0,0.0,3,4,7,1,0,0,0,2,7,8
+Los Angeles Lakers,C,Dwight Howard,Atlanta Hawks,W,03/03/2013,40:46,5,12,0.417,0,0,0.0,1,2,0.5,2,13,15,0,2,1,5,4,11,9
+Los Angeles Lakers,G,Kobe Bryant,Atlanta Hawks,W,03/03/2013,39:00,13,27,0.481,2,5,0.4,6,8,0.75,1,5,6,4,2,0,5,1,34,6
+Los Angeles Lakers,G,Steve Nash,Atlanta Hawks,W,03/03/2013,32:56,6,12,0.5,1,2,0.5,2,2,1.0,0,2,2,10,1,0,5,2,15,20
+Los Angeles Lakers,F,Metta World Peace,Oklahoma City Thunder,L,03/05/2013,32:42,5,11,0.455,3,6,0.5,3,4,0.75,1,2,3,1,0,0,1,4,16,-8
+Los Angeles Lakers,F,Earl Clark,Oklahoma City Thunder,L,03/05/2013,30:07,3,8,0.375,1,2,0.5,6,8,0.75,5,6,11,1,0,1,5,2,13,-25
+Los Angeles Lakers,C,Dwight Howard,Oklahoma City Thunder,L,03/05/2013,37:07,1,7,0.143,0,0,0.0,4,8,0.5,5,11,16,0,0,0,2,6,6,-7
+Los Angeles Lakers,G,Kobe Bryant,Oklahoma City Thunder,L,03/05/2013,39:22,8,19,0.421,3,7,0.429,11,12,0.917,1,2,3,2,0,0,2,3,30,-11
+Los Angeles Lakers,G,Steve Nash,Oklahoma City Thunder,L,03/05/2013,35:09,7,15,0.467,2,6,0.333,4,4,1.0,0,4,4,4,0,0,3,0,20,-12
+Los Angeles Lakers,F,Metta World Peace,New Orleans Hornets,W,03/06/2013,30:26,4,9,0.444,3,5,0.6,0,2,0.0,0,0,0,0,2,0,0,5,11,9
+Los Angeles Lakers,F,Earl Clark,New Orleans Hornets,W,03/06/2013,22:28,0,4,0.0,0,2,0.0,5,6,0.833,0,2,2,3,1,0,2,0,5,-8
+Los Angeles Lakers,C,Dwight Howard,New Orleans Hornets,W,03/06/2013,35:00,9,16,0.563,0,0,0.0,2,4,0.5,3,12,15,0,3,4,1,5,20,14
+Los Angeles Lakers,G,Kobe Bryant,New Orleans Hornets,W,03/06/2013,41:57,14,21,0.667,3,7,0.429,11,14,0.786,0,7,7,12,0,1,6,0,42,16
+Los Angeles Lakers,G,Steve Nash,New Orleans Hornets,W,03/06/2013,35:09,2,7,0.286,0,1,0.0,1,1,1.0,0,4,4,1,0,0,1,1,5,5
+Los Angeles Lakers,F,Metta World Peace,Toronto Raptors,W,03/08/2013,43:31,3,12,0.25,1,6,0.167,2,2,1.0,3,1,4,1,1,0,0,2,9,11
+Los Angeles Lakers,F,Earl Clark,Toronto Raptors,W,03/08/2013,17:56,1,3,0.333,0,1,0.0,0,0,0.0,0,2,2,2,0,0,0,0,2,-10
+Los Angeles Lakers,C,Dwight Howard,Toronto Raptors,W,03/08/2013,46:16,9,15,0.6,0,0,0.0,6,13,0.462,3,10,13,1,3,5,2,3,24,14
+Los Angeles Lakers,G,Kobe Bryant,Toronto Raptors,W,03/08/2013,43:47,11,22,0.5,5,10,0.5,14,16,0.875,1,5,6,12,2,0,9,0,41,0
+Los Angeles Lakers,G,Steve Nash,Toronto Raptors,W,03/08/2013,39:55,7,13,0.538,4,6,0.667,4,5,0.8,2,2,4,2,2,0,2,0,22,7
+Los Angeles Lakers,F,Metta World Peace,Chicago Bulls,W,03/10/2013,40:59,6,16,0.375,0,6,0.0,0,0,0.0,3,4,7,0,1,4,2,3,12,6
+Los Angeles Lakers,F,Earl Clark,Chicago Bulls,W,03/10/2013,22:41,5,13,0.385,1,5,0.2,0,0,0.0,3,2,5,0,0,0,2,1,11,10
+Los Angeles Lakers,C,Dwight Howard,Chicago Bulls,W,03/10/2013,38:33,8,14,0.571,0,0,0.0,0,5,0.0,7,14,21,1,1,4,3,4,16,8
+Los Angeles Lakers,G,Kobe Bryant,Chicago Bulls,W,03/10/2013,39:35,7,16,0.438,1,4,0.25,4,6,0.667,1,6,7,9,2,0,2,2,19,16
+Los Angeles Lakers,G,Steve Nash,Chicago Bulls,W,03/10/2013,34:07,6,9,0.667,1,2,0.5,3,3,1.0,1,1,2,4,0,0,1,3,16,12
+Los Angeles Lakers,F,Metta World Peace,Orlando Magic,W,03/12/2013,38:41,5,12,0.417,2,4,0.5,2,3,0.667,1,1,2,0,2,0,1,3,14,11
+Los Angeles Lakers,F,Earl Clark,Orlando Magic,W,03/12/2013,20:41,2,5,0.4,2,4,0.5,0,0,0.0,0,4,4,0,1,1,2,2,6,4
+Los Angeles Lakers,C,Dwight Howard,Orlando Magic,W,03/12/2013,38:24,7,13,0.538,0,0,0.0,25,39,0.641,3,13,16,2,1,3,0,3,39,16
+Los Angeles Lakers,G,Kobe Bryant,Orlando Magic,W,03/12/2013,36:27,4,14,0.286,2,6,0.333,1,2,0.5,1,6,7,8,2,0,3,1,11,0
+Los Angeles Lakers,G,Steve Nash,Orlando Magic,W,03/12/2013,31:30,5,9,0.556,1,2,0.5,0,0,0.0,0,0,0,2,1,0,3,4,11,9
+Los Angeles Lakers,F,Metta World Peace,Atlanta Hawks,L,03/13/2013,41:44,9,19,0.474,2,9,0.222,0,0,0.0,3,5,8,2,2,0,2,2,20,-13
+Los Angeles Lakers,F,Earl Clark,Atlanta Hawks,L,03/13/2013,12:56,1,2,0.5,0,1,0.0,2,2,1.0,0,3,3,0,0,0,0,2,4,1
+Los Angeles Lakers,C,Dwight Howard,Atlanta Hawks,L,03/13/2013,38:02,5,9,0.556,0,0,0.0,0,3,0.0,3,13,16,0,2,1,1,5,10,10
+Los Angeles Lakers,G,Kobe Bryant,Atlanta Hawks,L,03/13/2013,38:12,11,33,0.333,2,8,0.25,7,8,0.875,1,6,7,5,2,0,5,1,31,-3
+Los Angeles Lakers,G,Steve Nash,Atlanta Hawks,L,03/13/2013,38:27,4,14,0.286,0,2,0.0,3,3,1.0,0,1,1,7,0,0,0,3,11,-3
+Los Angeles Lakers,F,Metta World Peace,Indiana Pacers,W,03/15/2013,36:36,6,12,0.5,2,4,0.5,5,6,0.833,4,3,7,3,2,1,4,3,19,5
+Los Angeles Lakers,F,Earl Clark,Indiana Pacers,W,03/15/2013,28:02,3,6,0.5,1,1,1.0,1,1,1.0,0,6,6,1,1,1,1,3,8,-9
+Los Angeles Lakers,C,Dwight Howard,Indiana Pacers,W,03/15/2013,34:24,7,17,0.412,0,1,0.0,6,11,0.545,2,10,12,4,0,4,4,5,20,8
+Los Angeles Lakers,G,Kobe Bryant,Indiana Pacers,W,03/15/2013,12:00,0,4,0.0,0,1,0.0,0,0,0.0,0,1,1,2,0,0,1,1,0,-3
+Los Angeles Lakers,G,Steve Nash,Indiana Pacers,W,03/15/2013,35:45,5,13,0.385,1,2,0.5,4,4,1.0,0,4,4,9,0,0,2,1,15,0
+Los Angeles Lakers,F,Metta World Peace,Sacramento Kings,W,03/17/2013,39:56,10,13,0.769,1,3,0.333,1,1,1.0,0,0,0,4,0,1,1,2,22,16
+Los Angeles Lakers,F,Earl Clark,Sacramento Kings,W,03/17/2013,26:60,4,10,0.4,0,3,0.0,3,4,0.75,0,8,8,2,0,1,2,1,11,-8
+Los Angeles Lakers,C,Dwight Howard,Sacramento Kings,W,03/17/2013,40:32,4,6,0.667,0,0,0.0,4,10,0.4,3,14,17,1,0,5,2,2,12,4
+Los Angeles Lakers,G,Jodie Meeks,Sacramento Kings,W,03/17/2013,28:08,2,6,0.333,1,5,0.2,1,2,0.5,0,0,0,0,1,0,1,2,6,-4
+Los Angeles Lakers,G,Steve Nash,Sacramento Kings,W,03/17/2013,35:04,7,12,0.583,1,2,0.5,4,4,1.0,0,4,4,12,0,0,3,2,19,9
+Los Angeles Lakers,F,Metta World Peace,Phoenix Suns,L,03/18/2013,39:05,5,17,0.294,2,9,0.222,0,0,0.0,0,6,6,3,5,0,3,1,12,-17
+Los Angeles Lakers,F,Earl Clark,Phoenix Suns,L,03/18/2013,30:20,2,5,0.4,0,1,0.0,0,2,0.0,4,6,10,1,1,0,2,1,4,-12
+Los Angeles Lakers,C,Dwight Howard,Phoenix Suns,L,03/18/2013,37:10,6,18,0.333,0,0,0.0,4,5,0.8,5,6,11,1,1,1,4,4,16,-14
+Los Angeles Lakers,G,Jodie Meeks,Phoenix Suns,L,03/18/2013,33:28,3,9,0.333,0,1,0.0,2,2,1.0,3,3,6,2,1,0,2,2,8,-15
+Los Angeles Lakers,G,Steve Nash,Phoenix Suns,L,03/18/2013,31:34,6,17,0.353,1,2,0.5,6,6,1.0,2,3,5,4,1,0,3,1,19,-3
+Los Angeles Lakers,F,Metta World Peace,Washington Wizards,L,03/22/2013,39:24,3,6,0.5,3,6,0.5,0,0,0.0,1,3,4,2,0,1,2,4,9,0
+Los Angeles Lakers,F,Pau Gasol,Washington Wizards,L,03/22/2013,20:27,2,10,0.2,0,0,0.0,0,0,0.0,2,6,8,1,0,0,2,0,4,-3
+Los Angeles Lakers,C,Dwight Howard,Washington Wizards,L,03/22/2013,37:44,8,9,0.889,0,0,0.0,4,5,0.8,2,13,15,3,0,1,3,4,20,2
+Los Angeles Lakers,G,Kobe Bryant,Washington Wizards,L,03/22/2013,37:53,8,18,0.444,1,2,0.5,4,7,0.571,1,3,4,11,2,0,6,3,21,1
+Los Angeles Lakers,G,Steve Nash,Washington Wizards,L,03/22/2013,34:46,4,10,0.4,1,3,0.333,0,0,0.0,0,3,3,6,0,0,1,1,9,0
+Los Angeles Lakers,F,Metta World Peace,Golden State Warriors,L,03/25/2013,18:56,2,3,0.667,0,0,0.0,3,4,0.75,0,0,0,1,2,0,1,1,7,-15
+Los Angeles Lakers,F,Pau Gasol,Golden State Warriors,L,03/25/2013,22:36,3,8,0.375,0,0,0.0,1,4,0.25,3,5,8,2,0,0,1,1,7,-13
+Los Angeles Lakers,C,Dwight Howard,Golden State Warriors,L,03/25/2013,36:53,4,8,0.5,0,0,0.0,3,6,0.5,2,13,15,0,1,1,4,5,11,4
+Los Angeles Lakers,G,Kobe Bryant,Golden State Warriors,L,03/25/2013,41:54,11,27,0.407,2,10,0.2,12,16,0.75,1,7,8,3,0,0,0,1,36,-1
+Los Angeles Lakers,G,Steve Nash,Golden State Warriors,L,03/25/2013,37:01,9,19,0.474,1,3,0.333,2,2,1.0,4,5,9,7,1,0,0,0,21,2
+Los Angeles Lakers,F,Kobe Bryant,Minnesota Timberwolves,W,03/27/2013,37:47,12,21,0.571,3,7,0.429,4,6,0.667,0,3,3,7,1,1,6,4,31,2
+Los Angeles Lakers,F,Pau Gasol,Minnesota Timberwolves,W,03/27/2013,36:29,8,12,0.667,0,0,0.0,1,2,0.5,2,7,9,3,2,2,2,1,17,3
+Los Angeles Lakers,C,Dwight Howard,Minnesota Timberwolves,W,03/27/2013,33:48,9,13,0.692,0,0,0.0,7,17,0.412,3,13,16,0,5,5,4,4,25,-4
+Los Angeles Lakers,G,Jodie Meeks,Minnesota Timberwolves,W,03/27/2013,34:48,2,7,0.286,1,4,0.25,0,0,0.0,2,2,4,3,1,0,0,2,5,4
+Los Angeles Lakers,G,Steve Nash,Minnesota Timberwolves,W,03/27/2013,35:30,4,7,0.571,2,3,0.667,6,7,0.857,0,0,0,8,0,0,6,5,16,-4
+Los Angeles Lakers,F,Kobe Bryant,Milwaukee Bucks,L,03/28/2013,36:28,6,17,0.353,0,3,0.0,18,20,0.9,0,2,2,3,0,0,6,2,30,-16
+Los Angeles Lakers,F,Pau Gasol,Milwaukee Bucks,L,03/28/2013,31:53,6,12,0.5,0,1,0.0,0,0,0.0,2,7,9,3,1,1,4,4,12,-11
+Los Angeles Lakers,C,Dwight Howard,Milwaukee Bucks,L,03/28/2013,38:19,6,8,0.75,0,0,0.0,3,10,0.3,5,10,15,2,0,3,2,5,15,-11
+Los Angeles Lakers,G,Jodie Meeks,Milwaukee Bucks,L,03/28/2013,38:52,4,12,0.333,1,6,0.167,2,2,1.0,0,2,2,1,2,0,1,0,11,-14
+Los Angeles Lakers,G,Steve Nash,Milwaukee Bucks,L,03/28/2013,23:21,5,7,0.714,1,2,0.5,5,5,1.0,2,1,3,6,2,1,4,2,16,1
+Los Angeles Lakers,F,Kobe Bryant,Sacramento Kings,W,03/30/2013,47:37,5,18,0.278,0,4,0.0,9,11,0.818,1,8,9,14,2,0,1,2,19,5
+Los Angeles Lakers,F,Pau Gasol,Sacramento Kings,W,03/30/2013,32:44,6,11,0.545,0,0,0.0,0,0,0.0,1,1,2,10,1,0,0,2,12,-3
+Los Angeles Lakers,C,Dwight Howard,Sacramento Kings,W,03/30/2013,40:16,10,14,0.714,0,0,0.0,4,10,0.4,6,9,15,1,1,5,4,3,24,-1
+Los Angeles Lakers,G,Jodie Meeks,Sacramento Kings,W,03/30/2013,38:27,5,10,0.5,3,8,0.375,1,2,0.5,2,1,3,0,2,0,0,3,14,-2
+Los Angeles Lakers,G,Steve Nash,Sacramento Kings,W,03/30/2013,1:48,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,2,-1
+Los Angeles Lakers,F,Kobe Bryant,Dallas Mavericks,W,04/02/2013,47:04,8,18,0.444,0,3,0.0,7,8,0.875,1,10,11,11,4,2,4,3,23,20
+Los Angeles Lakers,F,Pau Gasol,Dallas Mavericks,W,04/02/2013,34:40,6,13,0.462,0,0,0.0,2,2,1.0,5,5,10,6,0,0,4,4,14,17
+Los Angeles Lakers,C,Dwight Howard,Dallas Mavericks,W,04/02/2013,36:59,7,12,0.583,0,0,0.0,10,20,0.5,4,8,12,1,1,1,2,3,24,16
+Los Angeles Lakers,G,Jodie Meeks,Dallas Mavericks,W,04/02/2013,36:31,2,9,0.222,2,5,0.4,2,2,1.0,3,3,6,3,1,0,2,1,8,9
+Los Angeles Lakers,G,Steve Blake,Dallas Mavericks,W,04/02/2013,37:52,4,8,0.5,3,7,0.429,0,0,0.0,1,4,5,1,1,0,4,3,11,18
+Los Angeles Lakers,F,Kobe Bryant,Memphis Grizzlies,W,04/05/2013,42:32,10,23,0.435,0,5,0.0,4,4,1.0,0,5,5,9,1,0,4,3,24,6
+Los Angeles Lakers,F,Pau Gasol,Memphis Grizzlies,W,04/05/2013,35:35,8,14,0.571,0,0,0.0,3,4,0.75,1,8,9,3,0,0,0,2,19,2
+Los Angeles Lakers,C,Dwight Howard,Memphis Grizzlies,W,04/05/2013,35:34,3,7,0.429,0,0,0.0,3,6,0.5,1,9,10,2,1,1,4,5,9,-10
+Los Angeles Lakers,G,Jodie Meeks,Memphis Grizzlies,W,04/05/2013,26:09,1,5,0.2,0,4,0.0,0,1,0.0,0,5,5,3,1,0,1,1,2,-16
+Los Angeles Lakers,G,Steve Blake,Memphis Grizzlies,W,04/05/2013,38:35,2,6,0.333,2,5,0.4,0,0,0.0,2,2,4,4,0,0,5,3,6,4
+Los Angeles Lakers,F,Kobe Bryant,Los Angeles Clippers,L,04/07/2013,47:20,6,19,0.316,1,5,0.2,12,14,0.857,1,6,7,10,0,0,4,3,25,-14
+Los Angeles Lakers,F,Pau Gasol,Los Angeles Clippers,L,04/07/2013,39:12,6,11,0.545,0,0,0.0,0,2,0.0,5,8,13,8,1,0,3,2,12,-10
+Los Angeles Lakers,C,Dwight Howard,Los Angeles Clippers,L,04/07/2013,38:30,8,14,0.571,0,0,0.0,9,13,0.692,1,3,4,2,1,4,2,4,25,-3
+Los Angeles Lakers,G,Jodie Meeks,Los Angeles Clippers,L,04/07/2013,31:49,2,5,0.4,2,4,0.5,0,0,0.0,0,2,2,1,1,0,1,0,6,-8
+Los Angeles Lakers,G,Steve Blake,Los Angeles Clippers,L,04/07/2013,39:25,3,8,0.375,2,6,0.333,0,0,0.0,2,4,6,2,2,0,1,0,8,-6
+Los Angeles Lakers,F,Earl Clark,New Orleans Hornets,W,04/09/2013,24:11,0,3,0.0,0,2,0.0,0,0,0.0,0,3,3,5,0,1,0,4,0,5
+Los Angeles Lakers,F,Pau Gasol,New Orleans Hornets,W,04/09/2013,38:52,9,15,0.6,0,0,0.0,4,5,0.8,4,7,11,4,1,3,3,0,22,8
+Los Angeles Lakers,C,Dwight Howard,New Orleans Hornets,W,04/09/2013,32:45,9,13,0.692,0,0,0.0,1,3,0.333,2,4,6,4,0,2,4,5,19,2
+Los Angeles Lakers,G,Kobe Bryant,New Orleans Hornets,W,04/09/2013,41:06,9,18,0.5,2,7,0.286,10,11,0.909,1,5,6,6,5,1,5,2,30,7
+Los Angeles Lakers,G,Steve Blake,New Orleans Hornets,W,04/09/2013,39:36,3,7,0.429,1,5,0.2,0,0,0.0,0,5,5,6,2,1,1,2,7,-3
+Los Angeles Lakers,F,Earl Clark,Portland Trail Blazers,W,04/10/2013,26:40,1,3,0.333,1,3,0.333,0,0,0.0,0,1,1,0,0,0,0,2,3,16
+Los Angeles Lakers,F,Pau Gasol,Portland Trail Blazers,W,04/10/2013,39:17,11,15,0.733,0,1,0.0,1,2,0.5,1,6,7,9,0,2,3,2,23,12
+Los Angeles Lakers,C,Dwight Howard,Portland Trail Blazers,W,04/10/2013,38:10,9,11,0.818,0,0,0.0,2,4,0.5,2,8,10,1,0,3,6,4,20,4
+Los Angeles Lakers,G,Kobe Bryant,Portland Trail Blazers,W,04/10/2013,48:00,14,27,0.519,1,5,0.2,18,18,1.0,0,8,8,5,3,4,1,4,47,7
+Los Angeles Lakers,G,Steve Blake,Portland Trail Blazers,W,04/10/2013,37:59,3,4,0.75,2,3,0.667,0,0,0.0,2,5,7,3,1,0,3,2,8,3
+Los Angeles Lakers,F,Earl Clark,Golden State Warriors,W,04/12/2013,25:57,2,3,0.667,2,3,0.667,0,0,0.0,0,0,0,0,1,1,0,0,6,-4
+Los Angeles Lakers,F,Pau Gasol,Golden State Warriors,W,04/12/2013,37:27,9,13,0.692,0,0,0.0,8,8,1.0,1,10,11,10,0,0,5,0,26,7
+Los Angeles Lakers,C,Dwight Howard,Golden State Warriors,W,04/12/2013,38:04,7,8,0.875,0,0,0.0,14,22,0.636,1,6,7,1,0,1,2,5,28,-8
+Los Angeles Lakers,G,Kobe Bryant,Golden State Warriors,W,04/12/2013,44:54,9,21,0.429,4,8,0.5,12,16,0.75,0,5,5,4,0,0,5,3,34,0
+Los Angeles Lakers,G,Steve Blake,Golden State Warriors,W,04/12/2013,36:40,4,9,0.444,4,8,0.5,2,2,1.0,0,3,3,5,0,0,0,4,14,5
+Los Angeles Lakers,F,Metta World Peace,San Antonio Spurs,W,04/14/2013,28:39,3,10,0.3,0,5,0.0,2,2,1.0,0,2,2,2,1,0,0,3,8,3
+Los Angeles Lakers,F,Pau Gasol,San Antonio Spurs,W,04/14/2013,39:48,3,17,0.176,0,0,0.0,1,2,0.5,5,11,16,2,1,3,2,1,7,6
+Los Angeles Lakers,C,Dwight Howard,San Antonio Spurs,W,04/14/2013,36:23,9,15,0.6,0,0,0.0,8,17,0.471,6,11,17,0,2,3,3,3,26,-4
+Los Angeles Lakers,G,Jodie Meeks,San Antonio Spurs,W,04/14/2013,36:14,3,11,0.273,2,6,0.333,0,0,0.0,0,4,4,4,0,0,1,2,8,8
+Los Angeles Lakers,G,Steve Blake,San Antonio Spurs,W,04/14/2013,35:56,8,16,0.5,4,8,0.5,3,4,0.75,1,4,5,4,2,0,4,1,23,-2
+Los Angeles Lakers,F,Metta World Peace,Houston Rockets,W,04/17/2013,23:53,4,11,0.364,2,5,0.4,2,3,0.667,2,1,3,3,1,0,0,2,12,2
+Los Angeles Lakers,F,Pau Gasol,Houston Rockets,W,04/17/2013,43:43,7,17,0.412,0,0,0.0,3,4,0.75,5,15,20,11,0,2,3,0,17,1
+Los Angeles Lakers,C,Dwight Howard,Houston Rockets,W,04/17/2013,46:02,6,15,0.4,0,1,0.0,4,10,0.4,3,15,18,2,3,4,4,4,16,6
+Los Angeles Lakers,G,Jodie Meeks,Houston Rockets,W,04/17/2013,36:33,2,10,0.2,1,7,0.143,4,5,0.8,0,2,2,1,2,0,0,3,9,4
+Los Angeles Lakers,G,Steve Blake,Houston Rockets,W,04/17/2013,47:59,6,20,0.3,4,12,0.333,8,8,1.0,2,5,7,7,0,0,1,2,24,13

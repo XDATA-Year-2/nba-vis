@@ -1,0 +1,69 @@
+{
+	"team": "Indiana Pacers",
+	"players": [
+		{
+			"name": "Gerald Green",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "David West",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Roy Hibbert",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Paul George",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "George Hill",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Sam Young",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Lance Stephenson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "D.J. Augustin",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Dominic McGuire",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Tyler Hansbrough",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Ian Mahinmi",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Orlando Johnson",
+			"positions": [""]
+		},
+		{
+			"name": "Ben Hansbrough",
+			"positions": [""]
+		},
+		{
+			"name": "Miles Plumlee",
+			"positions": [""]
+		},
+		{
+			"name": "Jeff Ayres",
+			"positions": [""]
+		},
+		{
+			"name": "Danny Granger",
+			"positions": [""]
+		}
+	]
+}

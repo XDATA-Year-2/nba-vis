@@ -1,0 +1,69 @@
+{
+	"team": "Phoenix Suns",
+	"players": [
+		{
+			"name": "Michael Beasley",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Luis Scola",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Marcin Gortat",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Jared Dudley",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Goran Dragic",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Markieff Morris",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Shannon Brown",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Sebastian Telfair",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "PJ Tucker",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Marcus Morris",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Wesley Johnson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jermaine O'Neal",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Kendall Marshall",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Luke Zeller",
+			"positions": [""]
+		},
+		{
+			"name": "Diante Garrett",
+			"positions": [""]
+		},
+		{
+			"name": "Hamed Haddadi",
+			"positions": [""]
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"team": "New York Knicks",
+	"players": [
+		{
+			"name": "Carmelo Anthony",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kurt Thomas",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Tyson Chandler",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Ronnie Brewer",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Raymond Felton",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jason Kidd",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Chris Copeland",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "James White",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Marcus Camby",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Iman Shumpert",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Kenyon Martin",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Pablo Prigioni",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Solomon Jones",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Steve Novak",
+			"positions": ["Foward"]
+		},
+		{
+			"name": "Earl Barron",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Rasheed Wallace",
+			"positions": [""]
+		},
+		{
+			"name": "J.R. Smith",
+			"positions": [""]
+		},
+		{
+			"name": "Amar'e Stoudemire",
+			"positions": [""]
+		},
+		{
+			"name": "Quentin Richardson",
+			"positions": [""]
+		}
+	]
+}

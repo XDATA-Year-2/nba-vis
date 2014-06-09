@@ -1,0 +1,65 @@
+{
+	"team": "Los Angeles Clippers",
+	"players": [
+		{
+			"name": "Caron Butler",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Blake Griffin",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "DeAndre Jordan",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Willie Green",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Chris Paul",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Matt Barnes",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Chauncey Billups",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Eric Bledsoe",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Lamar Odom",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Jamal Crawford",
+			"positions": [""]
+		},
+		{
+			"name": "Ryan Hollins",
+			"positions": [""]
+		},
+		{
+			"name": "Ronny Turiaf",
+			"positions": [""]
+		},
+		{
+			"name": "Grant Hill",
+			"positions": [""]
+		},
+		{
+			"name": "Maalik Wayns",
+			"positions": [""]
+		},
+		{
+			"name": "DaJuan Summers",
+			"positions": [""]
+		}
+	]
+}

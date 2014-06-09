@@ -1,0 +1,77 @@
+{
+	"team": "Orlando Magic",
+	"players": [
+		{
+			"name": "Hedo Turkoglu",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Glen Davis",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Nikola Vucevic",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Arron Afflalo",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Jameer Nelson",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "DeQuan Jones",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "E'Twaun Moore",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Josh McRoberts",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "JJ Redick",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Maurice Harkless",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Andrew Nicholson",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Gustavo Ayon",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Ish Smith",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Tobias Harris",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kyle O'Quinn",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Beno Udrih",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Doron Lamb",
+			"positions": [""]
+		},
+		{
+			"name": "Al Harrington",
+			"positions": [""]
+		}
+	]
+}

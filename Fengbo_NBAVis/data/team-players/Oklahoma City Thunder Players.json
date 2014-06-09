@@ -1,0 +1,65 @@
+{
+	"team": "Oklahoma City Thunder",
+	"players": [
+		{
+			"name": "Serge Ibaka",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kevin Durant",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kendrick Perkins",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Thabo Sefolosha",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Russell Westbrook",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Nick Collison",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "DeAndre Liggins",
+			"positions": ["Guard"]
+		},
+		{
+			"name": "Hasheem Thabeet",
+			"positions": ["Center"]
+		},
+		{
+			"name": "Perry Jones",
+			"positions": ["Forward"]
+		},
+		{
+			"name": "Kevin Martin",
+			"positions": [""]
+		},
+		{
+			"name": "Eric Maynor",
+			"positions": [""]
+		},
+		{
+			"name": "Reggie Jackson",
+			"positions": [""]
+		},
+		{
+			"name": "Jeremy Lamb",
+			"positions": [""]
+		},
+		{
+			"name": "Derek Fisher",
+			"positions": [""]
+		},
+		{
+			"name": "Daniel Orton",
+			"positions": [""]
+		}
+	]
+}

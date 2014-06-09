@@ -1,0 +1,406 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Los Angeles Clippers,F,Caron Butler,Memphis Grizzlies,W,10/31/2012,34:25,5,12,0.417,0,2,0.0,0,0,0.0,0,2,2,1,1,0,1,3,10,-7
+Los Angeles Clippers,F,Blake Griffin,Memphis Grizzlies,W,10/31/2012,32:09,4,10,0.4,0,0,0.0,3,5,0.6,2,5,7,2,0,1,4,4,11,4
+Los Angeles Clippers,C,DeAndre Jordan,Memphis Grizzlies,W,10/31/2012,23:23,6,8,0.75,0,0,0.0,0,0,0.0,3,4,7,1,2,1,9,4,12,7
+Los Angeles Clippers,G,Willie Green,Memphis Grizzlies,W,10/31/2012,28:53,2,7,0.286,2,2,1.0,1,2,0.5,0,4,4,1,0,1,0,2,7,21
+Los Angeles Clippers,G,Chris Paul,Memphis Grizzlies,W,10/31/2012,34:14,4,10,0.4,0,2,0.0,4,6,0.667,0,4,4,12,4,0,2,2,12,-1
+Los Angeles Clippers,F,Caron Butler,Los Angeles Lakers,W,11/02/2012,25:17,5,7,0.714,2,3,0.667,2,2,1.0,0,2,2,0,1,1,2,1,14,4
+Los Angeles Clippers,F,Blake Griffin,Los Angeles Lakers,W,11/02/2012,33:07,6,15,0.4,0,1,0.0,3,5,0.6,3,5,8,3,2,0,4,6,15,15
+Los Angeles Clippers,C,DeAndre Jordan,Los Angeles Lakers,W,11/02/2012,22:58,2,3,0.667,0,0,0.0,0,3,0.0,2,3,5,0,0,2,0,3,4,7
+Los Angeles Clippers,G,Willie Green,Los Angeles Lakers,W,11/02/2012,13:16,3,6,0.5,2,5,0.4,0,0,0.0,0,1,1,1,1,0,1,3,8,3
+Los Angeles Clippers,G,Chris Paul,Los Angeles Lakers,W,11/02/2012,34:02,7,15,0.467,1,3,0.333,3,4,0.75,0,6,6,15,3,0,1,3,18,19
+Los Angeles Clippers,F,Caron Butler,Golden State Warriors,L,11/03/2012,31:35,8,10,0.8,4,5,0.8,0,1,0.0,0,1,1,1,0,1,2,3,20,-2
+Los Angeles Clippers,F,Blake Griffin,Golden State Warriors,L,11/03/2012,37:58,4,12,0.333,0,0,0.0,11,16,0.688,2,9,11,4,3,0,2,5,19,3
+Los Angeles Clippers,C,DeAndre Jordan,Golden State Warriors,L,11/03/2012,22:14,2,4,0.5,0,0,0.0,0,2,0.0,3,5,8,0,0,2,1,6,4,-2
+Los Angeles Clippers,G,Willie Green,Golden State Warriors,L,11/03/2012,15:54,1,4,0.25,0,3,0.0,0,0,0.0,0,0,0,0,0,0,1,2,2,-13
+Los Angeles Clippers,G,Chris Paul,Golden State Warriors,L,11/03/2012,33:15,3,9,0.333,2,2,1.0,19,20,0.95,0,2,2,10,1,0,5,3,27,2
+Los Angeles Clippers,F,Caron Butler,Cleveland Cavaliers,L,11/05/2012,21:45,4,9,0.444,3,6,0.5,0,0,0.0,0,1,1,2,0,0,1,3,11,-3
+Los Angeles Clippers,F,Blake Griffin,Cleveland Cavaliers,L,11/05/2012,35:24,9,14,0.643,0,1,0.0,2,2,1.0,0,6,6,5,1,3,5,2,20,-11
+Los Angeles Clippers,C,DeAndre Jordan,Cleveland Cavaliers,L,11/05/2012,29:23,5,7,0.714,0,0,0.0,0,1,0.0,1,5,6,0,0,5,3,2,10,-4
+Los Angeles Clippers,G,Willie Green,Cleveland Cavaliers,L,11/05/2012,21:08,3,4,0.75,1,2,0.5,2,2,1.0,0,2,2,0,0,1,1,3,9,-9
+Los Angeles Clippers,G,Chris Paul,Cleveland Cavaliers,L,11/05/2012,34:18,6,10,0.6,1,4,0.25,4,4,1.0,1,4,5,9,1,0,2,4,17,-9
+Los Angeles Clippers,F,Caron Butler,San Antonio Spurs,W,11/07/2012,21:08,2,6,0.333,0,2,0.0,0,0,0.0,1,2,3,3,1,0,2,3,4,8
+Los Angeles Clippers,F,Blake Griffin,San Antonio Spurs,W,11/07/2012,29:56,10,16,0.625,0,0,0.0,2,3,0.667,0,10,10,3,0,1,2,2,22,29
+Los Angeles Clippers,C,DeAndre Jordan,San Antonio Spurs,W,11/07/2012,27:01,10,12,0.833,0,0,0.0,0,0,0.0,3,8,11,0,2,4,1,1,20,23
+Los Angeles Clippers,G,Willie Green,San Antonio Spurs,W,11/07/2012,17:18,5,5,1.0,1,1,1.0,0,0,0.0,0,2,2,1,1,0,0,0,11,14
+Los Angeles Clippers,G,Chris Paul,San Antonio Spurs,W,11/07/2012,29:28,4,8,0.5,0,1,0.0,2,2,1.0,0,2,2,12,1,0,1,2,10,19
+Los Angeles Clippers,F,Caron Butler,Portland Trail Blazers,W,11/08/2012,21:08,1,4,0.25,0,1,0.0,0,0,0.0,0,2,2,1,0,0,1,2,2,-4
+Los Angeles Clippers,F,Blake Griffin,Portland Trail Blazers,W,11/08/2012,25:31,3,9,0.333,0,0,0.0,1,4,0.25,0,10,10,4,3,0,2,3,7,2
+Los Angeles Clippers,C,DeAndre Jordan,Portland Trail Blazers,W,11/08/2012,28:05,8,10,0.8,0,0,0.0,5,7,0.714,6,2,8,1,0,1,1,5,21,7
+Los Angeles Clippers,G,Willie Green,Portland Trail Blazers,W,11/08/2012,19:14,3,6,0.5,1,2,0.5,0,0,0.0,0,0,0,2,0,1,1,1,7,-3
+Los Angeles Clippers,G,Chris Paul,Portland Trail Blazers,W,11/08/2012,33:47,9,17,0.529,0,1,0.0,3,3,1.0,0,4,4,6,3,0,2,1,21,5
+Los Angeles Clippers,F,Caron Butler,Atlanta Hawks,W,11/11/2012,26:00,5,13,0.385,2,4,0.5,1,1,1.0,0,6,6,0,0,2,1,2,13,7
+Los Angeles Clippers,F,Blake Griffin,Atlanta Hawks,W,11/11/2012,30:07,7,11,0.636,0,0,0.0,2,2,1.0,1,5,6,4,1,0,3,1,16,5
+Los Angeles Clippers,C,DeAndre Jordan,Atlanta Hawks,W,11/11/2012,24:13,3,6,0.5,0,0,0.0,2,2,1.0,2,3,5,0,2,0,0,3,8,5
+Los Angeles Clippers,G,Willie Green,Atlanta Hawks,W,11/11/2012,17:13,1,5,0.2,0,2,0.0,0,0,0.0,0,0,0,2,0,0,1,2,2,1
+Los Angeles Clippers,G,Chris Paul,Atlanta Hawks,W,11/11/2012,31:24,7,12,0.583,1,3,0.333,0,0,0.0,0,2,2,8,1,0,1,2,15,5
+Los Angeles Clippers,F,Caron Butler,Miami Heat,W,11/14/2012,25:39,5,11,0.455,3,5,0.6,2,2,1.0,0,2,2,0,0,0,1,1,15,2
+Los Angeles Clippers,F,Blake Griffin,Miami Heat,W,11/14/2012,30:10,8,16,0.5,0,0,0.0,4,6,0.667,4,10,14,6,0,2,3,2,20,8
+Los Angeles Clippers,C,DeAndre Jordan,Miami Heat,W,11/14/2012,26:28,4,6,0.667,0,0,0.0,0,1,0.0,1,5,6,1,0,0,0,2,8,0
+Los Angeles Clippers,G,Willie Green,Miami Heat,W,11/14/2012,19:47,2,6,0.333,2,5,0.4,1,2,0.5,1,1,2,2,0,0,0,2,7,10
+Los Angeles Clippers,G,Chris Paul,Miami Heat,W,11/14/2012,30:44,3,9,0.333,3,4,0.75,7,7,1.0,0,1,1,10,4,0,3,2,16,13
+Los Angeles Clippers,F,Caron Butler,Chicago Bulls,W,11/17/2012,19:15,2,5,0.4,0,0,0.0,1,1,1.0,0,1,1,1,0,0,0,1,5,2
+Los Angeles Clippers,F,Blake Griffin,Chicago Bulls,W,11/17/2012,33:02,11,18,0.611,0,0,0.0,4,5,0.8,2,8,10,2,2,0,4,3,26,16
+Los Angeles Clippers,C,DeAndre Jordan,Chicago Bulls,W,11/17/2012,28:54,2,5,0.4,0,0,0.0,1,4,0.25,1,7,8,0,2,7,2,4,5,11
+Los Angeles Clippers,G,Willie Green,Chicago Bulls,W,11/17/2012,20:38,2,6,0.333,0,1,0.0,0,0,0.0,0,1,1,0,0,0,1,2,4,6
+Los Angeles Clippers,G,Chris Paul,Chicago Bulls,W,11/17/2012,30:55,4,9,0.444,0,3,0.0,0,2,0.0,0,3,3,10,3,0,1,2,8,10
+Los Angeles Clippers,F,Caron Butler,San Antonio Spurs,W,11/19/2012,8:58,0,2,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,1,0,-8
+Los Angeles Clippers,F,Blake Griffin,San Antonio Spurs,W,11/19/2012,34:24,8,18,0.444,0,0,0.0,0,4,0.0,3,9,12,0,1,0,3,1,16,-3
+Los Angeles Clippers,C,DeAndre Jordan,San Antonio Spurs,W,11/19/2012,24:14,5,8,0.625,0,0,0.0,3,6,0.5,3,2,5,0,0,2,1,3,13,-1
+Los Angeles Clippers,G,Willie Green,San Antonio Spurs,W,11/19/2012,16:50,1,4,0.25,0,2,0.0,0,0,0.0,0,3,3,0,0,2,0,1,2,-7
+Los Angeles Clippers,G,Chris Paul,San Antonio Spurs,W,11/19/2012,36:13,9,16,0.563,0,3,0.0,1,1,1.0,2,2,4,8,1,0,3,2,19,-4
+Los Angeles Clippers,F,Matt Barnes,Oklahoma City Thunder,L,11/21/2012,43:34,7,17,0.412,2,8,0.25,3,4,0.75,4,5,9,0,4,1,2,6,19,-9
+Los Angeles Clippers,F,Blake Griffin,Oklahoma City Thunder,L,11/21/2012,38:48,9,16,0.563,0,0,0.0,5,8,0.625,2,4,6,1,3,1,3,5,23,-12
+Los Angeles Clippers,C,DeAndre Jordan,Oklahoma City Thunder,L,11/21/2012,35:39,4,8,0.5,0,0,0.0,4,6,0.667,2,8,10,0,2,1,0,2,12,-10
+Los Angeles Clippers,G,Willie Green,Oklahoma City Thunder,L,11/21/2012,16:54,3,6,0.5,2,3,0.667,0,0,0.0,1,0,1,3,1,0,1,1,8,-11
+Los Angeles Clippers,G,Chris Paul,Oklahoma City Thunder,L,11/21/2012,43:35,2,14,0.143,0,3,0.0,5,6,0.833,1,4,5,9,4,0,4,2,9,-1
+Los Angeles Clippers,F,Caron Butler,Brooklyn Nets,L,11/23/2012,32:13,3,9,0.333,0,3,0.0,1,2,0.5,0,2,2,1,0,0,0,3,7,-6
+Los Angeles Clippers,F,Blake Griffin,Brooklyn Nets,L,11/23/2012,36:58,5,10,0.5,0,0,0.0,4,8,0.5,2,6,8,3,0,2,2,0,14,-8
+Los Angeles Clippers,C,DeAndre Jordan,Brooklyn Nets,L,11/23/2012,24:28,5,14,0.357,0,0,0.0,2,3,0.667,8,5,13,0,0,1,3,3,12,-10
+Los Angeles Clippers,G,Willie Green,Brooklyn Nets,L,11/23/2012,15:14,2,3,0.667,1,2,0.5,0,0,0.0,1,0,1,0,0,0,1,1,5,-3
+Los Angeles Clippers,G,Chris Paul,Brooklyn Nets,L,11/23/2012,36:09,5,11,0.455,2,4,0.5,2,3,0.667,3,2,5,9,2,0,2,6,14,-10
+Los Angeles Clippers,F,Caron Butler,Atlanta Hawks,L,11/24/2012,25:05,1,6,0.167,1,3,0.333,0,0,0.0,1,1,2,0,2,0,1,2,3,-6
+Los Angeles Clippers,F,Blake Griffin,Atlanta Hawks,L,11/24/2012,33:38,9,17,0.529,0,0,0.0,4,6,0.667,2,9,11,7,0,0,2,5,22,-16
+Los Angeles Clippers,C,DeAndre Jordan,Atlanta Hawks,L,11/24/2012,26:40,4,8,0.5,0,0,0.0,0,2,0.0,2,3,5,0,0,1,1,1,8,-8
+Los Angeles Clippers,G,Willie Green,Atlanta Hawks,L,11/24/2012,16:42,3,5,0.6,1,1,1.0,0,0,0.0,0,1,1,0,0,1,1,2,7,0
+Los Angeles Clippers,G,Chris Paul,Atlanta Hawks,L,11/24/2012,38:50,5,12,0.417,1,3,0.333,8,8,1.0,0,5,5,7,7,0,4,3,19,0
+Los Angeles Clippers,F,Caron Butler,New Orleans Hornets,L,11/26/2012,34:20,12,24,0.5,9,15,0.6,0,1,0.0,3,3,6,2,0,0,1,3,33,0
+Los Angeles Clippers,F,Blake Griffin,New Orleans Hornets,L,11/26/2012,34:48,1,9,0.111,0,1,0.0,2,3,0.667,0,6,6,3,1,0,4,6,4,-6
+Los Angeles Clippers,C,DeAndre Jordan,New Orleans Hornets,L,11/26/2012,15:23,1,4,0.25,0,0,0.0,1,2,0.5,1,0,1,1,0,1,1,2,3,4
+Los Angeles Clippers,G,Willie Green,New Orleans Hornets,L,11/26/2012,17:41,4,6,0.667,2,3,0.667,0,0,0.0,0,1,1,3,1,0,0,1,10,7
+Los Angeles Clippers,G,Chris Paul,New Orleans Hornets,L,11/26/2012,38:38,9,14,0.643,2,4,0.5,0,0,0.0,1,3,4,8,4,0,3,4,20,-5
+Los Angeles Clippers,F,Caron Butler,Minnesota Timberwolves,W,11/28/2012,22:53,1,8,0.125,0,3,0.0,0,0,0.0,3,2,5,2,0,0,0,1,2,1
+Los Angeles Clippers,F,Blake Griffin,Minnesota Timberwolves,W,11/28/2012,32:46,9,17,0.529,0,0,0.0,0,0,0.0,2,4,6,3,2,0,1,5,18,11
+Los Angeles Clippers,C,DeAndre Jordan,Minnesota Timberwolves,W,11/28/2012,26:49,6,7,0.857,0,0,0.0,3,6,0.5,4,2,6,1,2,2,1,4,15,6
+Los Angeles Clippers,G,Chauncey Billups,Minnesota Timberwolves,W,11/28/2012,19:24,1,5,0.2,1,5,0.2,4,4,1.0,0,0,0,3,1,0,2,0,7,4
+Los Angeles Clippers,G,Chris Paul,Minnesota Timberwolves,W,11/28/2012,36:09,7,13,0.538,1,3,0.333,8,8,1.0,0,2,2,11,3,0,1,4,23,7
+Los Angeles Clippers,F,Caron Butler,Sacramento Kings,W,12/01/2012,22:48,4,9,0.444,3,8,0.375,0,0,0.0,0,1,1,1,1,0,0,0,11,23
+Los Angeles Clippers,F,Blake Griffin,Sacramento Kings,W,12/01/2012,28:38,5,10,0.5,0,0,0.0,4,5,0.8,1,8,9,2,1,0,0,2,14,20
+Los Angeles Clippers,C,DeAndre Jordan,Sacramento Kings,W,12/01/2012,23:13,6,12,0.5,0,0,0.0,1,4,0.25,3,3,6,0,1,2,0,2,13,19
+Los Angeles Clippers,G,Chauncey Billups,Sacramento Kings,W,12/01/2012,18:12,2,5,0.4,2,4,0.5,0,0,0.0,0,2,2,3,1,0,0,1,6,18
+Los Angeles Clippers,G,Chris Paul,Sacramento Kings,W,12/01/2012,21:48,6,8,0.75,2,3,0.667,0,0,0.0,1,4,5,5,1,0,1,2,14,22
+Los Angeles Clippers,F,Caron Butler,Utah Jazz,W,12/03/2012,21:33,2,8,0.25,1,4,0.25,0,0,0.0,0,1,1,1,2,0,0,2,5,-11
+Los Angeles Clippers,F,Blake Griffin,Utah Jazz,W,12/03/2012,36:38,14,20,0.7,0,1,0.0,2,3,0.667,1,10,11,1,1,0,0,2,30,-11
+Los Angeles Clippers,C,DeAndre Jordan,Utah Jazz,W,12/03/2012,33:16,1,3,0.333,0,0,0.0,1,2,0.5,3,3,6,0,0,2,2,1,3,-1
+Los Angeles Clippers,G,Chauncey Billups,Utah Jazz,W,12/03/2012,21:58,2,5,0.4,1,2,0.5,4,5,0.8,0,1,1,1,0,0,2,1,9,-5
+Los Angeles Clippers,G,Chris Paul,Utah Jazz,W,12/03/2012,37:24,7,14,0.5,0,4,0.0,0,0,0.0,1,2,3,9,1,0,3,1,14,-8
+Los Angeles Clippers,F,Caron Butler,Dallas Mavericks,W,12/05/2012,24:56,5,9,0.556,2,4,0.5,4,5,0.8,1,4,5,0,0,0,1,2,16,17
+Los Angeles Clippers,F,Blake Griffin,Dallas Mavericks,W,12/05/2012,28:13,8,13,0.615,0,1,0.0,3,4,0.75,3,10,13,5,2,1,2,2,19,16
+Los Angeles Clippers,C,DeAndre Jordan,Dallas Mavericks,W,12/05/2012,24:17,5,7,0.714,0,0,0.0,2,4,0.5,2,2,4,1,1,1,3,0,12,14
+Los Angeles Clippers,G,Willie Green,Dallas Mavericks,W,12/05/2012,16:09,2,4,0.5,0,1,0.0,0,0,0.0,0,0,0,0,0,0,1,1,4,6
+Los Angeles Clippers,G,Chris Paul,Dallas Mavericks,W,12/05/2012,28:57,5,10,0.5,0,2,0.0,4,5,0.8,1,3,4,13,5,0,3,1,14,18
+Los Angeles Clippers,F,Caron Butler,Phoenix Suns,W,12/08/2012,19:57,3,8,0.375,2,5,0.4,0,0,0.0,0,2,2,0,1,0,2,1,8,-2
+Los Angeles Clippers,F,Blake Griffin,Phoenix Suns,W,12/08/2012,28:55,10,17,0.588,0,0,0.0,4,10,0.4,3,5,8,4,4,1,1,2,24,0
+Los Angeles Clippers,C,DeAndre Jordan,Phoenix Suns,W,12/08/2012,25:54,3,4,0.75,0,0,0.0,2,4,0.5,4,2,6,1,1,2,0,3,8,9
+Los Angeles Clippers,G,Willie Green,Phoenix Suns,W,12/08/2012,15:29,2,4,0.5,1,2,0.5,0,0,0.0,0,1,1,0,0,0,1,2,5,0
+Los Angeles Clippers,G,Chris Paul,Phoenix Suns,W,12/08/2012,30:12,5,10,0.5,2,5,0.4,4,4,1.0,0,1,1,11,2,0,2,0,16,5
+Los Angeles Clippers,F,Caron Butler,Toronto Raptors,W,12/09/2012,26:14,4,9,0.444,1,2,0.5,0,0,0.0,1,1,2,2,0,0,0,1,9,4
+Los Angeles Clippers,F,Blake Griffin,Toronto Raptors,W,12/09/2012,29:10,7,11,0.636,0,0,0.0,5,6,0.833,2,7,9,4,3,0,0,1,19,2
+Los Angeles Clippers,C,DeAndre Jordan,Toronto Raptors,W,12/09/2012,27:02,1,7,0.143,0,0,0.0,5,11,0.455,5,5,10,1,1,2,2,3,7,1
+Los Angeles Clippers,G,Willie Green,Toronto Raptors,W,12/09/2012,15:43,2,4,0.5,0,1,0.0,0,0,0.0,1,2,3,1,0,0,0,1,4,10
+Los Angeles Clippers,G,Chris Paul,Toronto Raptors,W,12/09/2012,28:21,5,10,0.5,1,2,0.5,5,5,1.0,0,2,2,4,2,0,2,2,16,-2
+Los Angeles Clippers,F,Caron Butler,Chicago Bulls,W,12/11/2012,23:04,3,8,0.375,0,0,0.0,3,3,1.0,1,3,4,0,1,0,0,1,9,2
+Los Angeles Clippers,F,Blake Griffin,Chicago Bulls,W,12/11/2012,37:25,10,19,0.526,1,2,0.5,1,2,0.5,4,6,10,3,1,0,0,1,22,8
+Los Angeles Clippers,C,DeAndre Jordan,Chicago Bulls,W,12/11/2012,24:04,3,5,0.6,0,0,0.0,1,4,0.25,4,6,10,1,0,0,1,3,7,0
+Los Angeles Clippers,G,Willie Green,Chicago Bulls,W,12/11/2012,16:10,2,9,0.222,0,2,0.0,0,0,0.0,0,1,1,0,0,1,2,3,4,-9
+Los Angeles Clippers,G,Chris Paul,Chicago Bulls,W,12/11/2012,34:17,6,15,0.4,1,3,0.333,5,6,0.833,0,4,4,4,3,1,2,0,18,6
+Los Angeles Clippers,F,Caron Butler,Charlotte Bobcats,W,12/12/2012,18:05,3,8,0.375,2,5,0.4,0,0,0.0,2,2,4,0,1,0,2,1,8,1
+Los Angeles Clippers,F,Blake Griffin,Charlotte Bobcats,W,12/12/2012,37:44,9,17,0.529,0,0,0.0,1,5,0.2,2,3,5,3,0,2,2,2,19,1
+Los Angeles Clippers,C,DeAndre Jordan,Charlotte Bobcats,W,12/12/2012,22:16,2,4,0.5,0,0,0.0,0,0,0.0,1,5,6,1,0,0,1,3,4,-2
+Los Angeles Clippers,G,Willie Green,Charlotte Bobcats,W,12/12/2012,14:44,1,3,0.333,0,2,0.0,2,2,1.0,0,0,0,0,0,0,1,1,4,-1
+Los Angeles Clippers,G,Chris Paul,Charlotte Bobcats,W,12/12/2012,30:59,5,13,0.385,2,5,0.4,7,9,0.778,2,3,5,10,1,0,1,1,19,0
+Los Angeles Clippers,F,Caron Butler,Milwaukee Bucks,W,12/15/2012,22:14,3,9,0.333,0,1,0.0,2,2,1.0,1,1,2,2,1,0,1,2,8,13
+Los Angeles Clippers,F,Blake Griffin,Milwaukee Bucks,W,12/15/2012,27:29,7,12,0.583,0,0,0.0,4,5,0.8,3,8,11,1,2,0,0,0,18,14
+Los Angeles Clippers,C,DeAndre Jordan,Milwaukee Bucks,W,12/15/2012,25:29,7,10,0.7,0,0,0.0,1,4,0.25,3,8,11,2,0,0,1,2,15,14
+Los Angeles Clippers,G,Willie Green,Milwaukee Bucks,W,12/15/2012,21:38,2,7,0.286,1,3,0.333,2,2,1.0,1,3,4,0,0,0,0,3,7,10
+Los Angeles Clippers,G,Chris Paul,Milwaukee Bucks,W,12/15/2012,26:26,4,10,0.4,1,1,1.0,1,1,1.0,1,2,3,13,2,0,1,3,10,18
+Los Angeles Clippers,F,Caron Butler,Detroit Pistons,W,12/17/2012,18:48,2,6,0.333,1,3,0.333,6,9,0.667,0,3,3,0,1,0,0,1,11,9
+Los Angeles Clippers,F,Blake Griffin,Detroit Pistons,W,12/17/2012,28:18,6,11,0.545,0,0,0.0,3,4,0.75,2,2,4,3,2,1,0,4,15,8
+Los Angeles Clippers,C,DeAndre Jordan,Detroit Pistons,W,12/17/2012,26:19,3,6,0.5,0,0,0.0,0,0,0.0,5,5,10,1,0,0,1,1,6,1
+Los Angeles Clippers,G,Willie Green,Detroit Pistons,W,12/17/2012,17:06,2,6,0.333,1,4,0.25,0,0,0.0,0,2,2,1,1,1,1,1,5,-2
+Los Angeles Clippers,G,Chris Paul,Detroit Pistons,W,12/17/2012,33:25,6,12,0.5,0,2,0.0,2,2,1.0,0,4,4,7,3,0,3,1,14,2
+Los Angeles Clippers,F,Caron Butler,New Orleans Hornets,W,12/19/2012,22:24,2,8,0.25,0,4,0.0,2,2,1.0,1,4,5,1,0,0,0,1,6,10
+Los Angeles Clippers,F,Blake Griffin,New Orleans Hornets,W,12/19/2012,28:34,7,12,0.583,0,1,0.0,4,5,0.8,2,2,4,2,1,0,0,1,18,18
+Los Angeles Clippers,C,DeAndre Jordan,New Orleans Hornets,W,12/19/2012,23:57,6,7,0.857,0,0,0.0,0,3,0.0,1,4,5,1,0,2,5,2,12,14
+Los Angeles Clippers,G,Willie Green,New Orleans Hornets,W,12/19/2012,19:46,2,5,0.4,2,4,0.5,0,0,0.0,0,3,3,1,0,0,0,2,6,-3
+Los Angeles Clippers,G,Chris Paul,New Orleans Hornets,W,12/19/2012,27:57,4,9,0.444,0,2,0.0,2,2,1.0,1,4,5,12,1,0,0,2,10,16
+Los Angeles Clippers,F,Caron Butler,Sacramento Kings,W,12/21/2012,21:40,2,7,0.286,1,4,0.25,0,0,0.0,0,2,2,1,0,0,0,0,5,6
+Los Angeles Clippers,F,Blake Griffin,Sacramento Kings,W,12/21/2012,35:25,9,16,0.563,0,1,0.0,3,5,0.6,2,11,13,2,2,2,2,2,21,13
+Los Angeles Clippers,C,DeAndre Jordan,Sacramento Kings,W,12/21/2012,21:03,2,7,0.286,0,0,0.0,1,2,0.5,2,6,8,0,2,2,3,2,5,4
+Los Angeles Clippers,G,Willie Green,Sacramento Kings,W,12/21/2012,15:22,2,4,0.5,0,1,0.0,0,0,0.0,1,0,1,0,0,0,0,1,4,-1
+Los Angeles Clippers,G,Chris Paul,Sacramento Kings,W,12/21/2012,36:24,7,13,0.538,5,7,0.714,5,6,0.833,2,3,5,13,5,0,4,4,24,12
+Los Angeles Clippers,F,Caron Butler,Phoenix Suns,W,12/23/2012,24:03,3,7,0.429,2,4,0.5,0,0,0.0,0,4,4,0,0,0,1,3,8,-4
+Los Angeles Clippers,F,Blake Griffin,Phoenix Suns,W,12/23/2012,32:02,8,12,0.667,1,1,1.0,6,6,1.0,2,9,11,3,4,1,1,2,23,33
+Los Angeles Clippers,C,DeAndre Jordan,Phoenix Suns,W,12/23/2012,17:18,2,5,0.4,0,0,0.0,0,2,0.0,0,3,3,0,2,0,3,3,4,0
+Los Angeles Clippers,G,Willie Green,Phoenix Suns,W,12/23/2012,23:18,2,5,0.4,0,1,0.0,0,2,0.0,1,1,2,1,0,1,0,0,4,3
+Los Angeles Clippers,G,Chris Paul,Phoenix Suns,W,12/23/2012,29:04,7,12,0.583,2,4,0.5,1,1,1.0,0,1,1,13,5,0,2,1,17,32
+Los Angeles Clippers,F,Caron Butler,Denver Nuggets,W,12/25/2012,16:17,2,6,0.333,0,2,0.0,0,0,0.0,0,2,2,1,0,0,1,2,4,-8
+Los Angeles Clippers,F,Blake Griffin,Denver Nuggets,W,12/25/2012,25:45,6,12,0.5,0,0,0.0,1,2,0.5,3,3,6,6,1,1,1,3,13,1
+Los Angeles Clippers,C,DeAndre Jordan,Denver Nuggets,W,12/25/2012,19:07,3,4,0.75,0,0,0.0,0,2,0.0,4,2,6,0,1,2,1,1,6,6
+Los Angeles Clippers,G,Willie Green,Denver Nuggets,W,12/25/2012,17:08,4,6,0.667,3,4,0.75,0,0,0.0,1,1,2,0,0,0,1,0,11,-8
+Los Angeles Clippers,G,Chris Paul,Denver Nuggets,W,12/25/2012,31:37,5,11,0.455,2,4,0.5,2,2,1.0,0,4,4,8,3,0,1,1,14,13
+Los Angeles Clippers,F,Caron Butler,Boston Celtics,W,12/27/2012,24:39,6,12,0.5,2,6,0.333,0,0,0.0,0,1,1,3,0,0,0,1,14,19
+Los Angeles Clippers,F,Blake Griffin,Boston Celtics,W,12/27/2012,26:19,6,11,0.545,0,0,0.0,3,7,0.429,3,5,8,1,1,0,2,2,15,21
+Los Angeles Clippers,C,DeAndre Jordan,Boston Celtics,W,12/27/2012,17:42,3,3,1.0,0,0,0.0,1,3,0.333,1,6,7,0,1,1,0,4,7,11
+Los Angeles Clippers,G,Willie Green,Boston Celtics,W,12/27/2012,24:24,3,7,0.429,3,4,0.75,0,0,0.0,1,1,2,2,0,0,0,1,9,26
+Los Angeles Clippers,G,Chris Paul,Boston Celtics,W,12/27/2012,28:51,3,11,0.273,1,4,0.25,1,1,1.0,1,2,3,11,2,0,3,1,8,15
+Los Angeles Clippers,F,Caron Butler,Utah Jazz,W,12/28/2012,29:59,5,11,0.455,2,5,0.4,2,3,0.667,0,1,1,0,0,0,1,3,14,10
+Los Angeles Clippers,F,Blake Griffin,Utah Jazz,W,12/28/2012,39:20,7,10,0.7,0,0,0.0,8,9,0.889,2,11,13,3,1,0,3,5,22,14
+Los Angeles Clippers,C,DeAndre Jordan,Utah Jazz,W,12/28/2012,32:55,6,8,0.75,0,0,0.0,4,6,0.667,5,5,10,0,3,0,3,4,16,7
+Los Angeles Clippers,G,Willie Green,Utah Jazz,W,12/28/2012,15:54,4,6,0.667,2,3,0.667,0,0,0.0,0,0,0,1,1,0,0,1,10,-1
+Los Angeles Clippers,G,Chris Paul,Utah Jazz,W,12/28/2012,37:60,8,18,0.444,0,5,0.0,13,14,0.929,1,1,2,6,1,0,1,0,29,14
+Los Angeles Clippers,F,Caron Butler,Utah Jazz,W,12/30/2012,24:56,10,14,0.714,6,6,1.0,3,4,0.75,0,3,3,1,2,1,2,4,29,3
+Los Angeles Clippers,F,Blake Griffin,Utah Jazz,W,12/30/2012,25:45,3,5,0.6,0,0,0.0,1,5,0.2,1,6,7,3,0,0,2,5,7,13
+Los Angeles Clippers,C,DeAndre Jordan,Utah Jazz,W,12/30/2012,30:01,4,7,0.571,0,0,0.0,6,8,0.75,0,6,6,1,0,3,0,4,14,6
+Los Angeles Clippers,G,Willie Green,Utah Jazz,W,12/30/2012,16:00,2,4,0.5,0,1,0.0,1,1,1.0,0,1,1,3,0,0,0,3,5,9
+Los Angeles Clippers,G,Chris Paul,Utah Jazz,W,12/30/2012,35:24,7,14,0.5,0,3,0.0,5,5,1.0,0,1,1,9,5,0,2,1,19,8
+Los Angeles Clippers,F,Caron Butler,Denver Nuggets,L,01/01/2013,27:03,3,9,0.333,1,6,0.167,0,0,0.0,0,2,2,0,0,0,2,2,7,0
+Los Angeles Clippers,F,Blake Griffin,Denver Nuggets,L,01/01/2013,28:29,4,11,0.364,0,0,0.0,4,7,0.571,3,6,9,2,1,0,1,5,12,-4
+Los Angeles Clippers,C,DeAndre Jordan,Denver Nuggets,L,01/01/2013,26:06,4,4,1.0,0,0,0.0,3,10,0.3,5,6,11,0,3,3,1,3,11,0
+Los Angeles Clippers,G,Willie Green,Denver Nuggets,L,01/01/2013,17:00,1,9,0.111,0,5,0.0,0,0,0.0,0,1,1,0,2,0,0,0,2,-2
+Los Angeles Clippers,G,Chris Paul,Denver Nuggets,L,01/01/2013,33:57,4,9,0.444,1,4,0.25,1,1,1.0,0,4,4,6,2,0,3,1,10,-2
+Los Angeles Clippers,F,Matt Barnes,Golden State Warriors,L,01/02/2013,40:22,8,14,0.571,2,6,0.333,1,1,1.0,2,5,7,3,0,0,3,4,19,-17
+Los Angeles Clippers,F,Blake Griffin,Golden State Warriors,L,01/02/2013,35:24,2,11,0.182,0,1,0.0,6,10,0.6,0,6,6,2,3,2,2,3,10,-21
+Los Angeles Clippers,C,DeAndre Jordan,Golden State Warriors,L,01/02/2013,22:04,1,3,0.333,0,0,0.0,2,6,0.333,3,1,4,0,0,1,0,2,4,-19
+Los Angeles Clippers,G,Willie Green,Golden State Warriors,L,01/02/2013,13:48,2,10,0.2,1,5,0.2,0,0,0.0,0,0,0,1,1,0,1,1,5,-26
+Los Angeles Clippers,G,Chris Paul,Golden State Warriors,L,01/02/2013,38:39,6,12,0.5,1,6,0.167,10,12,0.833,1,3,4,6,2,0,1,2,23,-17
+Los Angeles Clippers,F,Caron Butler,Los Angeles Lakers,W,01/04/2013,29:22,1,4,0.25,0,2,0.0,3,4,0.75,0,4,4,1,0,1,4,2,5,4
+Los Angeles Clippers,F,Blake Griffin,Los Angeles Lakers,W,01/04/2013,28:40,9,16,0.563,1,1,1.0,5,7,0.714,1,4,5,2,1,0,2,4,24,-8
+Los Angeles Clippers,C,DeAndre Jordan,Los Angeles Lakers,W,01/04/2013,27:03,4,6,0.667,0,0,0.0,0,1,0.0,3,6,9,0,1,0,1,4,8,1
+Los Angeles Clippers,G,Willie Green,Los Angeles Lakers,W,01/04/2013,20:06,4,6,0.667,1,1,1.0,1,1,1.0,1,1,2,3,0,0,0,3,10,7
+Los Angeles Clippers,G,Chris Paul,Los Angeles Lakers,W,01/04/2013,41:01,11,25,0.44,1,4,0.25,7,7,1.0,0,6,6,13,2,0,4,3,30,14
+Los Angeles Clippers,F,Caron Butler,Golden State Warriors,W,01/05/2013,21:59,4,9,0.444,2,6,0.333,0,0,0.0,0,2,2,0,0,0,1,3,10,30
+Los Angeles Clippers,F,Blake Griffin,Golden State Warriors,W,01/05/2013,29:41,8,12,0.667,0,0,0.0,4,7,0.571,0,5,5,7,3,0,2,2,20,39
+Los Angeles Clippers,C,DeAndre Jordan,Golden State Warriors,W,01/05/2013,23:12,6,8,0.75,0,0,0.0,1,2,0.5,1,7,8,1,0,0,0,1,13,30
+Los Angeles Clippers,G,Willie Green,Golden State Warriors,W,01/05/2013,38:14,4,15,0.267,1,6,0.167,2,2,1.0,0,3,3,3,3,0,1,2,11,16
+Los Angeles Clippers,G,Chris Paul,Golden State Warriors,W,01/05/2013,28:05,10,12,0.833,5,6,0.833,2,2,1.0,1,4,5,9,1,0,0,0,27,37
+Los Angeles Clippers,F,Caron Butler,Dallas Mavericks,W,01/09/2013,22:02,4,13,0.308,1,6,0.167,2,2,1.0,3,2,5,1,0,0,1,1,11,-2
+Los Angeles Clippers,F,Blake Griffin,Dallas Mavericks,W,01/09/2013,33:37,6,13,0.462,0,0,0.0,3,4,0.75,5,8,13,1,3,1,6,3,15,0
+Los Angeles Clippers,C,DeAndre Jordan,Dallas Mavericks,W,01/09/2013,17:45,3,7,0.429,0,0,0.0,2,5,0.4,3,2,5,0,1,1,5,1,8,-8
+Los Angeles Clippers,G,Willie Green,Dallas Mavericks,W,01/09/2013,14:42,1,3,0.333,1,3,0.333,0,0,0.0,1,3,4,0,0,0,0,0,3,-3
+Los Angeles Clippers,G,Chris Paul,Dallas Mavericks,W,01/09/2013,40:10,8,13,0.615,1,2,0.5,2,2,1.0,1,4,5,16,2,0,3,2,19,6
+Los Angeles Clippers,F,Caron Butler,Orlando Magic,L,01/12/2013,22:11,3,7,0.429,2,4,0.5,0,0,0.0,0,1,1,1,1,0,0,2,8,4
+Los Angeles Clippers,F,Blake Griffin,Orlando Magic,L,01/12/2013,35:24,15,22,0.682,0,1,0.0,0,0,0.0,1,7,8,7,0,1,1,1,30,3
+Los Angeles Clippers,C,DeAndre Jordan,Orlando Magic,L,01/12/2013,21:25,5,6,0.833,0,0,0.0,0,0,0.0,3,3,6,2,1,2,0,1,10,3
+Los Angeles Clippers,G,Willie Green,Orlando Magic,L,01/12/2013,17:26,4,7,0.571,2,4,0.5,0,0,0.0,0,1,1,1,1,0,0,0,10,3
+Los Angeles Clippers,G,Chris Paul,Orlando Magic,L,01/12/2013,34:32,4,11,0.364,1,3,0.333,1,1,1.0,0,1,1,16,4,0,2,0,10,8
+Los Angeles Clippers,F,Caron Butler,Memphis Grizzlies,W,01/14/2013,26:32,3,5,0.6,3,4,0.75,0,0,0.0,0,1,1,0,1,0,1,1,9,8
+Los Angeles Clippers,F,Blake Griffin,Memphis Grizzlies,W,01/14/2013,24:48,3,8,0.375,0,0,0.0,4,6,0.667,2,4,6,5,0,0,3,3,10,2
+Los Angeles Clippers,C,DeAndre Jordan,Memphis Grizzlies,W,01/14/2013,20:46,3,6,0.5,0,0,0.0,0,2,0.0,3,4,7,0,0,3,1,3,6,9
+Los Angeles Clippers,G,Willie Green,Memphis Grizzlies,W,01/14/2013,20:43,3,6,0.5,0,1,0.0,0,0,0.0,0,1,1,2,1,0,0,0,6,4
+Los Angeles Clippers,G,Eric Bledsoe,Memphis Grizzlies,W,01/14/2013,28:26,4,9,0.444,0,0,0.0,6,9,0.667,2,1,3,4,2,1,0,3,14,10
+Los Angeles Clippers,F,Caron Butler,Houston Rockets,W,01/15/2013,20:21,0,1,0.0,0,1,0.0,1,1,1.0,0,3,3,1,0,0,0,0,1,26
+Los Angeles Clippers,F,Blake Griffin,Houston Rockets,W,01/15/2013,33:19,7,13,0.538,0,0,0.0,5,5,1.0,2,2,4,8,1,1,6,3,19,11
+Los Angeles Clippers,C,DeAndre Jordan,Houston Rockets,W,01/15/2013,22:03,4,6,0.667,0,0,0.0,1,2,0.5,1,3,4,0,0,1,0,0,9,10
+Los Angeles Clippers,G,Willie Green,Houston Rockets,W,01/15/2013,17:23,5,6,0.833,2,3,0.667,3,3,1.0,0,1,1,0,1,0,0,2,15,16
+Los Angeles Clippers,G,Eric Bledsoe,Houston Rockets,W,01/15/2013,36:31,7,12,0.583,1,1,1.0,4,4,1.0,2,5,7,5,2,0,3,3,19,3
+Los Angeles Clippers,F,Caron Butler,Minnesota Timberwolves,W,01/17/2013,22:30,4,9,0.444,0,3,0.0,4,6,0.667,2,2,4,2,1,0,3,1,12,-2
+Los Angeles Clippers,F,Blake Griffin,Minnesota Timberwolves,W,01/17/2013,34:58,9,19,0.474,0,0,0.0,2,2,1.0,1,3,4,2,0,1,3,3,20,5
+Los Angeles Clippers,C,DeAndre Jordan,Minnesota Timberwolves,W,01/17/2013,22:11,1,4,0.25,0,0,0.0,1,1,1.0,0,8,8,0,0,1,2,3,3,-1
+Los Angeles Clippers,G,Willie Green,Minnesota Timberwolves,W,01/17/2013,17:05,3,4,0.75,2,2,1.0,0,0,0.0,0,2,2,1,0,0,1,1,8,6
+Los Angeles Clippers,G,Eric Bledsoe,Minnesota Timberwolves,W,01/17/2013,23:08,1,7,0.143,0,0,0.0,0,0,0.0,4,2,6,2,4,1,4,3,2,-5
+Los Angeles Clippers,F,Caron Butler,Washington Wizards,W,01/19/2013,18:25,3,9,0.333,0,1,0.0,0,0,0.0,3,0,3,0,0,0,0,0,6,-2
+Los Angeles Clippers,F,Blake Griffin,Washington Wizards,W,01/19/2013,32:51,5,18,0.278,0,0,0.0,7,10,0.7,2,9,11,3,1,1,0,5,17,9
+Los Angeles Clippers,C,DeAndre Jordan,Washington Wizards,W,01/19/2013,20:15,2,6,0.333,0,0,0.0,0,2,0.0,2,6,8,0,0,2,0,3,4,-2
+Los Angeles Clippers,G,Willie Green,Washington Wizards,W,01/19/2013,16:50,3,4,0.75,1,1,1.0,0,0,0.0,1,1,2,0,1,0,1,0,7,3
+Los Angeles Clippers,G,Chris Paul,Washington Wizards,W,01/19/2013,35:24,6,16,0.375,2,8,0.25,8,9,0.889,1,3,4,11,1,1,4,3,22,6
+Los Angeles Clippers,F,Caron Butler,Golden State Warriors,L,01/21/2013,25:38,7,12,0.583,3,7,0.429,2,2,1.0,1,4,5,3,2,1,0,0,19,15
+Los Angeles Clippers,F,Blake Griffin,Golden State Warriors,L,01/21/2013,40:31,11,18,0.611,0,2,0.0,4,6,0.667,4,9,13,8,3,2,5,0,26,13
+Los Angeles Clippers,C,DeAndre Jordan,Golden State Warriors,L,01/21/2013,21:06,0,0,0.0,0,0,0.0,1,2,0.5,0,3,3,0,0,1,1,2,1,4
+Los Angeles Clippers,G,Willie Green,Golden State Warriors,L,01/21/2013,13:47,2,5,0.4,0,2,0.0,1,1,1.0,0,1,1,1,1,0,1,1,5,-2
+Los Angeles Clippers,G,Chris Paul,Golden State Warriors,L,01/21/2013,33:28,1,7,0.143,0,3,0.0,2,3,0.667,0,2,2,9,2,0,2,4,4,5
+Los Angeles Clippers,F,Caron Butler,Oklahoma City Thunder,L,01/22/2013,21:28,2,6,0.333,0,3,0.0,0,0,0.0,0,0,0,1,1,2,0,1,4,-9
+Los Angeles Clippers,F,Blake Griffin,Oklahoma City Thunder,L,01/22/2013,37:14,11,19,0.579,0,0,0.0,9,10,0.9,4,7,11,5,2,1,4,4,31,-6
+Los Angeles Clippers,C,DeAndre Jordan,Oklahoma City Thunder,L,01/22/2013,21:28,2,2,1.0,0,0,0.0,3,6,0.5,2,4,6,0,1,0,0,0,7,-9
+Los Angeles Clippers,G,Willie Green,Oklahoma City Thunder,L,01/22/2013,16:06,2,2,1.0,1,1,1.0,0,0,0.0,0,1,1,0,0,0,0,1,5,0
+Los Angeles Clippers,G,Eric Bledsoe,Oklahoma City Thunder,L,01/22/2013,35:06,5,16,0.313,0,0,0.0,2,3,0.667,2,0,2,4,1,2,1,3,12,1
+Los Angeles Clippers,F,Caron Butler,Phoenix Suns,L,01/24/2013,30:09,3,9,0.333,1,4,0.25,0,0,0.0,0,4,4,3,0,0,0,5,7,3
+Los Angeles Clippers,F,Blake Griffin,Phoenix Suns,L,01/24/2013,36:34,5,9,0.556,0,0,0.0,2,8,0.25,4,4,8,2,0,2,3,2,12,-6
+Los Angeles Clippers,C,DeAndre Jordan,Phoenix Suns,L,01/24/2013,18:14,4,5,0.8,0,0,0.0,2,2,1.0,1,3,4,0,0,0,1,2,10,3
+Los Angeles Clippers,G,Willie Green,Phoenix Suns,L,01/24/2013,13:37,1,5,0.2,1,2,0.5,2,2,1.0,0,0,0,1,0,0,0,2,5,-5
+Los Angeles Clippers,G,Eric Bledsoe,Phoenix Suns,L,01/24/2013,29:30,5,10,0.5,1,2,0.5,4,4,1.0,1,6,7,3,3,1,2,6,15,-2
+Los Angeles Clippers,F,Caron Butler,Portland Trail Blazers,L,01/26/2013,16:47,2,7,0.286,1,2,0.5,0,0,0.0,1,2,3,1,0,0,1,2,5,-2
+Los Angeles Clippers,F,Blake Griffin,Portland Trail Blazers,L,01/26/2013,37:59,10,19,0.526,0,0,0.0,4,5,0.8,1,7,8,10,4,0,2,2,24,8
+Los Angeles Clippers,C,DeAndre Jordan,Portland Trail Blazers,L,01/26/2013,28:60,4,8,0.5,0,0,0.0,1,2,0.5,5,2,7,2,0,2,1,2,9,5
+Los Angeles Clippers,G,Willie Green,Portland Trail Blazers,L,01/26/2013,16:18,3,5,0.6,2,3,0.667,0,0,0.0,0,1,1,1,0,0,1,3,8,-4
+Los Angeles Clippers,G,Eric Bledsoe,Portland Trail Blazers,L,01/26/2013,33:33,4,7,0.571,0,0,0.0,3,4,0.75,2,7,9,5,2,1,2,0,11,0
+Los Angeles Clippers,F,Caron Butler,Portland Trail Blazers,W,01/27/2013,26:04,5,9,0.556,2,4,0.5,0,0,0.0,1,1,2,2,2,0,3,3,12,4
+Los Angeles Clippers,F,Blake Griffin,Portland Trail Blazers,W,01/27/2013,28:16,9,15,0.6,0,1,0.0,5,6,0.833,1,4,5,9,2,0,1,2,23,12
+Los Angeles Clippers,C,DeAndre Jordan,Portland Trail Blazers,W,01/27/2013,16:30,4,6,0.667,0,0,0.0,0,0,0.0,2,1,3,0,0,0,1,4,8,0
+Los Angeles Clippers,G,Willie Green,Portland Trail Blazers,W,01/27/2013,20:20,3,5,0.6,1,3,0.333,0,0,0.0,0,1,1,0,1,0,0,2,7,10
+Los Angeles Clippers,G,Eric Bledsoe,Portland Trail Blazers,W,01/27/2013,35:07,4,14,0.286,1,2,0.5,1,2,0.5,0,5,5,5,0,1,0,1,10,16
+Los Angeles Clippers,F,Caron Butler,Minnesota Timberwolves,W,01/30/2013,35:13,7,12,0.583,2,4,0.5,3,4,0.75,1,4,5,1,1,0,2,2,19,18
+Los Angeles Clippers,F,Blake Griffin,Minnesota Timberwolves,W,01/30/2013,36:16,11,17,0.647,0,0,0.0,4,4,1.0,5,8,13,0,3,0,3,3,26,9
+Los Angeles Clippers,C,DeAndre Jordan,Minnesota Timberwolves,W,01/30/2013,31:34,6,8,0.75,0,0,0.0,4,10,0.4,4,8,12,0,0,2,0,1,16,12
+Los Angeles Clippers,G,Willie Green,Minnesota Timberwolves,W,01/30/2013,16:16,0,3,0.0,0,1,0.0,0,2,0.0,0,0,0,0,0,0,0,3,0,1
+Los Angeles Clippers,G,Eric Bledsoe,Minnesota Timberwolves,W,01/30/2013,39:09,3,14,0.214,0,1,0.0,4,4,1.0,1,2,3,10,6,1,5,2,10,10
+Los Angeles Clippers,F,Caron Butler,Toronto Raptors,L,02/01/2013,36:39,3,12,0.25,2,5,0.4,4,4,1.0,1,7,8,1,1,0,0,3,12,-23
+Los Angeles Clippers,F,Blake Griffin,Toronto Raptors,L,02/01/2013,34:11,4,11,0.364,0,0,0.0,9,12,0.75,2,7,9,2,0,0,3,3,17,-25
+Los Angeles Clippers,C,DeAndre Jordan,Toronto Raptors,L,02/01/2013,26:28,4,6,0.667,0,0,0.0,0,2,0.0,4,5,9,0,0,1,1,3,8,-19
+Los Angeles Clippers,G,Willie Green,Toronto Raptors,L,02/01/2013,16:16,1,5,0.2,0,4,0.0,0,0,0.0,0,0,0,0,1,0,0,3,2,-5
+Los Angeles Clippers,G,Eric Bledsoe,Toronto Raptors,L,02/01/2013,33:42,4,14,0.286,0,3,0.0,2,2,1.0,1,1,2,3,1,2,3,2,10,-29
+Los Angeles Clippers,F,Caron Butler,Boston Celtics,L,02/03/2013,26:29,7,13,0.538,3,5,0.6,1,1,1.0,0,5,5,0,1,0,1,1,18,-1
+Los Angeles Clippers,F,Blake Griffin,Boston Celtics,L,02/03/2013,37:14,8,14,0.571,0,0,0.0,4,7,0.571,4,7,11,5,1,0,4,4,20,12
+Los Angeles Clippers,C,DeAndre Jordan,Boston Celtics,L,02/03/2013,23:42,4,7,0.571,0,0,0.0,4,6,0.667,3,2,5,0,1,0,1,4,12,-7
+Los Angeles Clippers,G,Willie Green,Boston Celtics,L,02/03/2013,19:29,1,3,0.333,0,2,0.0,0,0,0.0,0,0,0,1,0,0,0,1,2,0
+Los Angeles Clippers,G,Eric Bledsoe,Boston Celtics,L,02/03/2013,37:59,9,15,0.6,2,3,0.667,3,4,0.75,2,5,7,10,2,1,3,3,23,14
+Los Angeles Clippers,F,Caron Butler,Washington Wizards,L,02/04/2013,32:39,6,16,0.375,1,6,0.167,2,2,1.0,2,4,6,2,1,0,4,3,15,-5
+Los Angeles Clippers,F,Lamar Odom,Washington Wizards,L,02/04/2013,31:27,1,3,0.333,0,1,0.0,1,2,0.5,1,8,9,1,0,0,5,6,3,-9
+Los Angeles Clippers,C,DeAndre Jordan,Washington Wizards,L,02/04/2013,39:57,3,4,0.75,0,0,0.0,1,2,0.5,3,19,22,1,1,2,1,4,7,-10
+Los Angeles Clippers,G,Willie Green,Washington Wizards,L,02/04/2013,17:24,3,6,0.5,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,2,6,-7
+Los Angeles Clippers,G,Eric Bledsoe,Washington Wizards,L,02/04/2013,36:09,7,14,0.5,0,0,0.0,3,3,1.0,0,1,1,9,1,2,4,3,17,-9
+Los Angeles Clippers,F,Caron Butler,Orlando Magic,W,02/06/2013,22:46,3,10,0.3,1,5,0.2,0,0,0.0,0,1,1,1,1,0,0,1,7,3
+Los Angeles Clippers,F,Lamar Odom,Orlando Magic,W,02/06/2013,27:04,3,6,0.5,1,1,1.0,1,2,0.5,1,4,5,4,6,0,3,4,8,10
+Los Angeles Clippers,C,DeAndre Jordan,Orlando Magic,W,02/06/2013,33:56,6,11,0.545,0,0,0.0,1,3,0.333,5,9,14,0,0,0,3,3,13,12
+Los Angeles Clippers,G,Willie Green,Orlando Magic,W,02/06/2013,23:30,3,9,0.333,0,2,0.0,0,0,0.0,0,1,1,2,0,0,0,1,6,-6
+Los Angeles Clippers,G,Eric Bledsoe,Orlando Magic,W,02/06/2013,41:14,9,21,0.429,2,4,0.5,7,10,0.7,0,6,6,3,6,3,4,1,27,24
+Los Angeles Clippers,F,Caron Butler,Miami Heat,L,02/08/2013,24:31,3,8,0.375,1,2,0.5,1,1,1.0,0,1,1,1,2,0,0,1,8,-17
+Los Angeles Clippers,F,Blake Griffin,Miami Heat,L,02/08/2013,24:07,5,7,0.714,0,0,0.0,3,4,0.75,0,5,5,3,0,0,4,4,13,-21
+Los Angeles Clippers,C,DeAndre Jordan,Miami Heat,L,02/08/2013,22:23,7,11,0.636,0,0,0.0,3,7,0.429,3,3,6,0,0,1,0,2,17,-23
+Los Angeles Clippers,G,Chauncey Billups,Miami Heat,L,02/08/2013,16:26,2,5,0.4,1,3,0.333,2,2,1.0,0,1,1,4,0,0,0,1,7,-15
+Los Angeles Clippers,G,Chris Paul,Miami Heat,L,02/08/2013,19:36,1,5,0.2,1,1,1.0,0,0,0.0,1,0,1,2,0,0,3,2,3,-27
+Los Angeles Clippers,F,Caron Butler,New York Knicks,W,02/10/2013,11:34,1,2,0.5,1,1,1.0,0,0,0.0,0,1,1,0,0,0,0,2,3,5
+Los Angeles Clippers,F,Blake Griffin,New York Knicks,W,02/10/2013,37:35,7,12,0.583,0,0,0.0,3,5,0.6,6,6,12,4,2,1,4,3,17,-2
+Los Angeles Clippers,C,DeAndre Jordan,New York Knicks,W,02/10/2013,17:09,0,0,0.0,0,0,0.0,1,2,0.5,1,2,3,1,1,1,2,3,1,-5
+Los Angeles Clippers,G,Chauncey Billups,New York Knicks,W,02/10/2013,21:31,3,8,0.375,2,7,0.286,0,0,0.0,0,0,0,0,0,0,1,0,8,0
+Los Angeles Clippers,G,Chris Paul,New York Knicks,W,02/10/2013,29:19,10,17,0.588,3,5,0.6,2,4,0.5,1,5,6,7,4,0,1,3,25,-6
+Los Angeles Clippers,F,Matt Barnes,Philadelphia 76ers,W,02/11/2013,27:57,4,7,0.571,2,5,0.4,1,1,1.0,0,2,2,3,1,1,1,3,11,18
+Los Angeles Clippers,F,Blake Griffin,Philadelphia 76ers,W,02/11/2013,27:49,9,14,0.643,0,0,0.0,2,4,0.5,3,6,9,5,1,0,4,3,20,22
+Los Angeles Clippers,C,DeAndre Jordan,Philadelphia 76ers,W,02/11/2013,24:17,3,6,0.5,0,0,0.0,2,4,0.5,3,7,10,0,1,0,1,0,8,21
+Los Angeles Clippers,G,Willie Green,Philadelphia 76ers,W,02/11/2013,19:27,3,8,0.375,0,2,0.0,0,0,0.0,1,2,3,0,0,1,0,2,6,0
+Los Angeles Clippers,G,Chris Paul,Philadelphia 76ers,W,02/11/2013,24:34,9,11,0.818,1,3,0.333,2,2,1.0,0,2,2,11,5,0,1,1,21,27
+Los Angeles Clippers,F,Caron Butler,Houston Rockets,W,02/13/2013,29:06,8,15,0.533,3,8,0.375,0,0,0.0,0,1,1,4,2,0,2,1,19,20
+Los Angeles Clippers,F,Blake Griffin,Houston Rockets,W,02/13/2013,32:26,6,10,0.6,0,0,0.0,8,11,0.727,4,7,11,5,4,1,2,4,20,26
+Los Angeles Clippers,C,DeAndre Jordan,Houston Rockets,W,02/13/2013,21:20,3,5,0.6,0,0,0.0,0,2,0.0,1,3,4,0,2,1,1,2,6,22
+Los Angeles Clippers,G,Chauncey Billups,Houston Rockets,W,02/13/2013,20:26,6,9,0.667,4,7,0.571,3,3,1.0,0,1,1,2,0,0,0,2,19,8
+Los Angeles Clippers,G,Chris Paul,Houston Rockets,W,02/13/2013,30:51,3,8,0.375,1,4,0.25,3,5,0.6,0,3,3,11,3,0,1,2,10,18
+Los Angeles Clippers,F,Caron Butler,Los Angeles Lakers,W,02/14/2013,30:13,4,11,0.364,3,7,0.429,2,2,1.0,0,8,8,1,0,0,0,3,13,29
+Los Angeles Clippers,F,Blake Griffin,Los Angeles Lakers,W,02/14/2013,31:28,11,15,0.733,0,0,0.0,0,0,0.0,6,4,10,2,0,2,2,4,22,31
+Los Angeles Clippers,C,DeAndre Jordan,Los Angeles Lakers,W,02/14/2013,29:45,4,8,0.5,0,0,0.0,3,6,0.5,5,7,12,0,1,2,1,4,11,30
+Los Angeles Clippers,G,Chauncey Billups,Los Angeles Lakers,W,02/14/2013,16:21,7,10,0.7,5,7,0.714,2,2,1.0,0,3,3,3,4,0,2,2,21,31
+Los Angeles Clippers,G,Chris Paul,Los Angeles Lakers,W,02/14/2013,32:31,8,14,0.571,3,5,0.6,5,5,1.0,1,0,1,13,2,0,3,1,24,35
+Los Angeles Clippers,F,Caron Butler,San Antonio Spurs,L,02/21/2013,21:03,4,8,0.5,1,2,0.5,2,2,1.0,1,0,1,0,0,0,2,1,11,-20
+Los Angeles Clippers,F,Blake Griffin,San Antonio Spurs,L,02/21/2013,29:00,7,17,0.412,0,0,0.0,3,4,0.75,4,4,8,3,0,0,3,4,17,-34
+Los Angeles Clippers,C,DeAndre Jordan,San Antonio Spurs,L,02/21/2013,20:58,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,3,4,2,-25
+Los Angeles Clippers,G,Chauncey Billups,San Antonio Spurs,L,02/21/2013,16:56,0,2,0.0,0,1,0.0,6,7,0.857,0,0,0,2,0,0,0,1,6,-14
+Los Angeles Clippers,G,Chris Paul,San Antonio Spurs,L,02/21/2013,27:04,1,6,0.167,0,2,0.0,2,2,1.0,1,1,2,3,1,0,3,5,4,-31
+Los Angeles Clippers,F,Caron Butler,Utah Jazz,W,02/23/2013,30:34,7,13,0.538,2,6,0.333,5,6,0.833,1,4,5,1,1,0,2,1,21,23
+Los Angeles Clippers,F,Blake Griffin,Utah Jazz,W,02/23/2013,31:29,7,12,0.583,0,0,0.0,4,4,1.0,3,4,7,3,1,1,1,4,18,17
+Los Angeles Clippers,C,DeAndre Jordan,Utah Jazz,W,02/23/2013,26:47,3,5,0.6,0,0,0.0,1,3,0.333,2,10,12,0,1,0,2,2,7,19
+Los Angeles Clippers,G,Chauncey Billups,Utah Jazz,W,02/23/2013,17:18,3,5,0.6,1,2,0.5,1,1,1.0,0,1,1,1,0,0,3,1,8,26
+Los Angeles Clippers,G,Chris Paul,Utah Jazz,W,02/23/2013,27:35,2,8,0.25,1,5,0.2,6,7,0.857,0,7,7,7,0,0,2,2,11,19
+Los Angeles Clippers,F,Caron Butler,Charlotte Bobcats,W,02/26/2013,26:39,6,11,0.545,4,6,0.667,0,0,0.0,0,7,7,1,1,0,2,2,16,16
+Los Angeles Clippers,F,Blake Griffin,Charlotte Bobcats,W,02/26/2013,31:11,11,14,0.786,0,0,0.0,2,4,0.5,2,5,7,6,0,1,2,2,24,16
+Los Angeles Clippers,C,DeAndre Jordan,Charlotte Bobcats,W,02/26/2013,23:17,6,6,1.0,0,0,0.0,1,6,0.167,1,3,4,0,0,4,0,0,13,16
+Los Angeles Clippers,G,Chauncey Billups,Charlotte Bobcats,W,02/26/2013,24:37,1,6,0.167,1,2,0.5,0,0,0.0,0,2,2,5,2,0,1,1,3,14
+Los Angeles Clippers,G,Chris Paul,Charlotte Bobcats,W,02/26/2013,31:32,3,7,0.429,1,2,0.5,0,0,0.0,1,3,4,13,2,1,5,1,7,15
+Los Angeles Clippers,F,Caron Butler,Indiana Pacers,W,02/28/2013,22:09,1,9,0.111,0,6,0.0,0,0,0.0,1,0,1,0,0,0,0,1,2,0
+Los Angeles Clippers,F,Blake Griffin,Indiana Pacers,W,02/28/2013,36:20,7,10,0.7,0,0,0.0,4,5,0.8,2,12,14,2,0,0,1,5,18,6
+Los Angeles Clippers,C,DeAndre Jordan,Indiana Pacers,W,02/28/2013,9:35,2,3,0.667,0,0,0.0,0,0,0.0,1,0,1,0,1,2,1,2,4,1
+Los Angeles Clippers,G,Chauncey Billups,Indiana Pacers,W,02/28/2013,20:55,1,6,0.167,1,6,0.167,0,0,0.0,0,1,1,1,1,1,1,3,3,2
+Los Angeles Clippers,G,Chris Paul,Indiana Pacers,W,02/28/2013,34:46,11,18,0.611,1,3,0.333,6,6,1.0,1,5,6,8,1,0,2,1,29,-2
+Los Angeles Clippers,F,Caron Butler,Cleveland Cavaliers,W,03/01/2013,21:10,5,10,0.5,1,4,0.25,2,2,1.0,0,2,2,1,1,0,1,2,13,-1
+Los Angeles Clippers,F,Blake Griffin,Cleveland Cavaliers,W,03/01/2013,29:18,7,12,0.583,0,0,0.0,2,5,0.4,5,6,11,3,3,3,0,2,16,13
+Los Angeles Clippers,C,DeAndre Jordan,Cleveland Cavaliers,W,03/01/2013,19:53,5,6,0.833,0,0,0.0,0,4,0.0,0,5,5,0,0,1,1,3,10,3
+Los Angeles Clippers,G,Chauncey Billups,Cleveland Cavaliers,W,03/01/2013,16:30,2,5,0.4,1,4,0.25,0,0,0.0,0,1,1,1,0,0,1,0,5,-5
+Los Angeles Clippers,G,Chris Paul,Cleveland Cavaliers,W,03/01/2013,32:47,4,11,0.364,1,4,0.25,2,2,1.0,1,2,3,15,1,0,0,1,11,19
+Los Angeles Clippers,F,Caron Butler,Oklahoma City Thunder,L,03/03/2013,22:58,4,8,0.5,0,3,0.0,2,2,1.0,1,0,1,1,1,0,0,3,10,-9
+Los Angeles Clippers,F,Blake Griffin,Oklahoma City Thunder,L,03/03/2013,32:22,8,14,0.571,0,0,0.0,4,6,0.667,3,6,9,5,0,1,2,6,20,-6
+Los Angeles Clippers,C,DeAndre Jordan,Oklahoma City Thunder,L,03/03/2013,16:15,3,3,1.0,0,0,0.0,1,2,0.5,1,4,5,0,0,1,2,0,7,-8
+Los Angeles Clippers,G,Chauncey Billups,Oklahoma City Thunder,L,03/03/2013,17:39,0,3,0.0,0,3,0.0,1,1,1.0,0,0,0,1,0,0,3,2,1,-14
+Los Angeles Clippers,G,Chris Paul,Oklahoma City Thunder,L,03/03/2013,41:24,8,21,0.381,1,6,0.167,9,9,1.0,3,3,6,8,4,0,3,4,26,-13
+Los Angeles Clippers,F,Caron Butler,Milwaukee Bucks,W,03/06/2013,19:29,3,8,0.375,1,4,0.25,0,0,0.0,0,3,3,0,0,1,0,1,7,-6
+Los Angeles Clippers,F,Blake Griffin,Milwaukee Bucks,W,03/06/2013,32:50,9,14,0.643,0,1,0.0,5,8,0.625,2,9,11,11,1,1,3,2,23,5
+Los Angeles Clippers,C,DeAndre Jordan,Milwaukee Bucks,W,03/06/2013,19:34,5,7,0.714,0,0,0.0,0,0,0.0,5,1,6,0,1,1,2,2,10,-5
+Los Angeles Clippers,G,Chauncey Billups,Milwaukee Bucks,W,03/06/2013,18:24,2,5,0.4,1,3,0.333,2,2,1.0,0,0,0,3,0,0,0,0,7,-2
+Los Angeles Clippers,G,Chris Paul,Milwaukee Bucks,W,03/06/2013,32:07,6,12,0.5,0,1,0.0,2,2,1.0,0,3,3,9,1,0,0,0,14,6
+Los Angeles Clippers,F,Caron Butler,Denver Nuggets,L,03/07/2013,27:29,3,9,0.333,2,6,0.333,0,0,0.0,0,2,2,2,0,0,0,1,8,-13
+Los Angeles Clippers,F,Blake Griffin,Denver Nuggets,L,03/07/2013,33:17,7,12,0.583,0,0,0.0,3,3,1.0,1,1,2,2,1,0,3,3,17,-20
+Los Angeles Clippers,C,DeAndre Jordan,Denver Nuggets,L,03/07/2013,24:32,3,6,0.5,0,0,0.0,1,3,0.333,2,4,6,0,0,2,0,1,7,-14
+Los Angeles Clippers,G,Chauncey Billups,Denver Nuggets,L,03/07/2013,19:33,2,6,0.333,2,4,0.5,2,2,1.0,0,4,4,0,0,0,1,3,8,-19
+Los Angeles Clippers,G,Chris Paul,Denver Nuggets,L,03/07/2013,37:36,6,11,0.545,2,4,0.5,2,3,0.667,1,3,4,10,0,0,1,1,16,-20
+Los Angeles Clippers,F,Caron Butler,Detroit Pistons,W,03/10/2013,24:40,6,13,0.462,3,7,0.429,0,0,0.0,1,4,5,3,3,0,1,2,15,13
+Los Angeles Clippers,F,Blake Griffin,Detroit Pistons,W,03/10/2013,21:21,9,12,0.75,0,1,0.0,4,7,0.571,1,7,8,3,0,1,2,3,22,27
+Los Angeles Clippers,C,DeAndre Jordan,Detroit Pistons,W,03/10/2013,27:03,5,5,1.0,0,0,0.0,3,5,0.6,2,5,7,1,0,2,0,3,13,36
+Los Angeles Clippers,G,Chauncey Billups,Detroit Pistons,W,03/10/2013,23:20,3,9,0.333,2,7,0.286,2,2,1.0,0,1,1,6,1,0,1,1,10,17
+Los Angeles Clippers,G,Chris Paul,Detroit Pistons,W,03/10/2013,31:11,9,12,0.75,0,1,0.0,2,2,1.0,0,1,1,14,2,0,0,4,20,31
+Los Angeles Clippers,F,Matt Barnes,Memphis Grizzlies,L,03/13/2013,38:37,5,15,0.333,2,9,0.222,2,2,1.0,3,4,7,3,1,1,1,5,14,-9
+Los Angeles Clippers,F,Blake Griffin,Memphis Grizzlies,L,03/13/2013,36:31,8,15,0.533,0,1,0.0,6,7,0.857,4,2,6,5,0,1,3,4,22,-2
+Los Angeles Clippers,C,DeAndre Jordan,Memphis Grizzlies,L,03/13/2013,20:07,2,2,1.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,2,4,-8
+Los Angeles Clippers,G,Chauncey Billups,Memphis Grizzlies,L,03/13/2013,26:57,4,8,0.5,2,5,0.4,0,0,0.0,1,3,4,1,0,0,1,0,10,-10
+Los Angeles Clippers,G,Chris Paul,Memphis Grizzlies,L,03/13/2013,39:07,7,12,0.583,1,3,0.333,9,9,1.0,1,2,3,9,2,1,5,4,24,-5
+Los Angeles Clippers,F,Caron Butler,New York Knicks,W,03/17/2013,28:48,5,9,0.556,4,6,0.667,0,0,0.0,0,5,5,1,0,0,2,4,14,12
+Los Angeles Clippers,F,Blake Griffin,New York Knicks,W,03/17/2013,38:14,6,14,0.429,0,0,0.0,0,5,0.0,4,8,12,3,1,2,1,2,12,6
+Los Angeles Clippers,C,DeAndre Jordan,New York Knicks,W,03/17/2013,23:53,4,5,0.8,0,0,0.0,0,4,0.0,4,6,10,0,0,2,3,1,8,8
+Los Angeles Clippers,G,Chauncey Billups,New York Knicks,W,03/17/2013,25:00,2,9,0.222,0,4,0.0,8,9,0.889,0,4,4,5,1,0,1,3,12,-1
+Los Angeles Clippers,G,Chris Paul,New York Knicks,W,03/17/2013,36:30,6,12,0.5,1,3,0.333,7,8,0.875,1,3,4,8,1,0,1,1,20,11
+Los Angeles Clippers,F,Caron Butler,Sacramento Kings,L,03/19/2013,25:26,5,14,0.357,3,9,0.333,0,0,0.0,1,2,3,1,1,0,0,3,13,-1
+Los Angeles Clippers,F,Blake Griffin,Sacramento Kings,L,03/19/2013,37:43,11,14,0.786,0,0,0.0,4,4,1.0,1,3,4,5,2,1,3,5,26,-11
+Los Angeles Clippers,C,DeAndre Jordan,Sacramento Kings,L,03/19/2013,24:36,5,6,0.833,0,0,0.0,1,4,0.25,2,7,9,0,0,0,1,4,11,13
+Los Angeles Clippers,G,Chauncey Billups,Sacramento Kings,L,03/19/2013,7:21,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,0,2,-5
+Los Angeles Clippers,G,Chris Paul,Sacramento Kings,L,03/19/2013,43:49,2,10,0.2,0,3,0.0,7,10,0.7,2,5,7,15,4,0,7,2,11,-2
+Los Angeles Clippers,F,Caron Butler,Philadelphia 76ers,W,03/20/2013,23:37,6,13,0.462,0,2,0.0,2,3,0.667,1,5,6,0,0,0,0,1,14,9
+Los Angeles Clippers,F,Blake Griffin,Philadelphia 76ers,W,03/20/2013,26:18,2,9,0.222,0,1,0.0,3,4,0.75,4,5,9,6,1,0,3,3,7,7
+Los Angeles Clippers,C,DeAndre Jordan,Philadelphia 76ers,W,03/20/2013,19:43,3,4,0.75,0,0,0.0,0,0,0.0,0,3,3,0,0,1,0,1,6,11
+Los Angeles Clippers,G,Willie Green,Philadelphia 76ers,W,03/20/2013,22:22,5,9,0.556,1,2,0.5,2,3,0.667,1,3,4,0,0,0,0,1,13,8
+Los Angeles Clippers,G,Chris Paul,Philadelphia 76ers,W,03/20/2013,31:21,8,10,0.8,2,3,0.667,1,1,1.0,1,5,6,9,5,0,4,0,19,16
+Los Angeles Clippers,F,Caron Butler,Brooklyn Nets,W,03/23/2013,26:11,2,8,0.25,2,5,0.4,2,2,1.0,0,3,3,1,0,0,2,1,8,9
+Los Angeles Clippers,F,Blake Griffin,Brooklyn Nets,W,03/23/2013,38:31,4,11,0.364,1,1,1.0,2,5,0.4,2,5,7,4,0,0,4,4,11,15
+Los Angeles Clippers,C,DeAndre Jordan,Brooklyn Nets,W,03/23/2013,35:06,6,6,1.0,0,0,0.0,1,3,0.333,5,7,12,1,1,3,2,1,13,16
+Los Angeles Clippers,G,Willie Green,Brooklyn Nets,W,03/23/2013,20:36,6,8,0.75,3,4,0.75,0,0,0.0,0,3,3,0,2,0,0,2,15,6
+Los Angeles Clippers,G,Chris Paul,Brooklyn Nets,W,03/23/2013,40:41,8,16,0.5,1,4,0.25,12,13,0.923,0,3,3,11,2,2,2,2,29,9
+Los Angeles Clippers,F,Caron Butler,Dallas Mavericks,L,03/26/2013,32:21,5,14,0.357,4,10,0.4,0,0,0.0,0,1,1,0,1,0,0,3,14,-7
+Los Angeles Clippers,F,Blake Griffin,Dallas Mavericks,L,03/26/2013,36:50,4,12,0.333,0,1,0.0,6,8,0.75,2,7,9,3,0,1,4,5,14,-13
+Los Angeles Clippers,C,DeAndre Jordan,Dallas Mavericks,L,03/26/2013,32:11,3,3,1.0,0,0,0.0,2,5,0.4,3,8,11,1,0,0,0,3,8,6
+Los Angeles Clippers,G,Willie Green,Dallas Mavericks,L,03/26/2013,16:47,2,6,0.333,1,3,0.333,0,0,0.0,0,2,2,1,2,0,1,2,5,7
+Los Angeles Clippers,G,Chris Paul,Dallas Mavericks,L,03/26/2013,39:27,12,15,0.8,3,5,0.6,6,9,0.667,1,5,6,5,2,0,7,2,33,-6
+Los Angeles Clippers,F,Caron Butler,New Orleans Hornets,W,03/27/2013,26:34,4,10,0.4,2,4,0.5,3,3,1.0,0,2,2,0,1,1,1,2,13,8
+Los Angeles Clippers,F,Blake Griffin,New Orleans Hornets,W,03/27/2013,35:50,6,12,0.5,0,0,0.0,7,8,0.875,3,2,5,2,1,0,1,1,19,13
+Los Angeles Clippers,C,DeAndre Jordan,New Orleans Hornets,W,03/27/2013,27:37,3,3,1.0,0,0,0.0,1,2,0.5,2,9,11,0,0,1,0,3,7,12
+Los Angeles Clippers,G,Chauncey Billups,New Orleans Hornets,W,03/27/2013,13:24,4,6,0.667,3,4,0.75,0,0,0.0,0,0,0,2,0,0,0,0,11,15
+Los Angeles Clippers,G,Chris Paul,New Orleans Hornets,W,03/27/2013,33:44,5,13,0.385,0,5,0.0,6,7,0.857,3,3,6,9,4,0,3,1,16,10
+Los Angeles Clippers,F,Caron Butler,San Antonio Spurs,L,03/29/2013,22:19,4,9,0.444,2,4,0.5,1,1,1.0,0,3,3,0,1,0,0,1,11,-9
+Los Angeles Clippers,F,Blake Griffin,San Antonio Spurs,L,03/29/2013,38:01,7,20,0.35,0,1,0.0,4,5,0.8,3,4,7,4,0,0,1,3,18,0
+Los Angeles Clippers,C,DeAndre Jordan,San Antonio Spurs,L,03/29/2013,24:45,4,4,1.0,0,0,0.0,1,8,0.125,4,4,8,1,2,0,1,2,9,-7
+Los Angeles Clippers,G,Willie Green,San Antonio Spurs,L,03/29/2013,17:36,4,6,0.667,2,3,0.667,0,0,0.0,0,0,0,1,1,0,0,5,10,-12
+Los Angeles Clippers,G,Chris Paul,San Antonio Spurs,L,03/29/2013,34:12,5,14,0.357,0,3,0.0,4,4,1.0,2,3,5,12,1,1,4,4,14,-10
+Los Angeles Clippers,F,Caron Butler,Houston Rockets,L,03/30/2013,16:42,2,10,0.2,1,3,0.333,0,0,0.0,1,0,1,1,0,0,2,1,5,-11
+Los Angeles Clippers,F,Blake Griffin,Houston Rockets,L,03/30/2013,28:14,5,11,0.455,0,0,0.0,2,2,1.0,1,2,3,2,0,1,2,2,12,-12
+Los Angeles Clippers,C,DeAndre Jordan,Houston Rockets,L,03/30/2013,21:25,4,5,0.8,0,0,0.0,0,0,0.0,3,2,5,1,0,1,3,3,8,-15
+Los Angeles Clippers,G,Willie Green,Houston Rockets,L,03/30/2013,19:54,2,6,0.333,2,2,1.0,0,0,0.0,0,0,0,1,0,0,2,2,6,-10
+Los Angeles Clippers,G,Chris Paul,Houston Rockets,L,03/30/2013,32:22,7,15,0.467,2,3,0.667,3,3,1.0,0,5,5,7,3,0,1,5,19,-12
+Los Angeles Clippers,F,Caron Butler,Indiana Pacers,L,04/01/2013,17:58,4,7,0.571,0,2,0.0,2,2,1.0,1,0,1,2,0,0,2,2,10,-11
+Los Angeles Clippers,F,Blake Griffin,Indiana Pacers,L,04/01/2013,28:22,8,13,0.615,0,0,0.0,1,1,1.0,2,3,5,0,1,0,2,1,17,-23
+Los Angeles Clippers,C,DeAndre Jordan,Indiana Pacers,L,04/01/2013,15:55,0,2,0.0,0,0,0.0,0,2,0.0,1,4,5,0,0,0,1,2,0,-18
+Los Angeles Clippers,G,Willie Green,Indiana Pacers,L,04/01/2013,20:16,4,5,0.8,1,1,1.0,0,1,0.0,1,0,1,2,1,0,1,1,9,-15
+Los Angeles Clippers,G,Chris Paul,Indiana Pacers,L,04/01/2013,30:38,2,12,0.167,0,1,0.0,6,6,1.0,0,2,2,8,1,0,4,4,10,-22
+Los Angeles Clippers,F,Caron Butler,Phoenix Suns,W,04/03/2013,26:58,6,13,0.462,3,5,0.6,0,0,0.0,0,4,4,2,2,0,0,1,15,30
+Los Angeles Clippers,F,Blake Griffin,Phoenix Suns,W,04/03/2013,26:58,4,7,0.571,0,0,0.0,1,3,0.333,1,4,5,7,1,0,2,1,9,30
+Los Angeles Clippers,C,DeAndre Jordan,Phoenix Suns,W,04/03/2013,29:52,10,15,0.667,0,0,0.0,0,1,0.0,6,6,12,0,1,1,0,2,20,28
+Los Angeles Clippers,G,Willie Green,Phoenix Suns,W,04/03/2013,18:32,7,10,0.7,1,2,0.5,0,0,0.0,0,1,1,1,1,1,0,1,15,23
+Los Angeles Clippers,G,Chris Paul,Phoenix Suns,W,04/03/2013,26:16,4,10,0.4,1,3,0.333,6,6,1.0,1,0,1,12,4,0,0,2,15,33
+Los Angeles Clippers,F,Caron Butler,Los Angeles Lakers,W,04/07/2013,25:57,6,14,0.429,2,5,0.4,0,0,0.0,1,2,3,2,2,0,0,3,14,3
+Los Angeles Clippers,F,Blake Griffin,Los Angeles Lakers,W,04/07/2013,36:54,8,18,0.444,1,3,0.333,7,8,0.875,4,8,12,5,0,0,1,1,24,11
+Los Angeles Clippers,C,DeAndre Jordan,Los Angeles Lakers,W,04/07/2013,28:38,2,5,0.4,0,0,0.0,0,0,0.0,4,9,13,1,0,0,1,5,4,-3
+Los Angeles Clippers,G,Willie Green,Los Angeles Lakers,W,04/07/2013,17:18,3,6,0.5,1,2,0.5,0,0,0.0,0,3,3,2,1,0,1,1,7,3
+Los Angeles Clippers,G,Chris Paul,Los Angeles Lakers,W,04/07/2013,40:37,10,18,0.556,1,3,0.333,3,4,0.75,3,2,5,12,3,0,3,0,24,19
+Los Angeles Clippers,F,Caron Butler,Minnesota Timberwolves,W,04/10/2013,24:18,4,7,0.571,2,4,0.5,0,0,0.0,0,3,3,4,0,0,2,3,10,18
+Los Angeles Clippers,F,Blake Griffin,Minnesota Timberwolves,W,04/10/2013,29:44,9,13,0.692,0,0,0.0,1,3,0.333,4,4,8,7,1,0,5,2,19,17
+Los Angeles Clippers,C,DeAndre Jordan,Minnesota Timberwolves,W,04/10/2013,24:42,5,6,0.833,0,0,0.0,0,0,0.0,1,3,4,0,0,5,1,2,10,16
+Los Angeles Clippers,G,Willie Green,Minnesota Timberwolves,W,04/10/2013,19:21,5,8,0.625,3,3,1.0,2,2,1.0,0,3,3,2,0,0,1,2,15,18
+Los Angeles Clippers,G,Chris Paul,Minnesota Timberwolves,W,04/10/2013,30:52,7,11,0.636,2,2,1.0,3,3,1.0,1,6,7,11,4,2,1,3,19,20
+Los Angeles Clippers,F,Caron Butler,New Orleans Hornets,W,04/12/2013,18:46,1,6,0.167,0,4,0.0,0,0,0.0,0,1,1,1,0,0,2,2,2,-6
+Los Angeles Clippers,F,Blake Griffin,New Orleans Hornets,W,04/12/2013,39:09,9,16,0.563,0,2,0.0,2,4,0.5,1,4,5,4,0,1,1,4,20,-1
+Los Angeles Clippers,C,DeAndre Jordan,New Orleans Hornets,W,04/12/2013,23:29,2,3,0.667,0,0,0.0,1,2,0.5,1,2,3,0,1,1,0,2,5,-8
+Los Angeles Clippers,G,Willie Green,New Orleans Hornets,W,04/12/2013,18:20,2,5,0.4,1,3,0.333,0,0,0.0,1,2,3,0,1,0,1,1,5,-7
+Los Angeles Clippers,G,Chris Paul,New Orleans Hornets,W,04/12/2013,37:31,4,12,0.333,1,2,0.5,8,8,1.0,2,5,7,14,2,1,4,2,17,-1
+Los Angeles Clippers,F,Caron Butler,Memphis Grizzlies,W,04/13/2013,9:02,0,2,0.0,0,1,0.0,0,0,0.0,0,1,1,0,2,0,0,0,0,4
+Los Angeles Clippers,F,Blake Griffin,Memphis Grizzlies,W,04/13/2013,33:01,5,12,0.417,0,0,0.0,2,6,0.333,3,6,9,3,1,0,1,2,12,-7
+Los Angeles Clippers,C,DeAndre Jordan,Memphis Grizzlies,W,04/13/2013,36:03,8,13,0.615,0,0,0.0,0,0,0.0,4,8,12,0,0,3,0,1,16,-5
+Los Angeles Clippers,G,Willie Green,Memphis Grizzlies,W,04/13/2013,17:18,4,9,0.444,2,4,0.5,0,0,0.0,1,1,2,1,0,0,0,3,10,4
+Los Angeles Clippers,G,Chris Paul,Memphis Grizzlies,W,04/13/2013,38:32,6,14,0.429,0,3,0.0,1,2,0.5,0,4,4,5,1,0,2,2,13,7
+Los Angeles Clippers,F,Caron Butler,Portland Trail Blazers,W,04/16/2013,24:59,9,14,0.643,4,7,0.571,0,0,0.0,1,3,4,0,1,0,0,1,22,15
+Los Angeles Clippers,F,Blake Griffin,Portland Trail Blazers,W,04/16/2013,27:05,6,9,0.667,0,0,0.0,4,5,0.8,1,5,6,4,2,0,3,2,16,16
+Los Angeles Clippers,C,DeAndre Jordan,Portland Trail Blazers,W,04/16/2013,24:59,5,5,1.0,0,0,0.0,0,1,0.0,2,7,9,0,1,3,1,0,10,15
+Los Angeles Clippers,G,Chauncey Billups,Portland Trail Blazers,W,04/16/2013,17:34,0,5,0.0,0,4,0.0,4,4,1.0,0,1,1,5,1,0,1,0,4,9
+Los Angeles Clippers,G,Chris Paul,Portland Trail Blazers,W,04/16/2013,24:59,3,7,0.429,0,2,0.0,2,2,1.0,0,1,1,11,3,0,1,1,8,15

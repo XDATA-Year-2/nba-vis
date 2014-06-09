@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="shortcut icon" href="">
+
+        <title>NBAVis</title>
+
+        <link rel="stylesheet" type="text/css" href="styles/myStyle.css">
+        <script src="http://d3js.org/d3.v3.min.js"></script>
+        <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+        <script src='js/test.js'></script>
+
+        <!-- Bootstrap core CSS -->
+        <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+        <!-- Custom styles for this template -->
+        <link href="styles/dashboard.css" rel="stylesheet">
+
+        <!-- fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+
+    </head>
+
+    <body onload="init()">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-9 col-md-8 main">
+                    <span id="titleBar">
+                        <span style="font-family:'Oswald'; font-size:40px; width:200">NBAVis</span> 
+                        <span style="margin-left: 900px"><a href="http://www.prism.gatech.edu/~fli62/">Fengbo Li</a></span>
+                    </span>
+                    <div style="display: table-cell; width: 100; padding-top: 20px; padding-right: 40px;">
+                        <label for="xdropdown">NBA Team: </label>
+                        <select id="teamDropdown" onChange="update()">
+                            <option value="All Teams">All Teams</option>
+                            <option value="Atlanta Hawks">Atlanta Hawks</option>
+                            <option value="Boston Celtics">Boston Celtics</option>
+                            <option value="Brooklyn Nets">Brooklyn Nets</option>
+                            <option value="Charlotte Bobcats">Charlotte Bobcats</option>
+                            <option value="Chicago Bulls">Chicago Bulls</option>
+                            <option value="Cleveland Cavaliers">Cleveland Cavaliers</option>
+                            <option value="Dallas Mavericks">Dallas Mavericks</option>
+                            <option value="Denver Nuggets">Denver Nuggets</option>
+                            <option value="Detroit Pistons">Detroit Pistons</option>
+                            <option value="Golden State Warriors">Golden State Warriors</option>
+                            <option value="Houston Rockets">Houston Rockets</option>
+                            <option value="Indiana Pacers">Indiana Pacers</option>
+                            <option value="Los Angeles Clippers">Los Angeles Clippers</option>                
+                            <option value="Los Angeles Lakers">Los Angeles Lakers</option>                
+                            <option value="Memphis Grizzlies">Memphis Grizzlies</option>                
+                            <option value="Miami Heat" selected>Miami Heat</option>                
+                            <option value="Milwaukee Bucks">Milwaukee Bucks</option>                
+                            <option value="Minnesota Timberwolves">Minnesota Timberwolves</option>                
+                            <option value="New Orleans Hornets">New Orleans Hornets</option>                
+                            <option value="New York Knicks">New York Knicks</option>                
+                            <option value="Oklahoma City Thunder">Oklahoma City Thunder</option>                
+                            <option value="Orlando Magic">Orlando Magic</option>                
+                            <option value="Philadelphia 76ers">Philadelphia 76ers</option>               
+                            <option value="Phoenix Suns">Phoenix Suns</option>                
+                            <option value="Portland Trail Blazers">Portland Trail Blazers</option>                
+                            <option value="Sacramento Kings">Sacramento Kings</option>
+                            <option value="San Antonio Spurs">San Antonio Spurs</option>
+                            <option value="Toronto Raptors">Toronto Raptors</option>
+                            <option value="Utah Jazz">Utah Jazz</option>
+                            <option value="Washington Wizards">Washington Wizards</option>
+                        </select>
+                    </div>
+                    <div style="display: table-cell; width: 100; padding-right: 40px;">
+                        <label for="xdropdown">X Axis: </label>
+                        <select id="xdropdown" onChange="update()">
+                            <option value="MP">Minutes Played</option>
+                            <option value="FG">Field Goals</option>
+                            <option value="FGA">Field Goal Attempts</option>
+                            <option value="FG%">Field Goal Percentage</option>
+                            <option value="3P">3 Point Field Goals</option>
+                            <option value="3PA">3 Point Field Goal Attempts</option>
+                            <option value="3P%">3 Points Percentage</option>
+                            <option value="FT">Free Throws</option>
+                            <option value="FTA">Free Throw Attempts</option>
+                            <option value="FT%">Free Throw Percentage</option>
+                            <option value="ORB">Offensive Rebounds</option>
+                            <option value="DRB">Defensive Rebounds</option>
+                            <option value="TRB">Total Rebounds</option>                
+                            <option value="AST">Assits</option>                
+                            <option value="STL">Steals</option>                
+                            <option value="BLK">Blocks</option>                
+                            <option value="TOV">Turnovers</option>                
+                            <option value="PF">Personal Fouls</option>                
+                            <option value="PTS">Points</option>
+                        </select>
+                    </div>
+                    <div style="display: table-cell; width: 150; padding-right: 40px;">
+                        <label for="ydropdown">Y Axis: </label>
+                        <select id="ydropdown" onChange="update()">                                
+                            <option value="PTS">Points</option>
+                            <option value="MP">Minutes Played</option>
+                            <option value="FG">Field Goals</option>
+                            <option value="FGA">Field Goal Attempts</option>
+                            <option value="FG%">Field Goal Percentage</option>
+                            <option value="3P">3 Point Field Goals</option>
+                            <option value="3PA">3 Point Field Goal Attempts</option>
+                            <option value="3P%">3 Points Percentage</option>
+                            <option value="FT">Free Throws</option>
+                            <option value="FTA">Free Throw Attempts</option>
+                            <option value="FT%">Free Throw Percentage</option>
+                            <option value="ORB">Offensive Rebounds</option>
+                            <option value="DRB">Defensive Rebounds</option>
+                            <option value="TRB">Total Rebounds</option>                
+                            <option value="AST">Assits</option>                
+                            <option value="STL">Steals</option>                
+                            <option value="BLK">Blocks</option>                
+                            <option value="TOV">Turnovers</option>                
+                            <option value="PF">Personal Fouls</option>
+                        </select>
+                    </div> 
+                    <div style="display: table-cell; width: 120; padding-right: 40px;">
+                        <label for="colorDropdown">Color for: </label>
+                        <select id="colorDropdown" onChange="update()">
+                            <option value="PlusMinus">Plus/Minus</option>
+                            <option value="StarterReserve">Starter/Reserve</option>
+                            <option value="PlayerPosition">Player Position</option>
+                            <option value="WinLoss">Win/Loss</option>
+                        </select>
+                    </div>       
+                
+                    <div class="vis-container">
+                        <div id="scatterPlotVis"></div>      
+                    </div>  
+
+                    <div class="vis-container">
+                        <div id="gameStatsBarChartVis"></div>      
+                    </div>  
+                </div><!-- end of main div -->
+
+
+                <div class="col-sm-3 col-md-4 col-md-offset-8 col-sm-offset-9 sidebar">
+                    <h1 id="selectedTeam">Selected Team</h1>
+                    <div id="playerPicSection" class="row placeholders">
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Dwyane Wade">
+                            <img src="images/Miami Heat/Dwyane Wade.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Dwyane Wade</h4>
+                            <span class="text-muted">Shooting guard</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="LeBron James">
+                            <img src="images/Miami Heat/LeBron James.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">LeBron James</h4>
+                            <span class="text-muted">Power forward</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Chris Bosh">
+                            <img src="images/Miami Heat/Chris Bosh.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Chris Bosh</h4>
+                            <span class="text-muted">Center</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Mario Chalmers">
+                            <img src="images/Miami Heat/Mario Chalmers.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Mario Chalmers</h4>
+                            <span class="text-muted">Point guard</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Udonis Haslem">
+                            <img src="images/Miami Heat/Udonis Haslem.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Udonis Haslem</h4>
+                            <span class="text-muted">Center</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Shane Battier">
+                            <img src="images/Miami Heat/Shane Battier.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Shane Battier</h4>
+                            <span class="text-muted">Small forward</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Mike Miller">
+                            <img src="images/Miami Heat/Mike Miller.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Mike Miller</h4>
+                            <span class="text-muted">Small forward</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Norris Cole">
+                            <img src="images/Miami Heat/Norris Cole.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Norris Cole</h4>
+                            <span class="text-muted">Point guard</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Rashard Lewis">
+                            <img src="images/Miami Heat/Rashard Lewis.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Rashard Lewis</h4>
+                            <span class="text-muted">Forward</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Joel Anthony">
+                            <img src="images/Miami Heat/Joel Anthony.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Joel Anthony</h4>
+                            <span class="text-muted">Center</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Ray Allen">
+                            <img src="images/Miami Heat/Ray Allen.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Ray Allen</h4>
+                            <span class="text-muted">Shooting guard</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Josh Harrellson">
+                            <img src="images/Miami Heat/Josh Harrellson.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Josh Harrellson</h4>
+                            <span class="text-muted">Center / Power forward</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="James Jones">
+                            <img src="images/Miami Heat/James Jones.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">James Jones</h4>
+                            <span class="text-muted">Small forward / Point guard</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Jarvis Varnado">
+                            <img src="images/Miami Heat/Jarvis Varnado.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Jarvis Varnado</h4>
+                            <span class="text-muted">Forward</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Chris Andersen">
+                            <img src="images/Miami Heat/Chris Andersen.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Chris Andersen</h4>
+                            <span class="text-muted">Center</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Juwan Howard">
+                            <img src="images/Miami Heat/Juwan Howard.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Juwan Howard</h4>
+                            <span class="text-muted">Power forward</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Terrel Harris">
+                            <img src="images/Miami Heat/Terrel Harris.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Terrel Harris</h4>
+                            <span class="text-muted">Shooting guard</span>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 placeholder player-default" data-name="Dexter Pittman">
+                            <img src="images/Miami Heat/Dexter Pittman.jpg" class="img-thumbnail" alt="Generic placeholder thumbnail">
+                            <h4 class="player-name">Dexter Pittman</h4>
+                            <span class="text-muted">Center</span>
+                        </div>
+                    </div><!--  end of row -->
+                    <div id="playerStatsSection" class="row placeholders">
+                        <!-- <h1>Player Stats</h1> -->
+                        <div id="playerStatsLeft" class="col-xs-6 col-sm-6 placeholder"></div>
+                        <div id="playerStatsRight" class="col-xs-6 col-sm-6 placeholder"></div>
+                    </div><!--  end of row -->
+                </div> <!-- end of sider bar div -->
+            </div><!-- end of row div -->
+        </div><!-- end of container-fluid div -->
+
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    </body>
+</html>

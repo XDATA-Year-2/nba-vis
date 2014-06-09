@@ -1,0 +1,411 @@
+Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+Houston Rockets,F,Chandler Parsons,Detroit Pistons,W,10/31/2012,42:26,3,9,0.333,1,4,0.25,4,5,0.8,2,5,7,6,0,0,3,3,11,9
+Houston Rockets,F,Marcus Morris,Detroit Pistons,W,10/31/2012,25:36,3,10,0.3,0,2,0.0,0,0,0.0,4,3,7,1,0,0,2,3,6,-3
+Houston Rockets,C,Omer Asik,Detroit Pistons,W,10/31/2012,33:02,5,6,0.833,0,0,0.0,2,6,0.333,2,7,9,0,1,2,3,2,12,3
+Houston Rockets,G,James Harden,Detroit Pistons,W,10/31/2012,44:04,14,25,0.56,4,10,0.4,5,6,0.833,1,5,6,12,4,1,4,2,37,18
+Houston Rockets,G,Jeremy Lin,Detroit Pistons,W,10/31/2012,35:27,5,12,0.417,0,2,0.0,2,2,1.0,0,4,4,8,4,0,4,4,12,23
+Houston Rockets,F,Chandler Parsons,Atlanta Hawks,W,11/02/2012,30:41,2,9,0.222,1,6,0.167,1,2,0.5,2,3,5,6,3,0,3,2,6,1
+Houston Rockets,F,Patrick Patterson,Atlanta Hawks,W,11/02/2012,28:58,4,11,0.364,1,4,0.25,0,0,0.0,3,4,7,2,2,1,3,0,9,13
+Houston Rockets,C,Omer Asik,Atlanta Hawks,W,11/02/2012,35:13,0,7,0.0,0,0,0.0,0,0,0.0,9,10,19,1,1,1,3,2,0,15
+Houston Rockets,G,James Harden,Atlanta Hawks,W,11/02/2012,39:49,14,19,0.737,2,4,0.5,15,17,0.882,1,6,7,2,0,0,5,3,45,17
+Houston Rockets,G,Jeremy Lin,Atlanta Hawks,W,11/02/2012,39:50,6,16,0.375,2,3,0.667,7,8,0.875,5,5,10,7,0,0,3,2,21,9
+Houston Rockets,F,Chandler Parsons,Portland Trail Blazers,L,11/03/2012,46:36,4,10,0.4,1,4,0.25,0,0,0.0,1,11,12,3,1,0,3,0,9,-6
+Houston Rockets,F,Patrick Patterson,Portland Trail Blazers,L,11/03/2012,38:04,6,16,0.375,0,2,0.0,0,0,0.0,3,3,6,0,1,0,1,1,12,-29
+Houston Rockets,C,Omer Asik,Portland Trail Blazers,L,11/03/2012,35:15,2,7,0.286,0,0,0.0,0,0,0.0,4,11,15,1,0,2,4,4,4,-6
+Houston Rockets,G,James Harden,Portland Trail Blazers,L,11/03/2012,40:43,8,24,0.333,1,6,0.167,7,10,0.7,2,4,6,5,1,1,5,3,24,-16
+Houston Rockets,G,Jeremy Lin,Portland Trail Blazers,L,11/03/2012,37:18,5,13,0.385,1,4,0.25,2,2,1.0,1,2,3,7,3,0,3,3,13,-17
+Houston Rockets,F,Chandler Parsons,Denver Nuggets,L,11/07/2012,35:40,3,9,0.333,2,6,0.333,0,0,0.0,2,1,3,4,1,0,3,5,8,-4
+Houston Rockets,F,Patrick Patterson,Denver Nuggets,L,11/07/2012,30:19,8,13,0.615,2,4,0.5,0,0,0.0,2,3,5,0,0,1,1,3,18,8
+Houston Rockets,C,Omer Asik,Denver Nuggets,L,11/07/2012,22:27,4,11,0.364,0,0,0.0,2,3,0.667,7,6,13,0,0,0,3,2,10,-16
+Houston Rockets,G,James Harden,Denver Nuggets,L,11/07/2012,38:20,5,15,0.333,0,5,0.0,5,7,0.714,1,2,3,2,5,0,6,1,15,-6
+Houston Rockets,G,Jeremy Lin,Denver Nuggets,L,11/07/2012,33:00,2,9,0.222,0,4,0.0,2,2,1.0,0,5,5,6,6,0,2,2,6,-1
+Houston Rockets,F,Chandler Parsons,Memphis Grizzlies,L,11/09/2012,37:01,8,13,0.615,3,6,0.5,0,0,0.0,1,4,5,2,1,0,3,4,19,-1
+Houston Rockets,F,Patrick Patterson,Memphis Grizzlies,L,11/09/2012,30:54,4,10,0.4,0,1,0.0,0,0,0.0,1,3,4,4,0,0,1,5,8,-3
+Houston Rockets,C,Omer Asik,Memphis Grizzlies,L,11/09/2012,40:24,4,6,0.667,0,0,0.0,2,2,1.0,3,10,13,2,0,2,5,2,10,1
+Houston Rockets,G,James Harden,Memphis Grizzlies,L,11/09/2012,40:38,4,18,0.222,1,6,0.167,9,10,0.9,2,2,4,4,0,2,5,1,18,-2
+Houston Rockets,G,Jeremy Lin,Memphis Grizzlies,L,11/09/2012,36:58,5,10,0.5,2,4,0.5,3,3,1.0,0,5,5,3,2,0,4,1,15,-14
+Houston Rockets,F,Chandler Parsons,Detroit Pistons,W,11/10/2012,33:49,3,10,0.3,2,6,0.333,0,0,0.0,0,5,5,2,0,0,0,1,8,12
+Houston Rockets,F,Patrick Patterson,Detroit Pistons,W,11/10/2012,16:21,1,5,0.2,0,0,0.0,0,0,0.0,1,1,2,1,0,0,1,0,2,5
+Houston Rockets,C,Omer Asik,Detroit Pistons,W,11/10/2012,27:25,5,12,0.417,0,0,0.0,4,4,1.0,3,5,8,0,4,0,4,3,14,10
+Houston Rockets,G,James Harden,Detroit Pistons,W,11/10/2012,35:16,6,14,0.429,2,6,0.333,6,7,0.857,0,5,5,2,0,0,5,0,20,11
+Houston Rockets,G,Jeremy Lin,Detroit Pistons,W,11/10/2012,25:48,2,7,0.286,1,3,0.333,2,2,1.0,1,3,4,8,1,0,0,1,7,3
+Houston Rockets,F,Chandler Parsons,Miami Heat,L,11/12/2012,40:26,8,17,0.471,5,10,0.5,4,4,1.0,1,3,4,3,2,0,1,1,25,-18
+Houston Rockets,F,Patrick Patterson,Miami Heat,L,11/12/2012,35:33,8,14,0.571,0,1,0.0,1,2,0.5,4,5,9,1,0,1,0,1,17,-9
+Houston Rockets,C,Omer Asik,Miami Heat,L,11/12/2012,32:21,4,8,0.5,0,0,0.0,11,14,0.786,5,9,14,3,0,1,3,1,19,-2
+Houston Rockets,G,James Harden,Miami Heat,L,11/12/2012,39:50,6,17,0.353,1,6,0.167,9,11,0.818,0,3,3,5,1,1,2,4,22,-9
+Houston Rockets,G,Jeremy Lin,Miami Heat,L,11/12/2012,34:10,3,8,0.375,2,6,0.333,1,2,0.5,0,1,1,6,1,3,2,4,9,-16
+Houston Rockets,F,Chandler Parsons,New Orleans Hornets,W,11/14/2012,39:23,4,14,0.286,2,6,0.333,3,4,0.75,2,8,10,3,0,0,2,1,13,6
+Houston Rockets,F,Patrick Patterson,New Orleans Hornets,W,11/14/2012,29:34,3,4,0.75,0,0,0.0,0,0,0.0,2,3,5,0,0,0,1,2,6,-10
+Houston Rockets,C,Omer Asik,New Orleans Hornets,W,11/14/2012,29:58,6,10,0.6,0,0,0.0,3,4,0.75,2,10,12,1,0,2,3,4,15,-4
+Houston Rockets,G,James Harden,New Orleans Hornets,W,11/14/2012,39:19,10,20,0.5,1,7,0.143,9,11,0.818,0,3,3,4,0,1,1,2,30,-2
+Houston Rockets,G,Jeremy Lin,New Orleans Hornets,W,11/14/2012,33:45,2,10,0.2,0,3,0.0,0,0,0.0,0,4,4,4,3,1,2,1,4,-5
+Houston Rockets,F,Chandler Parsons,Portland Trail Blazers,L,11/16/2012,47:39,8,15,0.533,2,6,0.333,1,2,0.5,2,9,11,2,1,0,2,2,19,2
+Houston Rockets,F,Patrick Patterson,Portland Trail Blazers,L,11/16/2012,31:43,7,14,0.5,1,3,0.333,0,0,0.0,1,1,2,1,1,0,2,4,15,5
+Houston Rockets,C,Omer Asik,Portland Trail Blazers,L,11/16/2012,43:32,6,11,0.545,0,0,0.0,4,5,0.8,7,9,16,1,0,1,4,6,16,1
+Houston Rockets,G,James Harden,Portland Trail Blazers,L,11/16/2012,43:26,8,18,0.444,2,4,0.5,11,12,0.917,2,4,6,6,3,0,4,4,29,0
+Houston Rockets,G,Jeremy Lin,Portland Trail Blazers,L,11/16/2012,35:34,3,8,0.375,0,1,0.0,5,7,0.714,0,6,6,11,1,2,3,4,11,5
+Houston Rockets,F,Chandler Parsons,Los Angeles Lakers,L,11/18/2012,29:18,8,10,0.8,4,5,0.8,4,5,0.8,0,1,1,3,1,0,1,4,24,-18
+Houston Rockets,F,Patrick Patterson,Los Angeles Lakers,L,11/18/2012,26:32,7,13,0.538,0,1,0.0,0,0,0.0,2,6,8,1,1,0,0,2,14,-16
+Houston Rockets,C,Omer Asik,Los Angeles Lakers,L,11/18/2012,27:16,4,6,0.667,0,0,0.0,0,4,0.0,2,7,9,2,1,0,2,3,8,-4
+Houston Rockets,G,James Harden,Los Angeles Lakers,L,11/18/2012,38:19,7,18,0.389,3,7,0.429,3,5,0.6,0,2,2,7,1,0,5,2,20,-10
+Houston Rockets,G,Jeremy Lin,Los Angeles Lakers,L,11/18/2012,31:13,2,9,0.222,0,1,0.0,1,1,1.0,0,1,1,10,1,0,3,2,5,-20
+Houston Rockets,F,Chandler Parsons,Utah Jazz,L,11/19/2012,34:17,3,11,0.273,2,6,0.333,3,4,0.75,1,9,10,5,0,0,2,0,11,-19
+Houston Rockets,F,Patrick Patterson,Utah Jazz,L,11/19/2012,20:53,8,14,0.571,1,1,1.0,2,2,1.0,1,0,1,0,0,2,2,3,19,-9
+Houston Rockets,C,Omer Asik,Utah Jazz,L,11/19/2012,28:34,0,5,0.0,0,0,0.0,2,6,0.333,3,4,7,0,0,2,3,3,2,-11
+Houston Rockets,G,James Harden,Utah Jazz,L,11/19/2012,17:29,1,6,0.167,1,2,0.5,3,3,1.0,0,2,2,3,0,1,2,2,6,-13
+Houston Rockets,G,Jeremy Lin,Utah Jazz,L,11/19/2012,32:32,5,15,0.333,0,2,0.0,3,3,1.0,3,3,6,3,0,0,3,2,13,-5
+Houston Rockets,F,Chandler Parsons,Chicago Bulls,W,11/21/2012,39:44,7,13,0.538,2,3,0.667,2,3,0.667,1,12,13,2,0,1,3,3,18,9
+Houston Rockets,F,Patrick Patterson,Chicago Bulls,W,11/21/2012,37:43,8,16,0.5,1,3,0.333,3,5,0.6,1,7,8,1,1,1,2,1,20,7
+Houston Rockets,C,Omer Asik,Chicago Bulls,W,11/21/2012,39:44,2,8,0.25,0,0,0.0,0,2,0.0,1,5,6,2,1,3,4,2,4,4
+Houston Rockets,G,James Harden,Chicago Bulls,W,11/21/2012,42:25,8,14,0.571,3,7,0.429,9,13,0.692,1,3,4,3,5,0,6,3,28,6
+Houston Rockets,G,Jeremy Lin,Chicago Bulls,W,11/21/2012,26:07,2,9,0.222,0,2,0.0,0,0,0.0,1,3,4,3,1,0,5,2,4,-3
+Houston Rockets,F,Chandler Parsons,New York Knicks,W,11/23/2012,34:12,13,17,0.765,4,7,0.571,1,2,0.5,1,4,5,4,4,1,0,1,31,21
+Houston Rockets,F,Patrick Patterson,New York Knicks,W,11/23/2012,20:11,5,7,0.714,0,0,0.0,0,0,0.0,2,3,5,0,0,0,0,3,10,12
+Houston Rockets,C,Omer Asik,New York Knicks,W,11/23/2012,29:44,6,11,0.545,0,0,0.0,6,8,0.75,4,10,14,3,0,1,2,1,18,18
+Houston Rockets,G,James Harden,New York Knicks,W,11/23/2012,39:25,7,15,0.467,3,5,0.6,16,16,1.0,0,4,4,9,1,1,3,3,33,27
+Houston Rockets,G,Jeremy Lin,New York Knicks,W,11/23/2012,34:52,6,12,0.5,1,2,0.5,0,0,0.0,0,7,7,3,2,0,4,2,13,24
+Houston Rockets,F,Chandler Parsons,Toronto Raptors,W,11/27/2012,41:30,7,13,0.538,2,4,0.5,2,2,1.0,2,5,7,5,1,0,4,1,18,26
+Houston Rockets,F,Patrick Patterson,Toronto Raptors,W,11/27/2012,31:10,7,14,0.5,2,4,0.5,6,7,0.857,2,3,5,1,1,0,0,3,22,24
+Houston Rockets,C,Omer Asik,Toronto Raptors,W,11/27/2012,36:07,6,9,0.667,0,0,0.0,1,2,0.5,3,15,18,2,2,0,2,4,13,19
+Houston Rockets,G,James Harden,Toronto Raptors,W,11/27/2012,43:36,9,19,0.474,4,8,0.5,2,3,0.667,1,5,6,12,3,1,4,1,24,13
+Houston Rockets,G,Jeremy Lin,Toronto Raptors,W,11/27/2012,38:15,7,9,0.778,1,2,0.5,1,2,0.5,0,4,4,10,3,0,3,1,16,25
+Houston Rockets,F,Daequan Cook,Oklahoma City Thunder,L,11/28/2012,38:09,7,17,0.412,3,8,0.375,1,2,0.5,4,3,7,4,1,1,3,4,18,-6
+Houston Rockets,F,Patrick Patterson,Oklahoma City Thunder,L,11/28/2012,38:06,11,18,0.611,2,3,0.667,3,4,0.75,4,2,6,2,1,0,1,1,27,-7
+Houston Rockets,C,Omer Asik,Oklahoma City Thunder,L,11/28/2012,30:00,8,13,0.615,0,0,0.0,1,7,0.143,3,9,12,0,1,0,1,1,17,-7
+Houston Rockets,G,James Harden,Oklahoma City Thunder,L,11/28/2012,39:27,3,16,0.188,2,5,0.4,9,11,0.818,1,1,2,3,1,0,3,2,17,-17
+Houston Rockets,G,Jeremy Lin,Oklahoma City Thunder,L,11/28/2012,41:03,3,7,0.429,0,1,0.0,0,2,0.0,0,3,3,8,4,0,3,2,6,-12
+Houston Rockets,F,Chandler Parsons,Utah Jazz,W,12/01/2012,39:48,7,12,0.583,3,5,0.6,2,2,1.0,0,3,3,3,2,1,2,2,19,2
+Houston Rockets,F,Patrick Patterson,Utah Jazz,W,12/01/2012,35:35,8,17,0.471,2,5,0.4,2,2,1.0,1,6,7,1,1,3,3,1,20,3
+Houston Rockets,C,Omer Asik,Utah Jazz,W,12/01/2012,34:10,5,5,1.0,0,0,0.0,4,5,0.8,3,9,12,2,1,3,2,1,14,9
+Houston Rockets,G,James Harden,Utah Jazz,W,12/01/2012,39:16,7,16,0.438,1,3,0.333,3,3,1.0,1,1,2,7,1,0,5,2,18,-3
+Houston Rockets,G,Jeremy Lin,Utah Jazz,W,12/01/2012,33:51,8,14,0.571,1,2,0.5,2,2,1.0,0,3,3,8,1,0,2,3,19,0
+Houston Rockets,F,Chandler Parsons,Los Angeles Lakers,W,12/04/2012,34:34,5,16,0.313,1,7,0.143,2,2,1.0,2,3,5,4,0,0,2,2,13,-18
+Houston Rockets,F,Patrick Patterson,Los Angeles Lakers,W,12/04/2012,27:36,2,5,0.4,0,1,0.0,2,2,1.0,0,2,2,3,0,2,1,3,6,-1
+Houston Rockets,C,Omer Asik,Los Angeles Lakers,W,12/04/2012,23:41,5,8,0.625,0,0,0.0,0,2,0.0,4,5,9,0,2,0,0,4,10,-19
+Houston Rockets,G,James Harden,Los Angeles Lakers,W,12/04/2012,37:43,3,19,0.158,0,4,0.0,9,11,0.818,5,5,10,6,1,0,4,4,15,3
+Houston Rockets,G,Jeremy Lin,Los Angeles Lakers,W,12/04/2012,19:59,2,8,0.25,0,1,0.0,0,0,0.0,0,2,2,3,0,0,2,4,4,-18
+Houston Rockets,F,Chandler Parsons,San Antonio Spurs,L,12/07/2012,24:19,3,10,0.3,0,4,0.0,1,1,1.0,0,1,1,0,0,0,2,2,7,-18
+Houston Rockets,F,Patrick Patterson,San Antonio Spurs,L,12/07/2012,32:30,5,14,0.357,0,3,0.0,0,0,0.0,3,2,5,5,1,1,2,0,10,-13
+Houston Rockets,C,Omer Asik,San Antonio Spurs,L,12/07/2012,24:04,0,6,0.0,0,0,0.0,0,0,0.0,3,2,5,1,0,0,5,3,0,-23
+Houston Rockets,G,James Harden,San Antonio Spurs,L,12/07/2012,34:26,10,16,0.625,3,6,0.5,6,7,0.857,0,3,3,5,4,0,3,1,29,-15
+Houston Rockets,G,Jeremy Lin,San Antonio Spurs,L,12/07/2012,26:03,2,9,0.222,0,3,0.0,0,0,0.0,1,5,6,4,1,0,2,1,4,-7
+Houston Rockets,F,Chandler Parsons,Dallas Mavericks,L,12/08/2012,41:59,6,17,0.353,1,6,0.167,5,6,0.833,2,8,10,5,2,0,1,5,18,-7
+Houston Rockets,F,Patrick Patterson,Dallas Mavericks,L,12/08/2012,29:31,6,8,0.75,0,1,0.0,0,0,0.0,1,3,4,2,0,1,2,2,12,-24
+Houston Rockets,C,Omer Asik,Dallas Mavericks,L,12/08/2012,19:59,2,4,0.5,0,0,0.0,2,7,0.286,1,6,7,2,0,0,4,0,6,0
+Houston Rockets,G,James Harden,Dallas Mavericks,L,12/08/2012,45:47,10,17,0.588,4,9,0.444,15,16,0.938,0,6,6,9,2,1,6,3,39,-7
+Houston Rockets,G,Jeremy Lin,Dallas Mavericks,L,12/08/2012,18:05,2,4,0.5,2,3,0.667,1,2,0.5,0,2,2,3,2,0,1,2,7,-9
+Houston Rockets,F,Chandler Parsons,San Antonio Spurs,L,12/10/2012,41:06,7,18,0.389,4,8,0.5,2,5,0.4,2,5,7,4,1,0,2,2,20,-27
+Houston Rockets,F,Patrick Patterson,San Antonio Spurs,L,12/10/2012,21:11,4,10,0.4,0,2,0.0,0,0,0.0,1,1,2,1,1,0,1,0,8,-9
+Houston Rockets,C,Omer Asik,San Antonio Spurs,L,12/10/2012,35:04,5,11,0.455,0,0,0.0,11,14,0.786,4,6,10,2,1,2,2,4,21,3
+Houston Rockets,G,Carlos Delfino,San Antonio Spurs,L,12/10/2012,38:25,2,12,0.167,1,5,0.2,0,1,0.0,0,4,4,5,3,1,3,0,5,2
+Houston Rockets,G,Jeremy Lin,San Antonio Spurs,L,12/10/2012,42:00,11,21,0.524,4,5,0.8,12,12,1.0,1,2,3,7,2,2,2,2,38,-4
+Houston Rockets,F,Chandler Parsons,Washington Wizards,W,12/12/2012,33:42,7,14,0.5,3,8,0.375,1,2,0.5,2,6,8,3,1,0,1,1,18,-6
+Houston Rockets,F,Patrick Patterson,Washington Wizards,W,12/12/2012,32:29,4,11,0.364,1,1,1.0,4,7,0.571,0,4,4,3,0,3,2,3,13,7
+Houston Rockets,C,Omer Asik,Washington Wizards,W,12/12/2012,37:19,3,6,0.5,0,0,0.0,3,4,0.75,3,13,16,2,0,1,2,2,9,0
+Houston Rockets,G,James Harden,Washington Wizards,W,12/12/2012,39:18,10,20,0.5,2,6,0.333,9,9,1.0,1,3,4,2,3,0,5,0,31,8
+Houston Rockets,G,Jeremy Lin,Washington Wizards,W,12/12/2012,30:13,4,8,0.5,0,1,0.0,2,4,0.5,0,5,5,6,0,1,3,2,10,-1
+Houston Rockets,F,Chandler Parsons,Boston Celtics,W,12/14/2012,37:21,5,7,0.714,1,3,0.333,4,6,0.667,2,7,9,8,2,0,2,2,15,23
+Houston Rockets,F,Patrick Patterson,Boston Celtics,W,12/14/2012,25:21,4,8,0.5,1,2,0.5,0,0,0.0,0,3,3,1,0,0,2,3,9,16
+Houston Rockets,C,Omer Asik,Boston Celtics,W,12/14/2012,26:14,4,7,0.571,0,0,0.0,1,2,0.5,2,8,10,0,0,2,1,2,9,13
+Houston Rockets,G,James Harden,Boston Celtics,W,12/14/2012,38:22,6,17,0.353,2,7,0.286,7,8,0.875,0,5,5,5,3,0,1,1,21,16
+Houston Rockets,G,Jeremy Lin,Boston Celtics,W,12/14/2012,27:04,2,6,0.333,1,3,0.333,0,0,0.0,0,3,3,7,1,2,3,2,5,6
+Houston Rockets,F,Chandler Parsons,Toronto Raptors,L,12/16/2012,40:13,4,11,0.364,1,4,0.25,3,5,0.6,0,6,6,4,0,0,1,2,12,-17
+Houston Rockets,F,Marcus Morris,Toronto Raptors,L,12/16/2012,36:31,6,11,0.545,2,4,0.5,5,6,0.833,1,5,6,1,0,0,3,5,19,-2
+Houston Rockets,C,Omer Asik,Toronto Raptors,L,12/16/2012,27:34,3,7,0.429,0,0,0.0,1,4,0.25,2,11,13,0,1,0,2,1,7,-9
+Houston Rockets,G,James Harden,Toronto Raptors,L,12/16/2012,41:20,7,18,0.389,0,3,0.0,14,15,0.933,1,3,4,4,1,1,2,2,28,-2
+Houston Rockets,G,Jeremy Lin,Toronto Raptors,L,12/16/2012,32:45,3,9,0.333,1,2,0.5,0,0,0.0,1,0,1,2,3,0,3,4,7,-7
+Houston Rockets,F,Marcus Morris,New York Knicks,W,12/17/2012,29:10,4,7,0.571,2,3,0.667,3,4,0.75,0,3,3,0,0,0,2,1,13,9
+Houston Rockets,F,Chandler Parsons,New York Knicks,W,12/17/2012,38:20,4,9,0.444,1,4,0.25,0,0,0.0,0,5,5,3,5,0,3,1,9,9
+Houston Rockets,C,Omer Asik,New York Knicks,W,12/17/2012,24:42,2,5,0.4,0,0,0.0,2,2,1.0,0,2,2,0,2,3,2,3,6,12
+Houston Rockets,G,James Harden,New York Knicks,W,12/17/2012,37:42,9,18,0.5,2,6,0.333,8,9,0.889,1,9,10,3,2,0,1,3,28,13
+Houston Rockets,G,Jeremy Lin,New York Knicks,W,12/17/2012,39:01,9,15,0.6,1,6,0.167,3,4,0.75,1,3,4,9,2,0,4,3,22,18
+Houston Rockets,F,Chandler Parsons,Philadelphia 76ers,W,12/19/2012,35:16,4,13,0.308,1,7,0.143,0,0,0.0,1,4,5,4,3,0,1,2,9,22
+Houston Rockets,F,Marcus Morris,Philadelphia 76ers,W,12/19/2012,31:15,5,8,0.625,2,3,0.667,2,3,0.667,1,4,5,5,0,1,3,1,14,17
+Houston Rockets,C,Omer Asik,Philadelphia 76ers,W,12/19/2012,31:39,5,7,0.714,0,0,0.0,7,9,0.778,3,12,15,0,0,0,0,2,17,19
+Houston Rockets,G,James Harden,Philadelphia 76ers,W,12/19/2012,37:29,7,12,0.583,2,3,0.667,17,18,0.944,0,2,2,7,0,1,2,3,33,32
+Houston Rockets,G,Jeremy Lin,Philadelphia 76ers,W,12/19/2012,31:42,8,12,0.667,1,3,0.333,1,2,0.5,0,2,2,6,1,0,1,3,18,23
+Houston Rockets,F,Chandler Parsons,Memphis Grizzlies,W,12/22/2012,29:47,3,7,0.429,1,3,0.333,0,0,0.0,0,3,3,4,1,0,2,0,7,14
+Houston Rockets,F,Marcus Morris,Memphis Grizzlies,W,12/22/2012,31:17,6,8,0.75,3,4,0.75,1,1,1.0,1,0,1,1,0,2,0,4,16,12
+Houston Rockets,C,Omer Asik,Memphis Grizzlies,W,12/22/2012,23:32,5,9,0.556,0,0,0.0,4,6,0.667,4,8,12,1,0,1,3,2,14,18
+Houston Rockets,G,James Harden,Memphis Grizzlies,W,12/22/2012,30:22,9,13,0.692,3,3,1.0,10,12,0.833,0,2,2,8,3,0,3,1,31,14
+Houston Rockets,G,Jeremy Lin,Memphis Grizzlies,W,12/22/2012,34:41,5,12,0.417,1,5,0.2,4,4,1.0,0,6,6,11,2,1,2,3,15,18
+Houston Rockets,F,Chandler Parsons,Chicago Bulls,W,12/25/2012,36:31,9,15,0.6,4,5,0.8,1,2,0.5,1,4,5,2,2,0,0,2,23,15
+Houston Rockets,F,Marcus Morris,Chicago Bulls,W,12/25/2012,28:28,3,9,0.333,2,7,0.286,2,2,1.0,0,5,5,1,1,0,0,2,10,27
+Houston Rockets,C,Omer Asik,Chicago Bulls,W,12/25/2012,34:57,9,13,0.692,0,0,0.0,2,3,0.667,5,13,18,1,0,3,0,3,20,41
+Houston Rockets,G,James Harden,Chicago Bulls,W,12/25/2012,35:53,7,13,0.538,1,2,0.5,11,13,0.846,1,4,5,6,2,1,1,1,26,26
+Houston Rockets,G,Jeremy Lin,Chicago Bulls,W,12/25/2012,34:20,8,12,0.667,0,1,0.0,4,4,1.0,0,1,1,11,1,1,2,4,20,33
+Houston Rockets,F,Chandler Parsons,Minnesota Timberwolves,W,12/26/2012,35:24,5,12,0.417,2,5,0.4,0,0,0.0,1,5,6,5,2,0,1,1,12,3
+Houston Rockets,F,Marcus Morris,Minnesota Timberwolves,W,12/26/2012,29:36,3,9,0.333,0,3,0.0,2,3,0.667,2,2,4,2,0,0,1,2,8,-11
+Houston Rockets,C,Omer Asik,Minnesota Timberwolves,W,12/26/2012,35:20,4,6,0.667,0,0,0.0,1,2,0.5,1,16,17,0,1,1,1,4,9,-5
+Houston Rockets,G,James Harden,Minnesota Timberwolves,W,12/26/2012,37:37,11,22,0.5,2,5,0.4,6,6,1.0,2,4,6,3,2,1,3,2,30,-9
+Houston Rockets,G,Jeremy Lin,Minnesota Timberwolves,W,12/26/2012,27:28,3,9,0.333,0,2,0.0,2,2,1.0,0,3,3,1,1,0,7,3,8,-1
+Houston Rockets,F,Chandler Parsons,San Antonio Spurs,L,12/28/2012,43:42,11,15,0.733,2,5,0.4,0,0,0.0,2,6,8,5,1,1,5,2,24,-4
+Houston Rockets,F,Marcus Morris,San Antonio Spurs,L,12/28/2012,30:07,2,9,0.222,1,7,0.143,2,4,0.5,1,1,2,3,0,0,1,1,7,-10
+Houston Rockets,C,Omer Asik,San Antonio Spurs,L,12/28/2012,24:18,2,4,0.5,0,0,0.0,0,4,0.0,1,9,10,2,2,0,3,3,4,6
+Houston Rockets,G,James Harden,San Antonio Spurs,L,12/28/2012,41:02,10,22,0.455,3,4,0.75,10,13,0.769,3,2,5,7,2,0,5,5,33,-10
+Houston Rockets,G,Jeremy Lin,San Antonio Spurs,L,12/28/2012,36:21,9,16,0.563,1,5,0.2,2,4,0.5,1,3,4,8,4,0,5,4,21,-1
+Houston Rockets,F,Chandler Parsons,Oklahoma City Thunder,L,12/29/2012,34:27,5,13,0.385,0,5,0.0,0,0,0.0,1,3,4,4,3,1,3,0,10,-26
+Houston Rockets,F,Marcus Morris,Oklahoma City Thunder,L,12/29/2012,32:05,9,14,0.643,4,6,0.667,2,2,1.0,2,4,6,0,1,0,1,3,24,-21
+Houston Rockets,C,Omer Asik,Oklahoma City Thunder,L,12/29/2012,20:53,2,4,0.5,0,0,0.0,0,2,0.0,1,7,8,0,0,0,1,3,4,-7
+Houston Rockets,G,James Harden,Oklahoma City Thunder,L,12/29/2012,31:17,6,17,0.353,2,7,0.286,11,14,0.786,0,3,3,1,2,0,4,3,25,-13
+Houston Rockets,G,Jeremy Lin,Oklahoma City Thunder,L,12/29/2012,24:23,3,8,0.375,0,3,0.0,1,1,1.0,0,2,2,7,1,0,4,2,7,-8
+Houston Rockets,F,Chandler Parsons,Atlanta Hawks,W,12/31/2012,19:23,2,9,0.222,0,1,0.0,0,0,0.0,0,0,0,1,1,0,0,0,4,-11
+Houston Rockets,F,Marcus Morris,Atlanta Hawks,W,12/31/2012,25:49,6,9,0.667,3,4,0.75,0,0,0.0,0,3,3,3,1,0,1,3,15,-6
+Houston Rockets,C,Omer Asik,Atlanta Hawks,W,12/31/2012,31:57,5,7,0.714,0,0,0.0,1,4,0.25,0,17,17,0,0,1,1,1,11,21
+Houston Rockets,G,James Harden,Atlanta Hawks,W,12/31/2012,34:10,7,17,0.412,2,6,0.333,12,13,0.923,1,1,2,5,2,1,1,1,28,4
+Houston Rockets,G,Jeremy Lin,Atlanta Hawks,W,12/31/2012,39:53,6,11,0.545,1,3,0.333,3,3,1.0,0,4,4,8,4,2,4,1,16,16
+Houston Rockets,F,Chandler Parsons,New Orleans Hornets,W,01/02/2013,33:38,5,9,0.556,0,2,0.0,0,0,0.0,2,8,10,2,1,1,1,2,10,10
+Houston Rockets,F,Marcus Morris,New Orleans Hornets,W,01/02/2013,21:29,2,7,0.286,1,3,0.333,0,0,0.0,0,4,4,0,1,0,1,1,5,2
+Houston Rockets,C,Omer Asik,New Orleans Hornets,W,01/02/2013,24:53,8,14,0.571,0,0,0.0,5,8,0.625,3,5,8,0,0,1,0,3,21,10
+Houston Rockets,G,James Harden,New Orleans Hornets,W,01/02/2013,40:29,11,23,0.478,2,8,0.25,7,9,0.778,0,2,2,7,0,0,3,3,31,13
+Houston Rockets,G,Jeremy Lin,New Orleans Hornets,W,01/02/2013,41:41,3,10,0.3,1,4,0.25,2,2,1.0,2,4,6,7,1,0,2,1,9,17
+Houston Rockets,F,Chandler Parsons,Milwaukee Bucks,W,01/04/2013,34:33,2,8,0.25,0,5,0.0,1,2,0.5,1,6,7,7,1,0,2,4,5,20
+Houston Rockets,F,Marcus Morris,Milwaukee Bucks,W,01/04/2013,24:37,0,7,0.0,0,4,0.0,0,0,0.0,1,6,7,2,0,1,2,1,0,9
+Houston Rockets,C,Omer Asik,Milwaukee Bucks,W,01/04/2013,26:01,6,7,0.857,0,0,0.0,1,4,0.25,3,5,8,2,0,1,2,2,13,17
+Houston Rockets,G,James Harden,Milwaukee Bucks,W,01/04/2013,38:09,11,18,0.611,2,4,0.5,5,7,0.714,1,1,2,7,4,1,2,3,29,28
+Houston Rockets,G,Jeremy Lin,Milwaukee Bucks,W,01/04/2013,28:52,3,8,0.375,0,3,0.0,2,2,1.0,0,1,1,7,4,0,6,3,8,-4
+Houston Rockets,F,Chandler Parsons,Cleveland Cavaliers,W,01/05/2013,25:57,1,8,0.125,1,5,0.2,2,2,1.0,1,4,5,3,0,0,3,0,5,-7
+Houston Rockets,F,Marcus Morris,Cleveland Cavaliers,W,01/05/2013,21:46,4,8,0.5,1,4,0.25,2,2,1.0,2,3,5,3,1,0,1,0,11,-5
+Houston Rockets,C,Omer Asik,Cleveland Cavaliers,W,01/05/2013,21:18,2,4,0.5,0,0,0.0,2,4,0.5,3,3,6,1,0,2,0,4,6,-1
+Houston Rockets,G,James Harden,Cleveland Cavaliers,W,01/05/2013,37:56,6,17,0.353,3,9,0.333,14,15,0.933,0,2,2,3,7,1,5,3,29,2
+Houston Rockets,G,Jeremy Lin,Cleveland Cavaliers,W,01/05/2013,38:13,7,13,0.538,3,5,0.6,3,5,0.6,0,4,4,5,1,0,4,5,20,6
+Houston Rockets,F,Chandler Parsons,Los Angeles Lakers,W,01/08/2013,42:49,8,13,0.615,2,2,1.0,2,2,1.0,1,4,5,3,1,1,2,1,20,9
+Houston Rockets,F,Marcus Morris,Los Angeles Lakers,W,01/08/2013,19:49,4,8,0.5,0,1,0.0,1,1,1.0,1,1,2,1,1,0,1,2,9,-9
+Houston Rockets,C,Omer Asik,Los Angeles Lakers,W,01/08/2013,21:42,1,2,0.5,0,0,0.0,0,2,0.0,1,4,5,1,0,2,1,2,2,-2
+Houston Rockets,G,James Harden,Los Angeles Lakers,W,01/08/2013,39:31,11,19,0.579,1,4,0.25,8,8,1.0,0,6,6,9,0,0,4,2,31,11
+Houston Rockets,G,Jeremy Lin,Los Angeles Lakers,W,01/08/2013,34:49,7,13,0.538,2,6,0.333,3,6,0.5,0,6,6,5,4,0,7,3,19,11
+Houston Rockets,F,Chandler Parsons,New Orleans Hornets,L,01/09/2013,35:58,3,10,0.3,2,7,0.286,0,0,0.0,3,5,8,1,1,0,4,0,8,-14
+Houston Rockets,F,Marcus Morris,New Orleans Hornets,L,01/09/2013,20:23,2,6,0.333,2,3,0.667,1,2,0.5,0,1,1,2,0,0,2,2,7,4
+Houston Rockets,C,Omer Asik,New Orleans Hornets,L,01/09/2013,26:27,4,6,0.667,0,0,0.0,0,0,0.0,2,6,8,1,0,1,1,2,8,8
+Houston Rockets,G,James Harden,New Orleans Hornets,L,01/09/2013,40:35,9,18,0.5,2,4,0.5,5,6,0.833,0,4,4,3,1,0,7,4,25,2
+Houston Rockets,G,Jeremy Lin,New Orleans Hornets,L,01/09/2013,41:34,4,12,0.333,1,4,0.25,0,0,0.0,1,4,5,5,5,0,5,2,9,-18
+Houston Rockets,F,Chandler Parsons,Boston Celtics,L,01/11/2013,32:17,7,12,0.583,2,4,0.5,2,2,1.0,1,1,2,2,0,0,1,4,18,-7
+Houston Rockets,F,Marcus Morris,Boston Celtics,L,01/11/2013,18:23,2,6,0.333,1,3,0.333,0,0,0.0,2,2,4,1,1,0,1,2,5,-4
+Houston Rockets,C,Omer Asik,Boston Celtics,L,01/11/2013,27:33,3,5,0.6,0,0,0.0,1,8,0.125,4,7,11,2,0,0,2,3,7,-9
+Houston Rockets,G,James Harden,Boston Celtics,L,01/11/2013,39:51,9,19,0.474,2,8,0.25,4,7,0.571,0,1,1,5,2,1,6,1,24,-7
+Houston Rockets,G,Jeremy Lin,Boston Celtics,L,01/11/2013,36:22,4,9,0.444,1,3,0.333,3,5,0.6,1,4,5,6,3,0,0,3,12,-7
+Houston Rockets,F,Chandler Parsons,Philadelphia 76ers,L,01/12/2013,40:14,9,18,0.5,1,7,0.143,4,4,1.0,2,7,9,4,0,0,6,3,23,0
+Houston Rockets,F,Marcus Morris,Philadelphia 76ers,L,01/12/2013,20:54,2,6,0.333,0,2,0.0,0,2,0.0,1,1,2,0,0,0,1,1,4,3
+Houston Rockets,C,Omer Asik,Philadelphia 76ers,L,01/12/2013,39:16,6,7,0.857,0,0,0.0,4,4,1.0,2,8,10,2,0,0,2,3,16,-11
+Houston Rockets,G,James Harden,Philadelphia 76ers,L,01/12/2013,44:54,10,19,0.526,2,9,0.222,7,8,0.875,1,8,9,6,2,0,4,3,29,-9
+Houston Rockets,G,Jeremy Lin,Philadelphia 76ers,L,01/12/2013,37:54,2,13,0.154,0,3,0.0,3,4,0.75,2,2,4,5,3,0,1,3,7,8
+Houston Rockets,F,Chandler Parsons,Los Angeles Clippers,L,01/15/2013,32:33,7,10,0.7,2,4,0.5,1,2,0.5,1,1,2,4,1,0,1,1,17,-16
+Houston Rockets,F,Patrick Patterson,Los Angeles Clippers,L,01/15/2013,16:01,2,5,0.4,1,3,0.333,0,0,0.0,1,1,2,1,1,0,1,4,5,-18
+Houston Rockets,C,Omer Asik,Los Angeles Clippers,L,01/15/2013,24:32,3,6,0.5,0,0,0.0,1,3,0.333,6,3,9,1,1,0,4,1,7,-18
+Houston Rockets,G,James Harden,Los Angeles Clippers,L,01/15/2013,35:11,8,20,0.4,2,9,0.222,5,6,0.833,0,4,4,3,1,0,5,4,23,-8
+Houston Rockets,G,Jeremy Lin,Los Angeles Clippers,L,01/15/2013,35:19,5,11,0.455,1,4,0.25,1,2,0.5,0,1,1,10,2,0,1,4,12,-12
+Houston Rockets,F,Chandler Parsons,Dallas Mavericks,L,01/16/2013,39:49,6,14,0.429,4,6,0.667,2,2,1.0,0,6,6,2,0,0,0,5,18,-4
+Houston Rockets,F,Patrick Patterson,Dallas Mavericks,L,01/16/2013,23:05,4,7,0.571,1,1,1.0,0,0,0.0,1,4,5,0,0,0,0,1,9,15
+Houston Rockets,C,Omer Asik,Dallas Mavericks,L,01/16/2013,36:23,4,8,0.5,0,0,0.0,4,4,1.0,6,9,15,0,1,2,1,3,12,4
+Houston Rockets,G,James Harden,Dallas Mavericks,L,01/16/2013,37:23,5,23,0.217,1,8,0.125,9,12,0.75,0,8,8,7,3,0,4,5,20,-6
+Houston Rockets,G,Jeremy Lin,Dallas Mavericks,L,01/16/2013,30:42,6,13,0.462,1,3,0.333,6,10,0.6,1,2,3,4,1,0,4,1,19,-4
+Houston Rockets,F,Chandler Parsons,Indiana Pacers,L,01/18/2013,40:35,6,9,0.667,2,4,0.5,2,2,1.0,1,1,2,4,0,1,2,1,16,3
+Houston Rockets,F,Patrick Patterson,Indiana Pacers,L,01/18/2013,24:56,1,8,0.125,1,4,0.25,0,0,0.0,0,2,2,0,0,0,0,2,3,-5
+Houston Rockets,C,Omer Asik,Indiana Pacers,L,01/18/2013,30:25,8,13,0.615,0,0,0.0,6,7,0.857,7,5,12,0,1,3,5,2,22,-4
+Houston Rockets,G,James Harden,Indiana Pacers,L,01/18/2013,41:16,5,19,0.263,3,7,0.429,4,5,0.8,1,4,5,7,1,4,5,0,17,-17
+Houston Rockets,G,Jeremy Lin,Indiana Pacers,L,01/18/2013,31:26,4,7,0.571,2,2,1.0,0,0,0.0,0,5,5,3,0,0,3,3,10,-13
+Houston Rockets,F,Chandler Parsons,Minnesota Timberwolves,L,01/19/2013,33:15,2,10,0.2,1,3,0.333,2,2,1.0,3,1,4,1,1,1,3,3,7,-11
+Houston Rockets,F,Patrick Patterson,Minnesota Timberwolves,L,01/19/2013,19:19,1,3,0.333,1,1,1.0,0,0,0.0,3,1,4,0,0,1,0,1,3,-6
+Houston Rockets,C,Omer Asik,Minnesota Timberwolves,L,01/19/2013,15:35,1,4,0.25,0,0,0.0,0,0,0.0,2,3,5,0,0,0,3,5,2,-10
+Houston Rockets,G,James Harden,Minnesota Timberwolves,L,01/19/2013,38:55,5,18,0.278,0,7,0.0,8,10,0.8,4,3,7,5,2,0,4,5,18,-20
+Houston Rockets,G,Jeremy Lin,Minnesota Timberwolves,L,01/19/2013,34:10,3,12,0.25,0,3,0.0,6,8,0.75,3,1,4,2,2,0,3,4,12,-20
+Houston Rockets,F,Chandler Parsons,Charlotte Bobcats,W,01/21/2013,36:19,5,8,0.625,2,3,0.667,2,2,1.0,1,6,7,5,1,1,0,2,14,-2
+Houston Rockets,F,Patrick Patterson,Charlotte Bobcats,W,01/21/2013,8:27,0,3,0.0,0,1,0.0,0,0,0.0,1,3,4,0,0,0,1,1,0,3
+Houston Rockets,C,Omer Asik,Charlotte Bobcats,W,01/21/2013,30:25,2,4,0.5,0,0,0.0,2,5,0.4,1,7,8,0,1,0,3,5,6,-3
+Houston Rockets,G,James Harden,Charlotte Bobcats,W,01/21/2013,41:27,5,20,0.25,0,5,0.0,19,21,0.905,2,5,7,7,2,0,4,2,29,-1
+Houston Rockets,G,Jeremy Lin,Charlotte Bobcats,W,01/21/2013,24:11,1,5,0.2,0,0,0.0,2,2,1.0,0,2,2,3,1,0,2,2,4,-11
+Houston Rockets,F,Chandler Parsons,Denver Nuggets,L,01/23/2013,29:18,2,8,0.25,1,4,0.25,1,2,0.5,0,4,4,1,1,1,2,5,6,1
+Houston Rockets,F,Patrick Patterson,Denver Nuggets,L,01/23/2013,14:48,4,7,0.571,1,2,0.5,1,2,0.5,0,1,1,1,2,1,2,1,10,-11
+Houston Rockets,C,Omer Asik,Denver Nuggets,L,01/23/2013,33:44,3,5,0.6,0,0,0.0,0,1,0.0,4,9,13,3,0,3,4,1,6,-6
+Houston Rockets,G,James Harden,Denver Nuggets,L,01/23/2013,39:09,8,17,0.471,2,6,0.333,5,5,1.0,0,3,3,7,1,0,7,3,23,-16
+Houston Rockets,G,Jeremy Lin,Denver Nuggets,L,01/23/2013,24:13,3,7,0.429,0,1,0.0,3,3,1.0,0,1,1,3,1,0,2,2,9,-14
+Houston Rockets,F,Chandler Parsons,New Orleans Hornets,W,01/25/2013,34:58,5,13,0.385,0,1,0.0,0,1,0.0,1,2,3,2,0,3,1,3,10,16
+Houston Rockets,F,Patrick Patterson,New Orleans Hornets,W,01/25/2013,34:14,8,11,0.727,1,1,1.0,1,2,0.5,5,8,13,0,0,1,0,2,18,16
+Houston Rockets,C,Omer Asik,New Orleans Hornets,W,01/25/2013,25:53,0,4,0.0,0,0,0.0,0,0,0.0,1,5,6,0,1,1,3,4,0,6
+Houston Rockets,G,James Harden,New Orleans Hornets,W,01/25/2013,35:44,8,15,0.533,2,3,0.667,12,12,1.0,1,3,4,8,1,0,8,2,30,4
+Houston Rockets,G,Jeremy Lin,New Orleans Hornets,W,01/25/2013,37:09,3,6,0.5,1,3,0.333,6,8,0.75,0,5,5,8,6,1,4,1,13,17
+Houston Rockets,F,Chandler Parsons,Brooklyn Nets,W,01/26/2013,39:56,7,11,0.636,2,5,0.4,0,0,0.0,1,5,6,11,1,1,1,3,16,28
+Houston Rockets,F,Patrick Patterson,Brooklyn Nets,W,01/26/2013,22:55,3,7,0.429,0,1,0.0,1,1,1.0,0,2,2,1,0,0,1,2,7,13
+Houston Rockets,C,Omer Asik,Brooklyn Nets,W,01/26/2013,31:19,9,12,0.75,0,0,0.0,2,6,0.333,6,10,16,1,0,0,2,5,20,7
+Houston Rockets,G,James Harden,Brooklyn Nets,W,01/26/2013,34:02,7,15,0.467,2,5,0.4,13,14,0.929,1,2,3,7,2,1,0,1,29,0
+Houston Rockets,G,Jeremy Lin,Brooklyn Nets,W,01/26/2013,34:56,5,14,0.357,2,4,0.5,2,2,1.0,0,5,5,9,1,1,6,2,14,15
+Houston Rockets,F,Chandler Parsons,Utah Jazz,W,01/28/2013,24:55,6,8,0.75,0,2,0.0,0,0,0.0,1,2,3,2,3,0,0,0,12,29
+Houston Rockets,F,Patrick Patterson,Utah Jazz,W,01/28/2013,25:36,6,9,0.667,0,1,0.0,0,0,0.0,0,2,2,2,0,0,0,3,12,25
+Houston Rockets,C,Omer Asik,Utah Jazz,W,01/28/2013,25:57,1,5,0.2,0,0,0.0,2,2,1.0,2,17,19,0,0,2,2,1,4,28
+Houston Rockets,G,James Harden,Utah Jazz,W,01/28/2013,27:40,8,15,0.533,1,5,0.2,8,8,1.0,1,2,3,3,1,1,0,1,25,18
+Houston Rockets,G,Jeremy Lin,Utah Jazz,W,01/28/2013,24:43,5,5,1.0,1,1,1.0,1,1,1.0,0,2,2,7,3,0,3,1,12,25
+Houston Rockets,F,Chandler Parsons,Denver Nuggets,L,01/30/2013,37:32,8,13,0.615,3,7,0.429,2,3,0.667,0,3,3,3,1,1,4,5,21,-7
+Houston Rockets,F,Patrick Patterson,Denver Nuggets,L,01/30/2013,26:46,4,6,0.667,0,1,0.0,2,2,1.0,3,2,5,0,2,1,1,1,10,-6
+Houston Rockets,C,Omer Asik,Denver Nuggets,L,01/30/2013,34:31,4,7,0.571,0,0,0.0,2,4,0.5,4,14,18,4,1,1,7,3,10,7
+Houston Rockets,G,James Harden,Denver Nuggets,L,01/30/2013,41:53,6,13,0.462,1,2,0.5,8,12,0.667,2,3,5,4,2,0,6,4,21,-3
+Houston Rockets,G,Jeremy Lin,Denver Nuggets,L,01/30/2013,31:00,8,15,0.533,1,3,0.333,5,8,0.625,0,1,1,5,1,1,1,3,22,-5
+Houston Rockets,F,Chandler Parsons,Charlotte Bobcats,W,02/02/2013,43:33,9,17,0.529,3,6,0.5,3,3,1.0,3,7,10,4,0,1,2,2,24,19
+Houston Rockets,F,Patrick Patterson,Charlotte Bobcats,W,02/02/2013,28:54,10,12,0.833,2,3,0.667,2,2,1.0,1,3,4,1,0,0,1,4,24,27
+Houston Rockets,C,Omer Asik,Charlotte Bobcats,W,02/02/2013,37:56,8,13,0.615,0,0,0.0,3,6,0.5,6,9,15,1,1,2,1,2,19,26
+Houston Rockets,G,James Harden,Charlotte Bobcats,W,02/02/2013,40:24,6,11,0.545,1,3,0.333,8,9,0.889,0,11,11,11,1,1,3,4,21,16
+Houston Rockets,G,Jeremy Lin,Charlotte Bobcats,W,02/02/2013,33:47,4,10,0.4,0,2,0.0,1,1,1.0,1,1,2,8,3,1,4,2,9,13
+Houston Rockets,F,Chandler Parsons,Golden State Warriors,W,02/05/2013,33:25,6,12,0.5,4,8,0.5,0,0,0.0,1,3,4,8,0,0,1,0,16,24
+Houston Rockets,F,Patrick Patterson,Golden State Warriors,W,02/05/2013,25:40,5,13,0.385,1,2,0.5,1,2,0.5,5,5,10,3,0,0,0,0,12,15
+Houston Rockets,C,Omer Asik,Golden State Warriors,W,02/05/2013,32:14,3,8,0.375,0,0,0.0,5,7,0.714,5,10,15,0,0,0,2,3,11,38
+Houston Rockets,G,James Harden,Golden State Warriors,W,02/05/2013,30:13,5,11,0.455,4,5,0.8,4,8,0.5,0,2,2,7,3,0,1,2,18,22
+Houston Rockets,G,Jeremy Lin,Golden State Warriors,W,02/05/2013,32:30,10,16,0.625,5,8,0.625,3,4,0.75,0,1,1,9,1,0,2,2,28,37
+Houston Rockets,F,Chandler Parsons,Miami Heat,L,02/06/2013,35:21,6,9,0.667,1,4,0.25,0,1,0.0,0,1,1,2,0,0,2,5,13,-20
+Houston Rockets,F,Patrick Patterson,Miami Heat,L,02/06/2013,34:39,7,12,0.583,1,1,1.0,0,0,0.0,1,2,3,0,0,0,2,4,15,-16
+Houston Rockets,C,Omer Asik,Miami Heat,L,02/06/2013,34:32,7,11,0.636,0,0,0.0,1,3,0.333,3,11,14,0,1,0,1,4,15,-7
+Houston Rockets,G,James Harden,Miami Heat,L,02/06/2013,40:45,10,16,0.625,4,7,0.571,12,13,0.923,2,10,12,7,3,0,4,3,36,-7
+Houston Rockets,G,Jeremy Lin,Miami Heat,L,02/06/2013,32:15,3,10,0.3,1,2,0.5,6,6,1.0,0,1,1,3,1,1,2,4,13,-14
+Houston Rockets,F,Chandler Parsons,Portland Trail Blazers,W,02/08/2013,38:13,8,14,0.571,4,8,0.5,0,0,0.0,0,3,3,3,2,1,2,2,20,19
+Houston Rockets,F,Patrick Patterson,Portland Trail Blazers,W,02/08/2013,27:08,8,11,0.727,0,1,0.0,0,0,0.0,1,5,6,1,0,2,0,1,16,17
+Houston Rockets,C,Omer Asik,Portland Trail Blazers,W,02/08/2013,30:58,3,9,0.333,0,0,0.0,3,4,0.75,5,8,13,0,0,4,0,4,9,14
+Houston Rockets,G,James Harden,Portland Trail Blazers,W,02/08/2013,37:47,13,16,0.813,4,5,0.8,5,6,0.833,1,6,7,11,1,0,3,2,35,21
+Houston Rockets,G,Jeremy Lin,Portland Trail Blazers,W,02/08/2013,26:04,6,10,0.6,2,3,0.667,2,4,0.5,0,0,0,4,0,0,2,1,16,10
+Houston Rockets,F,Chandler Parsons,Sacramento Kings,L,02/10/2013,27:10,2,12,0.167,0,6,0.0,1,2,0.5,1,1,2,6,3,0,1,0,5,3
+Houston Rockets,F,Patrick Patterson,Sacramento Kings,L,02/10/2013,34:43,8,16,0.5,2,4,0.5,0,0,0.0,1,5,6,2,0,0,1,1,18,-4
+Houston Rockets,C,Omer Asik,Sacramento Kings,L,02/10/2013,34:20,8,9,0.889,0,0,0.0,1,1,1.0,6,6,12,0,0,3,3,4,17,-2
+Houston Rockets,G,James Harden,Sacramento Kings,L,02/10/2013,39:52,10,20,0.5,2,7,0.286,8,11,0.727,3,3,6,4,1,0,4,1,30,-10
+Houston Rockets,G,Jeremy Lin,Sacramento Kings,L,02/10/2013,29:14,5,8,0.625,1,1,1.0,1,1,1.0,0,2,2,6,1,2,1,6,12,-1
+Houston Rockets,F,Chandler Parsons,Golden State Warriors,W,02/12/2013,37:22,9,15,0.6,3,6,0.5,0,3,0.0,2,6,8,9,1,1,2,3,21,4
+Houston Rockets,F,Patrick Patterson,Golden State Warriors,W,02/12/2013,29:35,6,9,0.667,0,2,0.0,0,0,0.0,0,2,2,0,0,1,0,2,12,7
+Houston Rockets,C,Omer Asik,Golden State Warriors,W,02/12/2013,33:21,6,8,0.75,0,0,0.0,1,3,0.333,3,12,15,2,0,0,0,5,13,4
+Houston Rockets,G,James Harden,Golden State Warriors,W,02/12/2013,38:40,7,22,0.318,2,8,0.25,11,11,1.0,1,6,7,5,3,0,5,0,27,10
+Houston Rockets,G,Jeremy Lin,Golden State Warriors,W,02/12/2013,28:43,3,11,0.273,0,2,0.0,8,8,1.0,1,1,2,10,0,0,0,3,14,4
+Houston Rockets,F,Chandler Parsons,Los Angeles Clippers,L,02/13/2013,37:19,7,16,0.438,0,4,0.0,3,4,0.75,2,4,6,4,0,0,5,2,17,-10
+Houston Rockets,F,Patrick Patterson,Los Angeles Clippers,L,02/13/2013,24:24,6,11,0.545,0,0,0.0,0,0,0.0,2,4,6,0,1,0,0,3,12,-7
+Houston Rockets,C,Omer Asik,Los Angeles Clippers,L,02/13/2013,25:30,3,5,0.6,0,0,0.0,2,2,1.0,3,4,7,0,1,1,2,1,8,-16
+Houston Rockets,G,Carlos Delfino,Los Angeles Clippers,L,02/13/2013,23:26,1,6,0.167,1,5,0.2,0,0,0.0,0,1,1,2,2,0,2,2,3,-3
+Houston Rockets,G,Jeremy Lin,Los Angeles Clippers,L,02/13/2013,34:10,4,12,0.333,1,3,0.333,5,6,0.833,0,2,2,7,2,1,4,4,14,-14
+Houston Rockets,F,Chandler Parsons,Oklahoma City Thunder,W,02/20/2013,35:10,6,15,0.4,2,7,0.286,3,4,0.75,2,4,6,5,2,0,5,3,17,10
+Houston Rockets,F,Carlos Delfino,Oklahoma City Thunder,W,02/20/2013,42:26,3,12,0.25,3,10,0.3,0,0,0.0,0,6,6,5,4,0,2,5,9,10
+Houston Rockets,C,Omer Asik,Oklahoma City Thunder,W,02/20/2013,27:01,3,10,0.3,0,0,0.0,3,4,0.75,6,4,10,0,1,1,1,3,9,-5
+Houston Rockets,G,James Harden,Oklahoma City Thunder,W,02/20/2013,44:14,14,19,0.737,7,8,0.875,11,12,0.917,1,6,7,6,2,1,2,2,46,8
+Houston Rockets,G,Jeremy Lin,Oklahoma City Thunder,W,02/20/2013,41:51,12,22,0.545,3,5,0.6,2,3,0.667,0,6,6,7,2,0,3,4,29,2
+Houston Rockets,F,Chandler Parsons,Brooklyn Nets,W,02/22/2013,39:28,3,7,0.429,2,4,0.5,2,2,1.0,1,4,5,4,1,1,3,4,10,11
+Houston Rockets,F,Carlos Delfino,Brooklyn Nets,W,02/22/2013,36:26,8,14,0.571,6,9,0.667,0,0,0.0,0,5,5,5,1,0,1,1,22,5
+Houston Rockets,C,Omer Asik,Brooklyn Nets,W,02/22/2013,30:05,5,11,0.455,0,0,0.0,0,0,0.0,1,10,11,1,1,0,0,3,10,5
+Houston Rockets,G,James Harden,Brooklyn Nets,W,02/22/2013,42:00,7,14,0.5,4,7,0.571,4,5,0.8,0,5,5,4,1,0,3,1,22,9
+Houston Rockets,G,Jeremy Lin,Brooklyn Nets,W,02/22/2013,35:51,4,11,0.364,0,2,0.0,1,2,0.5,0,2,2,6,0,0,5,3,9,0
+Houston Rockets,F,Chandler Parsons,Washington Wizards,L,02/23/2013,42:23,9,15,0.6,5,9,0.556,1,2,0.5,2,5,7,3,0,1,1,1,24,-7
+Houston Rockets,F,Carlos Delfino,Washington Wizards,L,02/23/2013,35:25,4,14,0.286,4,12,0.333,0,0,0.0,1,4,5,3,0,0,3,2,12,-4
+Houston Rockets,C,Omer Asik,Washington Wizards,L,02/23/2013,34:44,2,4,0.5,0,0,0.0,1,2,0.5,3,7,10,1,1,2,5,5,5,-4
+Houston Rockets,G,James Harden,Washington Wizards,L,02/23/2013,42:29,10,23,0.435,3,11,0.273,4,4,1.0,1,3,4,6,3,0,3,2,27,-6
+Houston Rockets,G,Jeremy Lin,Washington Wizards,L,02/23/2013,26:29,2,9,0.222,1,3,0.333,0,0,0.0,0,1,1,6,3,0,2,2,5,-11
+Houston Rockets,F,Donatas Motiejunas,Milwaukee Bucks,L,02/27/2013,25:43,4,9,0.444,1,2,0.5,4,4,1.0,3,4,7,5,1,0,2,4,13,12
+Houston Rockets,F,Chandler Parsons,Milwaukee Bucks,L,02/27/2013,42:56,9,17,0.529,2,5,0.4,0,2,0.0,2,3,5,2,1,0,5,1,20,6
+Houston Rockets,C,Omer Asik,Milwaukee Bucks,L,02/27/2013,30:36,7,12,0.583,0,0,0.0,2,3,0.667,6,16,22,1,0,0,1,2,16,1
+Houston Rockets,G,James Harden,Milwaukee Bucks,L,02/27/2013,38:20,8,18,0.444,2,6,0.333,7,10,0.7,0,2,2,7,4,0,7,4,25,-9
+Houston Rockets,G,Jeremy Lin,Milwaukee Bucks,L,02/27/2013,33:24,4,11,0.364,0,2,0.0,2,2,1.0,0,3,3,7,3,1,2,1,10,3
+Houston Rockets,F,Donatas Motiejunas,Orlando Magic,W,03/01/2013,24:13,7,12,0.583,2,5,0.4,1,2,0.5,2,1,3,1,0,0,3,2,17,5
+Houston Rockets,F,Chandler Parsons,Orlando Magic,W,03/01/2013,40:42,9,15,0.6,3,7,0.429,0,2,0.0,0,2,2,4,2,0,1,1,21,13
+Houston Rockets,C,Omer Asik,Orlando Magic,W,03/01/2013,34:11,4,6,0.667,0,0,0.0,1,5,0.2,6,6,12,1,0,0,0,4,9,12
+Houston Rockets,G,James Harden,Orlando Magic,W,03/01/2013,42:09,7,18,0.389,0,5,0.0,10,11,0.909,0,7,7,8,3,1,2,3,24,3
+Houston Rockets,G,Jeremy Lin,Orlando Magic,W,03/01/2013,25:51,3,6,0.5,2,2,1.0,3,4,0.75,0,1,1,5,0,0,2,1,11,0
+Houston Rockets,F,Chandler Parsons,Dallas Mavericks,W,03/03/2013,29:52,12,13,0.923,6,7,0.857,2,2,1.0,1,2,3,2,0,0,2,3,32,28
+Houston Rockets,F,Donatas Motiejunas,Dallas Mavericks,W,03/03/2013,29:50,3,6,0.5,1,3,0.333,1,3,0.333,3,5,8,4,1,0,3,2,8,31
+Houston Rockets,C,Omer Asik,Dallas Mavericks,W,03/03/2013,26:05,4,6,0.667,0,0,0.0,2,4,0.5,0,10,10,0,3,0,0,0,10,26
+Houston Rockets,G,James Harden,Dallas Mavericks,W,03/03/2013,30:21,5,10,0.5,4,8,0.5,7,9,0.778,0,4,4,7,1,0,0,1,21,37
+Houston Rockets,G,Jeremy Lin,Dallas Mavericks,W,03/03/2013,24:34,8,14,0.571,1,4,0.25,4,5,0.8,0,0,0,9,2,0,2,2,21,26
+Houston Rockets,F,Chandler Parsons,Dallas Mavericks,L,03/06/2013,42:39,8,15,0.533,5,8,0.625,2,2,1.0,0,4,4,1,0,1,1,2,23,0
+Houston Rockets,F,Donatas Motiejunas,Dallas Mavericks,L,03/06/2013,16:14,3,8,0.375,0,4,0.0,1,1,1.0,0,1,1,0,0,0,1,1,7,-12
+Houston Rockets,C,Omer Asik,Dallas Mavericks,L,03/06/2013,22:40,4,5,0.8,0,0,0.0,4,11,0.364,4,11,15,0,0,0,1,3,12,-2
+Houston Rockets,G,James Harden,Dallas Mavericks,L,03/06/2013,39:00,5,17,0.294,2,7,0.286,16,16,1.0,1,3,4,9,2,0,2,3,28,-13
+Houston Rockets,G,Jeremy Lin,Dallas Mavericks,L,03/06/2013,24:37,5,10,0.5,1,2,0.5,1,1,1.0,0,1,1,3,0,0,3,0,12,-7
+Houston Rockets,F,Chandler Parsons,Golden State Warriors,W,03/08/2013,41:52,9,13,0.692,6,8,0.75,2,2,1.0,1,2,3,3,0,0,2,1,26,5
+Houston Rockets,F,Donatas Motiejunas,Golden State Warriors,W,03/08/2013,12:25,4,7,0.571,1,3,0.333,0,0,0.0,1,0,1,1,0,0,2,4,9,-4
+Houston Rockets,C,Omer Asik,Golden State Warriors,W,03/08/2013,39:29,3,7,0.429,0,0,0.0,0,2,0.0,2,15,17,1,0,0,2,1,6,20
+Houston Rockets,G,James Harden,Golden State Warriors,W,03/08/2013,41:41,3,17,0.176,3,8,0.375,11,14,0.786,1,5,6,11,3,0,3,1,20,5
+Houston Rockets,G,Jeremy Lin,Golden State Warriors,W,03/08/2013,36:38,3,9,0.333,1,3,0.333,8,9,0.889,0,7,7,4,1,0,1,2,15,11
+Houston Rockets,F,Chandler Parsons,Phoenix Suns,L,03/09/2013,34:53,5,16,0.313,3,6,0.5,1,3,0.333,1,0,1,2,2,1,0,1,14,4
+Houston Rockets,F,Donatas Motiejunas,Phoenix Suns,L,03/09/2013,17:30,3,7,0.429,2,5,0.4,0,0,0.0,1,2,3,0,0,1,1,5,8,2
+Houston Rockets,C,Omer Asik,Phoenix Suns,L,03/09/2013,38:24,2,6,0.333,0,0,0.0,0,0,0.0,6,10,16,0,0,2,3,3,4,-7
+Houston Rockets,G,James Harden,Phoenix Suns,L,03/09/2013,42:01,11,17,0.647,7,10,0.7,9,12,0.75,1,4,5,8,1,0,8,3,38,4
+Houston Rockets,G,Jeremy Lin,Phoenix Suns,L,03/09/2013,30:34,4,9,0.444,1,5,0.2,2,2,1.0,1,0,1,4,1,0,5,6,11,-1
+Houston Rockets,F,Chandler Parsons,Phoenix Suns,W,03/13/2013,24:29,5,11,0.455,0,3,0.0,1,1,1.0,0,3,3,4,1,1,1,0,11,26
+Houston Rockets,F,Donatas Motiejunas,Phoenix Suns,W,03/13/2013,27:37,7,12,0.583,2,4,0.5,3,4,0.75,2,3,5,2,0,1,1,3,19,35
+Houston Rockets,C,Omer Asik,Phoenix Suns,W,03/13/2013,25:54,4,7,0.571,0,0,0.0,6,7,0.857,2,5,7,1,0,1,2,1,14,24
+Houston Rockets,G,James Harden,Phoenix Suns,W,03/13/2013,31:53,4,7,0.571,3,5,0.6,7,8,0.875,0,2,2,4,0,0,4,2,18,34
+Houston Rockets,G,Jeremy Lin,Phoenix Suns,W,03/13/2013,25:43,5,9,0.556,1,2,0.5,2,2,1.0,0,3,3,6,2,0,2,1,13,25
+Houston Rockets,F,Chandler Parsons,Minnesota Timberwolves,W,03/15/2013,39:19,6,12,0.5,2,5,0.4,0,0,0.0,0,4,4,2,1,0,2,4,14,4
+Houston Rockets,F,Donatas Motiejunas,Minnesota Timberwolves,W,03/15/2013,25:08,2,6,0.333,0,3,0.0,0,0,0.0,0,2,2,3,0,0,1,1,4,2
+Houston Rockets,C,Omer Asik,Minnesota Timberwolves,W,03/15/2013,22:40,3,7,0.429,0,0,0.0,0,0,0.0,5,6,11,0,0,1,4,2,6,2
+Houston Rockets,G,James Harden,Minnesota Timberwolves,W,03/15/2013,43:15,8,16,0.5,5,10,0.5,16,18,0.889,0,7,7,8,0,0,5,5,37,7
+Houston Rockets,G,Jeremy Lin,Minnesota Timberwolves,W,03/15/2013,38:44,8,15,0.533,3,8,0.375,5,6,0.833,0,1,1,8,4,0,3,2,24,6
+Houston Rockets,F,Chandler Parsons,Golden State Warriors,L,03/17/2013,35:39,2,13,0.154,1,6,0.167,4,4,1.0,1,6,7,2,0,1,1,2,9,-17
+Houston Rockets,F,Donatas Motiejunas,Golden State Warriors,L,03/17/2013,19:55,2,11,0.182,0,4,0.0,0,0,0.0,0,3,3,0,0,0,1,1,4,7
+Houston Rockets,C,Omer Asik,Golden State Warriors,L,03/17/2013,31:06,3,5,0.6,0,0,0.0,0,0,0.0,4,7,11,1,1,3,1,3,6,-14
+Houston Rockets,G,James Harden,Golden State Warriors,L,03/17/2013,40:22,6,16,0.375,3,7,0.429,6,6,1.0,1,9,10,8,3,0,3,3,21,-19
+Houston Rockets,G,Jeremy Lin,Golden State Warriors,L,03/17/2013,35:10,9,16,0.563,3,5,0.6,0,3,0.0,0,1,1,4,0,0,2,0,21,-15
+Houston Rockets,F,Chandler Parsons,Utah Jazz,W,03/20/2013,38:07,5,10,0.5,0,4,0.0,0,0,0.0,0,8,8,3,1,0,1,4,10,0
+Houston Rockets,F,Donatas Motiejunas,Utah Jazz,W,03/20/2013,26:28,2,8,0.25,1,4,0.25,0,2,0.0,1,4,5,0,1,1,2,4,5,8
+Houston Rockets,C,Omer Asik,Utah Jazz,W,03/20/2013,34:58,3,8,0.375,0,0,0.0,3,4,0.75,4,8,12,0,0,1,3,2,9,3
+Houston Rockets,G,James Harden,Utah Jazz,W,03/20/2013,38:01,5,14,0.357,2,6,0.333,17,18,0.944,0,2,2,3,2,1,3,3,29,7
+Houston Rockets,G,Jeremy Lin,Utah Jazz,W,03/20/2013,30:12,9,13,0.692,1,1,1.0,5,6,0.833,0,2,2,6,0,0,2,3,24,-3
+Houston Rockets,F,Chandler Parsons,Cleveland Cavaliers,W,03/22/2013,28:14,5,11,0.455,1,4,0.25,2,3,0.667,1,3,4,1,0,1,1,0,13,17
+Houston Rockets,F,Donatas Motiejunas,Cleveland Cavaliers,W,03/22/2013,20:39,3,5,0.6,1,3,0.333,3,6,0.5,1,3,4,2,0,0,0,3,10,2
+Houston Rockets,C,Omer Asik,Cleveland Cavaliers,W,03/22/2013,22:31,6,8,0.75,0,0,0.0,1,3,0.333,3,8,11,1,0,1,2,2,13,7
+Houston Rockets,G,James Harden,Cleveland Cavaliers,W,03/22/2013,30:44,5,9,0.556,3,5,0.6,7,9,0.778,0,1,1,2,2,0,4,1,20,21
+Houston Rockets,G,Jeremy Lin,Cleveland Cavaliers,W,03/22/2013,20:12,2,7,0.286,0,2,0.0,0,1,0.0,1,0,1,6,0,0,3,2,4,1
+Houston Rockets,F,Chandler Parsons,San Antonio Spurs,W,03/24/2013,45:15,8,17,0.471,2,7,0.286,2,2,1.0,2,6,8,2,0,0,2,0,20,-4
+Houston Rockets,F,Donatas Motiejunas,San Antonio Spurs,W,03/24/2013,16:15,4,8,0.5,2,4,0.5,0,0,0.0,1,0,1,0,0,0,0,5,10,-9
+Houston Rockets,C,Omer Asik,San Antonio Spurs,W,03/24/2013,34:32,2,10,0.2,0,0,0.0,1,2,0.5,6,8,14,2,0,3,3,4,5,1
+Houston Rockets,G,James Harden,San Antonio Spurs,W,03/24/2013,40:05,6,16,0.375,2,5,0.4,15,17,0.882,1,8,9,6,2,2,1,1,29,5
+Houston Rockets,G,Jeremy Lin,San Antonio Spurs,W,03/24/2013,26:44,2,8,0.25,0,1,0.0,2,2,1.0,0,2,2,5,2,1,4,3,6,-13
+Houston Rockets,F,Chandler Parsons,Indiana Pacers,L,03/27/2013,40:16,5,14,0.357,0,3,0.0,1,1,1.0,0,2,2,3,1,1,2,2,11,-14
+Houston Rockets,F,Donatas Motiejunas,Indiana Pacers,L,03/27/2013,12:55,0,2,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,1,0,4,0,-9
+Houston Rockets,C,Omer Asik,Indiana Pacers,L,03/27/2013,25:45,3,5,0.6,0,0,0.0,2,3,0.667,2,3,5,1,1,1,1,3,8,-15
+Houston Rockets,G,James Harden,Indiana Pacers,L,03/27/2013,42:43,6,24,0.25,3,10,0.3,7,9,0.778,0,4,4,8,1,0,3,4,22,-5
+Houston Rockets,G,Jeremy Lin,Indiana Pacers,L,03/27/2013,19:53,3,6,0.5,1,2,0.5,1,1,1.0,0,1,1,4,2,0,4,1,8,-13
+Houston Rockets,F,Chandler Parsons,Memphis Grizzlies,L,03/29/2013,25:47,5,9,0.556,3,5,0.6,3,4,0.75,0,2,2,1,0,1,0,0,16,-17
+Houston Rockets,F,Donatas Motiejunas,Memphis Grizzlies,L,03/29/2013,21:54,7,11,0.636,2,3,0.667,0,0,0.0,1,1,2,0,0,0,3,4,16,-11
+Houston Rockets,C,Omer Asik,Memphis Grizzlies,L,03/29/2013,22:26,3,5,0.6,0,0,0.0,0,0,0.0,1,3,4,1,0,0,1,2,6,-16
+Houston Rockets,G,James Harden,Memphis Grizzlies,L,03/29/2013,26:43,3,9,0.333,1,4,0.25,0,0,0.0,0,1,1,4,2,0,1,1,7,-16
+Houston Rockets,G,Jeremy Lin,Memphis Grizzlies,L,03/29/2013,23:11,3,9,0.333,0,1,0.0,2,2,1.0,0,1,1,3,2,1,2,2,8,-14
+Houston Rockets,F,Chandler Parsons,Los Angeles Clippers,W,03/30/2013,34:14,6,15,0.4,2,5,0.4,1,2,0.5,2,7,9,4,1,1,2,3,15,20
+Houston Rockets,F,Greg Smith,Los Angeles Clippers,W,03/30/2013,30:23,3,7,0.429,0,0,0.0,3,4,0.75,2,6,8,0,0,0,0,1,9,13
+Houston Rockets,C,Omer Asik,Los Angeles Clippers,W,03/30/2013,33:51,6,9,0.667,0,0,0.0,1,4,0.25,2,10,12,2,1,2,2,1,13,13
+Houston Rockets,G,James Anderson,Los Angeles Clippers,W,03/30/2013,26:14,2,8,0.25,0,1,0.0,3,4,0.75,1,4,5,2,2,0,4,1,7,7
+Houston Rockets,G,Jeremy Lin,Los Angeles Clippers,W,03/30/2013,31:20,4,10,0.4,1,2,0.5,6,8,0.75,0,0,0,3,0,1,6,4,15,12
+Houston Rockets,F,Francisco Garcia,Orlando Magic,W,04/01/2013,25:25,5,6,0.833,4,5,0.8,0,0,0.0,0,2,2,5,0,3,0,1,14,20
+Houston Rockets,F,Greg Smith,Orlando Magic,W,04/01/2013,20:41,5,8,0.625,0,0,0.0,2,2,1.0,1,3,4,1,0,1,0,5,12,3
+Houston Rockets,C,Omer Asik,Orlando Magic,W,04/01/2013,27:50,11,13,0.846,0,0,0.0,0,0,0.0,5,13,18,2,0,0,3,3,22,22
+Houston Rockets,G,James Anderson,Orlando Magic,W,04/01/2013,39:17,3,12,0.25,1,4,0.25,2,2,1.0,4,4,8,1,1,0,1,1,9,1
+Houston Rockets,G,Jeremy Lin,Orlando Magic,W,04/01/2013,29:42,8,16,0.5,2,4,0.5,1,2,0.5,0,3,3,11,0,0,3,1,19,21
+Houston Rockets,F,Chandler Parsons,Sacramento Kings,W,04/03/2013,39:34,12,18,0.667,3,6,0.5,2,2,1.0,0,5,5,4,0,1,3,1,29,15
+Houston Rockets,F,Greg Smith,Sacramento Kings,W,04/03/2013,19:56,1,2,0.5,0,0,0.0,0,0,0.0,1,4,5,0,0,0,1,5,2,13
+Houston Rockets,C,Omer Asik,Sacramento Kings,W,04/03/2013,35:35,6,8,0.75,0,0,0.0,7,9,0.778,0,10,10,1,2,0,2,6,19,17
+Houston Rockets,G,James Harden,Sacramento Kings,W,04/03/2013,39:50,7,19,0.368,2,8,0.25,5,6,0.833,1,6,7,9,0,2,5,2,21,11
+Houston Rockets,G,Jeremy Lin,Sacramento Kings,W,04/03/2013,34:08,5,13,0.385,3,6,0.5,2,2,1.0,0,1,1,10,1,0,2,4,15,19
+Houston Rockets,F,Francisco Garcia,Portland Trail Blazers,W,04/05/2013,25:31,4,9,0.444,3,7,0.429,0,0,0.0,0,2,2,0,3,0,1,2,11,7
+Houston Rockets,F,Greg Smith,Portland Trail Blazers,W,04/05/2013,23:42,5,6,0.833,0,0,0.0,9,12,0.75,0,5,5,1,0,1,0,6,19,-2
+Houston Rockets,C,Omer Asik,Portland Trail Blazers,W,04/05/2013,28:51,3,7,0.429,0,1,0.0,3,4,0.75,5,6,11,1,0,1,0,4,9,17
+Houston Rockets,G,James Harden,Portland Trail Blazers,W,04/05/2013,35:05,11,21,0.524,4,9,0.444,7,8,0.875,0,7,7,6,1,1,4,0,33,11
+Houston Rockets,G,Jeremy Lin,Portland Trail Blazers,W,04/05/2013,34:03,8,13,0.615,2,4,0.5,4,5,0.8,1,3,4,8,2,0,4,2,22,19
+Houston Rockets,F,Francisco Garcia,Denver Nuggets,L,04/06/2013,28:16,4,9,0.444,4,8,0.5,0,0,0.0,0,2,2,1,0,0,0,2,12,-15
+Houston Rockets,F,Greg Smith,Denver Nuggets,L,04/06/2013,12:52,2,6,0.333,0,0,0.0,2,2,1.0,1,3,4,0,0,1,1,3,6,-12
+Houston Rockets,C,Omer Asik,Denver Nuggets,L,04/06/2013,26:58,2,3,0.667,0,0,0.0,0,0,0.0,2,7,9,2,1,1,3,2,4,-5
+Houston Rockets,G,James Harden,Denver Nuggets,L,04/06/2013,28:55,2,10,0.2,0,3,0.0,10,10,1.0,1,3,4,5,1,1,3,2,14,-6
+Houston Rockets,G,Jeremy Lin,Denver Nuggets,L,04/06/2013,34:47,8,15,0.533,2,6,0.333,5,6,0.833,0,2,2,8,0,0,1,3,23,-23
+Houston Rockets,F,Francisco Garcia,Phoenix Suns,W,04/09/2013,36:08,6,13,0.462,3,10,0.3,0,0,0.0,1,0,1,2,1,0,1,3,15,9
+Houston Rockets,F,Greg Smith,Phoenix Suns,W,04/09/2013,28:07,5,7,0.714,0,0,0.0,2,3,0.667,3,2,5,0,1,1,1,2,12,5
+Houston Rockets,C,Omer Asik,Phoenix Suns,W,04/09/2013,38:21,3,9,0.333,0,0,0.0,2,2,1.0,7,15,22,0,2,2,0,3,8,12
+Houston Rockets,G,James Harden,Phoenix Suns,W,04/09/2013,44:10,9,21,0.429,2,8,0.25,13,14,0.929,0,6,6,6,3,1,9,3,33,2
+Houston Rockets,G,Jeremy Lin,Phoenix Suns,W,04/09/2013,37:28,5,14,0.357,0,4,0.0,3,3,1.0,0,1,1,6,2,0,2,1,13,2
+Houston Rockets,F,Francisco Garcia,Memphis Grizzlies,L,04/12/2013,22:04,2,8,0.25,2,7,0.286,0,0,0.0,0,2,2,0,0,0,1,1,6,-8
+Houston Rockets,F,Greg Smith,Memphis Grizzlies,L,04/12/2013,20:35,2,3,0.667,0,0,0.0,1,4,0.25,4,3,7,2,1,1,0,4,5,-4
+Houston Rockets,C,Omer Asik,Memphis Grizzlies,L,04/12/2013,34:23,3,8,0.375,0,0,0.0,2,2,1.0,3,8,11,1,0,1,3,2,8,-11
+Houston Rockets,G,James Harden,Memphis Grizzlies,L,04/12/2013,43:59,7,24,0.292,5,10,0.5,11,14,0.786,1,6,7,6,2,2,8,4,30,-3
+Houston Rockets,G,Jeremy Lin,Memphis Grizzlies,L,04/12/2013,45:11,5,13,0.385,2,5,0.4,5,6,0.833,1,4,5,5,0,1,4,5,17,-2
+Houston Rockets,F,Chandler Parsons,Sacramento Kings,W,04/14/2013,27:00,5,7,0.714,2,3,0.667,1,1,1.0,0,5,5,5,1,1,0,0,13,23
+Houston Rockets,F,Greg Smith,Sacramento Kings,W,04/14/2013,22:03,5,8,0.625,0,0,0.0,1,2,0.5,0,5,5,2,2,1,1,4,11,7
+Houston Rockets,C,Omer Asik,Sacramento Kings,W,04/14/2013,26:29,4,9,0.444,0,0,0.0,2,2,1.0,3,9,12,1,0,0,2,2,10,20
+Houston Rockets,G,James Harden,Sacramento Kings,W,04/14/2013,31:38,11,16,0.688,4,6,0.667,3,7,0.429,1,3,4,9,2,1,2,0,29,17
+Houston Rockets,G,Jeremy Lin,Sacramento Kings,W,04/14/2013,25:35,4,8,0.5,1,2,0.5,6,6,1.0,0,4,4,2,0,0,3,1,15,22
+Houston Rockets,F,Chandler Parsons,Phoenix Suns,L,04/15/2013,40:22,8,13,0.615,2,4,0.5,6,7,0.857,0,4,4,7,0,1,3,2,24,-21
+Houston Rockets,F,Greg Smith,Phoenix Suns,L,04/15/2013,14:24,2,6,0.333,0,0,0.0,0,0,0.0,3,0,3,0,1,0,2,4,4,-14
+Houston Rockets,C,Omer Asik,Phoenix Suns,L,04/15/2013,14:08,3,4,0.75,0,0,0.0,0,0,0.0,1,6,7,1,1,0,1,2,6,-7
+Houston Rockets,G,James Harden,Phoenix Suns,L,04/15/2013,34:13,5,18,0.278,0,7,0.0,6,11,0.545,0,4,4,2,1,0,4,1,16,-20
+Houston Rockets,G,Jeremy Lin,Phoenix Suns,L,04/15/2013,36:03,8,19,0.421,2,6,0.333,2,4,0.5,0,3,3,4,0,1,2,4,20,-8
+Houston Rockets,F,Chandler Parsons,Los Angeles Lakers,L,04/17/2013,44:41,10,18,0.556,2,7,0.286,1,2,0.5,0,4,4,3,1,0,3,3,23,-13
+Houston Rockets,F,Greg Smith,Los Angeles Lakers,L,04/17/2013,41:48,4,6,0.667,0,0,0.0,0,0,0.0,2,8,10,1,0,4,1,5,8,12
+Houston Rockets,C,Omer Asik,Los Angeles Lakers,L,04/17/2013,43:18,4,7,0.571,0,0,0.0,0,1,0.0,3,9,12,0,1,1,1,5,8,-6
+Houston Rockets,G,James Harden,Los Angeles Lakers,L,04/17/2013,45:06,8,25,0.32,4,13,0.308,10,12,0.833,2,6,8,3,1,0,6,3,30,-4
+Houston Rockets,G,Jeremy Lin,Los Angeles Lakers,L,04/17/2013,34:36,4,14,0.286,2,7,0.286,2,4,0.5,0,2,2,8,0,0,2,4,12,-5
