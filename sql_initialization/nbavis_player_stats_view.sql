@@ -12,7 +12,7 @@ select
   opponent_mascot,
   won,
   games.game_date as GAME_DATE,
-  min,
+  strftime('%M:%S',min,'unixepoch') as MIN,
   fgm,
   fga,
   round(fgm*1.0/fga,3) as FGP,

@@ -150,7 +150,11 @@ def extract_players (x):
    
     start_position = row[6]
     comment = row[7]
-    mp = row[8]
+    try:
+      mp = row[8].split(':')
+      mp = 60*int(mp[0])+int(mp[1])
+    except:
+      mp = None
     try:
       fgm = int(row[9])
     except:

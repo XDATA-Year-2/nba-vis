@@ -182,6 +182,43 @@ def team_stats(season,team):
     ret+=r+"\n"
   return ret
 
+@route('/nbavis/data/teamlines/<season>')
+def teamlines(season):
+  ret = "Team,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-\n"
+  lines = c.execute('select * from nbavis_teamlines where season=?',[season])
+  for l in lines:
+    r = []
+    r.append(l['team_city']+" "+l['team_mascot'])
+    r.append(l['opponent_city']+" "+l['opponent_mascot'])
+    if l['won']==1:
+      r.append('W')
+    else:
+      r.append('L')
+    r.append(time.strftime("%m/%d/%Y",time.strptime(l['game_date'],"%Y-%m-%dT%H:%M:%S")))
+    r.append(str(l['min']//60)+":"+str(l['min']%60).zfill(2))
+    r.append(l['fgm'])
+    r.append(l['fga'])
+    r.append(l['fgp'])
+    r.append(l['fg3m'])
+    r.append(l['fg3a'])
+    r.append(l['fg3p'])
+    r.append(l['ftm'])
+    r.append(l['fta'])
+    r.append(l['ftp'])
+    r.append(l['oreb'])
+    r.append(l['dreb'])
+    r.append(l['reb'])
+    r.append(l['ast'])
+    r.append(l['stl'])
+    r.append(l['blk'])
+    r.append(l['tovr'])
+    r.append(l['pf'])
+    r.append(l['pts'])
+    r.append(l['plus_minus'])
+    r = [str(x) for x in r]
+    r = ",".join(r)
+    ret+=r+"\n"
+  return ret
 
 
 

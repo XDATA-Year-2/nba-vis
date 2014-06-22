@@ -388,7 +388,7 @@ function update() {
 
     //loading data
     if (selectedTeam == "ALL") {
-        allTeamsDataPath = "data/player-stats-by-team/teamlines.csv";
+        allTeamsDataPath = "data/teamlines/"+season;
         $("#playerPicSection").empty();
 
         $("#colorDropdown option[value='StarterReserve']").attr("disabled","true");        

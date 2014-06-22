@@ -92,7 +92,7 @@ create table PLAYER_LINES (
   JERSEY_NUMBER int,
   START_POSITION varchar(3),
   COMMENT varchar(255),
-  MIN datetime,
+  MIN int, --note: really storing SECONDS!!!!
   FGM int,
   FGA int,
   FG3M int,
