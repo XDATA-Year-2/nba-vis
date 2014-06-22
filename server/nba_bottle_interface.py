@@ -103,10 +103,17 @@ def team_players(season,team):
 def player_stats(season,team,s_or_r):
   s_or_r = s_or_r[0].lower()
   ret = "Team,Position,Name,Opponent,Win/Loss,Date,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-\n"
-  if(s_or_r=='r'): # reserves
-    lines = c.execute('select * from nbavis_player_stats where season=? and team_abbreviation=? and start_position==""',(season,team))
-  else: # starters
-    lines = c.execute('select * from nbavis_player_stats where season=? and team_abbreviation=? and start_position!=""',(season,team))
+  if team!="ALL":
+    if(s_or_r=='r'): # reserves
+      lines = c.execute('select * from nbavis_player_stats where season=? and team_abbreviation=? and start_position==""',(season,team))
+    else: # starters
+      lines = c.execute('select * from nbavis_player_stats where season=? and team_abbreviation=? and start_position!=""',(season,team))
+  else:
+    if(s_or_r=='r'): # reserves
+      lines = c.execute('select * from nbavis_player_stats where season=? and start_position==""',[season])
+    else: # starters
+      lines = c.execute('select * from nbavis_player_stats where season=? and start_position!=""',[season])
+  
 
   for l in lines:
     r = []
@@ -148,7 +155,11 @@ def player_stats(season,team,s_or_r):
 @route('/nbavis/data/teamstats/<season>/<team>')
 def team_stats(season,team):
   ret = "Date0,Date,Opponent,WinLoss,TmScore,OppScore,W,L\n"
-  lines = c.execute('select * from nbavis_team_stats where season=? and team_abbreviation=?',(season,team))
+  if team!="ALL":
+    lines = c.execute('select * from nbavis_team_stats where season=? and team_abbreviation=?',(season,team))
+  else:
+    lines = c.execute('select * from nbavis_team_stats where season=?',[season])
+
   for l in lines:
     r = []
     r.append(time.strftime("%a %b %d %Y",time.strptime(l['game_date'],"%Y-%m-%dT%H:%M:%S")))
