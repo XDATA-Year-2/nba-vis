@@ -1,0 +1,25 @@
+Dump the contents of the per-player, per-game stats
+
+sqlite3 -csv ../nba.sqlite 'select * from NBAVIS_PLAYER_STATS' > stats.csv
+
+To get the field meanings, run:
+
+sqlite3 -csv ../nba.sqlite '.schema NBAVIS_PLAYER_STATS' > fields.txt
+
+Edit the resulting file to have one item per line with no comma, nothing before "as" statements, and all lowercase.
+
+Now import into MongoDB:
+
+mongoimport --db xdata --collection nbastats stats.csv --fieldFile fields.txt --type csv
+
+Perform the aggregation in MongoDB:
+
+mongo < aggregate_players.js
+
+Now export to CSV and convert to tab-separated
+
+mongoexport --csv --db xdata --collection nbastats.aggregated2013 --fields player,team,fgm,fga,fgp,fg3m,fg3a,fg3p,ftm,fta,ftp,oreb,dreb,reb,ast,stl,blk,tovr,pf,pts,plus_minus > playerstats2013.txt
+
+vim playerstats2013.txt
+:%s/,/\t/g
+
