@@ -51,19 +51,19 @@ def static(path):
 
 # NBAVis Routes
 
-@route('/nbavis/data/teamplayers/<season>/<team>')
+@route('/nbavis/teamplayers/<season>/<team>')
 def team_players(season,team):
     return services.team_players(season,team,cursor=c)
 
-@route('/nbavis/data/playerstats/<season>/<team>/<s_or_r>')
+@route('/nbavis/playerstats/<season>/<team>/<s_or_r>')
 def player_stats(season,team,s_or_r):
     return services.player_stats(season,team,s_or_r,cursor=c)
 
-@route('/nbavis/data/teamstats/<season>/<team>')
+@route('/nbavis/teamstats/<season>/<team>')
 def team_stats(season,team):
     return services.team_stats(season,team,cursor=c)
 
-@route('/nbavis/data/teamlines/<season>')
+@route('/nbavis/teamlines/<season>')
 def teamlines(season):
     return services.teamlines(season,cursor=c)
 

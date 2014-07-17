@@ -388,7 +388,7 @@ function update() {
 
     //loading data
     if (selectedTeam == "ALL") {
-        allTeamsDataPath = "data/teamlines/"+season;
+        allTeamsDataPath = "teamlines/"+season;
         $("#playerPicSection").empty();
 
         $("#colorDropdown option[value='StarterReserve']").attr("disabled","true");        
@@ -883,10 +883,10 @@ function update() {
         $("#colorDropdown option[value='StarterReserve']").attr("disabled",false);        
         $("#colorDropdown option[value='PlayerPosition']").attr("disabled",false);
 
-        teamStarterDataPath = "data/playerstats/"+season+"/" + selectedTeam + "/Starters";
-        teamReserveDataPath = "data/playerstats/"+season+"/" + selectedTeam + "/Reserves";
-        teamStatsDataPath = "data/teamstats/"+season+"/" + selectedTeam;
-        teamPlayersDataPath = "data/teamplayers/"+season+"/" + selectedTeam;
+        teamStarterDataPath = "playerstats/"+season+"/" + selectedTeam + "/Starters";
+        teamReserveDataPath = "playerstats/"+season+"/" + selectedTeam + "/Reserves";
+        teamStatsDataPath = "teamstats/"+season+"/" + selectedTeam;
+        teamPlayersDataPath = "teamplayers/"+season+"/" + selectedTeam;
 
         d3.csv(teamStarterDataPath, function(starters) {
 
