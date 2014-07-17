@@ -17,11 +17,11 @@ c = conn.cursor()
 #     response.headers['Access-Control-Allow-Origin'] = '*'
 
 
-@route('/hello')
+@route('/www/hello')
 def hello():
   return "Hello World!"
 
-@route('/seasons')
+@route('/www/seasons')
 def seasons():
   seasons = c.execute('select * from SEASONS order by SEASON')
   ret = []
@@ -32,7 +32,7 @@ def seasons():
     ret.append(season)
   return json.dumps(ret)
 
-@route('/teams')
+@route('/www/teams')
 def teams():
   teams = c.execute("select * from TEAMS order by TEAM_ABBREVIATION")
   ret = []
@@ -45,7 +45,7 @@ def teams():
     ret.append(team)
   return json.dumps(ret)
 
-@route('/team_scores/<teamname>/<season>')
+@route('/www/team_scores/<teamname>/<season>')
 def team_scores(teamname,season):
   scores = c.execute('select * from scores where season='+season+' and (habbr="'+teamname+'" or vabbr="'+teamname+'") order by date;')
   ret = []
@@ -65,7 +65,7 @@ def team_scores(teamname,season):
     ret.append(score)
   return json.dumps(ret)
 
-@route('/notebook/<gameid>')
+@route('/www/notebook/<gameid>')
 def notebook(gameid):
   notebook = c.execute('select notebook from games where game_id='+gameid).fetchone()
   return notebook[0].replace('\n','\n<br/>')

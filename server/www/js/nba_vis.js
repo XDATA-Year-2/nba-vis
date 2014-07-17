@@ -27,7 +27,7 @@ var game_x_scale = d3.scale.ordinal()
 var game_icons
 
 
-d3.json('http://localhost:8000/seasons',function(data){
+d3.json('seasons',function(data){
   var season_buttons = seasons.selectAll('div.season-button')
     .data(data)
 
@@ -49,7 +49,7 @@ var select_season = function(d){
   load_team(active_team,active_season)
 }
 
-d3.json('http://localhost:8000/teams',function(data){
+d3.json('teams',function(data){
   var team_buttons = buttons.selectAll('div.team-button')
       .data(data)
 
@@ -71,7 +71,7 @@ var select_team = function(d){
 
 var load_team = function(abbr,season){
   
-  d3.json('http://localhost:8000/team_scores/'+abbr+'/'+active_season,function(data){
+  d3.json('team_scores/'+abbr+'/'+active_season,function(data){
 
     game_x_scale.domain(_.range(data.length))
 
@@ -105,7 +105,7 @@ var load_team = function(abbr,season){
 
 var load_notebook = function(d){
   var id = d.gameid
-  d3.text('http://localhost:8000/notebook/'+id,function(data){
+  d3.text('notebook/'+id,function(data){
     notebook.html(data)
   })
 }
