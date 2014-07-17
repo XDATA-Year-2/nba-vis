@@ -6,7 +6,7 @@ class sqlite_cursor:
     def __init__(self, cursor):
         if not hasattr(cherrypy.thread_data, "conn"):
             path = cherrypy.thread_data.modulepath if hasattr(cherrypy.thread_data, "modulepath") else "."
-            cherrypy.thread_data.conn = sqlite3.connect(path + "/../nba.sqlite")
+            cherrypy.thread_data.conn = sqlite3.connect(path + "../../nba.sqlite")
             cherrypy.thread_data.conn.row_factory = sqlite3.Row
 
         self.cursor = cursor
