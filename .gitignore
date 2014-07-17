@@ -1,2 +1,4 @@
 nba.sqlite
 *.pyc
+*.swp
+*.swo
